@@ -1,5 +1,5 @@
 """
-Сборщик новостей о ЖД-транспорте и логистике.
+КТТ Rail-News: сборщик новостей о ЖД-транспорте и логистике.
 
 Забирает материалы из Google News (тематические запросы) и прямых RSS,
 фильтрует, размечает рубриками и регионами, убирает дубли и пишет
@@ -12,6 +12,7 @@ site/data/news.json — его читает сайт. Старые новост�
 from __future__ import annotations
 
 import calendar
+import os
 import hashlib
 import html
 import json
@@ -138,6 +139,7 @@ def parse_entries(parsed, source: dict) -> list[dict]:
             "lang": source["lang"],
             "via": "Google News" if is_gn else source["name"],
             "_filter": source.get("filter", False),
+            "q_topics": [source["topic"]] if source.get("topic") else [],
         })
     return items
 
@@ -200,6 +202,9 @@ def deduplicate(items: list[dict]) -> list[dict]:
         if dup:
             if not dup.get("summary") and it.get("summary"):
                 dup["summary"] = it["summary"]
+            for t in it.get("q_topics") or []:
+                if t not in dup.setdefault("q_topics", []):
+                    dup["q_topics"].append(t)
             others = dup.setdefault("also", [])
             if it["source"] != dup["source"] and it["source"] not in others and len(others) < 5:
                 others.append(it["source"])
@@ -218,20 +223,25 @@ def deduplicate(items: list[dict]) -> list[dict]:
 def main() -> int:
     cfg = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8"))
 
-    categories = {name: compile_terms(t) for name, t in (cfg.get("categories") or {}).items()}
+    topics_cfg = cfg.get("topics") or []
+    topic_names = [t["name"] for t in topics_cfg]
+    topics = {t["name"]: compile_terms(t.get("keywords") or []) for t in topics_cfg}
     regions = {name: compile_terms(t) for name, t in (cfg.get("regions") or {}).items()}
     relevance = compile_terms(cfg.get("relevance") or [])
+    default_topic = cfg.get("default_topic") or (topic_names[-1] if topic_names else "Прочее")
 
     sources = []
-    for lang, queries in (cfg.get("google_news") or {}).items():
-        for q in queries or []:
-            sources.append({
-                "name": f"Google News: {q}",
-                "url": google_news_url(q, lang),
-                "lang": lang,
-                "kind": "google",
-                "filter": False,
-            })
+    for t in topics_cfg:
+        for lang in ("ru", "en"):
+            for q in t.get(f"search_{lang}") or []:
+                sources.append({
+                    "name": f"Google News: {q}",
+                    "url": google_news_url(q, lang),
+                    "lang": lang,
+                    "kind": "google",
+                    "filter": False,
+                    "topic": t["name"],
+                })
     for f in cfg.get("feeds") or []:
         sources.append({**f, "kind": "rss", "lang": f.get("lang", "ru")})
 
@@ -245,10 +255,6 @@ def main() -> int:
             text = f"{it['title']} {it['summary']}"
             if it.pop("_filter") and relevance and not relevance.search(text):
                 continue
-            it["categories"] = tag(text, categories)
-            it["regions"] = tag(text, regions)
-            if not it["categories"]:
-                it["categories"] = ["Логистика"]
             fresh.append(it)
 
     # Подмешиваем архив прошлых запусков
@@ -267,6 +273,11 @@ def main() -> int:
     merged = deduplicate(merged)
     for it in merged:
         it["id"] = it.get("id") or item_id(it)
+        text = f"{it['title']} {it.get('summary', '')}"
+        # тема по словам в тексте; если слов нет — тема запроса, который нашёл новость
+        found = set(tag(text, topics)) or {t for t in it.get("q_topics", []) if t in topics}
+        it["categories"] = [t for t in topic_names if t in found] or [default_topic]
+        it["regions"] = tag(text, regions)
     merged.sort(key=lambda x: x["published"], reverse=True)
     merged = merged[: int(cfg.get("max_items", 3000))]
 
@@ -279,6 +290,10 @@ def main() -> int:
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "new_this_run": len({i["url"] for i in fresh} - {i["url"] for i in archive}),
+        "title": cfg.get("site_title", "КТТ Rail-News"),
+        "topics": topic_names,
+        "regions": list(regions.keys()),
+        "repo": os.environ.get("GITHUB_REPOSITORY", ""),
         "items": merged,
         "sources": statuses,
     }
