@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T22:37:36+00:00",
- "new_this_run": 33,
+ "generated_at": "2026-10-05T23:35:20+00:00",
+ "new_this_run": 36,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,84 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Young Kazakhstani witnesses collaboration on new Silk Road",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb25BbXNyd2tOU24xSnJ2ekRjcVpuZUN6bDQ2S1gxUWV3OFpIMG9IbklabENEQUhybS1DR05lYXV6TzYwYy1kOVUxQkhzUVllSk1CNnhSaWFGbzlxYS0xR0ppeFBWZWZrZE5PN3BzU2JBaHB5LWpWTnltb2cxMVZXLXRB?oc=5",
+   "source": "global.chinadaily.com.cn",
+   "published": "2026-10-05T23:12:21+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "ba3302a390934d31",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Logistics base boosts Sino-Central Asian connectivity",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQm1mZk9kTEFiUUl1Z1JwMUxscE1yZUQ1VU1obVpMNVNlUnQ5NkhVMWp6SDIyR181bEtXeGVsYWdMeGVBaTlKYTdFM2lYeWRSM0ZmdU0waFoyZkRBWUNCOU80cUZRYm5KNDBJOTJCU2RUcnBVUnJRQlQtcUI0Q1NzSGlR?oc=5",
+   "source": "global.chinadaily.com.cn",
+   "published": "2026-10-05T23:03:49+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа",
+    "Грузовые перевозки"
+   ],
+   "also": [
+    "chinadaily.com.cn"
+   ],
+   "id": "1c2d5c26ba6dbfe0",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Законы октября 2026 года: что изменится в жизни хабаровчан",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HT1lYTXVhMTN6WE44cWU2N0tOX1RUS3ZQUjB1MUVlejQ2Rmp4WFVlazhZQUlOZXhTM3dWbUpKNjlCTm80SHZlZ3p6cjZFLUh1?oc=5",
+   "source": "ХабИнфо",
+   "published": "2026-10-05T23:02:30+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "a4899f7df0e5586c",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Казахстан – Дания: партнерство в формате конкретных проектов",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTFQX0tvX1VZRWcxSS1scU1TNlhqTWtqRjA3YUpJOG5WanpocXZrY3BWRGlTR08tcjRmU3FFLUxkNF94aW9qZFRKTlZGSmRZZUN6RW9PMlU3RXpLNGxNZllVa19oYW1FX09Oa25xREpLXzZia1ZkSVk0ODhQOExweF84QktORTJaUUgtcWdfNFg2SjDSAZgBQVVfeXFMTndiTEoyQnhyelFHd2V6QTJtc3cxZXpSc1hXd19oY205R2VWcmFOUm9TY3NoOVYyYVFvY204NFdVNjlYcFhrTjhHdVp6aGJFbTR2SUNGYzNCenNTLXNkeWMwR0ZBc1dqNjVXYm41T25IS0hhOXo0cHNmS2ZGR1B4WE9EbDFSUGpWbXFuRnRsYjFNbEFiX3h3eXI?oc=5",
+   "source": "Liter.kz",
+   "published": "2026-10-05T21:11:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "a19b72c11f073af0",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Расширяется транзитный потенциал",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCT1Q3RVFtQVVzNHFOWjdIYW5LdUUydHpxdFZhVFo2ekF5LXRxdzJYRTZKM1AzZGJfYTB1NWZrRXVRTUp1dklINDlHcWR1bEM0V0JacU9qNV9aTTg2UTNMQ3ZDa0FWSTQwZWJKcA?oc=5",
@@ -252,7 +330,8 @@
    ],
    "also": [
     "Armiya.az",
-    "Media.az"
+    "Media.az",
+    "media.az"
    ],
    "id": "9ea60050f3a0ffe6",
    "categories": [
@@ -875,7 +954,8 @@
    ],
    "regions": [],
    "also": [
-    "regtv.kz"
+    "regtv.kz",
+    "Регистр ТВ Казахстан"
    ]
   },
   {
@@ -1952,7 +2032,8 @@
    ],
    "regions": [
     "Россия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Дноуглубление порта Актау: глубина вырастет до 7 метров",
@@ -2385,7 +2466,14 @@
     "Казахстан",
     "Каспий и Закавказье"
    ],
-   "id": "f7604ee291e8070b"
+   "id": "f7604ee291e8070b",
+   "q_topics": [
+    "Средний коридор и ТМТМ",
+    "Порты и Каспий"
+   ],
+   "also": [
+    "infohub.kz"
+   ]
   },
   {
    "title": "договор о вечном добрососедстве, дружбе сотрудничестве Центральной Азии с Китаем ратифи…",
@@ -3362,7 +3450,8 @@
     "Вагонный парк и подвижной состав"
    ],
    "also": [
-    "Forbes.kz"
+    "Forbes.kz",
+    "forbes.kz"
    ],
    "id": "96ae71132190103b",
    "categories": [
@@ -7305,7 +7394,7 @@
    "ok": true,
    "count": 43,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -7313,7 +7402,7 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -7321,7 +7410,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -7337,7 +7426,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -7375,15 +7464,15 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 26,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": "",
    "seconds": 0.3
   },
@@ -7391,7 +7480,7 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
    "seconds": 0.3
   },
@@ -7401,7 +7490,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -7415,7 +7504,7 @@
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
    "seconds": 0.3
   },
@@ -7433,13 +7522,13 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "seconds": 0.5
   },
@@ -7447,7 +7536,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 33,
    "error": "",
    "seconds": 0.5
   },
@@ -7463,7 +7552,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 37,
    "error": "",
    "seconds": 0.5
   },
@@ -7473,7 +7562,7 @@
    "ok": true,
    "count": 23,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -7481,15 +7570,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fb4426885f0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fc3ed9d4590>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
@@ -7497,7 +7586,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 0.9
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -7505,7 +7594,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.4
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
@@ -7513,7 +7602,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.1
   }
  ]
 }
