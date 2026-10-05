@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T21:39:29+00:00",
- "new_this_run": 35,
+ "generated_at": "2026-10-05T22:37:36+00:00",
+ "new_this_run": 33,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -473,6 +473,23 @@
    "regions": []
   },
   {
+   "title": "В Кызылординской области сданы семь вокзалов и платформа — Тазабек CA",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yQjVkX0h3bHJKdTBqeUdzOGlyR1k4ZmNYMEY4U3Y4Q2NaY3kyT0tKYW9pQTNnVHRXb0FjanFKemVFQ3RZWTNzMDZ6NHdYdw?oc=5",
+   "source": "tazabek.kg",
+   "published": "2026-10-05T14:51:36+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "3b94ce28cefa27ac",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
    "title": "Automotive logistics specialist leases electro-diesel locos",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHJyRlRndi1xNVdhOFlXY0ExakpoY0JTdElwbWFjd1YzMTBnYi02Rzl6ZkZWcy1QeVA3dTJ4RklzeWlIM0hzSEZoeldYa2Rhbm9na0pFb0o1dWN5d3BQRERRTUVzMkNMOVp2akdHRENiQXc3QXh4WWhJTmZydE1WWWY5cGVTM0UyOGlqQnJEWmZQbmxGNDlIRW1SOHRqZFBLaVkteTRzRXd6ZHRZT2lr?oc=5",
    "source": "Railway Gazette International",
@@ -694,6 +711,26 @@
    "regions": []
   },
   {
+   "title": "Казахстан планирует достроить железную дорогу в Узбекистан до конца года",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3NqYVpKTUd1aXJUaFVweHJaY3FyRmFxV1RDZDJYTzFxc3pQQ3QxOGhPaWtaYkotU0NYanZWTU03cVNSY0pDcHNPNERrcG5YNlVhUWNJX0hvQm1TWXNlNk13dzBHc1M2N1o2dnc3QzlwQzE4SW4tTlZPVDBwZlZhdGZiNjJDWHVGVENfQlhwbmJRZTdvcXV5S2ZPYzQya2Rsc0dFeWp5R3d0TGlKYk5BNXgwUWdWbzNKU25lR2F6TlQ2Zw?oc=5",
+   "source": "Ритм Евразии",
+   "published": "2026-10-05T12:29:39+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "34920f1a5d53995c",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан",
+    "Центральная Азия"
+   ]
+  },
+  {
    "title": "Казахстан и Азербайджан планируют построить паромы для перевозки двух ж/д составов",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjBtTmRXeUF4RXEzc1BkZUVzbjBUTmoxNzdWVG0zWnVLQ1o2bW53X2pzZkxiRzQyYlpPb05RczBxdnNOVWdyeVVGTmIxRGxqc3BUTDhDTkVkeW9Rakg0MEdQVFd4RFNRRlhkS1NhdFpsRWlWSURpSUhBQ1ZmaWZ1ZzVtVHVJTU1ITTNpa3ZIa3dzMDlCbGdiQU43dmxpa2lFUF8tamhSbkN3TGxZMTdNLWp5R3A1VHNjSVRhYlhMNHdKSXc?oc=5",
    "source": "Infranews.ru",
@@ -836,7 +873,10 @@
    "categories": [
     "Инфраструктура и стройка"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "regtv.kz"
+   ]
   },
   {
    "title": "ЮВЖД за девять месяцев нарастила погрузку вопреки общесетевому спаду",
@@ -1413,6 +1453,26 @@
     "Европа"
    ],
    "id": "db49007d3258d197"
+  },
+  {
+   "title": "Садыр Жапаров: Железная дорога Китай - Кыргызстан - Узбекистан станет для страны вторым «Кумтором»",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT1lBakk0Zkt4dUhkX0cxYXhGSzRxdENyd19kSG9JLXJ5dnFnaFNMMG82eFppOGFfYXZQTW5COVl4c0tzZjdUYmdpZ0M4ODZmS0VEdUdaMEJiM245eDFnSmoyS2V5cXVrWHlReFYtbDhjdk9Scml3Q3JwVlFTNERQSHdCeXlmREFiRWNzQ185eDFPbWlFRWNlZjhrYkJ5X2p0YUNkM3FLTG92WnJ2U0xzdk5ySnNkM2xLeTZYQUtPdm1WWlJxZXk2dFZsV05nS1gza0dsV21zSWtERWx4TktFbnl3aXVZTFA3RllMWDA4YUI5d2c?oc=5",
+   "source": "br.az",
+   "published": "2026-10-05T09:45:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "9ab5648f81ab312a",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
   },
   {
    "title": "Срок доставки по ТМТМ сократился до 13–17 суток",
@@ -2578,6 +2638,25 @@
    ],
    "regions": [],
    "id": "d871046f60506057"
+  },
+  {
+   "title": "Путеводитель по городам Кыргызстана. Джалал-Абад",
+   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE12UEI4WmZmQTJrZUFZeFB2TEJjalFOa3VZbkVCcmFHelZmSEJDS01nbkE1VGtQcVI4aDhHOWF6UDk?oc=5",
+   "source": "24.KG",
+   "published": "2026-10-05T05:55:40+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "c46fc02a885fc1e9",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
   },
   {
    "title": "Тбилиси не видит угрозы в проекте TRIPP на фоне перегрузки Среднего коридора",
@@ -4669,7 +4748,11 @@
    "regions": [
     "Центральная Азия"
    ],
-   "id": "554a55e58acc4200"
+   "id": "554a55e58acc4200",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "also": []
   },
   {
    "title": "Казахстан и Монголия развивают стратегическое партнерство",
@@ -4871,6 +4954,25 @@
     "Казахстан"
    ],
    "id": "cd07789496e15bfb"
+  },
+  {
+   "title": "Central Asia’s C6 Takes Shape in Washington as Ambassadors Push for Practical Integration",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVRLX1Q4TDBRLVdXVDQyeFFSWS1ENmdncUVEeTBydjluV0x2dFRCZzV1ejR0T0dMd3VUZFctN3lXTmRQc1RZazMzdWRxVWhyZS1tS19iS01BeFVUbWJJczFwVTJsQ2k3TEZReXZaSXFUNDNoZFk3b3ltMjV2TjlFbDU1TXZPS0JqQTNOUzNBekp4blk3Zm1NSU9idGNaRzRyQjlLTUF5dV9sUE1MVnc?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-10-03T09:41:27+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "48140459b417122c",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
   },
   {
    "title": "В Зангиатинском районе открылся новый железнодорожный путепровод",
@@ -7203,7 +7305,7 @@
    "ok": true,
    "count": 43,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -7243,7 +7345,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -7251,7 +7353,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -7259,7 +7361,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -7267,29 +7369,29 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
    "seconds": 0.3
   },
@@ -7323,7 +7425,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -7337,7 +7439,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "seconds": 0.5
   },
@@ -7345,7 +7447,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 35,
    "error": "",
    "seconds": 0.5
   },
@@ -7363,7 +7465,7 @@
    "ok": true,
    "count": 34,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -7386,8 +7488,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa9a32c9c40>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fb4426885f0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -7395,7 +7497,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "seconds": 0.9
   },
   {
    "name": "PortNews",
@@ -7403,7 +7505,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.7
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -7411,7 +7513,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.0
   }
  ]
 }
