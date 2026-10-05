@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Новости ЖД и логистики: СНГ и Китай — Европа</title>
+<meta name="description" content="Автоматическая лента новостей о железнодорожных перевозках, транзите и логистике в СНГ и на маршрутах Китай — Европа.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚆</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EDF0F2; --surface:#F7F9FA; --ink:#16232C; --muted:#56666F; --rule:#CCD5DA;
+  --track:#2C5A78; --corridor:#C9820F; --corridor-soft:#F3E3C3; --focus:#2C5A78;
+  --station-fill:#F7F9FA;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0F1A21; --surface:#15232C; --ink:#E3E9ED; --muted:#95A6B0; --rule:#26363F;
+    --track:#78AACB; --corridor:#EDA93A; --corridor-soft:#3A2F1A; --focus:#78AACB;
+    --station-fill:#0F1A21; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0F1A21; --surface:#15232C; --ink:#E3E9ED; --muted:#95A6B0; --rule:#26363F;
+  --track:#78AACB; --corridor:#EDA93A; --corridor-soft:#3A2F1A; --focus:#78AACB;
+  --station-fill:#0F1A21; color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:border-box}
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{
+  margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Golos Text",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased;
+}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--focus);outline-offset:3px;border-radius:3px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+
+/* Шапка */
+header{padding:36px 0 8px}
+.head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px}
+h1{margin:0;font-size:clamp(28px,4.2vw,44px);line-height:1.08;font-weight:700;letter-spacing:-.02em;max-width:18ch}
+.updated{color:var(--muted);font-size:14px;text-align:right}
+.updated strong{color:var(--ink);font-weight:600}
+
+/* Схема маршрутов */
+.route-box{margin:24px 0 8px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.route{display:block;width:100%;min-width:680px;height:auto}
+.route .line{fill:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+.route .north{stroke:var(--track)}
+.route .middle{stroke:var(--corridor)}
+.route .stub{stroke:var(--track);stroke-dasharray:2 12}
+.st{cursor:pointer}
+.st circle.ring{fill:var(--station-fill);stroke:var(--ink);stroke-width:3.5;transition:fill .15s}
+.st .hit{fill:transparent}
+.st text{fill:var(--ink);font-family:inherit}
+.st .name{font-size:17px;font-weight:600}
+.st .cnt{font-weight:400;fill:var(--muted)}
+.st:hover circle.ring{fill:var(--rule)}
+.st[aria-pressed="true"] circle.ring{fill:var(--ink)}
+.st[aria-pressed="true"] .name{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+.st:focus{outline:none}
+.st:focus-visible circle.ring{stroke:var(--focus);stroke-width:6}
+.st.empty{opacity:.45}
+.legend{display:flex;flex-wrap:wrap;gap:6px 22px;font-size:14px;color:var(--muted);margin:2px 0 0}
+.legend span{display:inline-flex;align-items:center;gap:8px}
+.legend i{display:inline-block;width:26px;height:5px;border-radius:3px}
+
+/* Панель фильтров */
+.controls{
+  position:sticky;top:0;z-index:5;background:var(--bg);
+  padding:14px 0 12px;border-bottom:1px solid var(--rule);margin-top:18px;
+}
+@supports (top:env(safe-area-inset-top)){.controls{top:env(safe-area-inset-top,0px)}}
+.row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.row + .row{margin-top:10px}
+.search{flex:1 1 260px;position:relative}
+.search input{
+  width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--surface);
+  border:1px solid var(--rule);border-radius:8px;padding:10px 12px 10px 38px;
+}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted)}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{font:inherit;font-size:14px;border:0;background:none;color:var(--muted);padding:9px 12px;cursor:pointer}
+.seg button + button{border-left:1px solid var(--rule)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{
+  font:inherit;font-size:14px;cursor:pointer;color:var(--ink);background:none;
+  border:1px solid var(--rule);border-radius:999px;padding:6px 12px;
+}
+.chip b{font-weight:500;color:var(--muted);margin-left:4px}
+.chip[aria-pressed="true"]{border-color:var(--ink);background:var(--ink);color:var(--bg)}
+.chip[aria-pressed="true"] b{color:inherit;opacity:.7}
+.summary{font-size:14px;color:var(--muted);margin:14px 0 0}
+.summary button{font:inherit;font-size:14px;background:none;border:0;color:var(--track);cursor:pointer;padding:0;text-decoration:underline}
+
+/* Лента */
+main{padding-bottom:40px}
+.day{display:grid;grid-template-columns:150px 1fr;gap:0 28px;border-top:2px solid var(--ink);margin-top:28px;padding-top:14px}
+.day h2{margin:0;font-size:18px;font-weight:600;line-height:1.3;position:sticky;top:150px;align-self:start}
+.day h2 small{display:block;font-weight:400;font-size:14px;color:var(--muted)}
+.list{list-style:none;margin:0;padding:0}
+.item{display:grid;grid-template-columns:52px 1fr;gap:0 14px;padding:12px 0 14px;border-bottom:1px solid var(--rule)}
+.item:last-child{border-bottom:0}
+.time{font-variant-numeric:tabular-nums;color:var(--muted);font-size:15px;padding-top:2px;position:relative}
+.item.fresh .time{color:var(--ink);font-weight:600}
+.item.fresh .time::after{
+  content:"";position:absolute;left:-14px;top:9px;width:7px;height:7px;border-radius:50%;background:var(--corridor);
+}
+.item h3{margin:0;font-size:17px;line-height:1.38;font-weight:500;max-width:68ch}
+.item h3 a{text-decoration:none}
+.item h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.item p{margin:6px 0 0;color:var(--muted);font-size:15px;max-width:72ch;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.meta{margin-top:7px;font-size:13.5px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 14px}
+.meta .src{color:var(--ink);font-weight:500}
+.tag{background:none;border:0;padding:0;font:inherit;color:inherit;cursor:pointer;text-decoration:underline dotted;text-underline-offset:3px}
+.tag.mc{color:var(--corridor)}
+.empty-state{padding:48px 0;max-width:52ch}
+.empty-state h2{margin:0 0 8px;font-size:22px}
+.empty-state p{margin:0 0 14px;color:var(--muted)}
+.btn{font:inherit;font-size:15px;cursor:pointer;border:1px solid var(--ink);background:var(--ink);color:var(--bg);border-radius:8px;padding:9px 16px}
+.more{display:block;margin:28px auto 0}
+
+/* Источники */
+footer{border-top:1px solid var(--rule);padding:22px 0 40px;color:var(--muted);font-size:14px}
+details summary{cursor:pointer;color:var(--ink);font-weight:500}
+.srcs{margin:12px 0 0;padding:0;list-style:none;columns:2 340px;column-gap:28px}
+.srcs li{break-inside:avoid;padding:3px 0;display:flex;gap:8px}
+.dot{flex:none;width:8px;height:8px;border-radius:50%;margin-top:7px;background:var(--track)}
+.dot.bad{background:#C0392B}
+.srcs .err{display:block;font-size:12.5px;opacity:.85}
+
+.regs{display:none}
+@media (max-width:720px){
+  header{padding-top:24px}
+  .route-box,.legend{display:none}
+  .regs{display:flex}
+  .controls{position:static;margin-top:8px}
+  .chips{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{flex:none}
+  .updated{text-align:left}
+  .day{grid-template-columns:1fr}
+  .day h2{position:static;margin-bottom:6px}
+  .item{grid-template-columns:44px 1fr}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header class="wrap">
+  <div class="head">
+    <h1>Новости ЖД и логистики: СНГ и Китай — Европа</h1>
+    <div class="updated" id="updated">Загружаю ленту…</div>
+  </div>
+
+  <div class="route-box" role="group" aria-label="Фильтр по региону">
+    <svg class="route" id="route" viewBox="0 0 1000 214" aria-hidden="false"></svg>
+  </div>
+  <div class="legend">
+    <span><i style="background:var(--track)"></i>Северный маршрут</span>
+    <span><i style="background:var(--corridor)"></i>Средний коридор (ТМТМ)</span>
+    <span>Нажмите на станцию, чтобы оставить новости только по этому региону</span>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap">
+    <div class="row">
+      <label class="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+        <input id="q" type="search" placeholder="Поиск: КТЖ, Хоргос, полувагоны, тариф…" aria-label="Поиск по новостям">
+      </label>
+      <div class="seg" role="group" aria-label="Период" id="period">
+        <button data-v="1" aria-pressed="false">Сутки</button>
+        <button data-v="3" aria-pressed="false">3 дня</button>
+        <button data-v="7" aria-pressed="true">Неделя</button>
+        <button data-v="0" aria-pressed="false">Всё</button>
+      </div>
+      <div class="seg" role="group" aria-label="Язык" id="lang">
+        <button data-v="" aria-pressed="true">Все</button>
+        <button data-v="ru" aria-pressed="false">RU</button>
+        <button data-v="en" aria-pressed="false">EN</button>
+      </div>
+    </div>
+    <div class="row chips regs" id="regs" role="group" aria-label="Регион"></div>
+    <div class="row chips" id="cats" role="group" aria-label="Рубрики"></div>
+  </div>
+</div>
+
+<main class="wrap">
+  <p class="summary" id="summary" aria-live="polite"></p>
+  <div id="feed"></div>
+  <button class="btn more" id="more" hidden>Показать ещё</button>
+</main>
+
+<footer class="wrap">
+  <details>
+    <summary id="src-title">Источники</summary>
+    <ul class="srcs" id="srcs"></ul>
+  </details>
+  <p>Новости собираются автоматически из открытых источников. Заголовки ведут на сайты изданий.</p>
+</footer>
+
+<script>
+(() => {
+  // Станции схемы. Имена должны совпадать с регионами в config.yaml.
+  const STATIONS = [
+    { id: "Китай",               x: 70,  y: 70,  lx: 0,   ly: -26 },
+    { id: "Казахстан",           x: 300, y: 70,  lx: 0,   ly: -26 },
+    { id: "Центральная Азия",    x: 300, y: 172, lx: -16, ly: 6, anchor: "end" },
+    { id: "Россия",              x: 530, y: 70,  lx: 0,   ly: -26 },
+    { id: "Беларусь",            x: 740, y: 70,  lx: 0,   ly: -26 },
+    { id: "Каспий и Закавказье", x: 620, y: 172, lx: 0,   ly: 34 },
+    { id: "Европа",              x: 930, y: 70,  lx: 0,   ly: -26 },
+  ];
+  const MIDDLE_TAGS = /средн\S* коридор|тмтм|транскаспий|middle corridor|trans-caspian/i;
+  const PAGE = 60;
+
+  const state = { region: "", cat: "", days: 7, lang: "", q: "", shown: PAGE };
+  let DATA = { items: [], sources: [] };
+
+  const $ = (id) => document.getElementById(id);
+  const svgNS = "http://www.w3.org/2000/svg";
+  const el = (tag, attrs = {}, text) => {
+    const n = tag.startsWith("svg:") ? document.createElementNS(svgNS, tag.slice(4)) : document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v);
+    if (text != null) n.textContent = text;
+    return n;
+  };
+
+  // ---------- Схема ----------
+  function drawRoute(counts) {
+    const svg = $("route");
+    svg.replaceChildren();
+    const S = Object.fromEntries(STATIONS.map(s => [s.id, s]));
+    const path = (d, cls) => svg.appendChild(el("svg:path", { d, class: "line " + cls }));
+    // Средний коридор: Казахстан → Каспий → Европа
+    path(`M${S["Казахстан"].x} ${S["Казахстан"].y} C 380 70, 430 172, ${S["Каспий и Закавказье"].x} 172 S 860 70, ${S["Европа"].x} 70`, "middle");
+    // Северный маршрут
+    path(`M${S["Китай"].x} 70 H ${S["Европа"].x}`, "north");
+    // Ветка в Центральную Азию
+    path(`M300 70 V 172`, "stub");
+
+    for (const s of STATIONS) {
+      const n = counts[s.id] || 0;
+      const g = el("svg:g", {
+        class: "st" + (n ? "" : " empty"), role: "button", tabindex: "0",
+        "aria-pressed": String(state.region === s.id),
+        "aria-label": `${s.id}: ${n} ${plural(n, "новость", "новости", "новостей")}`,
+        transform: `translate(${s.x} ${s.y})`,
+      });
+      g.appendChild(el("svg:circle", { r: 30, class: "hit" }));
+      g.appendChild(el("svg:circle", { r: 12, class: "ring" }));
+      const anchor = s.anchor || "middle";
+      const label = el("svg:text", { class: "name", x: s.lx, y: s.ly, "text-anchor": anchor }, s.id + " ");
+      label.appendChild(el("svg:tspan", { class: "cnt" }, String(n)));
+      g.appendChild(label);
+      const toggle = () => { state.region = state.region === s.id ? "" : s.id; state.shown = PAGE; render(); };
+      g.addEventListener("click", toggle);
+      g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); } });
+      svg.appendChild(g);
+    }
+  }
+
+  // ---------- Утилиты ----------
+  function plural(n, one, few, many) {
+    const m10 = n % 10, m100 = n % 100;
+    if (m10 === 1 && m100 !== 11) return one;
+    if (m10 >= 2 && m10 <= 4 && (m100 < 12 || m100 > 14)) return few;
+    return many;
+  }
+  const fmtTime = new Intl.DateTimeFormat("ru-RU", { hour: "2-digit", minute: "2-digit" });
+  const fmtDay = new Intl.DateTimeFormat("ru-RU", { day: "numeric", month: "long" });
+  const fmtWeekday = new Intl.DateTimeFormat("ru-RU", { weekday: "long" });
+  const fmtFull = new Intl.DateTimeFormat("ru-RU", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" });
+  const dayKey = d => `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
+
+  function dayTitle(d) {
+    const today = new Date();
+    const y = new Date(); y.setDate(today.getDate() - 1);
+    if (dayKey(d) === dayKey(today)) return ["Сегодня", fmtDay.format(d)];
+    if (dayKey(d) === dayKey(y)) return ["Вчера", fmtDay.format(d)];
+    const wd = fmtWeekday.format(d);
+    return [fmtDay.format(d), wd.charAt(0).toUpperCase() + wd.slice(1)];
+  }
+
+  // ---------- Фильтрация ----------
+  function baseFiltered() {
+    const now = Date.now();
+    const q = state.q.trim().toLowerCase();
+    return DATA.items.filter(it => {
+      if (state.days && now - it._t > state.days * 864e5) return false;
+      if (state.lang && it.lang !== state.lang) return false;
+      if (q && !it._hay.includes(q)) return false;
+      return true;
+    });
+  }
+
+  function render() {
+    const base = baseFiltered();
+
+    // счётчики станций — с учётом рубрики, но без региона
+    const stCounts = {};
+    for (const it of base) {
+      if (state.cat && !it.categories.includes(state.cat)) continue;
+      for (const r of it.regions) stCounts[r] = (stCounts[r] || 0) + 1;
+    }
+    drawRoute(stCounts);
+    renderRegionChips(stCounts);
+
+    // счётчики рубрик — с учётом региона
+    const catCounts = {};
+    const inRegion = base.filter(it => !state.region || it.regions.includes(state.region));
+    for (const it of inRegion) for (const c of it.categories) catCounts[c] = (catCounts[c] || 0) + 1;
+    renderCats(catCounts, inRegion.length);
+
+    const list = inRegion.filter(it => !state.cat || it.categories.includes(state.cat));
+    renderSummary(list.length);
+    renderFeed(list);
+  }
+
+  function renderRegionChips(counts) {
+    const box = $("regs");
+    box.replaceChildren();
+    const mk = (label, value, n) => {
+      const b = el("button", { class: "chip", "aria-pressed": String(state.region === value) }, label);
+      b.appendChild(el("b", {}, String(n)));
+      b.addEventListener("click", () => { state.region = state.region === value && value ? "" : value; state.shown = PAGE; render(); });
+      box.appendChild(b);
+    };
+    mk("Все регионы", "", baseFiltered().filter(it => !state.cat || it.categories.includes(state.cat)).length);
+    for (const st of STATIONS) mk(st.id, st.id, counts[st.id] || 0);
+  }
+
+  function renderCats(counts, total) {
+    const box = $("cats");
+    box.replaceChildren();
+    const names = [...new Set(DATA.items.flatMap(i => i.categories))]
+      .sort((a, b) => (counts[b] || 0) - (counts[a] || 0));
+    const mk = (label, value, n) => {
+      const b = el("button", { class: "chip", "aria-pressed": String(state.cat === value) }, label);
+      b.appendChild(el("b", {}, String(n)));
+      b.addEventListener("click", () => { state.cat = state.cat === value && value ? "" : value; state.shown = PAGE; render(); });
+      box.appendChild(b);
+    };
+    mk("Все рубрики", "", total);
+    for (const c of names) mk(c, c, counts[c] || 0);
+  }
+
+  function renderSummary(n) {
+    const box = $("summary");
+    box.replaceChildren();
+    const parts = [];
+    if (state.region) parts.push(state.region);
+    if (state.cat) parts.push(state.cat.toLowerCase());
+    if (state.q) parts.push(`«${state.q}»`);
+    box.append(`${n} ${plural(n, "новость", "новости", "новостей")}` + (parts.length ? `: ${parts.join(", ")}` : ""));
+    if (parts.length) {
+      box.append(". ");
+      const b = el("button", {}, "Сбросить фильтры");
+      b.addEventListener("click", () => {
+        Object.assign(state, { region: "", cat: "", q: "", shown: PAGE });
+        $("q").value = "";
+        render();
+      });
+      box.appendChild(b);
+    }
+  }
+
+  function renderFeed(list) {
+    const feed = $("feed");
+    feed.replaceChildren();
+
+    if (!DATA.items.length) {
+      const d = el("div", { class: "empty-state" });
+      d.append(el("h2", {}, "Лента ещё не собрана"),
+        el("p", {}, "Первый сбор запускается в GitHub: вкладка Actions, сценарий «Обновление ленты», кнопка Run workflow. Через пару минут здесь появятся новости."));
+      feed.appendChild(d); $("more").hidden = true; return;
+    }
+    if (!list.length) {
+      const d = el("div", { class: "empty-state" });
+      d.append(el("h2", {}, "По этим условиям новостей нет"),
+        el("p", {}, "Расширьте период или снимите фильтр по региону и рубрике."));
+      const b = el("button", { class: "btn" }, "Показать все новости за неделю");
+      b.addEventListener("click", () => {
+        Object.assign(state, { region: "", cat: "", q: "", days: 7, lang: "", shown: PAGE });
+        $("q").value = ""; syncSeg("period", "7"); syncSeg("lang", ""); render();
+      });
+      d.appendChild(b); feed.appendChild(d); $("more").hidden = true; return;
+    }
+
+    const now = Date.now();
+    let curKey = null, ul = null;
+    for (const it of list.slice(0, state.shown)) {
+      const d = new Date(it._t);
+      const k = dayKey(d);
+      if (k !== curKey) {
+        curKey = k;
+        const sec = el("section", { class: "day" });
+        const [t, sub] = dayTitle(d);
+        const h = el("h2", {}, t); h.appendChild(el("small", {}, sub));
+        ul = el("ul", { class: "list" });
+        sec.append(h, ul); feed.appendChild(sec);
+      }
+      const li = el("li", { class: "item" + (now - it._t < 3 * 36e5 ? " fresh" : "") });
+      li.appendChild(el("div", { class: "time" }, fmtTime.format(d)));
+      const body = el("div");
+      const h3 = el("h3");
+      h3.appendChild(el("a", { href: it.url, target: "_blank", rel: "noopener" }, it.title));
+      body.appendChild(h3);
+      if (it.summary) body.appendChild(el("p", {}, it.summary));
+      const meta = el("div", { class: "meta" });
+      const src = el("span", { class: "src" }, it.source);
+      meta.appendChild(src);
+      if (it.also && it.also.length) meta.appendChild(el("span", {}, "также: " + it.also.join(", ")));
+      for (const r of it.regions) {
+        const b = el("button", { class: "tag" }, r);
+        b.addEventListener("click", () => { state.region = r; state.shown = PAGE; render(); window.scrollTo({ top: 0 }); });
+        meta.appendChild(b);
+      }
+      if (MIDDLE_TAGS.test(it.title + " " + (it.summary || ""))) meta.appendChild(el("span", { class: "tag mc" }, "Средний коридор"));
+      body.appendChild(meta);
+      li.appendChild(body);
+      ul.appendChild(li);
+    }
+    const more = $("more");
+    more.hidden = list.length <= state.shown;
+    more.textContent = `Показать ещё (${list.length - state.shown})`;
+  }
+
+  function renderSources() {
+    const s = DATA.sources || [];
+    const ok = s.filter(x => x.ok).length;
+    $("src-title").textContent = `Источники: ${ok} из ${s.length} ответили при последнем сборе`;
+    const ul = $("srcs"); ul.replaceChildren();
+    for (const x of s) {
+      const li = el("li");
+      li.appendChild(el("span", { class: "dot" + (x.ok ? "" : " bad") }));
+      const t = el("span", {}, `${x.name.replace(/^Google News: /, "Google News, запрос: ")} — ${x.ok ? x.count + " шт." : "не ответил"}`);
+      if (!x.ok && x.error) t.appendChild(el("span", { class: "err" }, x.error));
+      li.appendChild(t); ul.appendChild(li);
+    }
+  }
+
+  function syncSeg(id, v) {
+    for (const b of $(id).querySelectorAll("button")) b.setAttribute("aria-pressed", String(b.dataset.v === v));
+  }
+
+  // ---------- Управление ----------
+  let qTimer;
+  $("q").addEventListener("input", e => {
+    clearTimeout(qTimer);
+    qTimer = setTimeout(() => { state.q = e.target.value; state.shown = PAGE; render(); }, 180);
+  });
+  $("period").addEventListener("click", e => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.days = Number(b.dataset.v); state.shown = PAGE; syncSeg("period", b.dataset.v); render();
+  });
+  $("lang").addEventListener("click", e => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.lang = b.dataset.v; state.shown = PAGE; syncSeg("lang", b.dataset.v); render();
+  });
+  $("more").addEventListener("click", () => { state.shown += PAGE; render(); });
+
+  // ---------- Загрузка ----------
+  fetch("data/news.json?v=" + Date.now())
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(data => {
+      DATA = data;
+      for (const it of DATA.items) {
+        it._t = Date.parse(it.published);
+        it._hay = (it.title + " " + (it.summary || "") + " " + it.source).toLowerCase();
+        it.regions = it.regions || []; it.categories = it.categories || [];
+      }
+      if (data.generated_at) {
+        const u = $("updated"); u.replaceChildren();
+        u.append("Обновлено ");
+        u.appendChild(el("strong", {}, fmtFull.format(new Date(data.generated_at))));
+        u.appendChild(el("br"));
+        u.append("сбор каждые 3 часа");
+      } else $("updated").textContent = "";
+      renderSources();
+      render();
+    })
+    .catch(() => {
+      $("updated").textContent = "";
+      const d = el("div", { class: "empty-state" });
+      d.append(el("h2", {}, "Не удалось загрузить ленту"),
+        el("p", {}, "Файл data/news.json не найден. Если сайт открыт с компьютера двойным щелчком, запустите локальный сервер: python -m http.server в папке site."));
+      $("feed").replaceChildren(d);
+    });
+})();
+</script>
+</body>
+</html>
