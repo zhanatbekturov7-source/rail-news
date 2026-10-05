@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T10:21:04+00:00",
- "new_this_run": 111,
+ "generated_at": "2026-10-05T10:27:16+00:00",
+ "new_this_run": 17,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,42 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "В Приамурье управляйку наказали за завышенный тариф",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVNNM2dsdGxHSVR6TDVIRzlNenZxeHZLdzVHZW1KYS1VQlRGTjI5UlNkbi1pUnRKUGVqYXBWNDlzQmY2UGJzYWIzNnZYR01FdEhCZnEtQjJKZ2EyclduLU56S2xzU2hwQXNGTEViUzdWbEJYTDczR1I0SWFjT1RWbmV3MHp1ODMyNkhmQnZEZDI?oc=5",
+   "source": "Порт Амур",
+   "published": "2026-10-05T10:21:25+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "28573a8f14ca7f0b",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "В Ташкенте состоялась 2-я Национальная конференция Транскаспийского транспортного коридора",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmpfb1VEYkVNazJnSV9wSWF5anZCZTA4VnV2YTZwVU91SmVoTUx2elctQkVpRGR2X0ZOc29iMWxDQmhYSmNObzhocVVMcHlFNnBPYUJBS3ZiSlYwa1RKbjVZVU42NjB1R0hOR19WVUlyeDVRajY5WktkMjM1bXZ3Rl8tYjF4OENaYkc1Nm11YkJCQmIyZlJFM2tFTTNXcVJDenZjeHJuamVQLXhsMjZlVXcwZmFlTzQ?oc=5",
+   "source": "Каспийский вестник",
+   "published": "2026-10-05T10:17:39+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "053b497d343354d8",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
   {
    "title": "77 лет КНР: новый этап развития Китая и возможности для Казахстана",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94dF9yU0FSVk9LUXNBSERaRmJEUDBadkVPOVlzVUFqOG5CamgxdUFKcVVWN2s0dlh3OUZRWHVIR1FKZXFkTXozSnVqcUZsUms4bFFnalh0UUR6UmFvNm5IRjMtZkRWb2NocFZOTmdQblVod0R5?oc=5",
@@ -486,22 +522,6 @@
    "id": "806457dacba7ceec"
   },
   {
-   "title": "С 38 до 13 суток: как цифровизация ускоряет транзит грузов через Казахстан",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUYwR0QxYzZyN2FxZU9yTlVGMi1DWjItdVhTb2pwOGV6eGozSkgzY00wRlliTlBXMUVLcGFGdFQ0RE85RFVDTjRlUEpDLVVSSExQYmpOc1hkUTJZNEdSU1RVeG1JRkFxbjBnZE5ieGFvcExSeDVIVEo3cWtHUGotWE5MYjZsaW96V3BXMXRfdEM1cl94UEJBNFdfWFpDRUlGamVza3Y3elh4QjJEaHfSAa8BQVVfeXFMUGNvMVVRMjRmbllxQjVjV3VndFNuLWg4Qi1FSWh5NWhnX0ZrbXk1ODdVNzBkSVNOWGxUV3VkQXdac1NIN3dNb0xQN2xRVFpER01nQ3hUalY2QU01THZqVHJkTHBUT0xIcTd5NzRqbGdYaVh2bW9GTks5VTIwXzdrUVItSURael9zZUdQUTJ3QnBVRDFWQldoWDA4YmVpUkhPQjBTbmxRT3BGMU1KZllTYw?oc=5",
-   "source": "Казинформ",
-   "published": "2026-10-05T08:06:50+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Казахстан"
-   ],
-   "id": "ef8aae1950ddc40f"
-  },
-  {
    "title": "Georgia plans 45 new locomotives to boost Middle Corridor",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU05LOGVXTU5lcFN5ekplYVlCcWF3QjJIM0tfYmpMR19KaVNWaFk3VGoxV3B6YlF3UDJMdHFqNzBIb1RFWmFPbk5sQnZIQzJyeG5paEx6cmY2UXcwdTJzWWlvd2hvOVo4VDR1cG1rSGk3YS1ZRE1JS2k2ZDhjZEZHVXhxaUg?oc=5",
    "source": "news.az",
@@ -822,6 +842,27 @@
    "id": "b301c6f4b64ab0a2",
    "categories": [
     "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "С 38 до 13 суток: как цифровизация ускоряет транзит грузов через Казахстан",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY28xVVEyNGZuWXFCNWNXdWd0U24taDhCLUVJaHk1aGdfRmtteTU4N1U3MGRJU05YbFRXdWRBd1pzU0g3d01vTFA3bFFUWkRHTWdDeFRqVjZBTTVMdmpUcmRMcFRPTEhxN3k3NGpsZ1hpWHZtb0ZOSzlVMjBfN2tRUi1JRFp6X3NlR1BRMndCcFVEMVZCV2hYMDhiZWlSSE9CMFNubFFPcEYxTUpmWVNj0gGvAUFVX3lxTFBjbzFVUTI0Zm5ZcUI1Y1d1Z3RTbi1oOEItRUloeTVoZ19Ga215NTg3VTcwZElTTlhsVFd1ZEF3WnNTSDd3TW9MUDdsUVRaREdNZ0N4VGpWNkFNNUx2alRyZExwVE9MSHE3eTc0amxnWGlYdm1vRk5LOVUyMF83a1FSLUlEWnpfc2VHUFEyd0JwVUQxVkJXaFgwOGJlaVJIT0IwU25sUU9wRjFNSmZZU2M?oc=5",
+   "source": "Казинформ",
+   "published": "2026-10-05T07:02:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки",
+    "Средний коридор и ТМТМ"
+   ],
+   "also": [],
+   "id": "ef8aae1950ddc40f",
+   "categories": [
+    "Транзит Китай — Европа"
    ],
    "regions": [
     "Казахстан"
@@ -4374,6 +4415,23 @@
    "regions": []
   },
   {
+   "title": "Билеты на поезда подорожали: что произошло с ценами на плацкарт и как уехать дешевле",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PblJDRU5sMkZrUjBkLWk1Y1k1YXlXUjAydHlaVl9YTElLYW5nRG90SGN0dWQ3UjB2dWh1UWlycHlxYzNMcUwxM2lYTlc?oc=5",
+   "source": "ura.news",
+   "published": "2026-10-02T14:06:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "0b717089b9eae28e",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
    "title": "Казахстан реализует инфраструктурные проекты на $90 млрд - Бектенов",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTlIb2c1MGJjN2JNQlBoZ0hKbjZEVDhmMFNDejJjbU42djJpRU1TSGlKSDVobzJiU1FmRmpYSjQ2R29MdGJ4SDRGU0tUMXEzaFVVQXBlX3ktOElHYm9JUHRnMzZXRXA2YzlhT3l5RHJjSVBiSndWS08wOFNzWlNWcjdtNHhJeEdSSXRBUjNMUVZrVVk4RGxQeUZvWnYxZnA2czFaLVVn?oc=5",
    "source": "Kazakhstan Today",
@@ -4680,6 +4738,23 @@
    ]
   },
   {
+   "title": "Бакметрополитен будет управлять пассажирскими канатными дорогами",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3d1bTRaU01DdmhKOVB0cjRfMHNwcUJnRlhIZWc5bW15SHBOUEdWQTRtb0dIb3d1R1RyVnNlTWlFVzVWa0Nua3ZySlQyQVdHWnJoeklVQldLZndxMktiMi1UdUNjOTZUSkd3T1QzM3JTUy1ZaUFPZVpMajVRQ053MTlPYnk4V0k1cjVCcVBXeXdTNV9lQ2xOcmIxckxpS3BoNkpWWGM4YmTSAagBQVVfeXFMTk93dW00WlNNQ3ZoSjlQdHI0XzBzcHFCZ0ZYSGVnOW1teUhwTlBHVkE0bW9HSG93dUdUclZzZU1pRVc1VmtDbmt2ckpUMkFXR1pyaHpJVUJXS2Z3cTJLYjItVHVDYzk2VEpHd09UMzNyU1MtWWlBT2VaTGo1UUNOdzE5T2J5OFdJNXI1QnFQV3l3UzVfZUNsTnJiMXJMaUtwaDZKVlhjOGJk?oc=5",
+   "source": "Report.az",
+   "published": "2026-10-02T12:07:22+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "69a5cca9e9afd4f0",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
+  },
+  {
    "title": "Туркменистан назвал три направления инвестиций в железные дороги",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdDQwb1Jzd2FaZ3A0NFVrRUpiQ3dSbFpDQVNZZzhvVDBiRmpJN1dJVU94clI4aWFyUFVTSkNfX0tENU03ZDB3cEtMTUdSNXZqc2VhSnJpSEpRREdLVmduT2ttYXFDdkNCM3djUFFJSGNYM1BqRS1kOGNIZXd6MFJ3V2MyT2xBWjAtb09YUnhR?oc=5",
    "source": "Arzuw news",
@@ -4836,6 +4911,23 @@
    "id": "888308bba4086946"
   },
   {
+   "title": "Касым-Жомарт Токаев предложил посвятить следующее заседание Совета внедрению искусственного интеллекта в транспортно-логистическую отрасль",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDI3T05FUHdiRW1manBpcEdYNFkzX3R0TkV6T0FGX1Qtc3hDMWlhNzdoVmRRb1NxZ05Ld3FwWVplcHpYNmlidjZxaUV3RjFTM3F3WXVTOHpvbHJuZnhjYmd0cmFLZ000RWtodUppOGgzQzBsTzRGTENpMFlkR29JMXdsMFVMN3d1Mml0V2lFOUlBWHpPWkJKRFhBSlR3anBZVGpNRzNmS01fRktweGF6aGNjR2JVWGlWZE9EOA?oc=5",
+   "source": "Life09",
+   "published": "2026-10-02T11:42:20+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "b14bd8d3ad494d20",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
    "title": "Грузопоток по Среднему коридору к 2040 году может вырасти до 32 млн тонн",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVJ0Rm9jT2Z4TVNPc1VWUzdJcG9BSThDdWQ3ZjFhbGJLQmRKc2pDeEJvRzdka1p5dHhKNmUtb0VFU1ZIbWtZcjNzaHlSTjZuaEEzOW1leVZQaU5HNWYwa0Ztd0c4dGVzM09yS1hIUWJzVTJYbmp2WGRxRC12VzdiMTlCT1hxZjNBZHVyQVB2UkI0RlhPQVFhUzVn?oc=5",
    "source": "Каспийский вестник",
@@ -4961,7 +5053,10 @@
    "also": [
     "Armiya.az"
    ],
-   "id": "225edfef01a46a46"
+   "id": "225edfef01a46a46",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ]
   },
   {
    "title": "Georgia plans $342 million railway investment under Middle Corridor project",
@@ -5278,23 +5373,23 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 38,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 8,
    "error": "",
    "seconds": 0.4
   },
@@ -5310,9 +5405,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 22,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -5320,7 +5415,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -5352,7 +5447,7 @@
    "ok": true,
    "count": 29,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -5400,7 +5495,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -5414,7 +5509,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": "",
    "seconds": 0.4
   },
@@ -5430,7 +5525,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
    "seconds": 0.4
   },
@@ -5438,7 +5533,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "seconds": 0.4
   },
@@ -5446,7 +5541,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "seconds": 0.4
   },
@@ -5463,16 +5558,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f2f09da41d0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa2c9558290>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.3
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.4
   },
   {
    "name": "PortNews",
@@ -5480,7 +5575,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -5488,7 +5583,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.2
   }
  ]
 }
