@@ -2,7 +2,7 @@ name: Обновление ленты
 
 on:
   schedule:
-    - cron: "17 */3 * * *"   # каждые 3 часа (время UTC)
+    - cron: "17 * * * *"   # каждый час (время UTC)
   workflow_dispatch:          # кнопка Run workflow для ручного запуска
   push:
     branches: [main]
