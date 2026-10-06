@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T00:50:26+00:00",
- "new_this_run": 35,
+ "generated_at": "2026-10-06T01:38:00+00:00",
+ "new_this_run": 37,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -82,6 +82,26 @@
     "Тарифы и регулирование"
    ],
    "regions": []
+  },
+  {
+   "title": "Узбекистан и Туркменистан договорились о модернизации железнодорожного транспорта и тарифной политике",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMnJqTWhDRGdtZU5TSTJNZ1ZEMkhCT0hNYmZpVEF6UWdCUnZZYW5wcHRlU21NZDJ1S1NNelhuZGpMOW1PVVF0dzgydHVfbmlOX2ZhX2YzUDhNNXJKOTdEN2UwdmxDb2lLV09KbGxKd2RJcFVaWFRyVS1XZmVkWnJYRURxMHFaZUhqN3JneEM4YjRSb1ByYm41S1RMcDNESWhKRnNqN1d5U0xVTzhwd3gxQWlpWkFsRjVpRHRIMHVZcERZSkNLOXRWWmt3WlJyV2NSU3AzTTZ3NkRwWXZid1l1UXdFc1JNdkFiODRwcVlqT1pNZl9tRDZhbTh4Nkg2XzdwODQ3aENnUEhWTEJza0Y4Rzk4alBpUQ?oc=5",
+   "source": "turkmenportal.com",
+   "published": "2026-10-05T21:23:29+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "69973eed26d5c89a",
+   "categories": [
+    "Тарифы и регулирование",
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
   },
   {
    "title": "Казахстан – Дания: партнерство в формате конкретных проектов",
@@ -452,6 +472,23 @@
     "Китай",
     "Европа"
    ]
+  },
+  {
+   "title": "Закрытие переезда в Малоархангельске с 5 по 7 октября объезд через Ильинское",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkpUNUhhT25CbGFkT1BtWnBEcUdUMHZsTnBaMDh3TDFWZW5NaWRBUkNwYlpnakdhc2JXOGZDLW5kMmZWY1NkenVWNUFKaTY2emY4ck10TjJrQUVhUHhIZXVTc1F4MWJxYW4xSFl3aENIWWxYc3FBaTB6YTM3eWZYa3JHNW10X2g1czFfcm5hSmEzT01xVXJ0VldCVng3X0YwVGhjSDA4RDV4QmNfWlJlcVM5clJ1QjZlX1BIXzloQUFOaC1RU01DcHlWZ04?oc=5",
+   "source": "Происшествия в Орле - сегодня",
+   "published": "2026-10-05T16:13:47+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "62823d5bed99bad9",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "Иран предложил Туркменистану развивать новое поколение инвестиций",
@@ -1983,6 +2020,23 @@
     "Европа"
    ],
    "id": "3519ae3ea0acd7bd"
+  },
+  {
+   "title": "Цепочка поставок: Логистика будет определять рост в предстоящий период.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRHpXdElRZXVpQ3RLN0JiOGVEOVpRVFpucDhwWEpiZjBxbEtlSmN4WGJZMHZ4UHBUSmdpb1JBMGlKaUdiRnlUWF9MUzZCZDVtdzlhNE9JX2UyUnB1dWhRM2MxU1dpUE9zamRIeXgzaVJqNFBNLTI0VEgxalVwNFB3SFpkbTctVEpWVGhQYmVFcldUT2IzMmtn?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-05T08:08:05+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "95c9384b0e060479",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "Iran sees transport investment as key to Central Asia trade",
@@ -5403,10 +5457,16 @@
    "lang": "ru",
    "via": "Google News",
    "categories": [
-    "Логистика и терминалы"
+    "Вагонный парк и подвижной состав"
    ],
    "regions": [],
-   "id": "4e66080047c22092"
+   "id": "4e66080047c22092",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "also": [
+    "BAQ.KZ"
+   ]
   },
   {
    "title": "В Бишкеке обсудили новые направления сотрудничества тюркских государств",
@@ -5599,7 +5659,13 @@
     "Средний коридор и ТМТМ"
    ],
    "regions": [],
-   "id": "0a7a45342e1e00d7"
+   "id": "0a7a45342e1e00d7",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "also": [
+    "Baku.ws"
+   ]
   },
   {
    "title": "Посол Германии: Берлин готовится принять саммит «Центральная Азия + Германия»",
@@ -7214,7 +7280,8 @@
     "Инфраструктура и стройка"
    ],
    "also": [
-    "Asiais.ru"
+    "Asiais.ru",
+    "asiais.ru"
    ],
    "id": "d379cbbd70188ea9",
    "categories": [
@@ -7435,15 +7502,15 @@
    "ok": true,
    "count": 43,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -7467,7 +7534,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -7475,7 +7542,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -7483,7 +7550,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -7497,15 +7564,15 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "seconds": 0.4
   },
@@ -7513,7 +7580,7 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
    "seconds": 0.3
   },
@@ -7523,7 +7590,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -7531,7 +7598,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -7539,7 +7606,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -7569,7 +7636,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
    "seconds": 0.5
   },
@@ -7579,7 +7646,7 @@
    "ok": true,
    "count": 33,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -7587,23 +7654,23 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 35,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "RailFreight.com",
@@ -7611,15 +7678,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f7169e22900>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f76094a3530>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -7635,7 +7702,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.0
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -7643,7 +7710,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.2
   }
  ]
 }
