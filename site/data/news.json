@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T20:40:41+00:00",
- "new_this_run": 60,
+ "generated_at": "2026-10-06T21:37:47+00:00",
+ "new_this_run": 62,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "В Иркутске осудили сотрудников РЖД за получение и дачу взяток в особо крупном размере",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QNHZNclVDS1ZUNk53d2QyOE9CaHlUNDhCeENyS2M0ZGV0eUJOZ3ZmSFRPZXpheUFqSG50RlQwT0EwTkVFRldTbXd5WTR2UFdEYnc?oc=5",
+   "source": "Байкал24",
+   "published": "2026-10-06T20:52:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "8559f9d95545c75a",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
   {
    "title": "Миллионы пользователей: Кого затронет двукратный рост цен на услуги связи",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnZ3SDhoSG1NZUVua2VSV005ZUFrVWlUTElYWjlJRTM3QzBuSVlUMGhUREtXUERpR3dEcTdEcTF4ZXNpcllDeUc3R2YzTEJ0Wm85MWlVU0YxbVRyTm9sRmdUYWt2R0t6VkVpSGRtZGE5NllXWjFsU0UzR3ZMTS0tNHpHLWZDUmdGRVJZSlhMaUVkWWhTVGV1WFZLSTlkOVV3VnhEdWwwWXFBNDFWalZFZzcwRE5pUQ?oc=5",
@@ -94,27 +113,6 @@
    ],
    "regions": [
     "Россия"
-   ]
-  },
-  {
-   "title": "Europe’s new trade route runs through Caspian: Middle Corridor needs $55 billion",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mMzBQXzlTOU1wZ1dkUFBSanBYTnNleG9YY3UtdDlyNGxObnY3d29hNzUzWVVBS3B5Y1AxeGhNQU1PV0xlaEFJMWluLUhRWFU2UkkzeHZfQQ?oc=5",
-   "source": "Azernews.az",
-   "published": "2026-10-06T17:34:00+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "38f21dd3e629b271",
-   "categories": [
-    "Средний коридор и ТМТМ",
-    "Порты и Каспий"
-   ],
-   "regions": [
-    "Каспий и Закавказье",
-    "Европа"
    ]
   },
   {
@@ -1565,6 +1563,25 @@
    "regions": []
   },
   {
+   "title": "Казахстан и Оман усилят сотрудничество в энергетике и транспорте",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3FpYU4xTHJuQnNIaWxRZ0FoQlFOOXFpRU5EX0k1aUlucjRScUdBUkpSYVJuWDRZRzFWRFVkaUxmRUtnRzF2ZE13OURlNzdjOFVxR0V2T0cyRUlhMTBhcW1JempIbVJ2b2dtUFNpWktKbExWbVMyZ3dmSDRqTE9oSFN6M3BsUl9NbkVTeFVKamVXT1h4aUFmRzIzV09qRF9PVVRPMjlKNNIBrAFBVV95cUxQVDdYb0ExQ0tvbjI3RzZrX0hFcnZvUG5WSEJoS2s2dzJCdmdRSUpXUlM2a0lTSEJ2cF9qTmJRUlgyekg3Q1ZyeE4tVkkxRlhnNDdyS1ZTdFlweDI5c2FKajE3QURFbEY0QmpqS3daellpQzM0MmV2Z2xpZkplbVM3clpvVjZKcGRvdy1RQjJDaGxiOW9iSFd3SXdDeG5Jem9qR2hMUVpEc3hqaGdY?oc=5",
+   "source": "ru.elordainfo.kz",
+   "published": "2026-10-06T10:16:39+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "6246880e9f8b604f",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
    "title": "Heckmann: Global supply chains are becoming increasingly complex",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGVUUFI1ZkI0YUxzSEFISUZoc2pYTHhVb2FNZEJPcG8tVDVHU2NEMkduTGkxUGdVbUVxUHN5THhPN2NCOURMSzI4djNNakM1bi10VjFIenoyT19aRlIzVzlqanRWVGVHOFliZHVvRG8xQUJ1U2ROaEJZR2hJZHVhOVFVM3ZseUgzQ3NvLUpmY2loVzY4ZUlKbWQ1QTZaMFp0OG1zeERB0gGmAUFVX3lxTE90ZVRQUjVmQjRhTHNIQUhJRmhzalhMeFVvYU1kQk9wby1UNUdTY0QyR25MaTFQZ1VtRXFQc3lMeE83Y0I5RExLMjh2M01qQzVuLXRWMUh6ejJPX1pGUjNXOWpqdFZUZUc4WWJkdW9EbzFBQnVTZE5oQllHaElkdWE5UVUzdmx5SDNDc28tSmZjaWhXNjhlSUptZDVBNlowWnQ4bXN4REE?oc=5",
    "source": "Report.az",
@@ -2143,7 +2160,8 @@
     "k1news.ru",
     "vedom.ru",
     "http://vladimirnews.ru/",
-    "voronezhnews.ru"
+    "voronezhnews.ru",
+    "K1NEWS"
    ]
   },
   {
@@ -2527,6 +2545,31 @@
    ],
    "regions": [
     "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Europe's New Trade Route Runs Through Caspian: Middle Corridor Needs $55 Billion",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFBb2VCZE9xcExGaE5pWEJEWmdoeUY3MGRYV0F6dXVJV2JmVXBvSlQzd1BKTlRVamMwSzlMYmtsNGVwZlRMUFY1R0ZtQm05YUNkdUtqNDFodFpTWjk5clpzNnJ1cW95bHdVV04wSWJOWFI5RnktVHBCODdlRmtJbHE4Y0ppaWRGY0c4cEpPenltRUI1aEk2Nk44VmZ2bm1zTHYzUi1OVkJVZDA?oc=5",
+   "source": "Menafn",
+   "published": "2026-10-06T07:12:20+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ",
+    "Транзит Китай — Европа"
+   ],
+   "also": [
+    "Azernews.az"
+   ],
+   "id": "38f21dd3e629b271",
+   "categories": [
+    "Средний коридор и ТМТМ",
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Каспий и Закавказье",
+    "Европа"
    ]
   },
   {
@@ -3365,7 +3408,8 @@
    "categories": [
     "Логистика и терминалы"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "В горах Узбекистана обнаружены два затерянных города Великого Шелкового пути",
@@ -8152,7 +8196,13 @@
     "Каспий и Закавказье",
     "Европа"
    ],
-   "id": "d0380f942a8011da"
+   "id": "d0380f942a8011da",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "also": [
+    "The World Inform"
+   ]
   },
   {
    "title": "Новый курс. Привлекать инвестиции будут все, от послов до местной власти",
@@ -11359,9 +11409,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 46,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -11369,15 +11419,15 @@
    "ok": true,
    "count": 32,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -11385,7 +11435,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -11393,7 +11443,7 @@
    "ok": true,
    "count": 39,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -11401,7 +11451,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -11409,7 +11459,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -11425,15 +11475,15 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 27,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -11441,7 +11491,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -11457,7 +11507,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -11465,15 +11515,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -11481,7 +11531,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -11489,15 +11539,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 37,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -11505,21 +11555,21 @@
    "ok": true,
    "count": 36,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -11529,7 +11579,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "RailFreight.com",
@@ -11537,14 +11587,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fe8285de840>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f8b0c9eb2f0>, 'Con",
    "seconds": 300.6
   },
   {
@@ -11553,7 +11603,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "seconds": 1.7
   },
   {
    "name": "PortNews",
@@ -11569,7 +11619,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.5
   }
  ]
 }
