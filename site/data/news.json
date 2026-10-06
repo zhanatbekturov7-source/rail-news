@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T18:43:55+00:00",
- "new_this_run": 64,
+ "generated_at": "2026-10-06T19:38:45+00:00",
+ "new_this_run": 59,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,26 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "Как российский дизель поддерживает топливный рынок Центральной Азии?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkhVWk80TjlsZ2hJald0QUY2amFGcm1oRWkxR0FlTFZTOWxKOG1yUWFyYlRpX0dyWkZhdU9DUmZXTk9LRDl5ZFk4cUlRRXZOOGVVS3FibnRjejVaX3JZRURjRzliMTJueVh1OXZ6eDhsZHRadmhFcklpX21DbXRHSzFzdGRoblU5WERQTTVSRUc5VVdyMkZpU3NaNWRqVHJGY1V3VVFGWdIBSkFVX3lxTE1HQ0ZTOURGV0x3LVJEZzE0ekR2RlY2c2h2cjk2RVlGWWlEb2Z3N3BLR0Q1OEdaVUx4ZzZMNHVQWklBNXZqcEtqYnB3?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-06T19:00:46+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "22de9c671d57ae66",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Россия"
+   ]
+  },
+  {
    "title": "Правительство Санкт-Петербурга поддержало GISDAYS 2026",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2Z1VWdTMktJTV9qQXJWbUpuc2ZIc0kwZlExZ1FNREZzWXgyWVVxOWdLZklJYXBtOEJwSDN2UVdSbm42ekJTNG50MFRiWkdRTTZXUmpmQjgxSGtrTl90NW9kRlJMWFJfaE54WHF6REZMYm9zNWdPYkRCWjR2VEVRbWpMb1RaU1pOUzctWVhkQkYxV2lncGFmYlR3?oc=5",
    "source": "prospect.com.ru",
@@ -39,6 +59,25 @@
     "Тарифы и регулирование"
    ],
    "regions": []
+  },
+  {
+   "title": "Россия получит сухопутный путь к Индийскому океану — три страны договорились о Трансафганском коридоре",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjUtczJ4Z0h0aHF4ek4yZEJnTEk1Um9jNjF6UWhOcHVFUFYxRWZ3LTFTZVRTNzEyU1lTZFhIcjNEM1c3NHRDTjRlTVVOdjdKRThEMld5Wm10V2VxOS1IOWZmNkxFcjhpM2REaThvTVRwLVAtaktTTlFlMjNIRVJwTDRabGRwU2RUZDdvOGY3UVNIYXlLNjlUdUpyWlZZQm5nSDIxdkxYZDFLbmwwUk5ReUV1Zng1YVp1UTl2RHRueHpzRkV1NHFsQUNtc0Y2VFhHT3JISGp4QQ?oc=5",
+   "source": "russia's pivot to asia",
+   "published": "2026-10-06T18:01:25+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "2de4e143eff2a6c5",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Россия"
+   ]
   },
   {
    "title": "Europe’s new trade route runs through Caspian: Middle Corridor needs $55 billion",
@@ -100,6 +139,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "FIATA launches practical user handbook on multimodal transport corridors",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDJucWxKQlI1ZzZ4ZXRpdG1tUk16NkhJM0FaQW10VkhxUEdFd0ZMcHIzUFl0N1pudHBGbXZLZGd0SkQxdmJtdFl2MVpKNHV6anZGWUstNS15N3BScnBCcF9fX1hucW4zakgzZTBsSjZoM25EczFDa3hxOEg0NndwUXNVQWo0aXZHbjlfekRDTGUxM1BFUUZybTZMRlVNS0U?oc=5",
+   "source": "American Journal of Transportation",
+   "published": "2026-10-06T16:49:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "799772011ad1c208",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
   },
   {
    "title": "Azerbaijan's envoy, political director at Latvian Foreign Ministry mull significance of Middle Corridor",
@@ -533,6 +589,23 @@
     "Средний коридор и ТМТМ",
     "Транзит Китай — Европа",
     "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Middle Corridor nations pivot to digital integration to ease Eurasian trade bottlenecks",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVRCMDBubFFGMGl6cWNrejExOTBtUVp5VVAyaHg0OEE3bXJwMXcwV3Y3bW9PYkhLN0VoVnpuazJ4TE1TXzcxb3JndlRzaVpENzdrVlFodXJyZFVjLWRhNllxaWxzeVYyZWZ5TE1hVjJlaXVLZ0U3NHhueWJWSFdWRGRNUkdBenYzRWIzS0lwMEF5dXFQdHFIdngzc1d2c3ZWc3RBQTF6VTM1RXdHVkxqTGJueXJUOGRyMzJJVDNn?oc=5",
+   "source": "https://streamlinefeed.co.ke/",
+   "published": "2026-10-06T12:23:12+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "5eb2555d12d9c255",
+   "categories": [
+    "Средний коридор и ТМТМ"
    ],
    "regions": []
   },
@@ -1890,11 +1963,13 @@
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
-    "Грузовые перевозки"
+    "Грузовые перевозки",
+    "Вагонный парк и подвижной состав"
    ],
    "id": "1c36dcd29cc07376",
    "categories": [
-    "Грузовые перевозки"
+    "Грузовые перевозки",
+    "Вагонный парк и подвижной состав"
    ],
    "regions": [
     "Казахстан"
@@ -3015,6 +3090,23 @@
    "id": "b632e6d509e6c6b3",
    "categories": [
     "Вагонный парк и подвижной состав"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Порт Фавор запустил железнодорожный узел для перевалки минеральных удобрений",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc3dkbzEzSko3Rmx4N1preGxPQjVOeFhfRmNWVUc1UkluWmkyLTBiUXpuTDBOaUFVbmhLQTd2aDNTTVZlQ25oRmtBWldzOEFDNkttSFgtdk85ODczbWw1elNuc0ltWVJnc2FFeE9sR1dqWFE0RzI0VTlUYjVxbGxUQTdCbHpMT2YzMWlhaGRzcTlQbVRwOHhONDlkQmc2MTBqTy1GMV9SS0U5SVN3R0RYOUVDaXNGOWdHN3poRnVJNm5BRTMtN19YeV9LS1I?oc=5",
+   "source": "TKS.RU",
+   "published": "2026-10-06T04:47:37+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "abff792e26e7a313",
+   "categories": [
+    "Порты и Каспий"
    ],
    "regions": []
   },
@@ -11169,9 +11261,9 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -11179,7 +11271,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -11187,21 +11279,21 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 39,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
    "seconds": 0.4
   },
@@ -11225,7 +11317,7 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
    "seconds": 0.4
   },
@@ -11233,7 +11325,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 29,
    "error": "",
    "seconds": 0.4
   },
@@ -11243,7 +11335,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -11251,7 +11343,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -11259,7 +11351,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -11273,9 +11365,9 @@
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -11289,7 +11381,7 @@
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
    "kind": "google",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
    "seconds": 0.3
   },
@@ -11297,9 +11389,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 35,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -11313,15 +11405,15 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 53,
+   "count": 51,
    "error": "",
    "seconds": 0.5
   },
@@ -11331,7 +11423,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -11346,16 +11438,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f1992eedeb0>, 'Con",
-   "seconds": 300.4
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f1e45232ed0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.4
   },
   {
    "name": "PortNews",
@@ -11363,7 +11455,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.9
+   "seconds": 2.1
   },
   {
    "name": "Kursiv",
@@ -11371,7 +11463,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.3
+   "seconds": 2.5
   }
  ]
 }
