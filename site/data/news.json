@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T19:38:45+00:00",
- "new_this_run": 59,
+ "generated_at": "2026-10-06T20:40:41+00:00",
+ "new_this_run": 60,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Миллионы пользователей: Кого затронет двукратный рост цен на услуги связи",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnZ3SDhoSG1NZUVua2VSV005ZUFrVWlUTElYWjlJRTM3QzBuSVlUMGhUREtXUERpR3dEcTdEcTF4ZXNpcllDeUc3R2YzTEJ0Wm85MWlVU0YxbVRyTm9sRmdUYWt2R0t6VkVpSGRtZGE5NllXWjFsU0UzR3ZMTS0tNHpHLWZDUmdGRVJZSlhMaUVkWWhTVGV1WFZLSTlkOVV3VnhEdWwwWXFBNDFWalZFZzcwRE5pUQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-06T20:25:35+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "cae2867e8f6df358",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
   {
    "title": "Как российский дизель поддерживает топливный рынок Центральной Азии?",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkhVWk80TjlsZ2hJald0QUY2amFGcm1oRWkxR0FlTFZTOWxKOG1yUWFyYlRpX0dyWkZhdU9DUmZXTk9LRDl5ZFk4cUlRRXZOOGVVS3FibnRjejVaX3JZRURjRzliMTJueVh1OXZ6eDhsZHRadmhFcklpX21DbXRHSzFzdGRoblU5WERQTTVSRUc5VVdyMkZpU3NaNWRqVHJGY1V3VVFGWdIBSkFVX3lxTE1HQ0ZTOURGV0x3LVJEZzE0ekR2RlY2c2h2cjk2RVlGWWlEb2Z3N3BLR0Q1OEdaVUx4ZzZMNHVQWklBNXZqcEtqYnB3?oc=5",
@@ -226,7 +243,27 @@
    "categories": [
     "Логистика и терминалы"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
+  },
+  {
+   "title": "China opens 1,142 km of high-speed rail in a day, two-fifths of 2025’s additions",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblNacFZ5VmJRNnNnTmdaeE0wd3ZLRzJHVWdGbXl2ZmgwSzB5aG1nMDRFaFB0TVNaZkRMV0swUVlfZ3hQaU5RRFpaSTJOQ294TXVJU2JmNEluRWNLWFJWR3lHRG1oZ2xjaTBjczdIVTNNU1lULWtnVzBBajFOWFo2d2xDUG1oRjR6Y2Q2SEdrRFRkVEh4TnZPZllqaHBSNVBDQ01YMXA3dlg?oc=5",
+   "source": "Railway Supply",
+   "published": "2026-10-06T15:26:11+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "7da7889ea9e6c854",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай"
+   ]
   },
   {
    "title": "Тарифы на ЖКУ на Дону опять изменятся с июля в 2027 году",
@@ -342,6 +379,23 @@
    "regions": [
     "Россия"
    ]
+  },
+  {
+   "title": "Знаки платной парковки в Ижевске не будут полностью менять из-за повышения цены",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUtzM0o0aE43NkNJRjd6QlNqcEs2OFBNcGg1MHN5UThkRkpYdHFqV2dUQUQ5VG10aUxLNlJ2WWRDa0Y3RG02Vm5MbEQ5cmo2RGEtZS1feWpHZnhKX2F5dnpXNUxaTlFSSS1rcjQyZE5wWW5nY0UySjBZZmgyLWtyaW4zTndSWkU5NGxpd2NuZjFmdUtaTE4yT3NBc01DU2dSXzRCTmJYY2E4UTN0aDM2OEd5aXAzbF85cnZOLXFrazg?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-06T14:29:34+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "a6252172b892fd99",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
   },
   {
    "title": "Готовится четвертый Астраханский международный форум по МТК Север-Юг",
@@ -536,6 +590,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Premier Alliance joins Red Sea return – October 6, 2026 Update",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTk1ak1fTXlhLWNpdDR0LW9OOUhLSVk4RmswMXU0WnkyR29SSVZTLS10Z1ZUd1JVUVA0TVRtY0Ywekx5ZU9JVjFYalpDc3JpNEotRXZPNWh4cGpFUTZlYnRWaHVGZkZ3dktDSkdBV3VhMXRzRUgtVU9TcEVic3FDajEyMkZ5cUJ4akl6bGd4TlZMS1ZldGpHZzIzNlRVYXlGQktBWkdJSQ?oc=5",
+   "source": "Freightos",
+   "published": "2026-10-06T12:39:50+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "283f0bf98f0b8960",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
   },
   {
    "title": "Middle Corridor countries work on unified institutional platform",
@@ -2002,6 +2073,23 @@
    ]
   },
   {
+   "title": "Как проиндексируют пенсии в 2027 году: новые правила и даты выплат",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFQ5QzFBank2aWsybF9wNDlaQTg2UFhMQWE2ZmJlc0drdExETEtoTklvYnZrdmsxLXhTcHMzc1U2MWhWcV9lZ2lnV1l3bXd6bkRFVDlTNVY5Z0JBSTV1NnFEcVJpQkxLWlRDNlpHdWhOaFVfdlBHckdSMDlBcG5uYURhOGFKRGNKa3NBZXZjZ3RuUk82ZE1N?oc=5",
+   "source": "Главный Региональный",
+   "published": "2026-10-06T08:28:44+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "6401da9c011d9608",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
    "title": "IMEC is more than a railway and covers digital, electricity cables",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeFU0ckxDaVBFcnM1YWgwTlZhM2hpdXNpMXBNY0VtcWE2dlV4cEFFa3FMUTJrQ2NtUFpKYVRTckNUY2tITV94aXF0ODFrZFhzdjhRbC1WM2h1R2ppNU9tYktPTUpXZzRTNVp5MmlkazdJOTZfT3RuU3JLVTEtdm9jTFFPWHdJa0xaUUp2dEU1RjVkTWROUFBfNzdxQnktdEV2ZXVwMW53aw?oc=5",
    "source": "Greek City Times",
@@ -2054,7 +2142,8 @@
    "also": [
     "k1news.ru",
     "vedom.ru",
-    "http://vladimirnews.ru/"
+    "http://vladimirnews.ru/",
+    "voronezhnews.ru"
    ]
   },
   {
@@ -2195,6 +2284,23 @@
    "id": "d46a142341cb0081",
    "categories": [
     "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Инвестиции, энергетика и приглашение посетить Оман: что обсудили Токаев и Хайсам бен Тарик Аль Саид",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd2NzTlhoVWI1UW5peUcwT1lfQm1FM0xLSnRhbWlnZmVOUVplenBnWnU5LXpzWFFqWjFKOVZQemVNUktkZWZNaE5sUWZxalhPd0hvVTVTb0NDalpyeTFPNTA0aHJsTWhobFp5b2k1S2hJLTJEblcxSzJqcTBFci1TZUJiSFRaanlRa3lKaUt1NzNfR2FvN0tHQk9vQjNVUkp3aGs1aXFSOFVMSzdNYTEtQVlxRWRuYUdfTlhTN3A2cW5jS3o1MGFGYTlOT1ZSZENYVkNBMnZMV28xVnRhbEhN0gHfAUFVX3lxTE93Y3NOWGhVYjVRbml5RzBPWV9CbUUzTEtKdGFtaWdmZU5RWmV6cGdadTktenNYUWpaMUo5VlB6ZU1SS2RlZk1oTmxRZnFqWE93SG9VNVNvQ0NqWnJ5MU81MDRocmxNaGhsWnlvaTVLaEktMkRuVzFLMmpxMEVyLVNlQmJIVFpqeVFreUppS3U3M19HYW83S0dCT29CM1VSSndoazVpcVI4VUxLN01hMS1BWXFFZG5hR19OWFM3cDZxbmNLejUwYUZhOU5PVlJkQ1hWQ0EydkxXbzFWdGFsSE0?oc=5",
+   "source": "Новости Zakon.kz",
+   "published": "2026-10-06T08:06:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "4e81d961e665c5d9",
+   "categories": [
+    "Инфраструктура и стройка"
    ],
    "regions": []
   },
@@ -11255,7 +11361,7 @@
    "ok": true,
    "count": 45,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -11287,7 +11393,7 @@
    "ok": true,
    "count": 39,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -11309,9 +11415,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -11343,7 +11449,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -11351,7 +11457,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -11367,7 +11473,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -11375,7 +11481,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -11389,7 +11495,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 38,
    "error": "",
    "seconds": 0.5
   },
@@ -11405,7 +11511,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
    "seconds": 0.4
   },
@@ -11421,7 +11527,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 24,
    "error": "",
    "seconds": 0.5
   },
@@ -11438,7 +11544,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f1e45232ed0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fe8285de840>, 'Con",
    "seconds": 300.6
   },
   {
@@ -11446,8 +11552,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.4
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.3
   },
   {
    "name": "PortNews",
@@ -11455,7 +11561,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 2.0
   },
   {
    "name": "Kursiv",
@@ -11463,7 +11569,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.5
+   "seconds": 2.1
   }
  ]
 }
