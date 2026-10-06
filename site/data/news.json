@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T23:35:20+00:00",
- "new_this_run": 36,
+ "generated_at": "2026-10-06T00:50:26+00:00",
+ "new_this_run": 35,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -55,7 +55,8 @@
     "Грузовые перевозки"
    ],
    "also": [
-    "chinadaily.com.cn"
+    "chinadaily.com.cn",
+    "China Daily"
    ],
    "id": "1c2d5c26ba6dbfe0",
    "categories": [
@@ -100,6 +101,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "В Черном море загорелся и затонул вышедший из украинского порта сухогруз",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGNadVZOU2VzVUJMcndKV2NXWVMtcS1ZSXhtNnhpT2k0VU5ramVEM3c0Y0pXcS1qMXliS2x6blVsa3ZRUUlIZ1ZDZ2M4QTJuTE50ZE8ydUlIOG9oTTQ4cXNnM1pTYkVkVjJ5QThIRmZIUU90WV9jbExIQTdCTXpaQVVpdGF2STJPckY3TWw3SmhGZXlZT0JkOVVURDZtTXJBdUJveFBIeHEwMVdGTzlBWXp2U1JtUnI2R0E?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-05T20:44:49+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Порты и Каспий"
+   ],
+   "id": "ace3ebd19cbcfc96",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": []
   },
   {
    "title": "Расширяется транзитный потенциал",
@@ -2573,7 +2591,9 @@
    "regions": [
     "Казахстан"
    ],
-   "also": [],
+   "also": [
+    "report.az"
+   ],
    "id": "bd297a5b6c8ac5c4",
    "q_topics": [
     "Порты и Каспий"
@@ -2835,7 +2855,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Порт Актау расширяет возможности",
@@ -3962,6 +3983,26 @@
     "Каспий и Закавказье"
    ],
    "id": "9cdc08d5edae9467"
+  },
+  {
+   "title": "UAE, Kazakhstan, Uzbekistan sign rail MoU linking Central Asia to South Asia",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QaVFnUklXUlRPY3hCRGNBOUpqQklkMjRXYzJqYVVXbjZwN3dGUFg3OUdkSUYtQm0xZHpiWmxmR0M0VUxWbHZyOEM2UUk?oc=5",
+   "source": "وكالة الأنباء السورية – سانا",
+   "published": "2026-10-04T10:14:49+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "05746e6ba095859c",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан",
+    "Центральная Азия"
+   ]
   },
   {
    "title": "UAE, Kazakhstan, Uzbekistan Sign Railway MoU; Al Mazrouei Visits Astana - News and Statistics",
@@ -7394,7 +7435,7 @@
    "ok": true,
    "count": 43,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -7442,7 +7483,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -7464,7 +7505,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "seconds": 0.4
   },
@@ -7490,7 +7531,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -7512,9 +7553,9 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -7546,13 +7587,13 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": "",
    "seconds": 0.5
   },
@@ -7560,7 +7601,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "seconds": 0.5
   },
@@ -7577,16 +7618,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fc3ed9d4590>, 'Con",
-   "seconds": 300.7
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f7169e22900>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -7594,7 +7635,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.2
+   "seconds": 2.0
   },
   {
    "name": "Kursiv",
