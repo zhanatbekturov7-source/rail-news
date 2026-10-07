@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T20:39:51+00:00",
- "new_this_run": 75,
+ "generated_at": "2026-10-07T21:39:56+00:00",
+ "new_this_run": 74,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,63 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "China’s Export Boom Faces a Potential Ceiling as Trading Partners Struggle to Absorb More Goods",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3dMNGlJcE9CT0pGaVEwbHdCWTJmRllnMDJWN29xa2pkN2dMdzVhTFNrbTJlNUlyZzRZa0JQeE41S1k2bEJyMmpMd0pEdnI1bExnbXE2Y3dObVFVOVRfdGlrZ3dpVG1rVkRlLVJJQi1CZ18tR1A1VnV3Z293N1VwTjNrSW5UejNWcXVoUU1GM2tVcGdBbnhsVHE4T3FWRVFmb0U1SnlROHVUSVFidDZFMC1QT0laNmpiSWc?oc=5",
+   "source": "Sri Lanka Guardian",
+   "published": "2026-10-07T21:30:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "55b334f32beedcb5",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай"
+   ]
+  },
+  {
+   "title": "Germany Blocks COSCO’s Acquisition of Domestic Freight Company",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzZkZlNrU011cWpDeGktS1RqaW5QaGhRdmRNb205amQyVHpPb3EtUXRfZ2NlWlNUYnZYdnpLT1NaXzNTWENnd2wyOUo2Sko2UnJsNlZRUU5sYnd0eG5UeTJXdFd3a3dzV1UzS2oyMHI4VDJrNUVlOG1uUWxMZGxKWjd1dWc1Y1hmYmd2c3JTLWEyUEJzSDFYUGtycGFTVzJYNWg0?oc=5",
+   "source": "The Maritime Executive",
+   "published": "2026-10-07T21:10:49+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "1c9d35e5eaf7d378",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Европа"
+   ]
+  },
+  {
+   "title": "Horadiz-Aghband Rail Project in Azerbaijan Reaches 73% Completion",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHIyWnI3RXRkM2xoMllpVDVLNUVHdzhlVzkzMHdaTE9XOWo4eTROX2M1RVpydjhUYjhYQnFycEpVbU5Id3FvSEtmZzY4b29QZm5QeWhPc19tRHg1OEtYNmQtLU5WUzdLTTcyemlqcVZrbko4ZHkwenMtNG5mdUtMdHNaNzBkWFBidGlzM2N0T1k3M0l6TnJEdlZNZkVCdXNLc0x6c3I1amx0OHBfcHo3ekFFOA?oc=5",
+   "source": "caspiannews.com",
+   "published": "2026-10-07T20:49:52+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "5489300505273119",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
   {
    "title": "Цены на машины вырастут, а рынок — нет: почему автобизнес не верит в прорыв",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0NscnRTQlBkSEVJWk1WenZhTkp4Z2V4WmRXdTgzckVDRlo5UzJVcnpXTEdkR3VfcUVQWXlRTXRhWUplb21qWmpkd2pFOXVZSDZvWmxDRVhkNU9LakNtam10ZHVNTkZNcWs0eUhfMmtyZ3pnUFU1eU1pdTlITkdxcE00R0ZCQmo2U0dPZ1ZlUVpIQm5KSDRUTzVud01OQmFIX2RRX3A2TGVnZXpaZzFPYm5BRU9wYzg?oc=5",
@@ -334,27 +391,6 @@
    "regions": []
   },
   {
-   "title": "Министры иностранных дел Центральной Азии и Азербайджана обсудили развитие регионального сотрудничества: Город Астана, 07 Октября 2026 года - новости на сайте gurk.kz",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGxHOS1tX2RwaG8wZkdwNU9GbDN0a0x5OVIzZTNPVWx6bWM0MXd2OHh1OXV6SFBHNHJQZWZmVER4UzZ3azAzbkRtYUx5Mm81b0Mzem1JR1FCOGJQa0QybTR6NUpDdXJleFJ3WS1WVmdUNkFfR3U3dFk0R3UwMWp1YUpGSTFpNWdXRWJXV3lmQ0ZaZVM1WURVdThmcDJJZFZrR3ljQnowaFJHa3NIRU5tXzdpSkFvd194WEprSzZJVXdjSC1L?oc=5",
-   "source": "gurk.kz",
-   "published": "2026-10-07T15:03:41+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "7f74e518a3d91cb0",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Казахстан",
-    "Центральная Азия",
-    "Каспий и Закавказье"
-   ]
-  },
-  {
    "title": "Джейхун Байрамов призвал укреплять Средний коридор и региональное сотрудничество - ФОТО",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00aVFVUHptRkhlZ1c4UWlON0RPa1pscHhtV1QxVDBJZm00cDZnWHhiREdGM05CNl9CYS1XQW9LbmlXTHRIaFFyM0ticTlsaG9yVTQw?oc=5",
    "source": "Day.Az",
@@ -370,6 +406,25 @@
     "Средний коридор и ТМТМ"
    ],
    "regions": []
+  },
+  {
+   "title": "Главы МИД ЦА и Азербайджана обсудили развитие регионального сотрудничества",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmItNnRjY21PVHRIcDNXaG5iREk0NTg3Q0laM1hiUVJMQkpCejlQWTB1T2ZCZEVnN1VaWTdsRDZKSEozbVJNcEtyVGxHNXotM3JpVU5LbzVOYllSTElJWDlKWjhrMDNUYWR2eWRZLV9sX1hOTE5Xb2pLQlpwSFlXdkZFRWdLY0N1TDhPX3pITnRCWDJkZ1Y4U0VB?oc=5",
+   "source": "Kazakhstan Today",
+   "published": "2026-10-07T14:54:58+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "0eaff2a3e1e971bc",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
   },
   {
    "title": "Джейхун Байрамов: Средний коридор укрепляет транспортные связи Востока и Запада",
@@ -411,6 +466,23 @@
    ]
   },
   {
+   "title": "Джейхун Байрамов отметил растущую роль Среднего коридора - ФОТО",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT01fODk5NUttQWFfcmhuQnNUU1dabzZEUTUwUC1zOTFRamZQWF9EZWtJS0NrbDZPaVpRa0RpeGJTemFWUzdJV3l0LUFxNmFBS1V0bk5TMWI1RXpIb1VWbi1QZGc2TThfLXgwY2ZxWjVTTW9SdHZMUDBnOUdqOU5YU3M0a3JWODJET3c?oc=5",
+   "source": "Caliber.Az",
+   "published": "2026-10-07T14:38:35+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "00116c4713ef608a",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
+  },
+  {
    "title": "Смоляне нарастили отправку удобрений в 1,7 раза и заняли третье место по версии РЖД",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORHJrYUFJTFVlMjZCZjRkMzdGWkptVDlWQmJnbzNWXzQwcm15SjEwanZsem1RcjY3Z29SSDZtcUVwNmNqd2pReWo1SEZMUzJFTUJaaVI2VXpBcXBtR2x1bjNyMlVPd3ZjdUo4aFMyLUs4UmJ4cU0xXzZFLUJIUFpyODB0enJaV200LW13enpxNGxsTmVBakNhRUcycw?oc=5",
    "source": "SmolNarod.ru",
@@ -443,6 +515,23 @@
    "id": "138d52b8e845a7f3",
    "categories": [
     "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "На Калининградской железной дороге выросла погрузка",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZklxeTVrQnJrRVA1MHVhb2pFVUpRaEdpd1drZFlyaXFuamdHVG9iRG8yTTA1S0stMU4tTkVWX0JEUXpuVUl6bFUtbVNSMDczbDViS0hzbmJwTVZISXNKNzQxdVM4XzNzMWE5QmN5eXdhWlZ2ZjEzU2RQSUhMZ1dsOGI4QWhqVXFDNzJtTTVJNzFtY0F2cUZhMA?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-07T14:31:06+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "f8163dccd369efc3",
+   "categories": [
+    "Грузовые перевозки"
    ],
    "regions": []
   },
@@ -2542,6 +2631,27 @@
    ],
    "regions": [
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Министры иностранных дел Центральной Азии и Азербайджана обсудили развитие регионального сотрудничества: Город Астана, 07 Октября 2026 года - новости на сайте gurk.kz",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGxHOS1tX2RwaG8wZkdwNU9GbDN0a0x5OVIzZTNPVWx6bWM0MXd2OHh1OXV6SFBHNHJQZWZmVER4UzZ3azAzbkRtYUx5Mm81b0Mzem1JR1FCOGJQa0QybTR6NUpDdXJleFJ3WS1WVmdUNkFfR3U3dFk0R3UwMWp1YUpGSTFpNWdXRWJXV3lmQ0ZaZVM1WURVdThmcDJJZFZrR3ljQnowaFJHa3NIRU5tXzdpSkFvd194WEprSzZJVXdjSC1L?oc=5",
+   "source": "gurk.kz",
+   "published": "2026-10-06T21:04:02+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "7f74e518a3d91cb0",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан",
+    "Центральная Азия",
+    "Каспий и Закавказье"
    ]
   },
   {
@@ -14287,15 +14397,15 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 53,
+   "count": 52,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 45,
    "error": "",
    "seconds": 0.4
   },
@@ -14319,9 +14429,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 41,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -14329,7 +14439,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -14359,7 +14469,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": "",
    "seconds": 0.3
   },
@@ -14369,7 +14479,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -14385,7 +14495,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -14417,13 +14527,13 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 46,
    "error": "",
    "seconds": 0.5
   },
@@ -14433,13 +14543,13 @@
    "ok": true,
    "count": 41,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
    "seconds": 0.4
   },
@@ -14449,15 +14559,15 @@
    "ok": true,
    "count": 54,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -14472,8 +14582,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f9531001970>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f25f45e3230>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -14481,7 +14591,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "seconds": 0.9
   },
   {
    "name": "PortNews",
@@ -14489,7 +14599,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -14497,7 +14607,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 1.7
   }
  ]
 }
