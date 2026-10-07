@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T00:51:21+00:00",
- "new_this_run": 62,
+ "generated_at": "2026-10-07T01:39:59+00:00",
+ "new_this_run": 64,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Расширение освоения морского пространства создает импульс для роста.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE9WOFRIaHpkRHFOTDZ1UTk1bTVuTFZkNG5nR3dCSEl4ZlNfLUdfUUZkaVFWWUhGLV9nTlFtaXFyd0dXSllXQmJtUWd0ek12QWRvQjFWOVpZUFFfNi1DX2FKN1Rkd1JmcjktdHplaW84TzVhYWxjRkpQV2xTWVFVT1FaV1lJVndRR2JTR25R?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-07T01:04:45+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "e9d7e1a4516bd927",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
   {
    "title": "Погрузка на железной дороге в Татарстане увеличилась почти на 8 процентов",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEItcHFHUkJabUxlRG1NZERHYXl4RWgyWThaQnAtQXZDa0VzOHVRMWVBYXozNWZiM1JGOVdNdm5GV1owc3ZmSDZkeEpsVVdqMTlncmUzVlF1QXZXSE1kWTZDYVdZY2N4MVBfUHRWWmFwQ2EyQUIya2ZPME9YUTVQWW9zc2tRNnB1cjRXMnRuaDJqNHo1clFBbG4yZHdUUVRCeTFyMnZkS2UwSUtoSmFTTUZRelJYLVJvTjZ30gHAAUFVX3lxTE5qdnRLci1tb3BrZEM5dDM5MnZVeXRYUG5ZTHlnOGpqZVdKaFF4SUxnaUFXUGNfSWo3QnVJWTkyNEVlME0ydlpMWm9jU3pOQ1JBNWs2WDRUb2E5VUdoaVlXS09rbXBfSmtZeU1ldXpVcm5aN2t5M0xqbXMzb1lBRUdhaHphNE90UzhIcnJDVS04SHhSaWpkcVdCbE1aWWpaYV9ISV81Y1diSEx2NE92bUFlVDFKOEtEUmVaWjN0aHRwZw?oc=5",
@@ -54,6 +71,23 @@
    "id": "b90fb6717098b787",
    "categories": [
     "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Пляжи «Сириуса» временно закрыли из-за возгорания танкера в Черном море",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjBqZXNuUnZLSDRkY2xXU2NNWllGMHkwcnFrNGJOZnFsdnpuY1dfZE9aMjZhanE4dWtGek13b1dpOHN4YS1QR0JDSFV4X3B1QVJOSU1WVlg3eExWZnFJRGktMERVUVBWcnptdmJoSjVtZDNFal94blNTTTk1bk1UY1Q0OFZ5QXN0VVYtYjREVlVINWxnNk1XbXIzaVdiTU1IYlFVZjNndTBLaGY5bXB1bnhKSQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-06T23:04:51+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Порты и Каспий"
+   ],
+   "id": "d02a865cfee7306a",
+   "categories": [
+    "Порты и Каспий"
    ],
    "regions": []
   },
@@ -658,6 +692,25 @@
    ],
    "regions": [],
    "also": []
+  },
+  {
+   "title": "Von der Leyen turns to Europe’s refineries as shrinking capacity raises energy security concerns",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnJEZFZmRmNZSHdLLXoxcFVwN01JVW5RcEdNRzZlbkxHMEVYa25tbmxET09PU05Ld3BiZ3E1dU1wNkNMc29GNUswa2Q5QXNEV3dKV0hIOWlSOFFpdVRaVHdCclN0Rm9lNmlHTzNuSjRlZU9yMTJNaVo1dzlvNjZFa3lfX0NTNHBSUVJPSDdITE1IWFVHa1p2MGtBSGZKb3dpNUFNeTlyenNSbnNFRXM4R25wVW5CUTg?oc=5",
+   "source": "Newswav",
+   "published": "2026-10-06T12:57:56+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "68bf6a4a91a3410f",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Европа"
+   ]
   },
   {
    "title": "Дастан Оспанов: Средний коридор должен развиваться как единая инфраструктурная система – ИНТЕРВЬЮ",
@@ -11615,7 +11668,7 @@
    "ok": true,
    "count": 47,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -11623,7 +11676,7 @@
    "ok": true,
    "count": 32,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -11631,7 +11684,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.6
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -11645,7 +11698,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 40,
    "error": "",
    "seconds": 0.4
   },
@@ -11669,9 +11722,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 25,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -11719,7 +11772,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -11727,7 +11780,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -11757,7 +11810,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": "",
    "seconds": 0.5
   },
@@ -11775,7 +11828,7 @@
    "ok": true,
    "count": 54,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -11783,7 +11836,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -11791,15 +11844,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f0dc39fc290>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f3f0cf045f0>, 'Con",
+   "seconds": 300.4
   },
   {
    "name": "РЖД-Партнёр",
@@ -11807,7 +11860,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "seconds": 1.2
   },
   {
    "name": "PortNews",
@@ -11815,7 +11868,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 2.6
   },
   {
    "name": "Kursiv",
@@ -11823,7 +11876,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.5
   }
  ]
 }
