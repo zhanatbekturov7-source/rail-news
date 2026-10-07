@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T01:39:59+00:00",
- "new_this_run": 64,
+ "generated_at": "2026-10-07T02:40:03+00:00",
+ "new_this_run": 65,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,43 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Will Trump’s campaign to choke Iran’s economy reshape trade in Central Asia?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXpxLTVQLWozVEZ1Q0U0MXpXOEtlbGdDbWNUdnQyVUhwTXp2OEZwR1dEcTRvNUtZVEJaYUpLcEd5MmtraVdqNjhWU3JSWmh3NjFzN1lrVjNRbjZ0eVo0RUJSNlRvUHYwd2JnMjZHcTBfUEJfdFlULXpFUTA3OXg3X3diZ3I1dkxONlRBaWt4LWFOWFNaMDM1ZnJCNkpvZ1BBT0lob1JQRQ?oc=5",
+   "source": "Amwaj.media",
+   "published": "2026-10-07T02:33:34+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "b4b398af14bfa0a1",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Вьетнам и Панама расширяют сотрудничество в сфере транспорта и портовой логистики.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlRobVBfYzBoTUsxbWV6OGR5N1NHaEFOX29RdXhjMms1U1poa2NvdndzT1ljeVVsd3ZyNHdKNlVqYW5qMUJfcXFBbmh2RGM0QVhENFhkSWVJMjNIemktNVFUbHBkYlEzc2VGVFp5aDJzTW1WTTBuMEtscnpXRlUtTFVVck1idHFzaXNUZlJnZw?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-07T02:01:13+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "25ae855c0445fc17",
+   "categories": [
+    "Порты и Каспий",
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
   {
    "title": "Расширение освоения морского пространства создает импульс для роста.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE9WOFRIaHpkRHFOTDZ1UTk1bTVuTFZkNG5nR3dCSEl4ZlNfLUdfUUZkaVFWWUhGLV9nTlFtaXFyd0dXSllXQmJtUWd0ek12QWRvQjFWOVpZUFFfNi1DX2FKN1Rkd1JmcjktdHplaW84TzVhYWxjRkpQV2xTWVFVT1FaV1lJVndRR2JTR25R?oc=5",
@@ -55,7 +92,8 @@
    "categories": [
     "Грузовые перевозки"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "Мост, соединяющий Юго-Восточную Азию и Латинскую Америку.",
@@ -691,7 +729,9 @@
     "Логистика и терминалы"
    ],
    "regions": [],
-   "also": []
+   "also": [
+    "ИА Чеченинфо"
+   ]
   },
   {
    "title": "Von der Leyen turns to Europe’s refineries as shrinking capacity raises energy security concerns",
@@ -1929,6 +1969,23 @@
     "Каспий и Закавказье",
     "Европа"
    ]
+  },
+  {
+   "title": "Токаев и султан Омана обсудили развитие сотрудничества в энергетике, логистике и ИИ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnVFVDhhUTdESk1NMldidW5nNDZXbDl3X0pWUDVIaTNBZDBlZGhZSnpHWHVsNVJqX2RwUFctbnIxbHd1ZUxkc3dac3dBX1hvbkdOdkVkd2VobFlRR1I1MjI0NzhfZzF1YklLZS1nNlQ5TnZ1ZTlWUEwxV3Y5TVRkZy0tNGk3Q1Z1cVUxOVE2Q0JKdFR3aUtPYkx1QnZmVWp1cVZyNDVBMTVlb2d1Sld2SGFnd3hpdw?oc=5",
+   "source": "Kazlenta.kz",
+   "published": "2026-10-06T09:36:55+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "b71fe15c7d6a0cbb",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "КТЖ хочет поднять тариф на тягу на 50%: что будет с билетами",
@@ -11666,7 +11723,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 46,
    "error": "",
    "seconds": 0.5
   },
@@ -11676,7 +11733,7 @@
    "ok": true,
    "count": 32,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -11684,7 +11741,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -11692,7 +11749,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -11722,9 +11779,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -11738,7 +11795,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
    "seconds": 0.4
   },
@@ -11748,7 +11805,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -11772,7 +11829,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -11780,7 +11837,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -11788,7 +11845,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -11802,7 +11859,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 34,
    "error": "",
    "seconds": 0.5
   },
@@ -11812,7 +11869,7 @@
    "ok": true,
    "count": 36,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -11826,7 +11883,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 54,
+   "count": 53,
    "error": "",
    "seconds": 0.6
   },
@@ -11834,7 +11891,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 23,
    "error": "",
    "seconds": 0.5
   },
@@ -11851,8 +11908,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f3f0cf045f0>, 'Con",
-   "seconds": 300.4
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f023fa9adb0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -11860,7 +11917,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -11868,7 +11925,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.6
+   "seconds": 1.2
   },
   {
    "name": "Kursiv",
@@ -11876,7 +11933,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.5
+   "seconds": 2.0
   }
  ]
 }
