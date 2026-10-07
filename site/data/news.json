@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T18:45:31+00:00",
- "new_this_run": 73,
+ "generated_at": "2026-10-07T19:39:17+00:00",
+ "new_this_run": 72,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,42 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "ТУРКЕСТАН: В АРЫСИ ЗАПУСТЯТ МАСЛОЗАВОД И ЛОГИСТИЧЕСКИЙ ЦЕНТР",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjhDaHhNT2hqZkNlM0o1ZzVNcDY2aFBlck12eWRwME5uQ1FJYjlvZFZvVzZlTUhCZUNJNHhzczJRSjZfQlU5YlNOY0U0dnAzd2tVdDZIUUlrSzRkUkVOejEwQ0JPRnktZUU3WWd0RWZOcjV2cWYtenR2aGlEQjNOUjAzTjUyenhDTjRWY1Rhbk4wUnZSRFg5LXNwX1lOLTg?oc=5",
+   "source": "Регистр ТВ Казахстан",
+   "published": "2026-10-07T18:56:25+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "fb71a8d30a30f21b",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "factor.am: В Армении в конкурсе на проектирование восстановления железных дорог участвовали казахстанские и узбекские компании, но не победили",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EMFFWOGhEa3dTcGpON1FrQUVIck14Tk1ac05odHo3NUZ5ZHdBTktmcll1d1lKSGp3aDVJM0Z6UnlXeGZqOXc?oc=5",
+   "source": "NEWS.am",
+   "published": "2026-10-07T18:27:28+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "90cb637b3c864f5b",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "UAE joins effort to build trans-Afghan railway",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWTzdoczg2MzJzOTBjQzk4TmlVdV96TFBUUjRuSnFpTWJ2YUFOcGRoX1pldi1KaEFkdjBsZFF0OTVsYnM5dUU1WGwwcnFqTVVsbkhoRzZsOW1pR2JDbkhORW9wb1lMaTBEQWs4SHppWHJtemNhamhiNg?oc=5",
@@ -77,7 +113,8 @@
    "regions": [
     "Центральная Азия",
     "Европа"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Министр: Возрастает роль Среднего коридора в формировании устойчивых связей между Востоком и Западом",
@@ -115,6 +152,25 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
+  },
+  {
+   "title": "Казахстан через три года выйдет на самообеспечение нефтепродуктами",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUhuZXM3Vk00LXF2NkhpVUU5c05sbzViVWMxRVR6SVEySEgzRGN3VDlzbVRHTWIxQzFUSXpkcWFrRXJWVThjVWpPM2hTb3p0MWVHaGdLZWw0TUVkS216OVVIUlhIRWFJU2IyS2J3dy0taUJsYWwtdUl2eHpGb2o5S2gxcHVJQ00xTV8tRkRCTnpKejR4UmJ0TjhMSU10XzFJNXfSAUpBVV95cUxNN3BpbkhpdWtITXNrOWRZcE5aeUpWQlB3ekhwbkh6ZnVmMmZ0SzhiZUJPNlg0MjlLZjdjX05RcFNzYXY2OUVMc1hpUQ?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-07T16:18:28+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "924aa40d557a1031",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Посольство США поздравило Кыргызстан с запуском первого спутника",
@@ -166,6 +222,23 @@
    "id": "b8c6ef3a257c8271",
    "categories": [
     "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Система онлайн-бронирования \"Кавказ. РФ\" появится на курорте \"Эльбрус\"",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1cwY190R1g1VHhXZUhiRFBnNHpKWTU0MDVOYVhLOTRaWktjalBzNDAtZXZ2cy1nbDRnS2VRUGY1Y000cXFHb1hvQ1AzbTlwVDJUelFHbVA2cXllMGZ3LWRvejVlanBEU3R6UGZZR2lZTjMwV0NwRHpudjZ6aTBJZF9FTVN3c043R3B0Wk5SOXA4VVBGOEFwSV9ZeG5DWE3SAUpBVV95cUxOdUtNaFg3OXVNNnhDZGJDblNmR2RqOHRCWGZVc2NfaXRBVkNVeXpLdTVGMzZheWJTVTlxUjhackJhV1RDLXhxNVVCUQ?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-07T15:15:54+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "6b382204d21bf6da",
+   "categories": [
+    "Инфраструктура и стройка"
    ],
    "regions": []
   },
@@ -541,7 +614,7 @@
    "title": "Через Синьцзян в Евразию: новая логистика Урумчи и Кашгара",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbjJtVGFKeHJaS3VzX0ZncVdSN2Z6Rmd6YnBvRXF5SDRXT00xRDc3aTdHTHgzRXBpeDJMUVVaV3V2aDlDai1uU3pueEoxZ2MteDRNUUMwSVNmd2xYSUJpYzN3TENEbVNPb2lycF9hbWNmeW9mYy1jc2NqZ05tYmw1cHI4b0FjVkJSSlVWeFNHTTc?oc=5",
    "source": "Казахстанская правда",
-   "published": "2026-10-07T13:04:32+00:00",
+   "published": "2026-10-07T13:03:45+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
@@ -3999,7 +4072,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Heckmann: Global supply chains are becoming increasingly complex",
@@ -14107,13 +14181,13 @@
    "ok": true,
    "count": 54,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "error": "",
    "seconds": 0.4
   },
@@ -14123,7 +14197,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -14147,7 +14221,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -14161,7 +14235,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 33,
    "error": "",
    "seconds": 0.5
   },
@@ -14177,7 +14251,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 31,
    "error": "",
    "seconds": 0.4
   },
@@ -14185,17 +14259,17 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -14203,7 +14277,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -14227,7 +14301,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -14235,13 +14309,13 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 42,
    "error": "",
    "seconds": 0.5
   },
@@ -14249,9 +14323,9 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 42,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -14265,15 +14339,15 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 53,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "seconds": 0.5
   },
@@ -14283,15 +14357,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.8
+   "seconds": 0.0
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f0aaa31b800>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f2ef1df2270>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -14299,7 +14373,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.7
+   "seconds": 1.6
   },
   {
    "name": "PortNews",
@@ -14307,7 +14381,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.7
+   "seconds": 2.1
   },
   {
    "name": "Kursiv",
@@ -14315,7 +14389,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.1
   }
  ]
 }
