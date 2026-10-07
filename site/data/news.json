@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T06:46:25+00:00",
- "new_this_run": 72,
+ "generated_at": "2026-10-07T07:42:01+00:00",
+ "new_this_run": 0,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -12054,178 +12054,178 @@
   {
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
-   "ok": true,
-   "count": 47,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9+%D0%BA%D0%BE%D1%80%D0%B8%D0%B4%D0%BE%D1%80%22+OR+%D0%A2%D0%",
+   "seconds": 8.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
-   "ok": true,
-   "count": 33,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Middle+Corridor%22+rail+OR+%22Trans-Caspian%22+when%3A3d&hl=en-US&gl=US&ceid=US:en",
+   "seconds": 5.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
-   "ok": true,
-   "count": 5,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D",
+   "seconds": 7.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
-   "ok": true,
-   "count": 5,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%94%D0%BE%D1%81%D1%82%D1%8B%D0%BA+OR+%D0%90%D0%BB%D1%82%D1%8B%D0%BD%D0%BA%D0%BE%D0%BB%D1%8C+OR+%D0%A5%",
+   "seconds": 9.5
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
-   "ok": true,
-   "count": 39,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=China+Europe+rail+freight+when%3A3d&hl=en-US&gl=US&ceid=US:en",
+   "seconds": 7.1
   },
   {
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
-   "ok": true,
-   "count": 1,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Eurasian+rail+container+transit+when%3A3d&hl=en-US&gl=US&ceid=US:en",
+   "seconds": 7.6
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
-   "ok": true,
-   "count": 6,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%9A%D0%A2%D0%96+%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D0%BA%D0%B8+O",
+   "seconds": 5.7
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
-   "ok": true,
-   "count": 23,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%A0%D0%96%D0%94+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0+OR+%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%",
+   "seconds": 6.8
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
-   "ok": true,
-   "count": 12,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5+%D0%BF%D0%B5%D",
+   "seconds": 9.6
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Kazakhstan+railway+freight+when%3A3d&hl=en-US&gl=US&ceid=US:en",
+   "seconds": 6.5
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
-   "ok": true,
-   "count": 12,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%9A%D0%B0%D0%B7%D1%82%D0%B5%D0%BC%D0%B8%D1%80%D1%82%D1%80%D0%B0%D0%BD%D1%81+OR+%D0%9A%D0%A2%D0%96+%D0%",
+   "seconds": 9.1
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
-   "ok": true,
-   "count": 8,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%BF%D0%BE%D0%BB%D1%83%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D1%8B+OR+%22%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BD%D",
+   "seconds": 7.8
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
-   "ok": true,
-   "count": 4,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D0%BE%D",
+   "seconds": 8.9
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
    "kind": "google",
-   "ok": true,
-   "count": 1,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=rolling+stock+wagons+Kazakhstan+OR+Uzbekistan+OR+Russia+when%3A3d&hl=en-US&gl=US&ceid=US:en",
+   "seconds": 9.9
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
-   "ok": true,
-   "count": 11,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%BF%D0%BE%D1%80%D1%82+%D0%90%D0%BA%D1%82%D0%B0%D1%83+OR+%D0%9A%D1%83%D1%80%D1%8B%D0%BA+%D0%BA%D0%BE%D0",
+   "seconds": 9.8
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
-   "ok": true,
-   "count": 7,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%9A%D0%B0%D1%81%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5+%D0%BC%D0%BE%D1%80%D0%B5+%D0%BF%D0%B0%D1%80%",
+   "seconds": 9.6
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
    "kind": "google",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
-   "seconds": 0.2
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%B6%2F%D0%B4+%D1%82%D0%B0%D1%80%D0%B8%D1%84%D1%8B+OR+%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8+%D0%BF%D0%BE",
+   "seconds": 7.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
-   "ok": true,
-   "count": 37,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5+%D1%82%D0%B0%D",
+   "seconds": 9.7
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
-   "ok": true,
-   "count": 39,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE+%D0%B6%D0%B5%D0%BB%D0%B5%D",
+   "seconds": 7.0
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%B2%D1%82%D0%BE%D1%80%D1%8B%D0%B5+%D0%BF%D1%83%D1%82%D0%B8+OR+%22%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B6",
+   "seconds": 7.2
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
-   "ok": true,
-   "count": 53,
-   "error": "",
-   "seconds": 0.5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D0%BB%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0+%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D",
+   "seconds": 8.9
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
-   "ok": true,
-   "count": 26,
-   "error": "",
-   "seconds": 0.5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%BE-%D0%BB%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D",
+   "seconds": 7.1
   },
   {
    "name": "RailFreight.com",
@@ -12240,7 +12240,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa5f53c8260>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fe10ad485c0>, 'Con",
    "seconds": 300.5
   },
   {
@@ -12248,8 +12248,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -12257,7 +12257,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.6
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
