@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T22:37:48+00:00",
+ "generated_at": "2026-10-07T23:36:14+00:00",
  "new_this_run": 70,
  "title": "КТТ Rail-News",
  "topics": [
@@ -23,6 +23,61 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Октябрьские перемены: что изменится в кошельках россиян",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZ05vc0o1QnFJbF9ROG1Zc09YMmtHZm1uQm5Sc1pDS0R4Y3hKbWMxTnpxMTFyQWxjaDFHZkhpeGU1eXpDMDZBSGlyUGZ4WHFNZXfSAVJBVV95cUxQWWdOb3NKNUJxSWxfUThtWXNPWDJrR2ZtbkJuUnNaQ0tEeGN4Sm1jMU56cTExckFsY2gxR2ZIaXhlNXl6QzA2QUhpclBmeFhxTWV3?oc=5",
+   "source": "Банки Юга.ру",
+   "published": "2026-10-07T23:19:37+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "b48d69b3e2d32317",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
+   "title": "Russia and Pakistan Sign Deal on Rail Connectivity",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ydTNHSkFzSHpYZGVEeXdJbURYM0pHOUd0Y2k1Q0NNTWR5cExLV0FpVnJ4RzZzRXhlaFppWm95TktRTkx2cXFyMTUxcnRPZ2NjaEdUYkxqRkdBSzNwQVY2ZlhRT1NUajVTSXRrZW8tTE1zeVU?oc=5",
+   "source": "Substack",
+   "published": "2026-10-07T23:00:40+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "ef8da5ae3ef22842",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
+   "title": "Railcar Market Faces Uncertainty: Fleet Shrinks as Carloads Rise | Trinity Industries CFO Warns - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2JUT0NSSVpvODNmb2VQSGZjV21aaU1HWTRoSVlOclVSdVRYVnRWNjlnZ01zRjBVZ1B1S1pOdEdCYTlsWllnVlJMTWR6WWhQUmdNM21Yek9EaU1mMVNPaXM1ZHhBLTI4WTZYamhHVnI4aFRmY3hQX2twRGxMcDdRSkU1Q0JKNkVSX1ZhRGZybWowUUVMcGhkeDJZc2pKeGdvYS1rVWZyS3lrNEttZmRxSmhIOXRQYVZkVXdj?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-07T22:31:03+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "8ba5c9016a16af13",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": []
+  },
   {
    "title": "ВБ предлагает Азербайджану создать сухопутный порт в Аляте",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWi1sNTNpOHJJTnMzTzZxb0hSdFJ6SHlIVUJ0M2hBSmhaZ25hWm5BQlhjREZ6MDA2aGZzQmM3X3pobWYySFZQX1FDWm5OOE50Y2k1RDdJczc5czc4TFA1VGJzbWxDcXdWVkhXeEhVREVjMlB4UnctWExBWXJfUElBOUtYcDI5Tlk?oc=5",
@@ -14453,15 +14508,15 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 53,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "error": "",
    "seconds": 0.4
   },
@@ -14485,15 +14540,15 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 40,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": "",
    "seconds": 0.3
   },
@@ -14509,9 +14564,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 32,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -14525,9 +14580,9 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 32,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -14535,7 +14590,7 @@
    "ok": true,
    "count": 16,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -14557,7 +14612,7 @@
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": "",
    "seconds": 0.3
   },
@@ -14567,7 +14622,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -14589,9 +14644,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -14599,7 +14654,7 @@
    "ok": true,
    "count": 40,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -14607,7 +14662,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -14623,7 +14678,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -14631,23 +14686,23 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f73212debd0>, 'Con",
-   "seconds": 300.7
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fb221a49100>, 'Con",
+   "seconds": 302.4
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 0.9
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.2
   },
   {
    "name": "PortNews",
@@ -14655,7 +14710,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.2
   },
   {
    "name": "Kursiv",
@@ -14663,7 +14718,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 1.8
   }
  ]
 }
