@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T03:41:05+00:00",
- "new_this_run": 62,
+ "generated_at": "2026-10-07T04:41:57+00:00",
+ "new_this_run": 67,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,68 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Адылбек Касымалиев поздравил работников гражданской авиации с профпраздником",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkN4a3otR01TWXJNLTVVeDFZN2VIdjFkVTZreUVTTVZFcVBSZmZSUUxHZUd2ZTF0d3dJNm12NFAyaU1SVWhPZUNVY1lCcHNNM21wM29tN3RfbWxpM3dGTGVMSWVuSVBmMGdmZFh4MUd4UkdSZXVHVWNtdHo2NTlmSXVEYWFzcm1WNDZGNDJHZmk5eGlhSERRVWVYSDExbEx4X0FjdF9Yd0lORVl5cVQ3R20wNXNXeVZtXzlsVg?oc=5",
+   "source": "open.kg",
+   "published": "2026-10-07T04:01:14+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "b43edaf6545ea226",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Инвестиции в движение: что стоит за обновлением парка КТЖ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVG15RWVmWE9CUVRXMVJWSVJ6WGFKdjJ4MWxIbDRJcFZRVjFNRkplR2VCY3IzRjhEeDR1WVVCcU1wdVpKdkJjR1FRWFlVb2I5bUJBMzdIdldNV3p2czFlTkkwWE5KRDd6QVFkRXBaQUZQMlFoNHdrTG5MbVlvbVZfQlJ1bF83dlQxUm9LVXNMRUJrNFphRHFqU2pFc2k1SVU?oc=5",
+   "source": "TengriNews",
+   "published": "2026-10-07T04:01:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "1cac8ae412681473",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Инвестиции в инфраструктуру: КТЖ расширяет грузовые маршруты",
+   "url": "https://kz.kursiv.media/2026-10-07/svvo-investiczii-v-infrastrukturu-ktzh-rasshiryaet-gruzovye-marshruty/?utm_source=rss&utm_medium=rss&utm_campaign=svvo-investiczii-v-infrastrukturu-ktzh-rasshiryaet-gruzovye-marshruty",
+   "source": "Kursiv",
+   "published": "2026-10-07T04:00:00+00:00",
+   "summary": "Объем грузов, проходящих через Казахстан, растет, и возможности железной дороги становятся одним из условий дальнейшего развития транзита. АО «НК «Қазақстан темір жолы» как оператор магистральной железнодорожной сети страны отвечает на этот спрос инвестициями в инфраструктуру: строит новые линии, увеличивает…",
+   "lang": "ru",
+   "via": "Kursiv",
+   "q_topics": [
+    "Транзит Китай — Европа",
+    "Грузовые перевозки",
+    "Вагонный парк и подвижной состав",
+    "Инфраструктура и стройка"
+   ],
+   "also": [
+    "Kursiv Media"
+   ],
+   "id": "9255a91c7737574d",
+   "categories": [
+    "Транзит Китай — Европа",
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "'Tianshan' China-Europe freight trains maintain busy schedule during National Day holiday",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUl84N0E1RTExR3pTUERxeUdGbW9HNHpjTzItU1hKbERyejBCaU95TVpma3Fsc1FjdV9oVmVETXRqREZkZDFVay1kMDhjek16VDV2eUo1V2plSDd5dFpLYTQ4M2RraXR4WUhweDEtX2hpOWE5VnJWdlBvSWx0a3hTR19xX00wSlJOQmJkUmJ0OF9salRLUnB3SzI5TGphTEpQcjdibDVNcl9NOEJVUnBpWklYaVVrWGtzM2dHNWU1ZTIteko5cjU3SHNBZHdxbEJLUHQ4bXpn?oc=5",
@@ -153,7 +215,7 @@
    "title": "Peak season runs long as AI demand and port congestion keep capacity tight",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFRHODJOekpxOGVXQUt2Zlp2bnlMdXVfRU5VUkc5ajdfeU05T2dsOEN0VWVDbmRhN3FfcXZNTXBBYmRyMVZwejNVMFFvdTBEdDJpNkFOSmhkeXBMaS1WazFYNm9fcm1haXdaeDh3ZGxBS3RHZmF6dTZDbDBsbVZmNnRLWTE1RVBjOGpleG05M1pCSGpEeVhvRWpYZXpvMW5RNVA2T0loamVWZFl4U2VOOWpzS0tvS21EdWp5ejlzU1BXYXUyYVJtbVEyZlZqT1RRclUzQkx2blhaQWExX05z?oc=5",
    "source": "DC Velocity",
-   "published": "2026-10-06T21:45:09+00:00",
+   "published": "2026-10-06T21:44:32+00:00",
    "summary": "",
    "lang": "en",
    "via": "Google News",
@@ -4251,7 +4313,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Возможности транскаспийского маршрута не устраивают ни Москву, ни Тегеран / Экономика",
@@ -4271,6 +4334,23 @@
    "regions": [
     "Россия"
    ]
+  },
+  {
+   "title": "Неделя-24. Задержания прокурора и депутата и страшная авария в Джалал-Абаде",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41WlVEbzFpVmlhdlJUQlBkZ0Q1bDBsQW1qaFBIWmJMZThpcVhZWllFdjhhbTF2d2d4eUYxOFV1MkQ5dw?oc=5",
+   "source": "24.KG",
+   "published": "2026-10-05T17:01:53+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "ae68d90c7516765c",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "Послы Азербайджана и Таджикистана в Австрии обсудили значение Среднего коридора",
@@ -11748,13 +11828,13 @@
    "ok": true,
    "count": 46,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 33,
    "error": "",
    "seconds": 0.3
   },
@@ -11764,13 +11844,13 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": "",
    "seconds": 0.3
   },
@@ -11778,7 +11858,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 39,
    "error": "",
    "seconds": 0.4
   },
@@ -11788,7 +11868,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -11802,7 +11882,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "seconds": 0.3
   },
@@ -11820,7 +11900,7 @@
    "ok": true,
    "count": 29,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -11834,7 +11914,7 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
    "seconds": 0.3
   },
@@ -11882,23 +11962,23 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 34,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.8
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 36,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.7
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 9,
    "error": "",
    "seconds": 0.4
   },
@@ -11906,9 +11986,9 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 53,
+   "count": 52,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -11916,7 +11996,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.7
   },
   {
    "name": "RailFreight.com",
@@ -11924,15 +12004,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.0
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f968ff3f800>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f10086f2180>, 'Con",
+   "seconds": 300.4
   },
   {
    "name": "РЖД-Партнёр",
@@ -11940,7 +12020,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.6
   },
   {
    "name": "PortNews",
@@ -11948,7 +12028,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 2.1
   },
   {
    "name": "Kursiv",
@@ -11956,7 +12036,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.3
   }
  ]
 }
