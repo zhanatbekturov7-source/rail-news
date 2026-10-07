@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T04:41:57+00:00",
- "new_this_run": 67,
+ "generated_at": "2026-10-07T05:40:27+00:00",
+ "new_this_run": 66,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,42 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Новые пассажирские вагоны на отдельных маршрутах запустит Красноярская железная дорога",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmcxbTVSdS1vcVV0NnlwaGxua255b0NxRW9XbXNSQ2F4Sy1KZzNKN1o0Z2R5LVBRbDFneWxjelpMNUp6Wk1xMFU1cC00UndrRHA3cld2TXotbGViNlZaUXViamdhdFdFYmZTX0J3aWJSQjZzYW4yRGNHSXJyUml4YUpOdk9sdXJESXhGRTh5TUduVkMtcHhnZlZ0Zm5KZmlTaGswUUhJUUdQa0dndlFoS0Z0cXlnamNmemwwNGszTXpwckM5UlI0UzJNUQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-07T05:05:19+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "0616a0daba8d8fbf",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Казахстанские железные дорогие поставили цель разгрузить перегруженные узлы и границы",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWJZeEE0ZnA5dXhGLVJiZzRJVTR0UWNnd2w2Z1VqMl8wNjFpZlZaMEZwaUFaTzBFOFZzbG1OY0N5QXJRY3AxemlaMHlIT1J0U0pRa2laZnh4VlFUQzd1Y0cwdjJCRVZVWVA3Q3BIWnc3SUFuYUUxS3B2c2RmdTBQQjhGeGVsUmxhcTlFeVJpQVNHTFU?oc=5",
+   "source": "Правда.Ру",
+   "published": "2026-10-07T04:50:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "622bd42e82398923",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Адылбек Касымалиев поздравил работников гражданской авиации с профпраздником",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkN4a3otR01TWXJNLTVVeDFZN2VIdjFkVTZreUVTTVZFcVBSZmZSUUxHZUd2ZTF0d3dJNm12NFAyaU1SVWhPZUNVY1lCcHNNM21wM29tN3RfbWxpM3dGTGVMSWVuSVBmMGdmZFh4MUd4UkdSZXVHVWNtdHo2NTlmSXVEYWFzcm1WNDZGNDJHZmk5eGlhSERRVWVYSDExbEx4X0FjdF9Yd0lORVl5cVQ3R20wNXNXeVZtXzlsVg?oc=5",
@@ -104,6 +140,23 @@
     "Китай",
     "Европа"
    ]
+  },
+  {
+   "title": "В Ноокенском районе 9.16 га пашни перевели под строительство многоэтажек",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBncmJTUTVwZzVtakE0MEZoYVBMS1hUWE44MUZ1UWNyaENSTlhNR3lDcVo4Vmo4NXB1dnJrUndrN3VXM3c5cTJfMC10QmFtcEtaYUI0bUZ0YXVQZzZoejV4bXhjX1FiOV9UVmFmT2dfOFVkMjFCVE1lX3piUzhGbW8?oc=5",
+   "source": "Economist.kg",
+   "published": "2026-10-07T03:00:05+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "80a860b2d60ed8e7",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "Will Trump’s campaign to choke Iran’s economy reshape trade in Central Asia?",
@@ -2343,6 +2396,26 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
+  },
+  {
+   "title": "В Казазахстане \"КТЖ-Пассажирские локомотивы\" запросила повышение тарифов на тягу на 50%",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXJTMDBaMDhnaUJwRGR1NFI2a01PamRnaHFIZ0xELWFicjFkdHk1dTZxd0N4Um5hLUlNVjVNa2dYVm5aenFqdXRSemFuZTZwVFFPZGd1QWl2eExoUzI1UG9LNVBLM3BuQXFaV2hUaDNHeXloZ2EtczMxSGhpZFhnYTFGRTRuS045aU80?oc=5",
+   "source": "Правда.Ру",
+   "published": "2026-10-06T08:42:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "6a2a1c0351d24037",
+   "categories": [
+    "Вагонный парк и подвижной состав",
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Бесплатные WhatsApp и Telegram обещают предоставлять пассажирам в КТЖ",
@@ -11850,7 +11923,7 @@
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
    "seconds": 0.3
   },
@@ -11874,7 +11947,7 @@
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
    "seconds": 0.3
   },
@@ -11882,15 +11955,15 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "error": "",
    "seconds": 0.4
   },
@@ -11906,7 +11979,7 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
    "seconds": 0.3
   },
@@ -11924,7 +11997,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -11948,7 +12021,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -11962,17 +12035,17 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 36,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 38,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -11988,7 +12061,7 @@
    "ok": true,
    "count": 52,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -11996,7 +12069,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -12004,14 +12077,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.0
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f10086f2180>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f2457fabad0>, 'Con",
    "seconds": 300.4
   },
   {
@@ -12020,7 +12093,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.6
+   "seconds": 1.3
   },
   {
    "name": "PortNews",
@@ -12028,7 +12101,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -12036,7 +12109,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.3
+   "seconds": 2.5
   }
  ]
 }
