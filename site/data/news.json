@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T21:39:56+00:00",
- "new_this_run": 74,
+ "generated_at": "2026-10-07T22:37:48+00:00",
+ "new_this_run": 70,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "ВБ предлагает Азербайджану создать сухопутный порт в Аляте",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWi1sNTNpOHJJTnMzTzZxb0hSdFJ6SHlIVUJ0M2hBSmhaZ25hWm5BQlhjREZ6MDA2aGZzQmM3X3pobWYySFZQX1FDWm5OOE50Y2k1RDdJczc5czc4TFA1VGJzbWxDcXdWVkhXeEhVREVjMlB4UnctWExBWXJfUElBOUtYcDI5Tlk?oc=5",
+   "source": "Каспийский вестник",
+   "published": "2026-10-07T22:11:06+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "57b5a61469f94da5",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
   {
    "title": "China’s Export Boom Faces a Potential Ceiling as Trading Partners Struggle to Absorb More Goods",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3dMNGlJcE9CT0pGaVEwbHdCWTJmRllnMDJWN29xa2pkN2dMdzVhTFNrbTJlNUlyZzRZa0JQeE41S1k2bEJyMmpMd0pEdnI1bExnbXE2Y3dObVFVOVRfdGlrZ3dpVG1rVkRlLVJJQi1CZ18tR1A1VnV3Z293N1VwTjNrSW5UejNWcXVoUU1GM2tVcGdBbnhsVHE4T3FWRVFmb0U1SnlROHVUSVFidDZFMC1QT0laNmpiSWc?oc=5",
@@ -134,6 +153,23 @@
    "regions": [
     "Россия"
    ]
+  },
+  {
+   "title": "Global Gateway и логистика Евразии стали темой Берлинского Евразийского клуба",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWVkMjJRMzA1R25HaGwwLUt2WU0tRWtmanpmQm9iMkhmc3dXWjhWS0tIM0o2SHp4aGdSN0hiWUhLbXNSUjJMQjZpd0xPa0tXVmN5dGQ5dGVOWVUtb25UV1Q0UDBDWDBnZGFleW1kLWFCbHZGOUpfQU5lNURkZDRNNENqYklvNzRfUGQtU0Nrc2VxdExFdURGcm1RRGxGamdzdF9yc0VBc2NNUWZhODBaWk15a3rSAbYBQVVfeXFMTThIZWFwTk5tWFR2cW9TOVZQUk9kcTlPQWZUUDVsNEhFNmJvcFFyUHpFZVdIMDRMM3VfTnloQjB6N3l4UmNhVkxpemlSQUV2SVhZSXg3a016ME1TQUpMS0NPajN5eGdzOTFnMHVxTkpJRkJPVncwNlJjMXpPM1ZlSHMyRmxjMzBEallMYTNfR0swZU55YzJlYVFMWXZJRUZxcTBaMXZGTVhzRW5FeTkzWHZPTXRnOWc?oc=5",
+   "source": "Казинформ",
+   "published": "2026-10-07T19:14:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "b27cfe5ab8bbdad9",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "ТУРКЕСТАН: В АРЫСИ ЗАПУСТЯТ МАСЛОЗАВОД И ЛОГИСТИЧЕСКИЙ ЦЕНТР",
@@ -319,6 +355,23 @@
    "regions": [
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "Latvia says its Rail Baltica main line cannot be built by 2030",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3FVNlNSUnZWbXRJb2RlZ3Y5RklLTVFOMWVvbUtraDFoX2hzLWlWNm1QbzlhNUJpazlybDBnUFFyOHN0eFpTdFR5RlduVlpHSUVIMmNuMXBXVUFBODE5Vm54M2g4TlNVWGtPRjRVVEJmTkJuRHVEOTB1aFAwWncwTlpwaURFZ2dEWGh0U2JQRFhDR3Jf?oc=5",
+   "source": "Railway Supply",
+   "published": "2026-10-07T15:48:26+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "231ff274739159c0",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
   },
   {
    "title": "В феврале в России вырастет размер пособия на погребение",
@@ -896,6 +949,9 @@
    ],
    "regions": [
     "Каспий и Закавказье"
+   ],
+   "also": [
+    "Baku.ws"
    ]
   },
   {
@@ -1406,7 +1462,7 @@
    "title": "Азербайджан обсудил с нидерландской компанией логистические проекты",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTG9wZlN4eVVrSXBEbkRnOENDWkVxcXBicUxkRlpGM1dEaG5oRFpVSGNPT1c0bTdxNXJOT3BqUVg1R2VMQTJzTzZRQS1Ua2pMdXc?oc=5",
    "source": "Day.Az",
-   "published": "2026-10-07T10:29:58+00:00",
+   "published": "2026-10-07T10:28:25+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
@@ -14399,7 +14455,7 @@
    "ok": true,
    "count": 52,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -14415,7 +14471,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -14431,7 +14487,7 @@
    "ok": true,
    "count": 41,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -14445,7 +14501,7 @@
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
    "seconds": 0.3
   },
@@ -14455,7 +14511,7 @@
    "ok": true,
    "count": 33,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -14469,15 +14525,15 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 33,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": "",
    "seconds": 0.3
   },
@@ -14487,13 +14543,13 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
    "seconds": 0.4
   },
@@ -14519,7 +14575,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -14533,15 +14589,15 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 45,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 40,
    "error": "",
    "seconds": 0.5
   },
@@ -14557,9 +14613,9 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 54,
+   "count": 53,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -14567,7 +14623,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -14575,15 +14631,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f25f45e3230>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f73212debd0>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
@@ -14599,7 +14655,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.9
+   "seconds": 1.5
   },
   {
    "name": "Kursiv",
@@ -14607,7 +14663,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.7
+   "seconds": 2.4
   }
  ]
 }
