@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09T01:41:54+00:00",
- "new_this_run": 66,
+ "generated_at": "2026-10-09T02:39:31+00:00",
+ "new_this_run": 71,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Минобороны России отчиталось об ударе по судну с грузом для ВСУ",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGNjamhtRl9mTGxYaUxJeTdLSk9RNTBJd2JfSlJrUUc1RmRQMFZna1dHVmdpZXVJS1hGZUpkZmJVZHBkdXhiQlI1dnNJMzFMQjQtUmx6WmpVbE4tYkxEVHA3UnBKNGdkajNQMXhDQk5OTE5UZ1ROWnRaUWl6dm90RXQ1M3VCVkRiOGtfdmJGb196V3c1WmRsS2czeDFmbkt0TDhUdzRUeXpYdw?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-09T02:13:54+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Порты и Каспий"
+   ],
+   "id": "0629b06038fcb69e",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
   {
    "title": "Pinglu Canal Opens to Boost China-ASEAN Connectivity and Trade",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0o4a0I3c0dIa2JzWDhDc21PM01Cd0dKYVhwZU4xcWFuelozZ0VaSmd2WkZNMjNwUHpLeDhRLTEyWk9FZ25rMjBNalZILWZMYS0xMzdLSWNlYkREajZTdWp5M2tpX0wyYjdzNFh3UnpmYUZYVlkwa1d5T1dBaHFmaUNMbmNfdXVqRF8xUnBYTVBKR0d4SWc?oc=5",
@@ -2900,7 +2919,8 @@
    ],
    "also": [
     "knews.kg",
-    "K-News"
+    "K-News",
+    "КирТАГ"
    ],
    "id": "c12062bff86c8e34",
    "categories": [
@@ -5527,6 +5547,25 @@
    ]
   },
   {
+   "title": "Туркменистан принял четырехстороннюю встречу по развитию Среднего коридора",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZUctenhQR3Q5TkhleHMtVUZndkFtUXhQNXVlTDJ2YWUycHp3bXUzU1RlNHRVdl9takhHUzFCOHhZcGd5bW9ZOEVaNURldkZfTUVoc3JRTmFpNk5PaEZLNjhLZnlqU3VGMzhLSkRScGRDWnowVENlUVh4RU14Z0xJYmtFYUoxR1lLZ2pXUDF4UGNEWnl4VGZmVC03eFFmS1hwS05wSEV5a2JHQ3Atb2VhU2hsWVpSYXZKRnNwZFQ1VE5ndy1YN1dLUng0WlBKSC05a1pCTlp2a3ZhcGk0?oc=5",
+   "source": "Turkmenportal.com",
+   "published": "2026-10-07T07:00:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "941d8a0ac8df0fde",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
    "title": "Armenia has legal grounds to terminate Russian railway concession, Pashinyan says",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDRGRzSmRCM192TWNub21nWjRjOHlaR3o2R241anl6OUNxY3pXcFdNQkJ1SWJyZDU1XzQ3MUFlNnhaaEc0Z2hBbzRPOA?oc=5",
    "source": "CIVILNET",
@@ -5657,6 +5696,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "EBRD backs Kyiv metro fleet renewal, improved accessibility and driver training",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdE1adkc2dFNpMW5TazdEQjZTcDRLMzl2X09hRXkyMy15Umpja3ItZzQ5TzhuTVNSbGMtS1pROERDMXJhZVpoS0ViZm13U196N2gxMEZ4dmZSdUI0NERkZVRhbmp2WXBFcm1ITG9fV0xhMHA5bERBQUlYXzdTYjJOdUtRcklmRkJWQ3pvRWVsek1pZkg0U1lTYmZTLTdEX01OaF91al8zQTlhZnU2MkpjZldZSUZZWHpFMXI1bGM2b1RFQXB3LXVQVA?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-07T06:00:32+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "ad19c04c3fe0acf9",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
   },
   {
    "title": "КТЖ провело ярмарку вакансий для студентов ALT Университета",
@@ -10624,14 +10680,21 @@
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
-    "Грузовые перевозки"
+    "Грузовые перевозки",
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
    ],
    "id": "0cfbe09311b50e62",
    "categories": [
-    "Грузовые перевозки"
+    "Грузовые перевозки",
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
    ],
    "regions": [
     "Центральная Азия"
+   ],
+   "also": [
+    "Asiais.ru"
    ]
   },
   {
@@ -18224,7 +18287,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 58,
+   "count": 59,
    "error": "",
    "seconds": 0.5
   },
@@ -18232,7 +18295,7 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 41,
    "error": "",
    "seconds": 0.4
   },
@@ -18256,7 +18319,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 42,
    "error": "",
    "seconds": 0.4
   },
@@ -18274,7 +18337,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -18282,13 +18345,13 @@
    "ok": true,
    "count": 37,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
    "seconds": 0.4
   },
@@ -18306,7 +18369,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -18322,7 +18385,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -18344,7 +18407,7 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
    "seconds": 0.3
   },
@@ -18360,7 +18423,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 45,
    "error": "",
    "seconds": 0.5
   },
@@ -18376,7 +18439,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "error": "",
    "seconds": 0.4
   },
@@ -18386,13 +18449,13 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 30,
    "error": "",
    "seconds": 0.5
   },
@@ -18402,15 +18465,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f19f6dee060>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f94d13b8cb0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -18418,7 +18481,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.0
+   "seconds": 0.9
   },
   {
    "name": "PortNews",
@@ -18426,7 +18489,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.9
+   "seconds": 1.7
   },
   {
    "name": "Kursiv",
