@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T02:39:31+00:00",
+ "generated_at": "2026-10-09T03:41:42+00:00",
  "new_this_run": 71,
  "title": "КТТ Rail-News",
  "topics": [
@@ -41,6 +41,46 @@
    "regions": [
     "Россия"
    ]
+  },
+  {
+   "title": "\"Одно путешествие - несколько стран\". Что Кыргызстан предложил странам ЦА и Азербайджану",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSTlGbEdZeTNrOHFXQTRnSk5zQWNMeGRhd1YzNS1KXzNfdl9aUzVXV0pmMWJpRlQ5ZVhvdHNHSHdLZC1sdVNhSTlRZkpQZHg3MFR3bGhOUTdONjIzRElaMllnWEVsUzNRNVdxV3RTZUdEMWlhVjhCNk9EMVBMeGZnVS02MHE1d2M3MFdZMVVoSkhpWHo4S1g0Z1FKelZKVFVlWFptNjFISU01OG1Kd3NsVlRsZkNEZjJLVmZPUEVVb3ZCVXpUUWp1cTZCN3gwbU0?oc=5",
+   "source": "open.kg",
+   "published": "2026-10-09T02:11:29+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "also": [
+    "Кактус – новости Кыргызстана и Бишкека"
+   ],
+   "id": "f19fa65f2246937a",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Маршруты и доступ на рынки: какие задачи обозначили в ЕЭК",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXR2VWo5UEh6WkZXY1dtLVNLYUJuRDljT2FmNU1VWDVSeHBQSmJoWXJMRmF4S3lZYUR6bVN2REZoTlRvNHp6eVRSNGFCdWJBUzdXaWU0Z29SLWc0VURDMzdTeHYxQlJPTWN4d2pGNVUzVWhoTFM1LVI4S2lCWjA2R01FczhmUzQ3alRSRDRZamJLa0xzMlE?oc=5",
+   "source": "DKNews.kz",
+   "published": "2026-10-09T02:01:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "860619b326c90c63",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "Pinglu Canal Opens to Boost China-ASEAN Connectivity and Trade",
@@ -2643,6 +2683,23 @@
    "regions": [
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "Двум подросткам в Приморье дали по восемь лет за поджоги на железной дороге",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVp5ZnFZU1dIN3BkVkZvbnFNTEl2VURQZlpnM0xsTWZWNFU5bGd3NGx6RjI1VUpMSnZXODlEMEVTc0ZxUGRmdTR2LThEN0M2UDN2MkR6ZkFPNTFNUjBhVGMzS240dW8xWHRERUtRMS1fcWVmazQ3SG52Zkh4Sy1jTjRVVmZpTHcyMlFDbHBTRUs4bHBjSkFNSXpBZkdvVWx4M2dtNV9QTXlVWEtPU1NhWW14R1V2Zw?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-08T06:31:07+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "3db8eca9013d8405",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "Turkmenistan hosted a quadrilateral meeting on the development of the Middle Corridor",
@@ -18287,15 +18344,15 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 59,
+   "count": 58,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 39,
    "error": "",
    "seconds": 0.4
   },
@@ -18343,9 +18400,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 38,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -18359,17 +18416,17 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -18385,7 +18442,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -18401,7 +18458,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -18423,7 +18480,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 43,
    "error": "",
    "seconds": 0.5
   },
@@ -18431,15 +18488,15 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": "",
    "seconds": 0.4
   },
@@ -18447,15 +18504,15 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 31,
    "error": "",
    "seconds": 0.5
   },
@@ -18472,8 +18529,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f94d13b8cb0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f832d961d00>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -18481,7 +18538,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 0.9
+   "seconds": 1.2
   },
   {
    "name": "PortNews",
@@ -18489,7 +18546,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.7
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -18497,7 +18554,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.1
   }
  ]
 }
