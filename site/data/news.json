@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09T17:39:06+00:00",
- "new_this_run": 77,
+ "generated_at": "2026-10-09T18:44:01+00:00",
+ "new_this_run": 78,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,42 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "От торговли к технологиям: как Казахстан предлагает обновить модель сотрудничества в СНГ",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUFTQ1NkR1pRTGNWOEhMSzJoVEZEaU1CQWw4THc4akhMMERCR015MEZlSHRKOW9nZXp6RjVOR3dEbDc0X0loWmlfUDVJWDFGYkFIMmdSVXRSV3F5Ni11enZxR0dYWUNFVUwtUkZuMXNZeDQ4aDBUN0d3Uzh4YzVUdUdNTUxNa3FMdmdXRFVacm1UeWE2ZElTM0VUUmJwazBLVlhwMU13S1doWktvU1otTWFXdkbSAbYBQVVfeXFMUEZNekk0Q3lxamVYajVVQm9UYmd1WGdvalE3WllWZVlTdk41YTFzeXRBZmtyYjNFemFwRWFXcUc1VkNVU0p4UGNxb1ZXTDI3QWZvTnBaWXRXTW9vWmV0LVRtNVMwenItTC1SbnpzQ2QwNnN0d3hBOXlOcVFFSnc0bU1WOGo4UXN4cXBFeEp6dUpaWlhMOVU5SVNwS3duZWo1bjZBTm9HRjBNNUxFTjFTNkJTVjE3Wnc?oc=5",
+   "source": "Казинформ",
+   "published": "2026-10-09T18:15:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "7e134613704b208e",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "«Заявления дня»: сказано с трибуны",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVmVOU2FSb1ZZREJMa3VKbnF6R3g3eXZtRzlEVDNZODd3OHhuYXd2c28teVJyMnZFMUpIODNpXzhLcmdxLXdlVkhHQXgtYzQyVTMwR2dyV0I3VXJoQWJuZjJhMXJSNncxR0lscF96dXdweTNoSHYwVkpmVVB2WEg2LUhEYw?oc=5",
+   "source": "Vologda-poisk.ru",
+   "published": "2026-10-09T18:13:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "22a5cbdd86ea18e6",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
    "title": "Автомобиль попал под поезд в Костанайской области",
    "url": "https://kz.kursiv.media/2026-10-09/lngr-kostanay-region-car-train/?utm_source=rss&utm_medium=rss&utm_campaign=lngr-kostanay-region-car-train",
    "source": "Kursiv",
@@ -37,6 +73,46 @@
     "Вагонный парк и подвижной состав"
    ],
    "regions": []
+  },
+  {
+   "title": "Визит Президента в Туркменистан: Политика стратегического партнерства, простирающегося от пространства СНГ до Центральной Азии",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMExGWnFzMUZvNFNUcmJJektoQndBVU9FV1h6Um5felFuclFvX1NQakFIQW1JN2ROX0dIQlpHaEJXd2pBSE5MYkhSTUZJaFdBYkFGdU1HTXdBYzVSZWwxeVo5MDZHSUFydEQ3VEZBdFhabVhCRVZzb01PRHE2YTBEZENGUGh1WlB0eFMzTXAzWkRuX0tPY3ZuVWZPdXkxM0RQSUxKbm1jV0NDdEJXYmhESk5KSWoweHFDV2VSVjVtekVvbTMzb0diZ0NYVmZPUHlHNUlJc0trN1U5aVBiX1pTOVlXSkJ3RzJ5cHBlUk9IamFjR3JKTTU5Qg?oc=5",
+   "source": "AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi",
+   "published": "2026-10-09T17:31:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "8f42efafe3c79e2d",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Middle Corridor, Kazakhstan cuts transit time to China to 13–17 days",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzBPU3VhVldWT3BBbGpuLTBycUZveFpMODRqdzN0cUZiblk2cVoydnpwMDl3X0ZoT1gydkMxNnhjbUlVMmhXd0dpQVVCWGt5eU1IUnB6QWh2b21hT2dTUmhQQ2NtRnNrSTRLSTFzd1U2ejdVaXJ1VFcyVmcxRHBPTXpwRm1La09Ec1h1WnU0aUdfRk9JZDNuZk0yMmQzZkVSWlFYd1RNT2VYdTdMQ0tZ?oc=5",
+   "source": "AdriaPorts",
+   "published": "2026-10-09T17:30:05+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "7723573a5dfc6b0a",
+   "categories": [
+    "Средний коридор и ТМТМ",
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай",
+    "Казахстан"
+   ]
   },
   {
    "title": "World Rail Market Study 2026: Rail Market to Reach €266.8bn by 2029-31 - News and Statistics",
@@ -84,6 +160,23 @@
     "Тарифы и регулирование"
    ],
    "id": "7e4350919b15596c",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Индекс инфляции в сентябре 2026 года: яйца и мясо подорожали, а овощи подешевели",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaVpMVFhibGpPaU8zMHA2Z2xkNmRXRTE0OWd6SnU5dWs5X0xSdXlPSEFoS0JDSEpBTzJiUHpaRG1rVFRxOFFDMVd1LVU3aVoxamZtTW55d0VMVnFkckhjd1VOVUdvdTQwRjkyaWZVa2c5WkV4WG1OY2N1ZzBkR05hOUxqZlBlVFROYkJMTGFrV2xtbHVIMndyUDZ1a1lyQWkxdDJacS1jc19zaFgzSVNPalQtRkJXQzM0elhNRG8zLWRtaVY0aHB6Uk5zSFZoWlQ5d3VZTE5XbXZpQW5YeVHSAeMBQVVfeXFMTnNLb01ad0l4U09Dci1lWmhvcTdnSms0a0cyd3FIQ21CMkRJNkR1Ukc3UjFLbWRudkduaURuLXhPYXJFa004NzFqVmJyVV82bEFreXE2MGNlTC0xdElLaE5Pd3V4aG51aVpNLWJYU3pWQ1lGNTROWUhTajZ2cHZhMklORXdMemRidkUyZkt0U1p2V0xFNXZ5YWxSVkgyT2NDQXBlSnliZGJLeXlsM1lTdkFrdlFUWmowNEFiUExmNS1hdXBsZDZVWDI0N0VZOW1TblozbERTQ05jZ1VYejJZdF9VWDQ?oc=5",
+   "source": "Факти ICTV",
+   "published": "2026-10-09T16:24:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "ee4e6be73aee6189",
    "categories": [
     "Тарифы и регулирование"
    ],
@@ -347,6 +440,23 @@
    "regions": [
     "Каспий и Закавказье"
    ]
+  },
+  {
+   "title": "Бишкек привезет 10 американских локомотивов за 53 млн долларов",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkFRVUFEQ3ZiT0NVZWNQYjRkU2hQY2hwcF9qaTFJcHl4RUhBdzFqZWt5Y2RXM1RxX2UyU3NZRGU3NExwWUcwdF9EWmVxeTdyZkFUa2ZIU080c1oxTTRkRlc3bS1TMGE4VWZtdDd5b2xkS1E1Mllrdmg3Y054ZWRUSU9FOU5qUFJBXzRIeDVHZFU3d0QzS0RSVG4wbFBaZDA5eFlyWklNYw?oc=5",
+   "source": "open.kg",
+   "published": "2026-10-09T14:20:12+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "624469b65040f87f",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": []
   },
   {
    "title": "Azerbaijani Permanent Mission to UN: TRIPP to unlock new opportunities for regional trade and economic integration",
@@ -2344,6 +2454,25 @@
    ],
    "regions": [
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Пашинян: Азербайджанская железная дорога уже почти год открыта для армянских грузов",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNFhINEs0SWNPRUVJX2tGRGJGT0h3UTE2ZV9XT2xvSWVQWFFsbU1Wb2FCenZJZm9iQXV6ekJMSlgyclpWbS1SWmFwV1VnMEtBSEJJVVZyUE4wRmE4WHBSX3FHRGxjNHBuZFFYLXA3ZC04OGtIaG9RZXgxN3hHbzRwdTBqWS1zdEhyNmhjc2VUVFd4d0FMa3lldWlCcnRJSWFiRlFLQVMydDVzVzgzX1JYWWVZdmdEY3B3ajdDeDRBLWVSSjc3a25XVjlDNTU?oc=5",
+   "source": "Apa.az",
+   "published": "2026-10-09T06:14:19+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "16b9774c0f5a5474",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
    ]
   },
   {
@@ -22176,7 +22305,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 58,
+   "count": 55,
    "error": "",
    "seconds": 0.6
   },
@@ -22184,7 +22313,7 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "seconds": 0.4
   },
@@ -22194,7 +22323,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -22208,9 +22337,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 42,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -22226,7 +22355,7 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -22240,9 +22369,9 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 32,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -22266,7 +22395,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -22274,7 +22403,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -22298,7 +22427,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -22306,7 +22435,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
@@ -22314,15 +22443,15 @@
    "ok": true,
    "count": 52,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 0,
+   "count": 45,
    "error": "",
-   "seconds": 4.2
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -22330,15 +22459,15 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 47,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -22346,7 +22475,7 @@
    "ok": true,
    "count": 45,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -22354,15 +22483,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fb4ee4b2fc0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fc239f19c10>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -22370,7 +22499,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "seconds": 1.3
   },
   {
    "name": "PortNews",
@@ -22378,7 +22507,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.3
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
@@ -22386,7 +22515,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.3
+   "seconds": 2.4
   }
  ]
 }
