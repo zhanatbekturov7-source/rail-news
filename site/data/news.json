@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09T00:53:28+00:00",
- "new_this_run": 71,
+ "generated_at": "2026-10-09T01:41:54+00:00",
+ "new_this_run": 66,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -41,6 +41,23 @@
    "regions": [
     "Китай"
    ]
+  },
+  {
+   "title": "Продолжается строительство железной дороги Багахангай — долина Хушиг — Эмээлт",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93MjdYZkRHZU4xeHBvVHdUVWc1YVdFdjlnYy16Tk5lSHM0R25leHduZHdYSFFUendNNV9HMWxxMl9sUGlUZ1RMTw?oc=5",
+   "source": "AsiaRussia",
+   "published": "2026-10-09T00:00:25+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "59b33a7523191d46",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "Правительство РФ утвердило параметры повышения страховых пенсий на 6,8% и 3,3% в два этапа",
@@ -18209,13 +18226,13 @@
    "ok": true,
    "count": 58,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 39,
    "error": "",
    "seconds": 0.4
   },
@@ -18225,7 +18242,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -18233,13 +18250,13 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 41,
    "error": "",
    "seconds": 0.4
   },
@@ -18249,7 +18266,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -18263,7 +18280,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 37,
    "error": "",
    "seconds": 0.4
   },
@@ -18279,7 +18296,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 29,
    "error": "",
    "seconds": 0.5
   },
@@ -18305,7 +18322,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -18343,7 +18360,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 46,
    "error": "",
    "seconds": 0.5
   },
@@ -18351,17 +18368,17 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 46,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -18369,7 +18386,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -18377,7 +18394,7 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -18392,7 +18409,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f3dc4433080>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f19f6dee060>, 'Con",
    "seconds": 300.6
   },
   {
@@ -18401,7 +18418,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -18409,7 +18426,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -18417,7 +18434,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.2
+   "seconds": 2.0
   }
  ]
 }
