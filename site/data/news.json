@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T12:44:59+00:00",
- "new_this_run": 82,
+ "generated_at": "2026-10-10T13:38:55+00:00",
+ "new_this_run": 79,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Годовая инфляция превысила 7 процентов из-за индексации тарифов ЖКХ",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMS1hbmV6RW5Wdno4eTV1Uk5NLXhYckUyMHZldkh0WGx1MnBnVldnb3h1dDJ4T0hXbEF4d2pyQmJOajVEZDM4cHllcU9SZEQzcTM1VFU2RC01ZXlSc0RZYV9yQ3NXWnVBYUk0SkVBTkZ5Ql9NSVJnUWItYl9BVTZhQkRpdndPckZhREFmcm1NMXVkYmQzd2ZLNjV4UmFrUGxXbGFqMmJZMUo?oc=5",
+   "source": "Газета СПБ РУ",
+   "published": "2026-10-10T13:31:59+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "1b4980553295d29b",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
   {
    "title": "Железная дорога Будапешт — Белград готовится к запуску пассажирских поездов",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFhFMlV2WFFvUnRHNUczZW5nNTduM2JQcENBeGxONk5VcnVfaXJ2ZHdlUlhTaVFaUzM4MEtsS0pyb2dEQXRzQlJPWS1EVnk0cUwzRm5RZWtwMmdydndyUTNWMTU3b1REcld0ZW1EdUFGLWZhbjRvYjRUbm5BWVFtaGV4UGdyckNoWlFZ?oc=5",
@@ -304,6 +321,25 @@
    ]
   },
   {
+   "title": "Повышение цен и уменьшение порций: как бизнес в Азербайджане рискует потерять клиентов",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXVxaFlyRDNyU1hIMjRQaThjVDBuZzRlOGJFcTNfdDZFTXVibWtFUC1TdUpqMkJjMDAzMmRrZVVXSEdsa2JwSGFVRHUtV3Q0cl9PbmJDeHRfa3hXQWI5elJJbGw3aGxrZFN6cl9heGpzS19VdWRhSWFyOWFwSVh4TWRER1FIcExCb01Kak1GeXJORUJnajBBWXBMbjdIN0Y1Y3NiQWJlTGVXbUdOanFnTU5n?oc=5",
+   "source": "Media.az",
+   "published": "2026-10-10T06:50:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "6592faca5561159f",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
+  {
    "title": "Уралвагонзавод выпустил 100 тысяч боевых машин: заявлен мировой рекорд",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalpSZUhNbFowUVR2SzdURElHMG1qd2w4dmRHUVRPeUplb21raWk2RURIb1ctYmpiVnlGUVR1Y3BDbXdYcHZMNTlrY2ZWTkU4QmtIRkNnOWZhNkVYU3JNR0NPMkw0ZHEzUjFZNlQ0eHJMTlp4aGFFZlp6T214QTdMbm5hX1F1QzdvdGx4MHVjY1hxM3Z1LUFnY3luVnJMT0tDYjdyeS1Ub08yMXQ50gGyAUFVX3lxTE04VUpZYjlieFVxX0p0cjUtN2lhREZfZGk4c1ZQN2ZQZTZkenZRRllnM2VHcWZ5dnBKMW5EVEU1MFhjenpQN3dNSmpaSG1YQmRSdldxSmVPdzd2OWtOaDJmZjFndmlzN2gwT1E5Sk53eUdNZVNjT1NGdkhoWUt0UVdZNHIwUlVoQy1TcUl6b21MNmEzbmZSZEc0TXpEaGJYX2R4bTZTTmQ5QzJwUU1CMFBZWnc?oc=5",
    "source": "Первый технический",
@@ -504,6 +540,23 @@
    "regions": []
   },
   {
+   "title": "Кабмин внес изменения в порядок закупок госпредприятий в части инженерных сетей",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pSldxRThNSmp2eGdVMDMyU2hzcjlzbjZaSU5MS09Vc0hYR05aeFluRE1uaGp3ZzRuVjM1LWxKdG9WU3E1WG82RVh1T1pueDY5a0pLZ2JPWEpLNXphTENERnktRVJLb1ljR3otRWRZd9IBT0FVX3lxTE80cmw5Wk5FdWhHeFJYLUFjUmJEb3E1T1ZYS01ZNGRlOHZQVXk5Yk10MVprbmtNNzFiaklENTZMNnYwbWFXbm9oSkFvaWo4d2s?oc=5",
+   "source": "Tazabek.KG",
+   "published": "2026-10-10T04:00:24+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "7d0fb1b4378aef83",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
    "title": "FIATA launches practical user handbook on multimodal transport corridors, with the Middle Corridor as first case study",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVUlrZUFtZ0ZWSkh2ODg3OWhxRVBUc0NXM2xaTG9BOE4zZ1JCc2NUY1hoQ01CeXFjTnUtZWR5bFFjLWJyMDRIandCVjlMVElKZ0hUaVBTVVduS0ozNG10OURjelUtNUVlUF9WbGxmSnFEcVBfRC1mREFrNjEtcFlVdG9tLWZTRjhwOGJxVUlhdk1WYllOM3ZXMlZWakpELWU5ZDZNYjJfWmRDZlNVcHoxQlFwdXI3ZE1GSUFZc2NxMGxGTXZGVjBMQmZId0F1LVd6SjBoLVFUTVRjcmZvak4zOUxMazRZdW5nV1pSNjdFdw?oc=5",
    "source": "India Shipping News",
@@ -517,6 +570,23 @@
    "id": "00e93b99e10be835",
    "categories": [
     "Средний коридор и ТМТМ"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Стоимость проезда по МСД будет проиндексирована с 16 октября",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlNOMlpRX1pwS08zUGV3NlUxNi0tQV9vTmZCbVZQNzNPdFViN0dCNXAtazBXZjBwYmVGckRNbTVQWjZlRGU3YkwwOXZ6WEVjRW0xUDhNZ1hCNXNkZlpQT3BvQmRyVEd4cjVzYXpaVllsd1NZSmpSVnBscl9Sek1hVUN0UWV0T0Fab2lQTFhzbG1mLVZUdkVUU0ttN0EzZU1YN1FGWEJ3?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-10T02:43:39+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "0810d0f3c23a9e9c",
+   "categories": [
+    "Тарифы и регулирование"
    ],
    "regions": []
   },
@@ -2200,7 +2270,8 @@
    "regions": [
     "Казахстан",
     "Россия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Наоми Кэмпбелл приехала на показ в Париже на велосипеде",
@@ -2878,6 +2949,26 @@
    "regions": []
   },
   {
+   "title": "Шесть экономик — один продукт: Азербайджан и страны Центральной Азии углубляют интеграцию",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzVEY2hrTmJrYlBvR1ZjbndSbE1kQ2c2R1pzTkN3d1FVVlJhUmRKMVMzMG1mY1NjWFdYV19vZU5JSlVHNlpzOV94R3A2R3NRMlVWMGxyeFRDODVDTEU5YXZWb3lCOG15YzQ4bzJKT1duUGp0M2xTZ3NCX3FHcGJ1RXM2OFQ3b2NsaEhnTXhweThCS2dqRWI0RmFtR3FIOHd4UnMyRVFfQWdMWXBETmh4RUJRbw?oc=5",
+   "source": "Caliber.Az",
+   "published": "2026-10-09T07:56:48+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "b4805f929766be6e",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
+  },
+  {
    "title": "Türkiye advances Kars–Iğdır–Aralık railway to strengthen Zangezur Corridor connectivity",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DZWg3UlozdDktb1E3SFBSV1VkVG0zbDl1UzMxbjFmdUhSVEM5WEhZdjhRSEZoUWxOSFlhQWRxU3cySV9PXzBFdHNwQ3A2akxNODJwUUEzOA?oc=5",
    "source": "Azernews.az",
@@ -3301,6 +3392,23 @@
    ],
    "regions": [],
    "also": []
+  },
+  {
+   "title": "Спрос на отправку животных в путешествия без владельцев по ВСЖД вырос на 9,3%",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tYm9KZjM3SmRsYW1NTktrd1Jac0hOY0RSRUxWaEZ3VjlNNmIwOUpfSHJmanRHTEdxTlVseHZkNU9fODY5a05PU2ZCWTViZw?oc=5",
+   "source": "IrkutskMedia",
+   "published": "2026-10-09T06:45:52+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "df4d033ddd6fd9b2",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "Kazakhstan Expands Investment Ties and Accelerates Digitalisation Amid Infrastructure Challenges",
@@ -5799,6 +5907,23 @@
     "Европа"
    ],
    "also": []
+  },
+  {
+   "title": "Эксперты Промсорт приняли участие в Дне клиента Свердловской железной дороги",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZ0dPUDdjZVgySGFxOG9KSTNUU0FZYTBYZE5MMTVZYVQtdy1hNF9XUTlycjVxVXh1OWNRZTJwUVJjYTFTLXdOMElPVjJKNkFPMENUZVdfaXVBZ3ZhTE9V?oc=5",
+   "source": "Областная газета | Свердловская область",
+   "published": "2026-10-08T10:12:20+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "a4703335be0efdcb",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "Aktau Airport seeks bigger role in China-Europe cargo transit",
@@ -8665,7 +8790,8 @@
    "categories": [
     "Грузовые перевозки"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "UAE joins effort to build trans-Afghan railway",
@@ -14044,7 +14170,8 @@
    ],
    "also": [
     "Наша Газета",
-    "Profit.kz"
+    "Profit.kz",
+    "Регистр ТВ Казахстан"
    ]
   },
   {
@@ -23691,7 +23818,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 55,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -23699,9 +23826,9 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -23723,7 +23850,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 38,
    "error": "",
    "seconds": 0.4
   },
@@ -23747,7 +23874,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "seconds": 0.4
   },
@@ -23755,25 +23882,25 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 32,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -23797,7 +23924,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -23805,7 +23932,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -23827,39 +23954,39 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 50,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 55,
+   "count": 54,
    "error": "",
    "seconds": 0.5
   },
@@ -23876,7 +24003,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f7c3688e810>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fc5b701a840>, 'Con",
    "seconds": 300.5
   },
   {
@@ -23884,8 +24011,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -23893,7 +24020,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.5
+   "seconds": 1.7
   },
   {
    "name": "Kursiv",
@@ -23901,7 +24028,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.9
+   "seconds": 5.2
   }
  ]
 }
