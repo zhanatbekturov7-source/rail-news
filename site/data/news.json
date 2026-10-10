@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T15:38:11+00:00",
- "new_this_run": 69,
+ "generated_at": "2026-10-10T16:38:34+00:00",
+ "new_this_run": 70,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,26 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Германия и Азербайджан: Средний коридор как основа нового партнерства - ОБЗОР",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQzZOS0N4bWJMekVwU185X19xWW9vUldkQm5TTVpwRWw2RHdiVjJiRUVVQ3psaWV1ckhSTklEQlFLZ0YwLUhqcG5uNWMwN19qa21MYkh5SjZtbmktMnY3SlE5Mzh0YTExX21tLVNHdHJSNldfRFJGWkpwYVFNNDhBVXFPU0NJcWJRalVKLVFIV0RMWmF6WGgzMFM4dFZONWNmNk5lQzNGcElFNnUw?oc=5",
+   "source": "Vesti.az",
+   "published": "2026-10-10T13:38:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "b92ca8810c3d1b40",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Каспий и Закавказье",
+    "Европа"
+   ]
+  },
   {
    "title": "Годовая инфляция превысила 7 процентов из-за индексации тарифов ЖКХ",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMS1hbmV6RW5Wdno4eTV1Uk5NLXhYckUyMHZldkh0WGx1MnBnVldnb3h1dDJ4T0hXbEF4d2pyQmJOajVEZDM4cHllcU9SZEQzcTM1VFU2RC01ZXlSc0RZYV9yQ3NXWnVBYUk0SkVBTkZ5Ql9NSVJnUWItYl9BVTZhQkRpdndPckZhREFmcm1NMXVkYmQzd2ZLNjV4UmFrUGxXbGFqMmJZMUo?oc=5",
@@ -4844,6 +4864,23 @@
    "id": "c6a1deaae6638750",
    "categories": [
     "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Брянская область подняла плату за услуги ЖКХ меньше соседних регионов",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsX1RZeV9aTFpNTHlSZ2FBSU9tcGtQU2VoWGJ4Yy1PNExxbXVBWlc0emtyTVYyTjdDVUllZnptTEJPT29CM2N6bVBDYVJOMms?oc=5",
+   "source": "Bryansktoday",
+   "published": "2026-10-08T17:02:34+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "e6f19f15527660a4",
+   "categories": [
+    "Тарифы и регулирование"
    ],
    "regions": []
   },
@@ -23993,7 +24030,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "error": "",
    "seconds": 0.5
   },
@@ -24001,7 +24038,7 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "seconds": 0.4
   },
@@ -24025,7 +24062,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": "",
    "seconds": 0.5
   },
@@ -24043,13 +24080,13 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "seconds": 0.4
   },
@@ -24057,7 +24094,7 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 32,
    "error": "",
    "seconds": 0.5
   },
@@ -24067,15 +24104,15 @@
    "ok": true,
    "count": 35,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 16,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -24099,7 +24136,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -24155,7 +24192,7 @@
    "ok": true,
    "count": 49,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -24163,7 +24200,7 @@
    "ok": true,
    "count": 54,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -24178,7 +24215,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa934cc3a40>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa6843714f0>, 'Con",
    "seconds": 300.5
   },
   {
@@ -24187,7 +24224,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "seconds": 1.5
   },
   {
    "name": "PortNews",
@@ -24195,7 +24232,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.5
+   "seconds": 2.0
   },
   {
    "name": "Kursiv",
@@ -24203,7 +24240,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.8
+   "seconds": 2.1
   }
  ]
 }
