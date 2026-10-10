@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T06:45:48+00:00",
- "new_this_run": 90,
+ "generated_at": "2026-10-10T07:39:11+00:00",
+ "new_this_run": 81,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Can Kazakhstan Turn North-South Transit Into Economic Gains?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVRKWEhjUFJyNUhpMVQ5TlgwdVdXcmhhZHpoZjdOUXBiUEJBX3VjcDRTRnZLc3JZN2NKM01fcTdzRzRyU3dDZGtIQnVISG1WNExNdHYwLXhJQ2FTNzR6R1hJdzkzNVVLdzVSZS05OUdQMXZjNXM2R1d5elFLWFV5Mi0yb29PQjJBRmJhQmE1eFV3anV5YndJ?oc=5",
+   "source": "The Astana Times",
+   "published": "2026-10-10T06:51:34+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "4909e35d19d1deb8",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Узбекистан и Petrocas Energy Group обсудили развитие сети АЗС",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaHo4eG5QZXhPTmNYQ3hiMEpFUS1VZVJNUXluV2lnNnRGVG85a1F5Y1l0OGFyM3EzaFlWVWFCR1B2UWdXblI4N1RLOWJMd3VqNmlhWUZrMWZuNlQyempQckZmUzQ0dklYeTlyaGlnOUxqMWVBdVRYQ25fbDZxTFVfS1pvZG50ZEZlZ2M4RDUxUUhCZw?oc=5",
@@ -135,7 +154,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "«Мы не можем делать это за счет повышения тарифа для нарвских пенсионеров»",
@@ -528,6 +548,23 @@
    "regions": [
     "Россия"
    ]
+  },
+  {
+   "title": "На страницах мировой прессы",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81ZG5CdDNkeHBmRlltallKem1KeDNQTHJWd0FCMXAwU0RfeTRQdEIyUUNHbDVidHd1QjhoZVBpQVNBbmJNa0pGSlM2Sng5VmRHY3pnWTJFbjZXbG5QNWNVUTA3RVJ2MXVfa1E?oc=5",
+   "source": "UZA.uz",
+   "published": "2026-10-09T16:02:17+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "ad9b8060d3d0e0d3",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "В Джалал-Абадской области перенесут дома, стоящие на пути новой железной дороги",
@@ -5202,7 +5239,8 @@
    ],
    "regions": [
     "Европа"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Aktau Airport seeks bigger role in China-Europe cargo transit",
@@ -23040,7 +23078,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 58,
+   "count": 56,
    "error": "",
    "seconds": 0.6
   },
@@ -23048,7 +23086,7 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 26,
    "error": "",
    "seconds": 0.4
   },
@@ -23066,7 +23104,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -23082,7 +23120,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -23090,7 +23128,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -23104,7 +23142,7 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 34,
    "error": "",
    "seconds": 0.5
   },
@@ -23112,7 +23150,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 38,
    "error": "",
    "seconds": 0.4
   },
@@ -23122,13 +23160,13 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
    "seconds": 0.4
   },
@@ -23136,7 +23174,7 @@
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": "",
    "seconds": 0.4
   },
@@ -23144,7 +23182,7 @@
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": "",
    "seconds": 0.3
   },
@@ -23154,7 +23192,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -23170,21 +23208,21 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 54,
+   "count": 53,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
    "seconds": 0.5
   },
@@ -23192,7 +23230,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": "",
    "seconds": 0.4
   },
@@ -23202,13 +23240,13 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -23225,7 +23263,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fe8c4be9f40>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f4a60eb6c60>, 'Con",
    "seconds": 300.5
   },
   {
@@ -23234,7 +23272,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.0
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -23242,7 +23280,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 1.5
   },
   {
    "name": "Kursiv",
@@ -23250,7 +23288,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.8
+   "seconds": 2.1
   }
  ]
 }
