@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T08:39:14+00:00",
- "new_this_run": 88,
+ "generated_at": "2026-10-10T09:38:53+00:00",
+ "new_this_run": 85,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -79,6 +79,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Уралвагонзавод выпустил 100 тысяч боевых машин: заявлен мировой рекорд",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalpSZUhNbFowUVR2SzdURElHMG1qd2w4dmRHUVRPeUplb21raWk2RURIb1ctYmpiVnlGUVR1Y3BDbXdYcHZMNTlrY2ZWTkU4QmtIRkNnOWZhNkVYU3JNR0NPMkw0ZHEzUjFZNlQ0eHJMTlp4aGFFZlp6T214QTdMbm5hX1F1QzdvdGx4MHVjY1hxM3Z1LUFnY3luVnJMT0tDYjdyeS1Ub08yMXQ50gGyAUFVX3lxTE04VUpZYjlieFVxX0p0cjUtN2lhREZfZGk4c1ZQN2ZQZTZkenZRRllnM2VHcWZ5dnBKMW5EVEU1MFhjenpQN3dNSmpaSG1YQmRSdldxSmVPdzd2OWtOaDJmZjFndmlzN2gwT1E5Sk53eUdNZVNjT1NGdkhoWUt0UVdZNHIwUlVoQy1TcUl6b21MNmEzbmZSZEc0TXpEaGJYX2R4bTZTTmQ5QzJwUU1CMFBZWnc?oc=5",
+   "source": "Первый технический",
+   "published": "2026-10-10T06:43:30+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "cdd906fbd13e7e17",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": []
   },
   {
    "title": "Узбекистан и Petrocas Energy Group обсудили развитие сети АЗС",
@@ -5057,6 +5074,23 @@
    "regions": []
   },
   {
+   "title": "Мирзиёев предложил ЦА перейти к совместному производству",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53NFJITjRPYnFyNDN1VXd3eFAxU0pYTkpsWW9IWGVxSlpETDRCN0FkWGN2MThlOGxtYzB4YzI1QmNhWGRFQVl3OFlBWFo3NjI4QzVhUmU1RHdPRklYNExtcDBuY0lyQ2p2VWIwM2Zhbms?oc=5",
+   "source": "Kursiv Media",
+   "published": "2026-10-08T11:24:21+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "198a0f14fa97f776",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
    "title": "В Карабулаке и Текели отремонтированы железнодорожные пути",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDJidVpjRGFEWTNfdjlVN1NDZlU3WUdMMEEyV2p1NUQxQ0cxOE5ZQjdkYmZ5akk3am0zdXpHVDRqR1VNbmx3RzdUYk1EWkxYUm5tN0JqWkx4QUx3QVZic0stUUZxN0RoeGFJcmtqVHBFeTZrcU16SENtRk9mRmtjOFRHWURwRklxamVrSG5IOWhPcmg4OEZOOUdVM2YxZnlRQlMwcnhB?oc=5",
    "source": "Вестник Жетісу",
@@ -5144,7 +5178,10 @@
    "categories": [
     "Логистика и терминалы"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "Регистр ТВ Казахстан"
+   ]
   },
   {
    "title": "Баку как центр региональной политики: исторический выбор Центральной Азии - Аналитика",
@@ -7727,24 +7764,22 @@
   },
   {
    "title": "50 самых влиятельных бизнесменов Казахстана — 2026",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTI0cFlKWTNhTGNpNnhyc2VIVGpVMFN0MU9IY0pSV1lSVzdmeWNFVWM0WVRrSC1IU0plcnZ2Sjg1UXl0TjdpZDZ4TDNzWkplYm14MnhjR0dGaXVFdHdZVVZwUi1Fc2hqcVRKWExxVzhoQ2RZZG9BdndsVnBVMU50SUVWcmlEcnp1N3RUODlNSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3oxU1ZET1hBWHM1a1pnMGNpa3pWUHFwb2xpYng3RmFTTmtuRmJfRk9Gc2lDOHlUV0JmY2xSM1VTVnNDZm9jX1FuLXZKaVRnMTQ5Q3o5LS1kTFJiajJHeHJlUXhIdFljeXM4ekhQQnJBMFk0S3VJSHFDbktyZlZMT2J2RTZyWVdaclE?oc=5",
    "source": "Forbes.kz",
-   "published": "2026-10-08T03:15:45+00:00",
+   "published": "2026-10-08T03:14:47+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
     "Логистика и терминалы"
    ],
+   "also": [],
    "id": "90ab0aed8a8accb4",
    "categories": [
     "Логистика и терминалы"
    ],
    "regions": [
     "Казахстан"
-   ],
-   "also": [
-    "Shyndyk.kz"
    ]
   },
   {
@@ -23229,7 +23264,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 59,
+   "count": 57,
    "error": "",
    "seconds": 0.5
   },
@@ -23237,7 +23272,7 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "seconds": 0.3
   },
@@ -23247,7 +23282,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -23263,15 +23298,15 @@
    "ok": true,
    "count": 39,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -23279,13 +23314,13 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 29,
    "error": "",
    "seconds": 0.4
   },
@@ -23293,9 +23328,9 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 34,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -23303,7 +23338,7 @@
    "ok": true,
    "count": 37,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -23311,15 +23346,15 @@
    "ok": true,
    "count": 17,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -23327,7 +23362,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -23335,13 +23370,13 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
    "seconds": 0.3
   },
@@ -23365,17 +23400,17 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.7
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 44,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -23383,10 +23418,18 @@
    "ok": true,
    "count": 16,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
+   "kind": "google",
+   "ok": true,
+   "count": 51,
+   "error": "",
+   "seconds": 0.6
+  },
+  {
+   "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
    "count": 52,
@@ -23394,36 +23437,28 @@
    "seconds": 0.5
   },
   {
-   "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
-   "kind": "google",
-   "ok": true,
-   "count": 51,
-   "error": "",
-   "seconds": 0.4
-  },
-  {
    "name": "RailFreight.com",
    "kind": "rss",
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.0
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f918d1c2b10>, 'Con",
-   "seconds": 300.4
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f8188aa77d0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -23431,7 +23466,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 1.5
   },
   {
    "name": "Kursiv",
@@ -23439,7 +23474,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.2
+   "seconds": 2.1
   }
  ]
 }
