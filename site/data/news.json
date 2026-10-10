@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T18:42:42+00:00",
- "new_this_run": 75,
+ "generated_at": "2026-10-10T19:36:49+00:00",
+ "new_this_run": 73,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Iran's car and rail sectors became sanctionable on October 1, with no wind-down",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2tOTlVHSlhUMFJNSEJFSlV2U3VQUnhvRVQtM1Z4TUFLem5yWkdKTm04SFNHYnJ2OHVtLU1ZT1RqeFJNWnNnZWlqb2lJRFVsYVZnWC1xWlA1dmFJWnFOX0tOSzlRcU5xaXQ0dWdqTS04d0xwc05sb3ZEbWM2eDZUSGlURlN2QVVST09oZU5CMVdHQnJLRElqQnBUN01jQWJ4Wm52d3FtX2ppQzFjZ2xmYWE3TVE?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-10-10T19:09:37+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "c157188fb683e378",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
   {
    "title": "35 лет СНГ: Как меняется место Узбекистана в пространстве Содружества?",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVS1LNHBFakRPUlJQcnA5SWw2VVZrdDJOWTJzSE5qUHhXeGpjaEpiU0tNQ3RxU2RtSmVKcXN1OUl1Yy1DaEc5eGxYWG4yQ0FteVNXTUJoUlhOYmVQeWFBQi1ubzRVYkFhLVNNZEFNeThmTU9JVVpPRnBXc3FuOFNqU1FYajFfdUF4YVoxV3NieW51NWpmZEMyamdPNmNiVE9Uc09R?oc=5",
@@ -58,6 +75,25 @@
     "Грузовые перевозки"
    ],
    "regions": []
+  },
+  {
+   "title": "Кадыров поехал не к Путину, а в Баку — ЧТО ЗАСТАВИЛО ЕГО СРОЧНО ПРИЕХАТЬ В АЗЕРБАЙДЖАН?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnZVQ0NuZjBwRzQtRWh1akhTNzYtTzVEVEhvQXJDQVN0RWNjcUk0WTVTd3VDdlVybHl1YjVlNEN5cmNxUGNQQzkxQmJBRWlaekFsdFlVSUhNeTJmWUZoZ2NvUHpKb2FlQlljWFprTDJRTUt1dVEzX1pmeUg2dWoyeG9jRnFDTjd4MGVpclVSWVkzdTNVc1VBZWhCcUZDRnRiNU1kTjl3?oc=5",
+   "source": "TodayPress.tv",
+   "published": "2026-10-10T16:20:35+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "3089243790b1b27c",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
   },
   {
    "title": "Jordan's new freight rail network could emerge as key IMEC link",
@@ -3033,6 +3069,23 @@
     "Казахстан",
     "Россия"
    ]
+  },
+  {
+   "title": "В Думе заявили о недопустимости привязки цены на мобильную связь к тарифам ЖКХ",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cjJKZ3RMc1R3MEdsU0hFWE9zTC1rdTZvMFRrMmZUNEFvMGtDNy1ENFdmLVo2UGZ3c0htMklpMGFyRVN6R0hVMWZfenhuY2_SAUtBVV95cUxQbVl4cUtnQlFCNWlfMjRnbkVDV3IySGRPcjB6dEFDY2liUUdEUzNteWFxNTUwcUEtZGpWLUFuaGpCbmhnZkN5S3VhR00?oc=5",
+   "source": "Интерфакс",
+   "published": "2026-10-09T08:16:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "1c32fb6385aed1b7",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
   },
   {
    "title": "Железнодорожные перевозки Казахстана растут на фоне увеличения экспорта",
@@ -24251,7 +24304,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 50,
    "error": "",
    "seconds": 0.5
   },
@@ -24283,7 +24336,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 39,
    "error": "",
    "seconds": 0.4
   },
@@ -24291,7 +24344,7 @@
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": "",
    "seconds": 0.3
   },
@@ -24309,13 +24362,13 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 31,
    "error": "",
    "seconds": 0.4
   },
@@ -24373,7 +24426,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -24381,7 +24434,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
@@ -24395,9 +24448,9 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 42,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -24411,7 +24464,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "error": "",
    "seconds": 0.4
   },
@@ -24419,7 +24472,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 53,
    "error": "",
    "seconds": 0.5
   },
@@ -24436,7 +24489,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f9c973953d0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f22e9163470>, 'Con",
    "seconds": 300.6
   },
   {
@@ -24453,7 +24506,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.6
+   "seconds": 2.5
   },
   {
    "name": "Kursiv",
@@ -24461,7 +24514,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 1.9
   }
  ]
 }
