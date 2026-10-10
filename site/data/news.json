@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T09:38:53+00:00",
- "new_this_run": 85,
+ "generated_at": "2026-10-10T10:37:58+00:00",
+ "new_this_run": 81,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,59 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Аваза: логика прагматичной повестки Президента Токаева",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi1uSV9ETmh3QUNzS21Xd2ZzVi0tNENLSHpLblpWYzA5emxfQ3RfTXVQZDVEZ2V0X0FQM0Z1eFhyNlRVZ1FkaGJEQVZwdFExU0MtWnVDa1dkM3lyRVlqTTZZT0ljS0hzdTY0Umo1MEduZlV5Si1TUVgzd1pQOWpWWmFmdjc0YVBfU2dRLW1DUnI2Z9IBkwFBVV95cUxPRXFmTVY1X0EyaFNxTUVmOVZHeV95SHRQZ0xXRFNXYzFYdzluUFNhWHZOYl9hNnozQUY0N3hJQ1F4cnA3NWwxcENpbC0yMFRaV1BvZXA1TEp4c3p6Q1lFRjMtTXppQndHZkxFY0Z3XzZaeUhyTllNUWNlN2R2OHdNblJJYklScjRtajBmaTBZUENZaW8?oc=5",
+   "source": "Казинформ",
+   "published": "2026-10-10T09:46:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "9176467f3ddb62b2",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Knowledge Nugget | Can the promise of IMEC become a reality?",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmlObi1zLTQyYWYwVXp6YlpZMGRERzN0Sy03S1RYRFFVRmR3ejBsLVhxX2tERkd1elRqbjROVEFsYnJDUnhKNk9GX0xXaG1GVl9vUkI5bkhyaTYxR0JiX3AxT2dWN182ZFdqZzVMVy1ycDNNeWtCUEVOVUxyTER6WC1JS3ZjYjc3bGczOGZESWlCVWFlZFpzMW9EbmtKaU1oTTFTeldXUDBRYjhoRDNKNHBtd0ZYV1J6YlMwRHEzNWJCY1lveGxfM0N5VlktWjRMTW9EX1pwbDZpcE3SAeIBQVVfeXFMTk1QSDUxUFk1STdXeEdLX19BdlByTDVhSTV3bUd4R2ZoZlUwNFRHQzNWaTNEZXJPTXBMVUxzNTN1YnFoRjJkRVRCV3pWbC1rclNLVVV4RWIyZklrZnVFYkRLMTdrM0dueS1aQkZuQ3F6TENXSTJpYzFYR3lIbUJpcTVVTzBOT1pSa3FUaE1JTnU5NWY5enBtTHVCZktSbndYeFFWQ1hYTnlmekxzUTVzMUNQNWhmdC1XWEV5Tm9Tek44UFI2REI2ekhQWlh4WkN5SVctV0JhZ2NxTFJDaEFkdzVGUQ?oc=5",
+   "source": "The Indian Express",
+   "published": "2026-10-10T09:41:47+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "a32832272853687d",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Омск и Казахстан наметили новые направления сотрудничества – от логистики до креативных индустрий",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kTnlGMzNxOWJ3NjVOVkptUHFiN3dCZ1lxRGxfeVpmLXNFaGZLWlFRSmF2cmtBSjRKeHJxNGRQeV91RGl1WjIxYzJR?oc=5",
+   "source": "KVnews.ru",
+   "published": "2026-10-10T09:30:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "e3a12274f14ee9d7",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Ivan Bednárik: Czech Republic ready to discuss through-tariffs, multimodal transport with Azerbaijan – INTERVIEW",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNazdTdndvS2kyZEZfR1l5Nm9Cc0pubGFaSEhVOEpVbTJyajVnb2dYNWFpT1dDOVpjT3Y4eERvSk1RMUtJeEhZVDJGSG5iR0Y4UkZ1dV9KclNIbEFKdFVXT1Y3ejR5MzJwcEJLbDJuRmxSMFFaVkhyYTc5aGVLc2RtRnNPYkdFWEU4MmQ2VDUtTlZfUjVYMW1PTlA1ZkFLcDdPSlQ4cnFZMHZGdVgzSG55U3daQ1pEaXBSZnhrWWU1MWpMa09EaFc3bmEtZ3EyQzdpaVpsS2hHS1JvWmFh?oc=5",
@@ -407,6 +460,26 @@
     "Вагонный парк и подвижной состав"
    ],
    "regions": []
+  },
+  {
+   "title": "Central Asia and Azerbaijan Discuss Trade Expansion at Turkmenistan Summit",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoQ2Z6cmdMT3BBQWM3MW9LeVZyQ2JTTkstT1k1Z05LNDJTV2l5MzFtbU0xWXkwVzhFcG5RaFN6YklhN2FXSUNSd0x1cGV2OXJ2dmpyZ25KM1BraTlTOEdQcUxSMUhEczhvTEV6d3Z4VzlmZHBNWWl4Qw?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-10-09T22:37:23+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "0a3d70b30bb0a25c",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
   },
   {
    "title": "Bulgaria – the EU’s gateway to Asian imports? ᐉ News from Fakti.bg - Opinions",
@@ -4641,6 +4714,25 @@
    ]
   },
   {
+   "title": "Токаев: У Казахстана – высокий логистический потенциал",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmJtVmt2OUlmT2ZBVXlGQ0QyS1FGQVR6ZEtBUHpfS1phWnJZekFySzVidTliMHQ0S0hPWjE4SmNTc2xydzJ6bVJycm5zdFg0c05iS1ZGX1lDNDZTMGpWVTZOM0RCOHJSLUdFdlVaeGw0eGdNdGN1d3E4X1VxSjZQZVM1cw?oc=5",
+   "source": "Казахстанская правда",
+   "published": "2026-10-08T13:45:35+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "09fa6784a8587205",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
    "title": "Застройщики раскрыли, чего боятся",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KXzZhVVpCSUhSdlVYRGhyd2pITDRjazNZaUprb3laZmxmNmswTS1GUXJKeWxvd0w4emdIaWJrZ25KZGdLWUsxdHRxUm4?oc=5",
    "source": "URA.RU",
@@ -5276,6 +5368,23 @@
    "regions": [
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "Дружить с соседями соседей",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00bU82RFQ4MmpPU243czNMTEZXcy1JcHJZMXVnSzJRZndFVFNDQ05hdS00M3dOSGFuTEFwd0lrdHdDYi16X3BEREdoSUp2S3owTUFQeTMxeHFvdEltcEVfZUlwMFhKdHhmeXc?oc=5",
+   "source": "br.az",
+   "published": "2026-10-08T10:35:38+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "7c852f46fad8848e",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "Ilham Aliyev: trade turnover with Central Asian countries increased by 50%",
@@ -23272,15 +23381,15 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": "",
    "seconds": 0.4
   },
@@ -23304,7 +23413,7 @@
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": "",
    "seconds": 0.3
   },
@@ -23328,25 +23437,25 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 32,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 38,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 16,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -23378,7 +23487,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -23386,7 +23495,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -23402,7 +23511,7 @@
    "ok": true,
    "count": 49,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -23410,7 +23519,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -23418,7 +23527,7 @@
    "ok": true,
    "count": 16,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -23426,13 +23535,13 @@
    "ok": true,
    "count": 51,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 53,
    "error": "",
    "seconds": 0.5
   },
@@ -23442,15 +23551,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f8188aa77d0>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f61ce4de6c0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
