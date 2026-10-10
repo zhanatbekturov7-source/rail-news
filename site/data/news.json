@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T02:40:10+00:00",
+ "generated_at": "2026-10-10T03:40:46+00:00",
  "new_this_run": 80,
  "title": "КТТ Rail-News",
  "topics": [
@@ -22708,7 +22708,7 @@
    "ok": true,
    "count": 58,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -22716,7 +22716,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -22724,7 +22724,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -22732,7 +22732,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -22740,7 +22740,7 @@
    "ok": true,
    "count": 39,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -22764,7 +22764,7 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -22772,7 +22772,7 @@
    "ok": true,
    "count": 34,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -22796,7 +22796,7 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -22804,7 +22804,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -22820,7 +22820,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -22828,7 +22828,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -22842,17 +22842,17 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 53,
+   "count": 55,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 44,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -22860,7 +22860,7 @@
    "ok": true,
    "count": 17,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -22874,9 +22874,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 45,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "RailFreight.com",
@@ -22884,14 +22884,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fe8df74e870>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f3f455baf90>, 'Con",
    "seconds": 300.5
   },
   {
@@ -22899,8 +22899,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.5
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.5
   },
   {
    "name": "PortNews",
@@ -22908,7 +22908,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.6
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -22916,7 +22916,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.2
+   "seconds": 2.1
   }
  ]
 }
