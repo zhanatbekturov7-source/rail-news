@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T14:38:04+00:00",
- "new_this_run": 78,
+ "generated_at": "2026-10-10T15:38:11+00:00",
+ "new_this_run": 69,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -1529,6 +1529,23 @@
     "Казахстан",
     "Европа"
    ]
+  },
+  {
+   "title": "Из Омской области в сентябре по железной дороге отправили грузов на 20,5% больше",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOODJwVjVhOXpMU0FrcUwtTTFvNGctbzRBRDlXVmpQN05EZFZOYVYtM2tybXl5QVdfdXIyODh6T2huaXJZbWZDUXNhZ0FWU3A5bDZyZVFma25sZFo1Q1psY1JncmpaLTdQU0tzQzRZUWtoRG1MZXNlRUJraFhMM0tDekEwdExPVjlWUU5leHZ4UFBVYlB4eEpjekpPVEN0czBIWjdBb0phZFcwcFdH?oc=5",
+   "source": "KVnews.ru",
+   "published": "2026-10-09T13:05:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "b767f24b7b8e632f",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "О чем говорили лидеры стран СНГ на саммите в Туркменистане",
@@ -7131,6 +7148,23 @@
    "regions": [
     "Каспий и Закавказье"
    ]
+  },
+  {
+   "title": "EU transport plans expose heavy transport gaps in military mobility network",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEZ1Q2dfWFAtYjNLLWE1Q2J4VkJYWFBEVmxJbGtMOTY2SDhqOE55YkRJTjRsYWRQMENxUHlqT2hLVDR0R3dkU1pyTVhVRTNET2Y0SUVVeTAwclVfeTVvc0dQRHllY25CVGZNTWhHTjhndEdGQWFDUTlRb1JuQk5IcG9aV185cnk1b2tTZ1ZlQjdXTHBIREVVc21vTFZRVV9KSmp2TzRiLVpxZWhNLU1HMmZIMVd2Y3pLM2xpVzZmbWNXdGtVSDJEU0Jsc2l0VVk?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-08T07:34:12+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "beaa8f20552ba07a",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
   },
   {
    "title": "Turkmenistan, Iran discuss expanding transport and trade cooperation",
@@ -23959,15 +23993,15 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 50,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "seconds": 0.4
   },
@@ -23985,15 +24019,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 37,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -24001,7 +24035,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -24015,9 +24049,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -24025,7 +24059,7 @@
    "ok": true,
    "count": 33,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -24065,7 +24099,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -24089,7 +24123,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
@@ -24097,7 +24131,7 @@
    "ok": true,
    "count": 49,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -24121,15 +24155,15 @@
    "ok": true,
    "count": 49,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 55,
+   "count": 54,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -24144,7 +24178,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fe63dccefc0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa934cc3a40>, 'Con",
    "seconds": 300.5
   },
   {
@@ -24169,7 +24203,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.9
+   "seconds": 1.8
   }
  ]
 }
