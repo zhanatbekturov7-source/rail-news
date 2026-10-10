@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T19:36:49+00:00",
+ "generated_at": "2026-10-10T20:38:27+00:00",
  "new_this_run": 73,
  "title": "КТТ Rail-News",
  "topics": [
@@ -677,7 +677,8 @@
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
-    "Инфраструктура и стройка"
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
    ],
    "id": "31d7e3702cab8bb9",
    "categories": [
@@ -1595,7 +1596,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Масложировая индустрия Центральной Азии: экспортные ограничения меняют экономику переработки",
@@ -4987,6 +4989,25 @@
    "regions": []
   },
   {
+   "title": "Аналитики ожидают роста погрузки на сети РЖД в 2027 году",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1BiWjlFdzNwblVLN2RWR0x5dmdlNXFaY3hmaFJJajZDOHFmdGNMTjVpM2k5ZkszekdrSW1hVXNjRzBvWWJzbEZMaG5BYmtPS1ZpNmZCZUM0VGpJN1pETkIzcjZtTWY3S1hSTGh0MzYtdndNUEpHdE50WjJUa0dyOFVMeVZTLU1OY3FrWWEtWU9YX0c5VGdyRGZ2Qi0?oc=5",
+   "source": "Ведомости",
+   "published": "2026-10-08T21:05:44+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "fa9d7317efbb1774",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
    "title": "Первый грузовой рейс flydubai прибыл в Алматы: самолет заправила “КМГ-Аэро“",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWc1MmVwYjRsamt0YlRydzlCX1J6Wkp4X00wY0JaZWMxS0hsSDRwTlhwSklBUnpReE45TGltVDhYY1FOSDR5Zk8zUDJ5QkpTSzNhMjNJc28xeXI4dkx3YzZwc21KaTV5OUFid2xTS0xjR3F4aklNdC1qcE9rY3NyRUhyeGkwS294Ri1QcFkxX1Q2dFhMczhVVGNzRXlZWDVUS1E?oc=5",
    "source": "TengriNews",
@@ -6586,6 +6607,23 @@
     "Транзит Китай — Европа"
    ],
    "id": "fbcbc14ae9518316",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Мирзиёев призвал объединить транспортные проекты региона",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkk3ZXY5aHBDR1FzT2N6LTA0VzNoTjFremtmd0hteVRrdnh5ZmQ1MHRUd1BwajRzZjRDM0RfN3RzWjBiWjV3ZXA5cjB6M1dSUHd1ZVdCbkdfU2ZvR1BhdnlmazViTUVTWUtPdkhkSkxzdXh1SVBNSVU0ZmluLUJqMEF1aS1GYmNLcmc?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-08T09:47:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "9440cc41a96a2b75",
    "categories": [
     "Логистика и терминалы"
    ],
@@ -24306,13 +24344,13 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 18,
+   "count": 19,
    "error": "",
    "seconds": 0.3
   },
@@ -24330,7 +24368,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -24346,7 +24384,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -24354,13 +24392,13 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "seconds": 0.5
   },
@@ -24370,7 +24408,7 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -24378,7 +24416,7 @@
    "ok": true,
    "count": 34,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -24394,7 +24432,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -24402,7 +24440,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -24426,7 +24464,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -24434,7 +24472,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
@@ -24442,13 +24480,13 @@
    "ok": true,
    "count": 49,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
    "seconds": 0.5
   },
@@ -24456,7 +24494,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
    "seconds": 0.4
   },
@@ -24464,15 +24502,15 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 53,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -24489,7 +24527,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f22e9163470>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f605e899430>, 'Con",
    "seconds": 300.6
   },
   {
@@ -24498,7 +24536,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "seconds": 1.5
   },
   {
    "name": "PortNews",
@@ -24506,7 +24544,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.5
+   "seconds": 2.6
   },
   {
    "name": "Kursiv",
@@ -24514,7 +24552,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.9
+   "seconds": 2.0
   }
  ]
 }
