@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T20:38:27+00:00",
- "new_this_run": 73,
+ "generated_at": "2026-10-10T21:38:01+00:00",
+ "new_this_run": 74,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Seamless Trade: How Senghor Logistics as a China Freight Forwarder Solution Provider Simplifies Logistics",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdWJSdDZZaDRmbVR3TGVkZDlQZTQ1RWFhb2w4TWdSaFB6SjJ0VktXRVk1N1VpUWhtUXZaV3A3VnVMdzJRc2NvTUJnelZ2aEx3QUpxelByZ2pfcVppLW1GaEsxanVUZXI3YVp0SVNEYmFCbnNPNmJlR3BueFJ0Q2MtYmdPc1FkY1N5M3JnX0RxYzFqXzlfck9EV3FVbi1lY3NkaFkyTEhURFJVWkd5UjBfblNESi1wOGs0eXAxRHluT2tTNGVfMmdvYlgwOEZWTl9DYnFDRUtkTC1Zd0xYdzh1V1ZMckpIbGtORFJ2Rlo3QQ?oc=5",
+   "source": "azcentral.com and The Arizona Republic",
+   "published": "2026-10-10T19:31:42+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "f753e3373892edfd",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Китай"
+   ]
+  },
   {
    "title": "Iran's car and rail sectors became sanctionable on October 1, with no wind-down",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2tOTlVHSlhUMFJNSEJFSlV2U3VQUnhvRVQtM1Z4TUFLem5yWkdKTm04SFNHYnJ2OHVtLU1ZT1RqeFJNWnNnZWlqb2lJRFVsYVZnWC1xWlA1dmFJWnFOX0tOSzlRcU5xaXQ0dWdqTS04d0xwc05sb3ZEbWM2eDZUSGlURlN2QVVST09oZU5CMVdHQnJLRElqQnBUN01jQWJ4Wm52d3FtX2ppQzFjZ2xmYWE3TVE?oc=5",
@@ -498,6 +517,23 @@
    "id": "8fcd705bab6937ad",
    "categories": [
     "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Avaza Summit Highlights East–West and North–South Trade Routes",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPakRpME4tdWw0bW1JYTRSRHRjRXV1M3pTelRhX0h4TUhSd3BMNTJFd0RTWUxmTjVPNmRvV0k4OVk3YVBhRFdMSWV6Nkxnc2cwNldYOFN2NU1oZVRYbWZXMmVQY08zeFhnandxSHZMbVRpbjhTS21JczVQNnZwU2ZvZXUyeUg5Mk04b1c0?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-10-10T07:56:04+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "c514b2afa1868cc5",
+   "categories": [
+    "Грузовые перевозки"
    ],
    "regions": []
   },
@@ -2743,7 +2779,8 @@
    ],
    "regions": [],
    "also": [
-    "Yahoo Finance"
+    "Yahoo Finance",
+    "AOL.co.uk"
    ]
   },
   {
@@ -8297,6 +8334,23 @@
    ]
   },
   {
+   "title": "Плюс 16%: контейнерооборот ВМРП за 9 месяцев достиг 286,7 тыс. TEU",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EcC1wUWJoTllIdXdhTlU5R2NNQWk0UEQxRWVjN1BnTFZBOW05eUNLSFpGOUNTZHNmMTFDbUhDTHhvdVlOVTNR?oc=5",
+   "source": "Портньюс",
+   "published": "2026-10-08T05:48:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "f42c0aa333c20a90",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
    "title": "Turkmenistan publishes draft agenda for Avaza regional summit",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTFtY1FHMWpCam9iUFplRHgtbkNpUWwyZHlWQ25wVVVJSzN0TFZiWHRGNmVTZGN2UjZsTVI5NkNlRGRnaTRlSzhZa0lkLWJXU29tM1p1V0pJb3dJZ3FSVmNlZkdyd0pDRnJxZ1VRT0Y2amJqUTNKU3RSODFpWG14Q29mTFR5OW9iYXRaclRBMEtsU3lqWUJWS05BdGJ0MmJvX092T290WnV0RzRlcHo0?oc=5",
    "source": "https://streamlinefeed.co.ke/",
@@ -8739,6 +8793,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Рынок акций РФ открылся в основную сессию снижением индексов МосБиржи и РТС на 0,6%",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JbVlUUUFlYy03cDdVRHlIWC1CRXJSaGEza2x4bTFKSWh5SFRDeG5wY003NllEV1FKR3dvZWRVYzY3c09mVXYtQ09INkhiTDjSAUtBVV95cUxPcmxOTGNxc08tUklzSnJuZ3B5dV9Rc0hoaEJ1V21WVGNKUnp3NWVCUnVaZENubjZFbXNMNHM2M1N4MUx3d3ZMQ1VCVjQ?oc=5",
+   "source": "Интерфакс",
+   "published": "2026-10-08T04:17:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "1e3363fd6c58053c",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
   },
   {
    "title": "Azerbaijan calls for infrastructure integration to strengthen Middle Corridor",
@@ -24342,17 +24413,17 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 47,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 19,
+   "count": 17,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -24374,7 +24445,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 37,
    "error": "",
    "seconds": 0.4
   },
@@ -24382,9 +24453,9 @@
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -24398,7 +24469,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "seconds": 0.5
   },
@@ -24414,9 +24485,9 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 36,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -24432,7 +24503,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -24464,7 +24535,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -24472,21 +24543,21 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 47,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 42,
    "error": "",
    "seconds": 0.5
   },
@@ -24496,7 +24567,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -24504,13 +24575,13 @@
    "ok": true,
    "count": 51,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 51,
    "error": "",
    "seconds": 0.5
   },
@@ -24520,15 +24591,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f605e899430>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7ff529541790>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
@@ -24536,7 +24607,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -24544,7 +24615,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.6
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
@@ -24552,7 +24623,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.3
   }
  ]
 }
