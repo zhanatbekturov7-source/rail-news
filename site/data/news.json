@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T16:38:34+00:00",
- "new_this_run": 70,
+ "generated_at": "2026-10-10T17:36:37+00:00",
+ "new_this_run": 75,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,40 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Удары ВСУ нарушили движение по железной дороге в Брянской области: подробности",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYU1hRHNmVWE2ZnlEZGFhVmd4UXREU0VZRExXVFFHc1lrV250MzBHVHZwZzJ4Z3NSZVVMV0p2SkVPeEdkd01PbWRYdWZQdEJRenNsdGt0SXZRekwwSW1pdEJBMHYtVXAyOHNEeERuQlY4VkVGT09HUURYcjIyNE01eExhbGRNa2ZPWEtwTU13dDZJb19OaGd6UDMyOGowdjRLdFRwY1laUDdwa1UxbHA2bC1IVGJrZEFQR1pGZFRn?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-10T17:04:02+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "d8eaf00a771b722e",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Jordan's new freight rail network could emerge as key IMEC link",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXIwdEVmZUdIX05jdHMyYktfN21TamJoTm5ta3J3WDJNZDVTanlxN1FTa0ZXdjlFeXFnQ2NJbWtpczcyZ0xyT2NZMzBPOTZBd1ZNMDk0VnJ4c1o4ak5CZk1mWVBOYUtaSm9TZVVIOHFsQzRsMmtnajNqbmM2QXN2T0pjdFpDZ2xmbWFnMl96eUVfT3NIZWpGNndjdHk4NGtlZ2hmNUpjWdIBrgFBVV95cUxONjZQWDNjbktlSF9IWHQ5QW42WU8tem5mUnpiWVFfVFZxS1RDZEJlaHktTU1JNmFwbFlYTUNKemFoNU1TVWFsellMaGhJNFY2dU1JMVBsV0RVLXE0aVFLalh1ci1tbEZmRHZVNUk5WDcxdm5PQmhvaDBXVWlQWlJ1UzgzZHBkZzdFVjEtcE9odElXN05aYmdkVG1uUjdBcnRPUWQ5YU9DeHgtLWZuZ2c?oc=5",
+   "source": "Lokmat Times",
+   "published": "2026-10-10T15:55:32+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "927bc02ca3c3bb25",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
   {
    "title": "Германия и Азербайджан: Средний коридор как основа нового партнерства - ОБЗОР",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQzZOS0N4bWJMekVwU185X19xWW9vUldkQm5TTVpwRWw2RHdiVjJiRUVVQ3psaWV1ckhSTklEQlFLZ0YwLUhqcG5uNWMwN19qa21MYkh5SjZtbmktMnY3SlE5Mzh0YTExX21tLVNHdHJSNldfRFJGWkpwYVFNNDhBVXFPU0NJcWJRalVKLVFIV0RMWmF6WGgzMFM4dFZONWNmNk5lQzNGcElFNnUw?oc=5",
@@ -117,6 +151,25 @@
    ]
   },
   {
+   "title": "Казахстан не противопоставляет разные маршруты — эксперт",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93aHRMRGVhN29XMXF0WTBfMndjV19WWGFpRmRIbDBrc2pCaG04RG9ZaXRHMXdVYzZKSHAtQWxSRlVSbE5nb3hQX1kyV1VuSFBlYWc4VkxR?oc=5",
+   "source": "check-point.kz",
+   "published": "2026-10-10T11:21:28+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "d64eea70054afafd",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
    "title": "Как меняется Кыргызстан: политические решения, экономический рост и взгляд экспертов",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXAwSkxZdXVXT2NGaDdqSnVDa1htRnlwTGx5QURqMDNGa1c5MWxRTFJ4MVF0YURDZW9UZkRlQlNDaVNwR2NyYU03bDZ1a1hNcE1WYWVpX2ptYjdzeHVrMk9PSnMtU0NJbGlKMUVMOFhsV00xTzhTTVNSelNOYWx6NlB1RXhfT2E0NVpkdkhtb3VybHRvZVV1cmJYbTVRQ0NtSmwwbHd1bGoyVzZ1MHRKYld1THRJTHd2YXFWbVN2V3Z6RzBUSW9QVkhORkowdjg?oc=5",
    "source": "open.kg",
@@ -189,6 +242,25 @@
    "id": "cdc81e1ac5057ee3",
    "categories": [
     "Грузовые перевозки"
+   ],
+   "regions": [
+    "Китай"
+   ]
+  },
+  {
+   "title": "China’s 2026 new railway passes 1,500 km as four high-speed lines open",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3RjbWpUT3pQdXJScGh4SkdsNUxRZzc4OXNUcWFzVjNVYzEzTnV3V1lOYXhOcFVTMm1rYV9hQWJ5TnprYko4LXpieXA3enN0YzNqaGFReTZiM3I3S0FYNkxBTkRrY1dSdkR3dmxfa0EtSjV6QURRQWhkQWZDYm13VG43OGxaRHVYOWVHR0VBZXJUVTdqQ0VlNnJxNWk?oc=5",
+   "source": "Railway Supply",
+   "published": "2026-10-10T10:29:11+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "0a2fdf4ed900e96f",
+   "categories": [
+    "Транзит Китай — Европа"
    ],
    "regions": [
     "Китай"
@@ -354,6 +426,23 @@
    "id": "8fcd705bab6937ad",
    "categories": [
     "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Комитет по конкуренции начал изучать повышение цен мобильными операторами",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNDJZd2lfTkFtUnlUeGhrTnh6WHNwcWZXSFg2R3lmakFyclJoRmZWZ1QtamVISVcyalRZeXlVeF8xVzNrWVNGUlEzLW41MUFXR1dLdThqS0VuV3ZrZm4zaA?oc=5",
+   "source": "Spot.uz",
+   "published": "2026-10-10T07:42:17+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "c687c98a68ade3fd",
+   "categories": [
+    "Тарифы и регулирование"
    ],
    "regions": []
   },
@@ -2070,6 +2159,23 @@
    "regions": [
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "Иссык-Кульская область обеспечила около половины прироста производства скота и птицы на убой",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82em5FeGl6VmNMVU1Jc214VExJazhqWFFFclI1WVNuWl94bTR0aHg0RkJpX1FZZVh1VW9hei1iMDl6Tk5HSThJN2RBVjVwLW40aEF2Z1U4MDg4YWdHQThSV0lzVVVETTVaOEppbEp30gFPQVVfeXFMTXZKVHlRWUhTYUNncFVwN29yV3djTEhMUncxYjFzZlVyZzBpeW5wUUNNRnloUzJROTN4MWkwZE1YdjNpQnZja2ZlQWlnaXlETQ?oc=5",
+   "source": "Tazabek.KG",
+   "published": "2026-10-09T10:34:07+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "d2965b537ab9a282",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "В Тверской области 17-летняя девушка передала мошенникам около 3 млн рублей",
@@ -9006,6 +9112,25 @@
    "also": []
   },
   {
+   "title": "Повышение тарифов ЖКХ после выборов вызвало рост инфляции в России",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONVhaSUh5VXhuUjZsUzFRZkc1RlFsOHR4SWdnYS0ta2NBYS1IQlBmUHplUExBWmFuZHowQzlaRExUcDBYaGNoalQ3Z3lPTFRacmU4ZjJjOEU5ckxxZnVaMF9fUU9DcmdGeF9xUkRVc3l6UEVKejMxYnpnSkVUWlNFcTZBT3pBZ1FpVEthV0d2Qy1UeG1rWHJuYWtXWklicVB3Ui0wMmY4SdIBrAFBVV95cUxQLUwyYUlxeDkzbWUxSFptalV2a0N3VE1zUW5oRVFlSWhZa0ZuY1Zpb2JjUzEwemJGVGhMYjlKVGs3a1NfOEs5N1JmZ2VWS085MEFhZ2UtSWtpWk9sMEN1Y29aM2tLUm94LVQ2YkMtcWNvS2JfLUJMQUxxZU5YZjNZNlBoRmNacVk3UE9jWUQySFFLeVd4SHZfUGk2dlFIWDJUcW94SFR4cDRQamZk?oc=5",
+   "source": "Meduza",
+   "published": "2026-10-07T17:58:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "7950fba843c8392a",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
    "title": "UAE joins effort to build trans-Afghan railway",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWTzdoczg2MzJzOTBjQzk4TmlVdV96TFBUUjRuSnFpTWJ2YUFOcGRoX1pldi1KaEFkdjBsZFF0OTVsYnM5dUU1WGwwcnFqTVVsbkhoRzZsOW1pR2JDbkhORW9wb1lMaTBEQWs4SHppWHJtemNhamhiNg?oc=5",
    "source": "Eurasianet",
@@ -11091,6 +11216,9 @@
    "regions": [
     "Казахстан",
     "Центральная Азия"
+   ],
+   "also": [
+    "https://megaproject.com/"
    ]
   },
   {
@@ -24032,7 +24160,7 @@
    "ok": true,
    "count": 49,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -24056,15 +24184,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 38,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -24080,7 +24208,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -24112,7 +24240,7 @@
    "ok": true,
    "count": 16,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -24182,7 +24310,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
    "seconds": 0.5
   },
@@ -24190,15 +24318,15 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 51,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 54,
+   "count": 53,
    "error": "",
    "seconds": 0.5
   },
@@ -24215,16 +24343,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa6843714f0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fd0f20b18e0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.2
   },
   {
    "name": "PortNews",
@@ -24232,7 +24360,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.0
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -24240,7 +24368,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.2
   }
  ]
 }
