@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T21:39:08+00:00",
- "new_this_run": 58,
+ "generated_at": "2026-10-11T22:39:02+00:00",
+ "new_this_run": 60,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,57 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Рубль держится на плаву, пока цены лезут вверх: у крепкой валюты обнаружилась неожиданная опора",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1Q3bzFOV0twa3ZMcW02UW9ZeGZjUElZYkVqdFNCVU9PUk9nMUY5TXhxQ0Q5WDdHV1VkbnhoMnZtR1RWV0xBeGx2ZHBVRHEwNHNqUjJFT3R5WEVzZFRmTDBVMUFVRms0QWFtaTdrUEZpSHNmMWdqd21kOHQ2QUloSWgyVGdNcEFkeXByTQ?oc=5",
+   "source": "Правда.Ру",
+   "published": "2026-10-11T22:19:21+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "06012d3738fb7850",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "CRRC’s self-propelled modular MAGIX freight wagon concept",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGxfVU9ROVgzeWowdFBaVnhpcVlUY3VuZmNrRnhYMFl5dkVPWUdVVEFBeFhHT1V3Yml1WXppbWFEMkZyNGg2YTJFT0dKQXdkVjRaVHZLeEVmeVA0V1JYVGF2NDRPZFZFeDBGM2ZOOWtKUDlFQ0JUdlY1TzhBcVBaeGlQOG5NcHpIN1A1V216UVdZendlODVZTkZPNVNoUUtGazF3ZDRTa1pBQThpMk1NSjRJWQ?oc=5",
+   "source": "RAILMARKET.com",
+   "published": "2026-10-11T21:59:50+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "2efb416196cb527b",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Пульс угля — 12 октября 2026: угольная промышленность в моменте",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcEpxc0k4TlhFdC1UWjViSDh4NDkxY3VYTU9vN2FJSzlzQmsya3F5dktXcWVPdzd2amJLTmM1R3YyNUVRbnozZUp3NWIzazRjSlZSNEM0dUttTHpydmRyWDRIS2N1d1MtRnJEMGdYa3JRa3JfSFFEQ3pCdDEwXzZueDhzdk91c0NUZ3o3ZERreXVlYkpaa1FvRW42Y2xZZzQ?oc=5",
+   "source": "Eastrussia",
+   "published": "2026-10-11T21:34:32+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "3b56d66bf5e83881",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
   {
    "title": "Токаев предложил соединить Средний коридор и проект TRIPP через Азербайджан и Турцию",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa2lFczZTZTlmN2lKOVVJLU5ZSjhld0FtaWFNYm9nZmpILUVvMlhBV1cyckFuLXNkaUFvUkpIX2psQk9KV0tVNGZTLTB2NnRDQ0EwQU9aU1BvSnAtWUl3MXdMc28zd243WGNneFJKTVRwR2ZHeHpsM2lOVWp4aFdtSDlKUzBMTHBuVFZJMg?oc=5",
@@ -1760,7 +1811,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Новая ткань Евразии: Азербайджан и Центральная Азия сплетают экономические связи",
@@ -4384,25 +4436,6 @@
    ]
   },
   {
-   "title": "Азербайджан удвоит грузоперевозки по двум транспортным маршрутам",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVRpWVFraUQ3SmxDYnFHM3h6Sy1sUUFERnUyN0MxQVg1UWh0Q1Q5Nm05SnJkZlMxNmZyVUV2c2hWMDJROGNwbWRZZllHd2I1QjFIUFowdkk2RXhzVXY3VWFGbG9ERlJMZFl1OUJQNTE1Y2M1MG1LNDVZWmF1cHhGVENXUWRoM0VmdXBJNlFtcjhSUmJWS3R5UTR2S0wtNHfSAUpBVV95cUxPV2xyV21xZVU3dzUwMDNnSmRlYTE4SDF6MTh6Z3NPN0tmMWJGMlN4UkFUMkdXdHVNMjZ5LUZZQm5uMnpZMWp0YzU1QQ?oc=5",
-   "source": "Вестник Кавказа",
-   "published": "2026-10-09T08:43:12+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "e262a51f09035250",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Каспий и Закавказье"
-   ]
-  },
-  {
    "title": "Уралвагонзавод обошел всех конкурентов мира по числу выпущенных танков",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDc0TU9FU2lmNDkxTGEzMGpZTzNHMElZMF84LU82bWllb1U5M1haVkx3X09rYkFTMk12Uzk3LVVuM205YTNZNGNuRzFLS01YQklUWjRzZnlEd2xKNlQtbjFMd190SEhpM0wxeF9NQzJaTjFtMHBLU0JzWTNsZW5HWnFOMjV1aDhBWTdHblhUMFU4bmpoVDA2RjdZbkRoTEp4Wm0tZGJXREZiYjFRb3BV0gGvAUFVX3lxTE9ENzRNT0VTaWY0OTFMYTMwallPM0cwSVkwXzgtTzZtaWVvVTkzWFpWTHdfT2tiQVMyTXZTOTctVW4zbTlhM1k0Y25HMUtLTVhCSVRaNHNmeUR3bEo2VC1uMUx3X3RISGkzTDF4X01DMlpOMW0wcEtTQnNZM2xlbkdacU4yNXVoOEFZN0duWFQwVThuamhUMDZGN1luRGhMSnhabS1kYldERmJiMVFvcFU?oc=5",
    "source": "Monocle.ru",
@@ -4732,6 +4765,25 @@
    ],
    "regions": [
     "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Азербайджан удвоит грузоперевозки по двум транспортным маршрутам",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVRpWVFraUQ3SmxDYnFHM3h6Sy1sUUFERnUyN0MxQVg1UWh0Q1Q5Nm05SnJkZlMxNmZyVUV2c2hWMDJROGNwbWRZZllHd2I1QjFIUFowdkk2RXhzVXY3VWFGbG9ERlJMZFl1OUJQNTE1Y2M1MG1LNDVZWmF1cHhGVENXUWRoM0VmdXBJNlFtcjhSUmJWS3R5UTR2S0wtNHfSAUpBVV95cUxPV2xyV21xZVU3dzUwMDNnSmRlYTE4SDF6MTh6Z3NPN0tmMWJGMlN4UkFUMkdXdHVNMjZ5LUZZQm5uMnpZMWp0YzU1QQ?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-09T07:51:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "e262a51f09035250",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
     "Каспий и Закавказье"
    ]
   },
@@ -6656,7 +6708,8 @@
     "BAQ.KZ",
     "Liter.kz",
     "Central Media 24/7",
-    "«Астана» телеарнасы"
+    "«Астана» телеарнасы",
+    "YK.KZ"
    ],
    "id": "dfbf04bdce70cd98",
    "categories": [
@@ -26400,9 +26453,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 31,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -26418,7 +26471,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -26426,23 +26479,23 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -26458,7 +26511,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -26474,7 +26527,7 @@
    "ok": true,
    "count": 21,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -26482,7 +26535,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -26490,7 +26543,7 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -26498,7 +26551,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -26506,7 +26559,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -26514,15 +26567,15 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -26536,7 +26589,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 36,
    "error": "",
    "seconds": 0.5
   },
@@ -26544,7 +26597,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -26554,7 +26607,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -26568,9 +26621,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 33,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -26578,23 +26631,23 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.0
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f367203a510>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7efe436dd160>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.3
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -26602,7 +26655,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.6
+   "seconds": 2.3
   },
   {
    "name": "Kursiv",
@@ -26610,7 +26663,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.3
   }
  ]
 }
