@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T17:38:07+00:00",
- "new_this_run": 56,
+ "generated_at": "2026-10-11T18:43:32+00:00",
+ "new_this_run": 57,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Инвестиции, ИИ, образование: Казахстан и Бельгия укрепляют сотрудничество",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUZmUVFzZ2ZvcjFXNkRjTGtBclVCem1YWjZQN1dHWjdLRTB5bml3c2ZxQk5rTmxRdnRTLWNMX0M1b3dnM1NhbFJ4X0V3blczM0RFXzJhTjJSWkJOcm1xQm5GWF8ybEI3eWJ2YS03ODdYaWJFZVdJVng5Z09sMHkwc1RnZU8xY1pfd2ZRUTdTdnFTNS1rR3czcmtQa0ZLQk1qSGpwMDEyUzVPbVV0YW5Ba9IBtgFBVV95cUxOX0NTa0dDVGN1ellsanVhMWU4MUhpMnd1N2NtRmNlMnE3cjNEd3FoR1ZKcjFtTnFXSnhhVWpSTDU5aG9wYjdJRVE5aWt4cE1TWVpoM29Wc2luTXBPMkhWQkZ3SVVjUUhCVVB6UEFrMGgzSEJvM21FVVdJZ0NDdjE5LU1oUGtNRko2ZjQ5YkZYZlZscWVMdlBlM2d4NXBZbnpQdW1DUThEREhVLUxfaE1mVVFIb0pqQQ?oc=5",
+   "source": "24.kz",
+   "published": "2026-10-11T17:54:02+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "34a6af684e6331d3",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "The Gilan Iran-Russia Trade Development Summit: Turning The Caspian Coastline Into Iran’s Russian Trade Strategy",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmdJMVBFV1F0dnc1cWtUUmhYOXZsRjU5OUdRZ3R6bzhSbWJ5UWVsWkM4bG5mNll3UFFzc1NzOVBRXzBpckQydzROaW1maWJXX1Y3ajdOaEsybzZWUXprNXd0SzlxTzdMRnpwU0Y5UHZOSFdrUXoyZWpQdUI5SnRqcDhWdnpRU0VnZTBHblk2clptVlN0ZFJ0alRIM2tpT1ZaaXpGYTBXa011WllLSTBPdzQ4N0w5QXlDVDRKN05KVWVNaVdoTzZTN0RiblVIVHEtd2dkclp2VWoxZw?oc=5",
@@ -485,6 +504,23 @@
    "id": "8691bb08c5a88029",
    "categories": [
     "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
+   "title": "В Сочи на территории аэропорта обнаружили обломки БПЛА",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tem42blNibHNwR3hSSjhBbU0yM2RNUW11ZlFnUVFGd1pvTTJ5cS16T0FIWHNjajZfREZ1MVBEakg0anFGS2pWdFh0MEJRYXEwaWc?oc=5",
+   "source": "Деловая Газета.Юг",
+   "published": "2026-10-11T05:18:34+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "3aea1633c657c916",
+   "categories": [
+    "Логистика и терминалы"
    ],
    "regions": []
   },
@@ -4232,7 +4268,8 @@
    "also": [
     "Inbusiness.kz",
     "Vlast.kz",
-    "Liter.kz"
+    "Liter.kz",
+    "Almaty.tv"
    ]
   },
   {
@@ -5817,11 +5854,13 @@
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
-    "Вагонный парк и подвижной состав"
+    "Вагонный парк и подвижной состав",
+    "Инфраструктура и стройка"
    ],
    "id": "cf57f443c993d302",
    "categories": [
-    "Вагонный парк и подвижной состав"
+    "Вагонный парк и подвижной состав",
+    "Инфраструктура и стройка"
    ],
    "regions": [
     "Казахстан"
@@ -26232,7 +26271,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 30,
    "error": "",
    "seconds": 0.4
   },
@@ -26240,7 +26279,7 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": "",
    "seconds": 0.3
   },
@@ -26250,7 +26289,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -26304,7 +26343,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "seconds": 0.4
   },
@@ -26320,7 +26359,7 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
    "seconds": 0.3
   },
@@ -26328,9 +26367,9 @@
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -26354,7 +26393,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -26368,9 +26407,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 34,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -26378,7 +26417,7 @@
    "ok": true,
    "count": 52,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -26394,13 +26433,13 @@
    "ok": true,
    "count": 35,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 37,
    "error": "",
    "seconds": 0.4
   },
@@ -26417,16 +26456,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f117846d550>, 'Con",
-   "seconds": 300.4
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f7da0361580>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.3
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -26434,7 +26473,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.4
+   "seconds": 1.7
   },
   {
    "name": "Kursiv",
