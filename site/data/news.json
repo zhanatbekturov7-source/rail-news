@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T16:39:35+00:00",
- "new_this_run": 59,
+ "generated_at": "2026-10-11T17:38:07+00:00",
+ "new_this_run": 56,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -47,7 +47,7 @@
    "title": "ВС России поразили цеха по производству беспилотников для ВСУ",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVVnRUlxZW8wcENtdVlNeldVS2NnZUVLbE5PWGpVUDM3OVZOenNKNnRCdXRmRjE4Q0d2aUhsemEyWjFzcXlvTmdVRExST2s2bHBGYkdxVjgxUVpmZ2w5cUgyRG14b1NGSHB6bkwxdmxiM3B2ZGlUcXRJUzBhQ1NGYTYyYndKR01neVBRRXBWN2oyVDdPQmY5bFdoNEdlUVlRMkVrblcxdVU?oc=5",
    "source": "prospect.com.ru",
-   "published": "2026-10-11T15:54:10+00:00",
+   "published": "2026-10-11T15:53:45+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
@@ -63,16 +63,37 @@
    ]
   },
   {
+   "title": "ТОП-10 новостей недели: назначения, санкции, инвестиции в ИИ, изменения в законодательстве и земельные вопросы",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84bmNBLU5ieUxTZUNmazF5c0pVMkVGY3MtVDBHRkVySkZKeE5lM3FramxNWVp3OHFWeGhEOExDMDlwcWNQTHNSNFR3azgxZXFJ0gFQQVVfeXFMTzhuY0EtTmJ5TFNlQ2ZrMXlzSlUyRUZjcy1UMEdGRXJKRkp4TmUzcWtqbE1ZWnc4cVZ4aEQ4TEMwOXBxY1BMc1I0VHdrODFlcUk?oc=5",
+   "source": "Tazabek.KG",
+   "published": "2026-10-11T15:15:40+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "3eedcf2e1e459796",
+   "categories": [
+    "Тарифы и регулирование",
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
    "title": "The Middle Corridor and Corridor VIII: Can Bulgaria Turn Its Geographic Position into a Strategic Advantage?",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNlE3cF9QYm9BejRaNU1ydEhTUlZ4NmN1ZVlHQ1Q5QTBJYVRmMTdMYzRJd19OQ3dIME4ycmVBTU8zTmpMbTJBR0tDVGx1YU5Xbnh1X0dibmg0S3lMU2VlQWdBMUdsb2VBVy1MYVhrd0RyUWVWRk1BbGl5RzNTS1VSdTMzT1ljUFBLMHM2S1NhSVNidlAyejhsZ3ItVS11ZC1DM2xCM29VZ19KQ0tnT0tWVUtheDhudDlValRzbllaNmRlSFRUZlZPaUNmYUVmeGRLallr?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR1RYcmhYVDFOQkxYcExPRm4wa1FyVkZFUC0xaEh0dThod1k2UkduYkl2NXNNOFBmOGhTelZNVlpyZXZjYVhaSG91a3B0R0FXZEd1SE9nYzRKamJINkYzZWwtdExLV3hZMDNyNUNMaFBqOXNlMjdCX0VrSzA1RDB2WkREWjFVTG5uN3dKajRlYjhhcDNRQTA5TER5dUxiMHFDSDdxZGJyQU93Q1hsT29IQ2Yydk9vQXJZc1licEJ3anFoaUFYaS1ncWMzc1JKZGlNemNocw?oc=5",
    "source": "BGNES",
-   "published": "2026-10-11T15:05:42+00:00",
+   "published": "2026-10-11T15:05:22+00:00",
    "summary": "",
    "lang": "en",
    "via": "Google News",
    "q_topics": [
-    "Средний коридор и ТМТМ"
+    "Средний коридор и ТМТМ",
+    "Транзит Китай — Европа",
+    "Грузовые перевозки"
    ],
+   "also": [],
    "id": "4cdaaa825e2f3d18",
    "categories": [
     "Средний коридор и ТМТМ"
@@ -789,6 +810,23 @@
    "id": "159fa5be164892ee",
    "categories": [
     "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "ЕС планирует привлечь до 12 млрд евро для развития Транскаспийского маршрута",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JcXVFbXR0bFZXTTVJOXBNQ2ZfMHRYUDFDRHFwQTRrN2M1Y2ZxTnMyZDFHYmdwMklyczBQV2Zpbl9mQU9LYmJvYzdmWTZ2ZkIxMEp0Qg?oc=5",
+   "source": "Radar.am",
+   "published": "2026-10-10T14:26:40+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "6d70bdaef17c21fd",
+   "categories": [
+    "Средний коридор и ТМТМ"
    ],
    "regions": []
   },
@@ -3683,7 +3721,8 @@
    ],
    "regions": [
     "Центральная Азия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Президент Казахстана предложил разработать стратегию развития СНГ до 2035 года",
@@ -26193,15 +26232,15 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
    "seconds": 0.3
   },
@@ -26219,7 +26258,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -26227,7 +26266,7 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -26243,15 +26282,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -26265,7 +26304,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
    "seconds": 0.4
   },
@@ -26281,17 +26320,17 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -26315,7 +26354,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -26323,21 +26362,21 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 33,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -26345,7 +26384,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
    "seconds": 0.4
   },
@@ -26355,15 +26394,15 @@
    "ok": true,
    "count": 35,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -26378,16 +26417,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f3003cbbce0>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f117846d550>, 'Con",
+   "seconds": 300.4
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.9
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -26395,7 +26434,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.0
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -26403,7 +26442,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.2
+   "seconds": 1.9
   }
  ]
 }
