@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T23:36:40+00:00",
- "new_this_run": 71,
+ "generated_at": "2026-10-11T00:50:41+00:00",
+ "new_this_run": 76,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -501,6 +501,26 @@
    ],
    "regions": [
     "Казахстан"
+   ]
+  },
+  {
+   "title": "Россия и Китай продолжат работу по модернизации трансграничного участка Забайкальск – Маньчжурия",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tV05Rb0tyUFhsZF9YYkdSOHdvNk5id3ZWUE5XSTdDSTEyMEJHN3l2RF9EX2JpTVd1VXQtSGNUbnM3SUJWXzNKMQ?oc=5",
+   "source": "AsiaRussia",
+   "published": "2026-10-10T08:18:30+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "2e278c9d2bd14bcb",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Россия"
    ]
   },
   {
@@ -1783,6 +1803,26 @@
    ],
    "regions": [
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Российское зерно может пойти транзитом через Китай",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kcmw4Szk1a2EzdXd3aC05OWxRY3daU3FwZ3pkZlBISU5jaXB2SUczTHpvcHFuOG5rX3d5azJfMEVNaEZ1Z1lBQ0UteFRDdUN1cTVBRQ?oc=5",
+   "source": "Альта-Софт",
+   "published": "2026-10-09T12:52:36+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "19563a6e135ead9b",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай",
+    "Россия"
    ]
   },
   {
@@ -6820,6 +6860,23 @@
    ]
   },
   {
+   "title": "Минцифры РФ будет искать баланс по вопросу цен на мобильную связь",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FYUpxbl9hazBsTmRyekxIY0p5VUpwcXM5ODJ6ZkpwTUpOZ19lTE93d3Rvem9DVVV0UDlQWmhpTmpPZGUyYXRZTUd6cC1DcUnSAUtBVV95cUxPQ1hZWTZHU1pSZWRnZm82UFJWWHFvdGhEM1VibHlwWU5HY1lYajhCLS1ReE8wR0lpMjRUbXJkRHYzRFdnQ0Y0b0o1NWs?oc=5",
+   "source": "Интерфакс",
+   "published": "2026-10-08T09:19:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "ca4e726341244186",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
    "title": "Бельский о ценах на проезд: \"Мы и так ездим ниже себестоимости\"",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PcF9LZGxJbm50VzVYVGl3dVl6NDE4S1MxWXRubjBaZklmSy03ZzdKaVF2eUQzOTZGOE5UVVVxYk8wT0d3WTFuSFZsVjM3VXBBaHliT2h0OHAzcGE3MTlMSmZzOGJfNUXSAXJBVV95cUxPNjBwWkd1TjVLNmgxTHZfbVhqaXk0cnVWcjlGbHg5WXFfc1BCZURWdzlEdUVPaEVPNERjclR2TmFfMTZXYjBldGtfRTNSb0dPV1RMUjZHbVhSZXJ6X0V4UTRHLVFEWTJud0Vza3NWR1RyeXc?oc=5",
    "source": "dp.ru",
@@ -6987,6 +7044,23 @@
    "also": []
   },
   {
+   "title": "В Астрахани загорелся жилой дом",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUVHZ2V6azh3NVVzX19oaUZ1QU9vVFRsY0pxWjVMcUc3YUduV0RwbUQ2STVZZGROYWNyWHlzTV9GdzktZWVraHpQZTJSLVdRc2RCR0hDalNFbU41c0ZDU253MUI3VDlkYW9sdHdZU24wY3JXWWJlTFdoRENLV1NYSDMwR1VySl9nR3hUb2VUQ0JjdjdXRlE?oc=5",
+   "source": "АБН24",
+   "published": "2026-10-08T09:08:40+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "9f5b29fa01f458fe",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
    "title": "Токаев предложил связать Средний коридор с TRIPP",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaU45bzhMY3ZKbVd2NGwyWE1vRDF5WTNOQUNLVHV0UHlGZlJ4TGRCM21UNDBGMzBtVTlDWldQVnhvYlB6X0EyWVZuU0hxcGNpOGVVYVVEV2RudFVVZC0wY2dOQ21idWt6MU5hOXRnOGM1T28zSVZjM1M3MVdMVVh0a3FjLTI3Zw?oc=5",
    "source": "Inbusiness.kz",
@@ -7022,6 +7096,23 @@
     "Казахстан",
     "Каспий и Закавказье"
    ]
+  },
+  {
+   "title": "В Астрахани на экологических субботниках собрали 125 мешков мусора",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnpxZmphMzJzRk1OaUpGTlVLTXRoNEg4cC00aE9ZNC1uZ1BBMHp4MGlHUktJSzVVQ0tTS2cwUDF3NkR0LUxHdVA0cGNBY3VzTFkwaGZCMnBLVU5IZXYyR3E1b1hac2pQM0x0eTZNbm1OUDFUbjZ6U19YcVBGLWp3a2ZRX3JLQjFkbm1iRktzakdDMUlYSVNpX3VGVjBMenJXTmhmM0NtS3VvWHN5OUlfN0hmYTY1NWY5dGhyVXI3SmZMZw?oc=5",
+   "source": "АБН24",
+   "published": "2026-10-08T09:04:36+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "0e787ff23532f771",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "Drones sink merchant vessel off Bulgaria — Deutsche Welle",
@@ -24422,17 +24513,17 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 45,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -24448,7 +24539,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -24456,7 +24547,7 @@
    "ok": true,
    "count": 37,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -24464,7 +24555,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -24472,15 +24563,15 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -24488,23 +24579,23 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 33,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -24512,7 +24603,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -24520,7 +24611,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -24528,15 +24619,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -24544,7 +24635,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -24552,15 +24643,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 47,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -24576,13 +24667,13 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -24592,7 +24683,7 @@
    "ok": true,
    "count": 51,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -24600,23 +24691,23 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fd9bc1ff590>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fdfab3547a0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.4
   },
   {
    "name": "PortNews",
@@ -24624,7 +24715,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 1.8
   },
   {
    "name": "Kursiv",
@@ -24632,7 +24723,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.2
   }
  ]
 }
