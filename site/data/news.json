@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T19:38:01+00:00",
- "new_this_run": 56,
+ "generated_at": "2026-10-11T20:39:10+00:00",
+ "new_this_run": 60,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Токаев предложил соединить Средний коридор и проект TRIPP через Азербайджан и Турцию",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa2lFczZTZTlmN2lKOVVJLU5ZSjhld0FtaWFNYm9nZmpILUVvMlhBV1cyckFuLXNkaUFvUkpIX2psQk9KV0tVNGZTLTB2NnRDQ0EwQU9aU1BvSnAtWUl3MXdMc28zd243WGNneFJKTVRwR2ZHeHpsM2lOVWp4aFdtSDlKUzBMTHBuVFZJMg?oc=5",
+   "source": "Правда.Ру",
+   "published": "2026-10-11T19:29:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "cfe48f093c89e01f",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
   {
    "title": "Инвестиции, ИИ, образование: Казахстан и Бельгия укрепляют сотрудничество",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUZmUVFzZ2ZvcjFXNkRjTGtBclVCem1YWjZQN1dHWjdLRTB5bml3c2ZxQk5rTmxRdnRTLWNMX0M1b3dnM1NhbFJ4X0V3blczM0RFXzJhTjJSWkJOcm1xQm5GWF8ybEI3eWJ2YS03ODdYaWJFZVdJVng5Z09sMHkwc1RnZU8xY1pfd2ZRUTdTdnFTNS1rR3czcmtQa0ZLQk1qSGpwMDEyUzVPbVV0YW5Ba9IBtgFBVV95cUxOX0NTa0dDVGN1ellsanVhMWU4MUhpMnd1N2NtRmNlMnE3cjNEd3FoR1ZKcjFtTnFXSnhhVWpSTDU5aG9wYjdJRVE5aWt4cE1TWVpoM29Wc2luTXBPMkhWQkZ3SVVjUUhCVVB6UEFrMGgzSEJvM21FVVdJZ0NDdjE5LU1oUGtNRko2ZjQ5YkZYZlZscWVMdlBlM2d4NXBZbnpQdW1DUThEREhVLUxfaE1mVVFIb0pqQQ?oc=5",
@@ -371,7 +390,8 @@
    ],
    "regions": [
     "Россия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "СНГ через 35 лет: зачем Казахстан предлагает новую стратегию сотрудничества",
@@ -789,6 +809,23 @@
     "Грузовые перевозки"
    ],
    "id": "d8eaf00a771b722e",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Khaf–Herat Rail Freight Up 4.5-Fold, Boosting Iran–Afghanistan Trade",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wZFFNZThPNS1pVmlrWmo0WlNMVHZYa3RzNzdYRGdRcnB6MmJnOFRCdkhSRWc3MGlSRXNSUmhYMHozQWlOSDdaQnU2SF9HbzNIV0E?oc=5",
+   "source": "TOLOnews",
+   "published": "2026-10-10T16:54:13+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "43617868d356dcf0",
    "categories": [
     "Грузовые перевозки"
    ],
@@ -4514,6 +4551,23 @@
    "regions": []
   },
   {
+   "title": "Экспорт грузов по железной дороге вырос до 69,4 млн тонн",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkxUX19YcnM0R2loeGI4c3hmWmF3dWdoLWZKemJwU0I3ZExZX056Tm9IYWkxeHprcXBvd0dzNkZzb2ZBQjdHZHJER19EX0N4MVFYTlBDbXpTQ2R2WFo1NzBYZ1RNRzBrS0pjYkVvb0R3ZHEzb2phVS1sNUwyNEVQSm1xaTNTYXg5cE9SQlZQMDRCci1VOVhVZlBJVk5oMHRmQzl4YTZMbTBIZnotNFBISw?oc=5",
+   "source": "Қазақстан теміржолшысы",
+   "published": "2026-10-09T08:09:16+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "b705eb6b40e4c627",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
    "title": "Rail freight volume in Kazakhstan rises by 3.4%",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91ZmVDY0tTeUZUVVJCaDBacE4xeUN3UzNPckdyMkNBMU9TZEF3MkdpcjdiUkFtUzNtRzlkOUdJSGY5LWdDemxzYmo0MUNheTJfTld0UHFXOFFycDlxaG41cmFyN0tHR2U0RDFLa3dNOVdhRkNTOFdqNHJLbkc?oc=5",
    "source": "Kaztag.kz",
@@ -6470,6 +6524,25 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
+  },
+  {
+   "title": "ЭКОНОМИКА КАЗАХСТАНА: ИТОГИ ПЕРВОГО ПОЛУГОДИЯ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWxTUUpUSUU2aUtVc09sYnRicGNsNEFXVk8wOE5OcVJiRHhmRno0S1pqUV9JeW1jMWVORm9zSUJlY000SjZ3TEtmNWcydHlRSEM3Rmw4dnRqVFVvSTRRVjV1cmdXRWpjMGhFVy02aEJsZldqSWNIVkowTVpUYUNEMA?oc=5",
+   "source": "The Tenge",
+   "published": "2026-10-08T21:55:24+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "be666e43b4e36db9",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Аналитики ожидают роста погрузки на сети РЖД в 2027 году",
@@ -10038,7 +10111,8 @@
    ],
    "regions": [
     "Центральная Азия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "В Амурской области выросли объемы погрузки угля",
@@ -26288,9 +26362,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -26298,7 +26372,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -26322,7 +26396,7 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -26330,7 +26404,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -26344,15 +26418,15 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "seconds": 0.4
   },
@@ -26386,7 +26460,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -26394,7 +26468,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -26402,7 +26476,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -26410,7 +26484,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -26426,7 +26500,7 @@
    "ok": true,
    "count": 34,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -26434,13 +26508,13 @@
    "ok": true,
    "count": 52,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
    "seconds": 0.4
   },
@@ -26448,7 +26522,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 34,
    "error": "",
    "seconds": 0.5
   },
@@ -26473,8 +26547,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f2a7805e5d0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f922233d520>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -26490,7 +26564,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -26498,7 +26572,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 1.9
   }
  ]
 }
