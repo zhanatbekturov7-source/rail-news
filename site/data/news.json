@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T15:44:53+00:00",
- "new_this_run": 46,
+ "generated_at": "2026-10-12T16:42:29+00:00",
+ "new_this_run": 43,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,96 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Подводные рифы зеленого энергетического коридора / Я так вижу",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mcHdCaEJsdFZzZUVQMGRwb1VxS3ZRaDJNc2h3RzBQWnF4TzBPZGJBV0trZHg0ZUpCYzl5NkVyQllvYk85V2lXeWlYUGlNVzYtYVhrR3QtNmE4NS14NVQ0c2xR?oc=5",
+   "source": "Независимая газета",
+   "published": "2026-10-12T16:30:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "e9eb743aa5ff77a3",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Председатель ОБСЕ приедет в Армению и Грузию",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajJCTjc3RkM3cHk1QkhvbmdpVHVaeEl6QUxxdFRFSWFZVGdDSXpNTzJfZTcwNkFxUXFsZEZuQ2F5RUtVY2xxYUlYR0oteGtwQ3RsWWtSaTZDdE42ODFOR0htYnVEbXEyMnNfSlVjQlVlYWtZWTdWeklBQVNfekVaTVVRY9IBSkFVX3lxTE90OHRHSUswZ0UxMFAzXzY3NGI5anJCMlRKV2NtWVNDNHR1dFRLSGVLaElCQUJkUXZFNThJRW9zZmhod0VPZy1JTmh3?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-12T16:14:58+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Порты и Каспий"
+   ],
+   "id": "6b3260775ad0d5dd",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Каспийский курс: как Туркменистан развивает собственное судостроение?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM05TMVBvVlZ0cWxlbEtLV0FfdnNheld5YVZwMGJMQ3pUWTdNU2Jpc1ZVbGNOR0Z0d052eGdvazBwNlNJcVRkTmMxeFZtTHFXX1h4YkJnNEpLOF9fVjhEOU5MVU1XOHZUS2ZrUGp6YkhILUZLT2dBQkpQSWI1RUd4Y1ZEeEhWMGY2VzNnbE5DS2F5dXBaWE1JTWsxWmN1RXlTcHE0QW05TmMxQdIBSkFVX3lxTE9ISkl3dHZXeFpIRWtTMVVKRW1PcllIQlpVMlZrQUZSRng0TnpWMzBPbDBmcmxCVTJIRnhNdEdHb1d3OXFVdktXUTN3?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-12T16:07:30+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Порты и Каспий"
+   ],
+   "id": "b49b2384d08b1ab9",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Российские банки в августе увеличили запасы драгметаллов на 3,6 т",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0lZeDVENWk2QlhzQVB2RnduLUUtWEIxQjNxa083a0hra2ttRlZZZjNMR0NibVZIQXE2djBLMHRoaDZhZWlPZzZuMUxyWENQRFJDeTNyd1Zwd2pMbHZIdUNqeVRzY3ZTd2MtNHptZ0ZXYXlxemdzS1pPMUx4c3duYy1pSDI0RU1nNWJMcGFkWl8tMGRJUmMyWUpRUVNiSWpXcUh2NTM5WTNyMVE?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-12T15:44:09+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "e463d75c16b76ffa",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
+   "title": "РФ в первую декаду октября снизила портовые отгрузки зерна на экспорт в 5,3 раза",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWJwSU9rUmJ4ak5TZXl4VklsOFRzWXZpdEtyalBuWnFOamxDajd1Rm4ydEI0TU5wbEk4V2ZXeWJGR0xGbWpRNHBob19HMFlwSENaU05JYl94OF9XOU0tbFcwQVAzRmVBOV9xbF8xTjd5LVNCWkxlMTNadm1YbFVkNTd4ODdrV3g3MGtlU20zcEZ3X2pMcmdKQXVOSkFuSnFudDM3eTRRakM1VFhKdncydkhGeXp5TjVobV9oVE5FSV9JUQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-12T15:44:09+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "f22337ab5ba319fd",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": []
+  },
   {
    "title": "Атырауский вагоностроительный завод выпустил тысячный вагон и осваивает новые модели",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeXN1ZFNCc2dtRU1jdDdPR3Jfb0hCT0RUaTZyRWtpajVTYVJ3WGxXZ2ZEd25zdXNsNEF2Ujg3SUhaNlZMNkhiZDZ1SzNDQ0VfclBSM3J4My1Ndmd2WlQtYWt5cGJIcXUyUXRwelpSS0tadzRnWUY2SXk2NDYweE5BTlpuRXF5cEt5dk91Q1VzQ1pvS0JjTU9scFNUZWNTZF9neGZyTlNhanBpbDNOSWdPVWRMZE8?oc=5",
@@ -74,6 +164,25 @@
    ],
    "regions": [
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Казахстан подтвердил статус регионального лидера",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjg2Y2lKenUtQ3BpTmVhTUZ5ZVRYVzM0aUdWRldHQWNKNVFETE15V3Y2dExLR0Q2R1F5em1aS1FTa2JfcW1LbmFIY2pMdGhOdFI3RDF5bFR5Z0NXYzBOQmVkVktVZk1Pb2VnRjFBNVB5U29menZ0MjdCX0ViLUtpd3Y4Qi1BdDVIT21WTURNeFFFakVUSGfSAZsBQVVfeXFMTTlwVkh2QW9JTFFHdlQ1Y0ZSX2RoNktQMTB2djlqYTE4VTJfUDdabDBSUDQ4bWJnNjhlb2RSQmdYWXpvaHh0LXd0aEczQ1YwSEdRQWtaN1c5S2VkX3JNcTZTakJDNEdSbGpNbTBPNjJQcEhpNTF5aWhSTy1BeWtHMVBTSjEtUmhhMFp4cWM5dlRxd2ZrdTVwUGd0RlU?oc=5",
+   "source": "Новости Zakon.kz",
+   "published": "2026-10-12T14:59:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "389010fbca05d319",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
    ]
   },
   {
@@ -375,6 +484,25 @@
     "Средний коридор и ТМТМ"
    ],
    "regions": []
+  },
+  {
+   "title": "Грузовые рейсы запустят между Алматы и Дубаем",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMm5XbUF5TEJsSC1EaUJpVG8yUWp5VGM3cmhnT2kxbFlwUzVOVEZPR2JhekdGc1UybE40SzcxUDhWUkNPTC00V0ZnaTAxdmpuOVlnQTNtQ2RHNzU4TjlFLTl4V1hKdVhkSjJlSlFOeDVLVVhEcmw1MFA0MlZYVEJTMm1sWFBJejFPeVHSAY8BQVVfeXFMTlBGWGZLRkw3LVYwV2JnY0dfSF9zS3RvMHlHeTd0b1VSaF9OQmhOVktWODBQd0J4UV9nYktaX3g5dnNPUktKUmJobk12d2ZQeGM5YkE3UURhTmhRelp3MGpQajFMbUs5VGVpbW5BTUtHVmJJb2Fmak5VUFdjejQ4SlYwenhNX2JqVW5CVHNVdlE?oc=5",
+   "source": "ru.elordainfo.kz",
+   "published": "2026-10-12T13:08:46+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "d46dcf8196b1b591",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Çerkezköy – Kapıkule line opened to pave way for enhanced Turkey – Europe rail artery",
@@ -983,14 +1111,17 @@
   },
   {
    "title": "КТЖ ограничила погрузку зерна в направлении Узбекистана",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQzgzbkJsUnFULXNMUDR4N19pU3R3VF9FNy0zQmZlN244M0JTMDlHRXZkenVDRVpxYlJMRGYyZG0yQURQaFNTYWR4RjNzOTJJWEE3NEFXVHRUanlUakFxV0pGTl9UbXFkc3hPNzhsaVdweDlpaXhQVVZHdFRvUDJxbGxveC1YREZXai1IbFhmdlJ1VWVqMGJLdg?oc=5",
-   "source": "Регистр ТВ Казахстан",
-   "published": "2026-10-12T10:42:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHhHMU9CNW5XcHNkMHhfaFMxcXVrNURzZzNOdnZzRTdjcUFiTDNiQXVtYWVCMGVod2hMRjJNT3I5ellNNTdVS25kS3ZRSmg2bGxqdnpoekJwZlQzenFmWjFnbWFrc1BiSFZoUzh2QzBGdW83emRrTUJtRWhJcFJ0UTdOWl9KTjFqdmZSX1N2MXNLQXpJbkY3WlQwaHkxcjNxMHfSAaoBQVVfeXFMT0Y2ajE0bkh6S21aaVlvVFFna2x6RkVDS3lZdG9NMktocjQyZ0g3My1GUDVjRHNSSlRVU3lYS3JMQ1dFcWRfTVhVdDRycXFqV24tMUw5ZzR3a3dpNzdTbE9WQ3BrempqNjZNbDBHODB3WGo3TDFtRUQyYjNUeDR3MVJlSUlzRWtJTGhMYTFaTkNZZmxRVTU5QWJIU0RXaDNFTzFxTGEtRFZHOFE?oc=5",
+   "source": "ElDala",
+   "published": "2026-10-12T10:39:43+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
     "Вагонный парк и подвижной состав"
+   ],
+   "also": [
+    "Регистр ТВ Казахстан"
    ],
    "id": "b231711d392ca69b",
    "categories": [
@@ -999,9 +1130,6 @@
    "regions": [
     "Казахстан",
     "Центральная Азия"
-   ],
-   "also": [
-    "ElDala"
    ]
   },
   {
@@ -30398,9 +30526,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -30424,7 +30552,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -30432,7 +30560,7 @@
    "ok": true,
    "count": 37,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -30448,29 +30576,29 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": "",
    "seconds": 0.4
   },
@@ -30478,7 +30606,7 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": "",
    "seconds": 0.4
   },
@@ -30496,7 +30624,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -30504,7 +30632,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -30534,9 +30662,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -30550,25 +30678,25 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 41,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -30576,15 +30704,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.3
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f00bbffdf40>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f4905db5ca0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -30592,7 +30720,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.6
   },
   {
    "name": "PortNews",
@@ -30600,7 +30728,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.6
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -30608,7 +30736,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.4
   }
  ]
 }
