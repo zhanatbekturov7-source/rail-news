@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T23:37:55+00:00",
- "new_this_run": 61,
+ "generated_at": "2026-10-12T00:53:44+00:00",
+ "new_this_run": 59,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,27 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Beyond Direct Airfreight: Why CargoPoint’s Truck+Air Multimodal Product is Redefining China–Europe logistics",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGRCRUtUcTZrNmdfNkVOYTBwUHBSZmRyQ1NIdnFMV0ZwRkRFTzg1Vm5PdHBZeVUxVE12bW9VMFBYVUJFRTdxdmxxUEh6dUxvNGtFd1paYmUwTFhjc3NiOFdaUlVYb0lrSnJNc2RFd2ktamM5QUJicUVRVWNYcEdxaFRtZDliMm9GSVNJWW9KWVljUFVvN3lYX3FQaWd3RHlvUFoyWkNjXzYzS2tDWXBsSlFiME1HZnVTcC1jS1hFQ2dzWFItR1JsQWtMbw?oc=5",
+   "source": "Air Cargo Week",
+   "published": "2026-10-11T23:45:16+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "ef871295e1cfb721",
+   "categories": [
+    "Грузовые перевозки",
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Китай",
+    "Европа"
+   ]
+  },
   {
    "title": "Открыта железная дорога по маршруту Багахангай – Хөшиг – Эмээлт",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDNxZDVBMXlJNndkREw5MmowWm1mQUs0R3UtMnZYN0ZnQzRyaW1fenJtM2pJUXJNdGNHbm13UFRRbEZSbDBlUnQ1ME9MQ3drMzR5ZENaQTFiZ2tsMWdoZGJ0Wm5uYjhlZElsNS1xcW5xZzBsTzlkMDc4V29KQXQ5ZHFyVW43elpoSkY2eDRoUWVXQjk0bEt5d3RraVU1UnRYSjdZbllaSXU0TEhIRFlIdg?oc=5",
@@ -334,6 +355,24 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Feature: Hairatan railway port emerges as trade hub linking Afghanistan to overseas markets",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GZmdvcnNTMF9zZjRuNHVldWQ4aFhtWU16MTVUMjVuU2Z6M3NDQWoyTkVaS3ZPSDR5WFk1NHk4MkFVTWpIbGljQVE1QUxJLTFSSWZmVGJwYUJYNUYxTmxscUVDdDB1cDJmYnR5SUhiMUlZU2dyX3JyQURQRGU?oc=5",
+   "source": "Xinhua",
+   "published": "2026-10-11T11:29:15+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "30c1edf739b03c55",
+   "categories": [
+    "Порты и Каспий",
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "Беспилотники угрожают Среднему коридору у берегов Болгарии.",
@@ -4283,7 +4322,8 @@
    "via": "Google News",
    "q_topics": [
     "Средний коридор и ТМТМ",
-    "Транзит Китай — Европа"
+    "Транзит Китай — Европа",
+    "Грузовые перевозки"
    ],
    "id": "de2778e3d88b7292",
    "categories": [
@@ -4295,7 +4335,8 @@
     "Yahoo Finance",
     "AOL.co.uk",
     "AOL.ca",
-    "inkl"
+    "inkl",
+    "Yahoo! Finance Canada"
    ]
   },
   {
@@ -26527,7 +26568,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 30,
    "error": "",
    "seconds": 0.5
   },
@@ -26543,9 +26584,9 @@
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -26553,15 +26594,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -26577,7 +26618,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -26585,7 +26626,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -26593,15 +26634,15 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -26609,7 +26650,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -26625,7 +26666,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -26633,7 +26674,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -26641,15 +26682,15 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -26663,7 +26704,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 37,
    "error": "",
    "seconds": 0.6
   },
@@ -26673,7 +26714,7 @@
    "ok": true,
    "count": 52,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -26689,13 +26730,13 @@
    "ok": true,
    "count": 33,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 31,
    "error": "",
    "seconds": 0.5
   },
@@ -26712,7 +26753,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7ff1ea2ae2d0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fd399e7b200>, 'Con",
    "seconds": 300.6
   },
   {
@@ -26721,7 +26762,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -26729,7 +26770,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.2
+   "seconds": 1.7
   },
   {
    "name": "Kursiv",
@@ -26737,7 +26778,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.3
   }
  ]
 }
