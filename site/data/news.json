@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T00:55:28+00:00",
- "new_this_run": 35,
+ "generated_at": "2026-10-13T01:43:50+00:00",
+ "new_this_run": 36,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,57 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Курс доллара США сегодня, 13 октября: Vietcombank подорожал на 50 донгов, индекс DXY превысил 102,5 пункта.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUJOV252cVhGSktBdXNhZkFXdnJfQWtiUGZBaVRRaHJMUjNqNF9BOXRLQ2lYREdwZklwZE0tYmpsdW1vUU05dFIwYWdzUXpoTzg2QnBWTGZERVhwRlRINHAyeUx2dFYyblZuUEhaeXRrcE1HTDBKU2w4b3ZtYVJ4MzctR25kYjNJSlFnN0JJcjdFUGF0RnVwRGl0dw?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-13T01:12:17+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "11762b2456b1d3fe",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Мировые цены на золото упали из-за давления со стороны доллара США и цен на нефть.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVM4Sl9BUm45em9uNlZRSWUwLTFLVk5QLWRoc3dlcXBMZmh1VWREVFJCMlNiXzkyRnZLUG9YRTIwcVVDVWxVMDhRZ1QwYzZ0ZnhxXzU1Vi16TWJhRzVpS1JsZnZseUJHdnlBZ0RXOW1Fc2ZOQ3N0bWt4SlQyNVBCUmR6QWdKdGp0?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-13T01:07:37+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "2ed61a6a3f1ada69",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Обследование и проектирование для повышения пропускной способности железнодорожной линии Ханой — Хошимин.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEpTb3NSaGtOVTNaUi1zLThmRzdfWlQ4Vk5MYnpjeW11cVhRTXp6ZnVKa040NUhZTXE5MThWM2ZOUW9iVXZ6SmwyRnI3VHpPMGc5VlUxODFXWDJIbEdIeTVybFVoNURKOWF3TUlOZ0xjRmdaOHk2enJHUUFkMVpjZUszV1ZHRkplb1U2SFNNWlVLenIzLXc?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-13T00:53:31+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "b1d9dcd02cc034eb",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
   {
    "title": "Болгария попросила НАТО и ЕС помочь в расследовании атаки в Черном море",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1NHN1UwNHdzX0tMaWxNbFpkMFBYVDloenpIVm1NRGpGMDEwX08tWWRERGl2ZzdOVWlIZS1hY3Nia25YOFo4WXpUTVpBbUV5dTlDQkpka0pOZHRXS245UUdGaFIxWjJtWkw2cFNVYjlDYWVfNms1X3JlcS0wZ1Zzb29Sd3BoWVY0Z1BQc3FCNXZhQzljWUVSc29oVE92RVJZUlVOckFadWl0N2lCUlhuMlA4MTlpQQ?oc=5",
@@ -31356,7 +31407,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 41,
    "error": "",
    "seconds": 0.5
   },
@@ -31374,7 +31425,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -31406,7 +31457,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -31422,13 +31473,13 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": "",
    "seconds": 0.4
   },
@@ -31438,7 +31489,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -31492,7 +31543,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 24,
    "error": "",
    "seconds": 0.4
   },
@@ -31500,7 +31551,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -31508,7 +31559,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
    "seconds": 0.4
   },
@@ -31516,15 +31567,15 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 40,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 33,
    "error": "",
    "seconds": 0.5
   },
@@ -31541,7 +31592,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fd6264c5850>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f142e1863f0>, 'Con",
    "seconds": 300.5
   },
   {
@@ -31558,7 +31609,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.3
+   "seconds": 1.7
   },
   {
    "name": "Kursiv",
@@ -31566,7 +31617,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.8
+   "seconds": 2.1
   }
  ]
 }
