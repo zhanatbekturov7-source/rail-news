@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T15:45:45+00:00",
- "new_this_run": 53,
+ "generated_at": "2026-10-13T16:45:10+00:00",
+ "new_this_run": 57,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,62 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Таксист inDrive получил 10 суток ареста за интимные предложения пассажирке",
+   "url": "https://kz.kursiv.media/2026-10-13/lngr-taxi-driver-indrive-harassment-arrest/?utm_source=rss&utm_medium=rss&utm_campaign=lngr-taxi-driver-indrive-harassment-arrest",
+   "source": "Kursiv",
+   "published": "2026-10-13T16:34:44+00:00",
+   "summary": "В Астане водителю такси inDrive назначили 10 суток административного ареста за навязчивые предложения интимного характера пассажирке. Об этом сообщили в специализированном межрайонном суде по административным правонарушениям города. По данным суда, инцидент произошел 11 октября около 07:00. Во время поездки водитель…",
+   "lang": "ru",
+   "via": "Kursiv",
+   "q_topics": [],
+   "id": "87752c6dfe6121b8",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Министр: Сотрудничество Азербайджана и Туркменистана повышает эффективность Среднего коридора",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkF6SmZFZUhsX1RTRjRXeEJ0UTFxVEZVelpYYXVjYmp2NEFEdG5TenZ1WVZ5SDRVQnV6Y0FmRVV3cXpjTEI0Y0dWeWkxOEpCSlU2NXF3WlBSNFBlNWp3NmJrR01sS2tfRVZvbGQ5REdJc2JEMkNRR1JQaXZUSkFVY2EwanBxT1h1ZGJQb1hVQTVUeG9GdnhmazNkR21iVEhFNS1mWnZlTS1nZ0JMMzdTSkhzVGtlb3lMQ2xVZg?oc=5",
+   "source": "Media.az",
+   "published": "2026-10-13T16:28:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "a38b34cb97e4ea6b",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "China pilots cross-border e-waybills",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JU2c5ZGloVWRPek5nMmw5RG9oVXQyQWtQcEd0MnBPRjh3SFdyMVpQekdkZDRnV0tQY2FXelk4b2VUSjdfRTE4ekFrT1VQLUttcXVQTjF4dXZOOTVPWWhwNWVoSElENTlwWl9EMEEzOVNrMmRvdlk0R2w2MTVJQQ?oc=5",
+   "source": "International Railway Journal",
+   "published": "2026-10-13T16:20:59+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "3047b878f33e4b2b",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай"
+   ]
+  },
   {
    "title": "География ж/д сервиса FESCO из Китая в Казахстан и Узбекистан расширилась",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qVDlRNXk2V2ZyTFMxQk1ZajBwd1BIU1ZKSi1GUnlPR1BodFBuYm90NjFmZGRJR2FZQndsNGVhRVNZek9iLWpV?oc=5",
@@ -138,7 +194,25 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
+  },
+  {
+   "title": "Три региона Северного Кавказа объединила обновленная дорога",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlNTOERtUDFsWjZQbDQxblN0WGdlX0UydGprSFJVcVRyMWhqd3FwSi1mTUdMQ05JUU5UZnkyYUE2cjZvcHNQakNVVGh5Vk9RM0RlUERiNVJsaG9UV1BHWDl2ZTUyMTJ0QjN1NUpfWGJCb0IwSWlIMzkzdVc0UGJyWi1wS1dnSXc2ZFVRNFpTQkpwa195R1Y00gFKQVVfeXFMT24zd00yMUJCOEdPRUltTml0Uzd5dnJPQXQ5QTZSUmlsbEp2TFJjU2UzZXg1eU03em8xd2MwRzVncFJkY1R2WHN1QXc?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-13T14:11:49+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "c288081f97d7a6ea",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "Токаев предложил Бельгии новый путь для казахстанских товаров в Европу",
@@ -326,6 +400,23 @@
    ]
   },
   {
+   "title": "Тюркские страны могут создать единые платежные системы",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXRCMWdfZmpvb21mbkNldzdTdWdXdXVYN01DRDJ4c3RpQzNRZ2VvOFV3cXNGQnN3YzltVkstY1hpVThQemg2VUtMcGtTODI0VWhDRmx3Nnd1ZzlnOTdVaDZiSlBYOElkbnhxdXlmSFViTnNNeXZ1ZS1lWlhuQVllUTNmU3l5WklxbTRDbUpLTzPSAUpBVV95cUxOblZsNVpyM3JQV2YzcjJSZ0N6a1kySXJOMU5SWUFxTjNrMmxCN0syTG5rLWRKRGRoZm9qVUFDT2g0R29lZXJuaENYQQ?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-13T12:31:54+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "3861e326c69382bb",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
    "title": "Регулярные грузовые рейсы запущены между городами Казахстана и ОАЭ",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc2RrRXQxQVNGVE9iMEZuYUtVR2VmRWl5VEU0cG1lODRyaWlVaU9ENkhIU0d5TmNIbmdpbERRSTJLcGxqMmJ5MkR2WHBDMkk1RHljc052aVFBeUNZdFU1MXQwYi1DbWYzQXFYSHlKU29WN1hmdkxpc2YwVVp6QldkMnJiNzVrUVlGSXZsWnI2RGxycHJrczM3akxjdlF4V28?oc=5",
    "source": "TV BRICS",
@@ -358,6 +449,23 @@
    "id": "e6a3ea74abb35e49",
    "categories": [
     "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "МВФ прогнозирует темпы роста ВВП Греции в 1,8% в 2027 году",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODg5UzR1eThmLWo1NXVjLU1hSkRsTlVyd002dUdQSE1YVnNEWnhHRlhHUFJIOVM5S0hweTlZUHJrTnFwS19oNXEzUmFOcEZWVXljZDVadnlBYm5DOWFtZEkwZDZBX0JqY190WkhQSG90U1RFYlViNlNkMng4cjQ2SDlCZGdwaWdsOTBKdzFIbU5YbUU4MlVlRnhpZ2VuZndy?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-13T12:24:38+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "7bdf0e5d658c7894",
+   "categories": [
+    "Грузовые перевозки"
    ],
    "regions": []
   },
@@ -871,6 +979,23 @@
    ]
   },
   {
+   "title": "Цены в Украине резко выросли: что подорожало больше всего",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLU1tMm9tWU16VTlzOEpxVm5mSVZ3ZmpnSGo4dldRWFVnazRCV3N4TzJxVUxNVjU0V214V1NIcE1CakNRTmZFeUVwSzloMFNjb2VxQ3Nta3p5bW5LaFo3SmFBc1BGZjQ1TEtGMjVyRFA4QWxIbmVJRGdReU05QnVITUxHVFN2SGpCaUdSQmgtNUZSOUMwUDBaWWlvT2ZaVDhoT3ZEMg?oc=5",
+   "source": "Судово-юридична газета",
+   "published": "2026-10-13T10:17:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "676481cdc7c4ff94",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
    "title": "Азербайджан и Чехия обсудили развитие Среднего коридора",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnk2aG1nMUd4dDJ6c19VYTRiZ1ltcUc0WFNoMVh6ZFUwMGtYNVV4WEd3TGJRcy1SYmxYN2daMWllYWpRZjBfejlmQjBZQTlKZE1mOVVrTEduMWVYM0JUaU55d0UzZGNkZXc2LTlibkNwT0pjdk1rUnV5SnBMZUhDdU5tMFZMR0V6S3NWSDFPRUpGOVhqLXdZZTZB?oc=5",
    "source": "Report.az",
@@ -985,7 +1110,8 @@
    "categories": [
     "Грузовые перевозки"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "Capital, Capacity, and Competition: A World Bank Perspective on Georgia’s Role in the Middle Corridor",
@@ -1432,6 +1558,23 @@
    "regions": [
     "Китай"
    ]
+  },
+  {
+   "title": "Autonomous wagon developer Parallel Systems secures $100m in funding",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTdlU2lOSnVOWHVRWTJrS0RPRGFmQmdUdEV0RkZYbFpsbGlJc29LZjQya3VVMnlVSWpScTFYQ3gwVFJRM2NrY1Qwczl0Q3NRdkZuQjVNTUVkR2hIbzZ0NGlHdkptQ0l6eDdjOUw4cDZlWlVrZF9WdG9EWjFLMGNnQ3YwY3RiZi1sUzBTQTZzM1dJRFQ0Mm90WFhUSFV0N3VmZ3RQcTRwbXZzQmZGSjRGa2o1d1Y5Wl9BX3c?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-13T07:00:52+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "d3a1c4013e31fdd9",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": []
   },
   {
    "title": "EIB Deepens Kazakhstan Investment Ties Across Transport, Energy and Digital Access",
@@ -3224,6 +3367,23 @@
    "regions": [
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "Ферганская область заинтересовала инвесторов из Саудовской Аравии",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0VvUG54ZU9CeTBramgteGV2MHFvbzBZR0NvcU9Db0ZtS1l4YVc3bjJFZTRpdkRZV0dkbTllRnpSTDZEXzNGSm9NbHJyOW9MYkFjOUJmT2t2OERfazgtUEY3SEp1VkRfamZxWEItaWtGVUZfVEQ0YVljQkY1cVJ1NjFqZ21Hc3IzZmxOM2lEWXZGNGZFeGk0?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-12T15:15:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "0817e60ab84733ce",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "Россия возобновила поставки дизеля в Узбекистан",
@@ -34410,9 +34570,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 50,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -34442,7 +34602,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 43,
    "error": "",
    "seconds": 0.4
   },
@@ -34466,9 +34626,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -34482,7 +34642,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 34,
    "error": "",
    "seconds": 0.4
   },
@@ -34508,7 +34668,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -34524,13 +34684,13 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": "",
    "seconds": 0.3
   },
@@ -34546,17 +34706,17 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 53,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -34570,15 +34730,15 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 38,
    "error": "",
    "seconds": 0.4
   },
@@ -34595,7 +34755,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f0d8b0e5490>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fd38d754350>, 'Con",
    "seconds": 300.5
   },
   {
@@ -34604,7 +34764,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 0.7
+   "seconds": 0.6
   },
   {
    "name": "PortNews",
@@ -34612,7 +34772,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.1
+   "seconds": 1.3
   },
   {
    "name": "Kursiv",
@@ -34620,7 +34780,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.9
+   "seconds": 2.1
   }
  ]
 }
