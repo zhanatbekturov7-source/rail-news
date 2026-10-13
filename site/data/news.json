@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T13:50:11+00:00",
- "new_this_run": 58,
+ "generated_at": "2026-10-13T14:48:27+00:00",
+ "new_this_run": 62,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,156 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "Король Бельгии призвал бизнес расширять сотрудничество с Казахстаном",
+   "url": "https://kz.kursiv.media/2026-10-13/lngr-king-of-belgium-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=lngr-king-of-belgium-partnership",
+   "source": "Kursiv",
+   "published": "2026-10-13T14:37:46+00:00",
+   "summary": "Король Бельгии Филипп призвал бизнес Казахстана и Бельгии активнее сотрудничать в энергетике, сфере критически важных минералов, транспорте и логистике, финансах и туризме. Об этом он заявил на четвертом заседании казахско-бельгийского Делового совета, сообщили в Акорде. По словам монарха, Брюссель и Астана обладают…",
+   "lang": "ru",
+   "via": "Kursiv",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "also": [
+    "Kursiv Media"
+   ],
+   "id": "9093bf6d8ffaf7c9",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Токаев обозначил приоритеты партнерства с Бельгией",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXVRSUhEdkhoekdGT0ZVdjVsYkZ0aTZwWHBFU0RkOFI3OGx2ZHU5LWt3UFRjYURXX0prMENHVS1mWU8tUVpvT205SWw1Vmk2Ri1DX0V6Tmt6SlhGc0lWMFhKM29Fdll3anltdUVydnp0VkU3Y3FMY0FoejRlbC1PQVNoLUttWnczMlR3SE10QjVQVG5p0gGYAUFVX3lxTFBwMVJYbXExNHFTWGlCd0d0cldMQ1BqZjNIZ25neUNDeGJ0QnFmYWFRcXNCdkc2UVFqQk5oLTBBTHVMcGpRRVN6TVU3Qkd2QUdzbjlnVmVfOTRjQXp4YU1nQ1FTems2TnNJWTJZRmhqM09XQVR2UmdZc2FIRHNOYU9wX0hrb2lYeUJkSzFhT2w2TFVnMjBmNzhM?oc=5",
+   "source": "Ulysmedia.kz",
+   "published": "2026-10-13T14:28:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "361dee630884342a",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Король Филипп призвал активизировать сотрудничество Бельгии и Казахстана",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU0I4V3FlMjlQVDNRZ1dKZndndElYYkd1cFppWnZleWp1V3dHWWpCc3M1U1BHbV9hZjZlNWdJNGtvRkJKTGJTSDhpaWlOTDZvTXUxV1FDTkNwWGh1YUJOZ01JNlY5N0dWSWpfd3AxLUJwVWQ5VUlXcDZHdUlncW96Rk9KOW41OGYzY0NGdXZpM0pBX2QzYlo0alVyZUhUeGdaQUtyOTVleFlXNy1OUHROd9IBtgFBVV95cUxOeE03LThfRkVGajJxa1lvSDQ1eW5CUmduVzAwV204ZGhZZ3Zkd19wYXZLRzR3YUVMY1FBOWY4NGpIa09QZ3FoRlNqWmhzY2dpeDM4bVQ5V2hHeE15ZS15b0JMWGxtaGtjeERWTTdXTnFGS29sNU1OREd2WnZjMUU0RVpfSHA0N3k1REtLeUVjRFB6Ql9YZTMtUzE0dXpMMGFoVk1RZWNReERkTnRYOVp2NWhUVmd0UQ?oc=5",
+   "source": "Azattyq Ruhy",
+   "published": "2026-10-13T14:15:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "b5e79b32010a3522",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Токаев предложил Бельгии новый путь для казахстанских товаров в Европу",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVg4cy1uakRIZk5LMnpxZExMdTRQN2dXbEVUWnZ0a1pHT0hsWlZhRE9XSjZmSVI3Uk1WQ3FlZjRyalBmM0NIbjdMU2o4Y1RZaURUc0V1WGZCcDFMRS0xVVRoRURnSzZicHk5MU1DRG5wVWZyeVNrQzFIYW9nb05FamVSdnl4U21vY3luNUpFMG1UcnVQ?oc=5",
+   "source": "DKNews.kz",
+   "published": "2026-10-13T14:10:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "cfd9d4934ab0a098",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан",
+    "Европа"
+   ]
+  },
+  {
+   "title": "«Ценю интеллектуальные способности людей»: Токаев о работе иностранцев в РК",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTAtelE2SFdEUkJQUTF5WHllaUo4MzJDMlZmWEdrdmxXT1B3aW1zZjJNd0VWV0dTMUFWbGRhNC1JN2FWeGFOcGx5T09VdnhNUjR4ME95NDJVNmNXaTluNDRuYVJkakZkNG1VWkNhZ05hRU95dEl5bi1qN3VKcWZYbG10QkVzdy1sVUVIVTV5NV9ZS3Y4VFVseEJRYXRsekw4RDQzR2pNNnpGNDg4S3lXSw?oc=5",
+   "source": "NewTimes.kz",
+   "published": "2026-10-13T14:05:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "9f2be174eb338a45",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Токаев предложил наладить партнерство портов Актау и Курык с портом Антверпен-Брюгге",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHRYazN2T2NrY3EtT0ZCUUtuX1hfbkFvYmNWMndSSVo5ZHI5SlFIbFZyZF9PVTV4aG85eDFjdjd1akVodXU4OXp2ZWlqWGNFTnR3OGU2bndBOFM2QWVDVFk0YnVjNG90RmM1SkE3ZEhMNjlyVTI1VXNPa0NMenJtOHhzMGw0UFkwYjhqQjJKRTdGUFR1SE50YjV2ZThjbmdTZEswVlJuOUpqYWdlRDl0dHc2b0jSAbYBQVVfeXFMTnpBSVpLYlVZNndWbEk4ZFV2RU1kLUNIcC1sQ0FJQmdJb1ZwWXE2bWU3RzJtaGNuSVpObmJGdl9kNk50Tkx3UjJqaFhyREJQLTg4NDVfX1ZCR2NzZUJJZnI1NFBvUmRIYlB2OWVlSkpOUTlFY0l0U0MxX09feEo5Q3VSdmJvYkNGa0pvTDJXT0tqQ0toa2QwRko3UkZZSFdoM0dNUF9YWHBpNWhlSk1fak9jcjZ1REE?oc=5",
+   "source": "Казинформ",
+   "published": "2026-10-13T13:53:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "521d6e73b13434bb",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Король Филипп назвал Казахстан важнейшим связующим звеном Евразии",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2xPRjhVRlZwR2xlOHVETk1rbkJZY043WGFPWkdLeDFmM1MxVVlGYVJnV2tWNkJEbzR3dmJpWXVKWUIyOUd1YnpuZFQyVGJjNkltZFZZckFkdF83alNtVEhzSi1scWNJNUxPbEkzYU9nSFppMENNMXljMTMweUotV0RMYkQ3ZEVhb0RHZkJydGRrM1B5Tkt4amFjVE9jSmhQTnfSAa4BQVVfeXFMTk0yZEg2dFZNQVVmc0U3bGJPaUtZOGk5azctbTl4OGlhcUVTTHg3dE11bExnbDNlNU9TN25zcUlHenM1eFBHdWZQV1M2MjhrVE1PaXV6MExPbWZsWVloc1BrY3hUUGN4alRxbnVKVUdlQmxrTW05T2hiaWdpR3lib0xGaEdkN2lISERIMzlRbGIyQjlIN3RQTlRROGFjQ1ZVYnZlQ3kxX0pqWEZra2pR?oc=5",
+   "source": "BAQ.KZ",
+   "published": "2026-10-13T13:51:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "d8b51083a80d7bb0",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Africa-origin air cargo rates rise 27%",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT012S2hLVzFYeXRtZkw3NlVrc2ctdzNvSThQTnU1clVlbVNtUTMxc1RCT2J6TkJweVc4cmpUYjJFUFAybEhuRFVKeFdKT2RMRXl1VU5SdU9fY3lmNmNEbWxTckNVd3hoY0VqRGh1aWxTdkRtN0ROSHBIVjdzdV8yZw?oc=5",
+   "source": "Freight News",
+   "published": "2026-10-13T13:20:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "72df346ac6ed65dd",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
    "title": "inDrive ответил на жалобы о повышении цен после сбоя «Яндекс Go»",
    "url": "https://kz.kursiv.media/2026-10-13/fvfv-indrive-otvetil-na-zhaloby-o-povyshenii-cen-na-poezdki-posle-sboya-yandeks-go/?utm_source=rss&utm_medium=rss&utm_campaign=fvfv-indrive-otvetil-na-zhaloby-o-povyshenii-cen-na-poezdki-posle-sboya-yandeks-go",
    "source": "Kursiv",
@@ -41,6 +191,42 @@
    ]
   },
   {
+   "title": "\"Мы удивительно близки\": король Бельгии высказался о Казахстане",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXJnZzJ0TTNzaE9sWU1ZWlpNa2llMGlob04waXFhNEpJWGNaTlZsVjFmdjdzVExOc2Y3M2ZJcnJJZF9abUdpVGRVdWhDWmZ6UTJkOHRjODhvTzRhdDhyWEhEVHpsWW95UF8wOUIzaGpRMk5OTFlVdWpIdEFEd2xYX2xPTjZxZTFUV2NFTXpKMWN6ZzN1Zm5rdnd3Tm1zZ19TS1R5UWFGTGR3d9IBqgFBVV95cUxOSXJnZzJ0TTNzaE9sWU1ZWlpNa2llMGlob04waXFhNEpJWGNaTlZsVjFmdjdzVExOc2Y3M2ZJcnJJZF9abUdpVGRVdWhDWmZ6UTJkOHRjODhvTzRhdDhyWEhEVHpsWW95UF8wOUIzaGpRMk5OTFlVdWpIdEFEd2xYX2xPTjZxZTFUV2NFTXpKMWN6ZzN1Zm5rdnd3Tm1zZ19TS1R5UWFGTGR3dw?oc=5",
+   "source": "Новости Zakon.kz",
+   "published": "2026-10-13T13:02:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "474dc48bfc67c6d9",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Токаев предложил Бельгии новый формат сотрудничества в сфере логистики",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3BsaTFBUUYzV1A5eDdSMjlEUld0cEUtWk9JQk1HMlNLS0lwZUE5Znp6dnlyNG13d1E3QXR5TEtjYmc1aFJQRDMxWW9wUllHdnZueGl3S1pEX1Vxc19vUzVzVUlHaG91X1pVdUJYVGNMQVFybk1FVzdSa1FoWWpLanZKNDFlU3JjdFh6S3NrTHpWVmhJdTdnRFJycjhpWlo3cTRTdUFxVENodFFQdllCMTNxNU4?oc=5",
+   "source": "Новости Zakon.kz",
+   "published": "2026-10-13T12:51:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "4a51d2fc31c42a90",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
    "title": "Порт Актау побил рекорд: перевалка контейнеров выросла на 80%",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEV1SW4xRTV0cngxd1N0NW96dUcyYkc4THVFMmpmXzR0SGNCOWNhTW5sS2hETWRMUGJ2a0RVMTduRTNRMmlQNnZTaTJHeW1BTGlvRF9XNjh4azVNQVZqamtFZUZyNFRTUTA4anM1ejVCY0kzM1BkWE9DbS1nTUg3ckNvdnNzVjV4bjlxOTMyeEtqRFFRMzBVcQ?oc=5",
    "source": "Vesti.az",
@@ -55,6 +241,25 @@
    "categories": [
     "Транзит Китай — Европа",
     "Порты и Каспий"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Kazakhstan Rail Bottlenecks Tighten Global Flaxseed Supply",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjk3LS1KUF9sRXdTLUdZNVhISVFIeEdEOUNoenJqRzdScFFWQ0FVaWM1NlZYYThid0loSGE1X0M3eGFPRVlfWk5HMTg1UUNoOG9TN1VFU3gzY2tBbTBKQXVjODZoSVhHZXBqRlB1MVZMSTV5ZUVZaGZjVVdobXhUeUxrdy1WUFJT?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-13T12:35:21+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "a3cf31e2a861ddef",
+   "categories": [
+    "Транзит Китай — Европа"
    ],
    "regions": [
     "Казахстан"
@@ -933,7 +1138,7 @@
    "title": "Строительство железной дороги, которая соединит Нахчыван с Зангезурским коридором, продолжается ускоренными темпами -ФОТО",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeDJlbmY3bEVSOVJKSk1Zc1A0eC1RNEhxNUxxQ0NEVEJmMVhFU1h1WU9TNFNFM1ItcE9rRHZqN2ZwUnc1ZHJNekcwRTAzV2w5ZGc4a2FsNy1mSUdnVVQ4Z09rSFFYanF3Z0t2blN0TjBLWk94N1E4U3lfT1c3Xzg0Wkc2bV8wcmctcDgwdmN2cDRzZUFDaFJfZXhHbnFudWZQcWxhYTkyQURsOUpZc1JsYlpzdGNlUFhqNUNZbngzVTZ4eU9VWDBoREJuZ2NzTl9wVGxCVU1vRFVvZmhlLVdMZVBGOWNlQk0?oc=5",
    "source": "Apa.az",
-   "published": "2026-10-13T08:36:57+00:00",
+   "published": "2026-10-13T08:36:08+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
@@ -981,6 +1186,25 @@
     "Грузовые перевозки"
    ],
    "regions": []
+  },
+  {
+   "title": "В Астане состоялось открытие международных выставок Comtrux Astana 2026 и Eurasian Construction Technology Astana 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OGVPNjdrbUkxSFdWWUtDTzZVakt5MG96czF2TC1Kc1Q0NVNYVC1IWE02NEdZYVJmeUxjemoyNWNjQW1CZF9EOGZxR0lzd2dZaTBtamdGSk9wdGpXRm1hM0xlYw?oc=5",
+   "source": "GOV.KZ",
+   "published": "2026-10-13T08:19:21+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "a0a9c81720ea3ef0",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Атырауский завод выпустил 1 000 полувагонов и готовится к расширению производства",
@@ -1482,6 +1706,25 @@
    ]
   },
   {
+   "title": "Лесные хозяйства Кыргызстана получили новую технику при поддержке ФАО",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVkJBcGFJa203VXh0b3M5TTh2WGt5c2xhZ2diWFhtOFZaaGcyQy1mVngzdzdEc2NqSnRTdkhNdFBvUnh3N1NvZE81bDlLX2Y1OXlDOHNXQmlXZU9NVHR2eDJXcDhoUWRQT01hcXZCZGRQc3ladURha3hiZzhnSkNjTHh6NjZnSTlfS0RDdU9kSmJGdGg5YUtpTTYzSkZGMXVaclBuRFNja1RDbDRSRkpvaUh6XzlDOEs3US1nazZB?oc=5",
+   "source": "open.kg",
+   "published": "2026-10-13T04:57:51+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "00fe838cd1b5740c",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
    "title": "РЖД направили в развитие транспортной инфраструктуры и социальной сферы ЗабЖД в Амурской области в 2022-2025 годах 68,5 млрд рублей",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaGQweUR6UVY3Ti01Z2loeGM1Vkx1UUlYWV94akJlamJRZ0NPZmt0OGhHXzV4SzN2NWFVODJXcjBwLUJlNWJrX3JESUoyRFRpbEpucExqQmkxVGtTNGZueW4wNHplZVMxdXJZMkppdXpHRk1vZ0xiS21CU2d4ZnVnWUlIaC1QV2dvNTQ2Y1pYWWRLOVJ4elZXamdoVDNULWowMV9LTjBYSzdKVHRhTWF3YVVQMDB5a2tKc3FPQjN4LVFfTktzdmJQS1NxbVk1bWxJZ3k3MHBad1ZIOE9EWF9RU2UwYWFWb2xVYjgw?oc=5",
    "source": "телепорт.рф",
@@ -1953,6 +2196,25 @@
     "Грузовые перевозки"
    ],
    "regions": []
+  },
+  {
+   "title": "Жители Баку протестуют из-за запрета на ношение хиджабов в школе",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmhjTjRDMjlqRHphXzhkeV9vOGRPLS1hUFpHa21uVGpIdnVUSFl5MU9DOW1BeDB0TFRJRUdsU25MVHB0akExajk4XzdJNEF4SDlsZzlvV2U4dlpWeklRbF9OSVRqSnFoM1o4akt6ZXNCejcyTTdOaHBicFZTQ2FyY2lBWU5BYUVBODUyLWJQUjFWTDRQNjBPTHBWRmUxaGZqR2RYQzhvY3lXNXJU?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-13T01:54:10+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "65e9f96fe1e73853",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
   },
   {
    "title": "Finding an Affordable Reliable China Freight Agent: Key Factors to Consider",
@@ -3223,7 +3485,8 @@
    ],
    "regions": [
     "Европа"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Казахстан подтвердил статус регионального лидера",
@@ -5556,12 +5819,14 @@
    "via": "Google News",
    "q_topics": [
     "Грузовые перевозки",
-    "Инфраструктура и стройка"
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
    ],
    "id": "a1e586a2d7c0eb03",
    "categories": [
     "Грузовые перевозки",
-    "Инфраструктура и стройка"
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
    ],
    "regions": [
     "Россия"
@@ -34084,17 +34349,17 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 47,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 41,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -34102,7 +34367,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -34110,13 +34375,13 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 43,
    "error": "",
    "seconds": 0.5
   },
@@ -34126,7 +34391,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -34134,7 +34399,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -34156,7 +34421,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 33,
    "error": "",
    "seconds": 0.4
   },
@@ -34164,9 +34429,9 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -34182,7 +34447,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -34198,7 +34463,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -34206,7 +34471,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -34220,17 +34485,17 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 51,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -34238,21 +34503,21 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 49,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 39,
    "error": "",
    "seconds": 0.5
   },
@@ -34262,14 +34527,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.3
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fabaa627b30>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fd3506273b0>, 'Con",
    "seconds": 300.5
   },
   {
@@ -34277,8 +34542,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -34294,7 +34559,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.6
+   "seconds": 2.2
   }
  ]
 }
