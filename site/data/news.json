@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T01:07:23+00:00",
- "new_this_run": 49,
+ "generated_at": "2026-10-14T01:51:51+00:00",
+ "new_this_run": 51,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Поезд Экспресс Москва — Санкт-Петербург запустил вагоны с индивидуальными купе по цене от 5000 рублей",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNak1USDVpM1NnSlRTc0hOMUhUNHNxMjNpWmxhV2gzQnhlMUliVkJwU3NqbW5aYU9jQ1NzVDhjclFaOHEyMVhPcmtoVk1vaGdFNVFMR1dlbXl1MnZwRlg0RzZSand0cE16N2VOdjRZUTB3bVdyc1dMLW14WmFmTGNwejB4c1VTejF1Y3ppV1VMWkpEMFZwa3Y4ckVyUUJlQmdEUGFOQjJ0WGRDZ2RWS08yaEktSmtnN1NNdjh0dHV0Zkg3Z2hjd2JLRTAzWnM2U1pHcDV3Y3lfOA?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-14T01:24:40+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "531e059c2b449f2b",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
   {
    "title": "Захарова рассказала, как Россия отвечает на атаки ВСУ в Черном море",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzZTbWVSd0pJR2d1VEdOelpFekRZYUltU3NSbkZNdjEtX3dXNWNsTUZBcXNmYVA2RnhKVDBvUVV6SVZ4WTJqY3VxZGFjTFNGQU5yVjk5T0NKUl9hcVVibG00MmtpNlU2LU04UmRWV0Vuc1hUcWxzZmZiNkcyaHJPYXVDV2t6eVRfS1VtT2FJSmFXRXVNcUNuNHJ4eFp0bzRkZi1lWklnOWhkTEJGWkdCdw?oc=5",
@@ -4802,7 +4821,10 @@
    "categories": [
     "Инфраструктура и стройка"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "Кактус Медиа"
+   ]
   },
   {
    "title": "КТЖ установило 80 модульных зданий для работников магистральной сети",
@@ -35210,9 +35232,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 45,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -35228,7 +35250,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -35236,7 +35258,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -35244,7 +35266,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -35268,13 +35290,13 @@
    "ok": true,
    "count": 23,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
    "seconds": 0.4
   },
@@ -35284,7 +35306,7 @@
    "ok": true,
    "count": 36,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -35292,7 +35314,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -35300,15 +35322,15 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -35316,7 +35338,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -35332,7 +35354,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -35340,21 +35362,21 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 51,
    "error": "",
    "seconds": 0.5
   },
@@ -35370,7 +35392,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 53,
+   "count": 55,
    "error": "",
    "seconds": 0.5
   },
@@ -35388,23 +35410,23 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f98e0f03c50>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fb6c9ce46e0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.3
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.5
   },
   {
    "name": "PortNews",
@@ -35412,7 +35434,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.5
+   "seconds": 2.0
   },
   {
    "name": "Kursiv",
