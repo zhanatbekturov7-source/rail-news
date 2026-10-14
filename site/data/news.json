@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T19:04:51+00:00",
- "new_this_run": 70,
+ "generated_at": "2026-10-14T19:54:52+00:00",
+ "new_this_run": 62,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Инновации меняют характер грузоперевозок",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55YnR5ekRkNUZ2d1JybzEyTlNKMjBJcGVHTmJobDlERG04VDBZcC1mQXA1VWxRM0tKdzVESlRrLWZNX1VPUHpqZDV3RXVKbE4xalNIUVE4V2xibDk3VE5xNndnekxldzVSaC1HTWRzMEp0QkRKdUE?oc=5",
+   "source": "Казахстанская правда",
+   "published": "2026-10-14T19:03:07+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "f18082fbac08474b",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
   {
    "title": "Российскому рэперу Navai может грозить до 15 лет тюрьмы за контрабанду наркотиков",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGpEd3hEWElMNXg5ZDF2S1lfU1JmeU1ZQl9FNEJtdngwY0c3dmtZTWVYdkVLdi1TM29yM3NiMVhESEp1VUo1N1p1aURhbmtmU0lfMUlDdGw1ZnE0Tkloa1BzYm5CRTNFNjhhcl9lYlZoVHpKeXhkVkU2WmZfLXZUREhwSmhkRHllcENHaUs5U2xTMU1zbGpkNnNXMUFnZmpPYjliNTRXZm81QQ?oc=5",
@@ -1868,6 +1885,23 @@
    "categories": [
     "Порты и Каспий",
     "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Пенсии бывших летчиков и шахтеров скоро вырастут",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHZpQXRNRGoxQlVnR1QxSHhHaGZjdlN0QkdLRW1fMnpjc096SGZWTVY5V2hPU2gzZDZiSTlZeFVQZmpNdVhzRHRkZlIwTzgxVXRLaGZvV01fUmdlbW0tMTZhRjdIU3FBb3A1V2pGX0dBX2M3UkVJRGtES2s1Z293RVBoNUtWNE1HY0tCYUJLZjVvakZ0OFNKdQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-14T08:44:25+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "2a880c0e65f23b16",
+   "categories": [
+    "Тарифы и регулирование"
    ],
    "regions": []
   },
@@ -38507,15 +38541,15 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 48,
    "error": "",
    "seconds": 0.4
   },
@@ -38525,7 +38559,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -38539,7 +38573,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 45,
    "error": "",
    "seconds": 0.4
   },
@@ -38549,7 +38583,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -38557,7 +38591,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -38571,9 +38605,9 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -38589,7 +38623,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -38597,7 +38631,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -38637,13 +38671,13 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 46,
    "error": "",
    "seconds": 0.5
   },
@@ -38653,7 +38687,7 @@
    "ok": true,
    "count": 54,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -38677,7 +38711,7 @@
    "ok": true,
    "count": 45,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -38692,8 +38726,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7efc4dcd0f20>, 'Con",
-   "seconds": 300.4
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fc9f76a1100>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
@@ -38701,7 +38735,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.6
+   "seconds": 1.7
   },
   {
    "name": "PortNews",
@@ -38709,7 +38743,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.4
+   "seconds": 2.3
   },
   {
    "name": "Kursiv",
@@ -38717,7 +38751,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.7
+   "seconds": 2.3
   }
  ]
 }
