@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T22:51:59+00:00",
- "new_this_run": 66,
+ "generated_at": "2026-10-15T23:48:24+00:00",
+ "new_this_run": 72,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -38,7 +38,8 @@
    "categories": [
     "Транзит Китай — Европа"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "US alert puts Iran’s overseas religious finance networks under scrutiny",
@@ -456,6 +457,23 @@
    "also": []
   },
   {
+   "title": "Управляющие компании потеряли право повышать плату за жилье без согласия жильцов: что это значит для вас?",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaFBRS3FnTEJuVml6OHpvbFpmTEY2R1lGRWJJTnFuaEl3bTZYcVd2aVZYekszNVMxOGlNZ09HTzlwa2Q4MzN1eGhGZ0lVOXVGR3hfYkVnQ0lyUFpaQ0xTcmY2OXlUWFpIVlB6SG1XWHpTYXA3cTAzVWNuV0JkVFpFcHcxb28xb2I0Vi1PaWEzNy0xUTd6Q0FyVjlzbi04cndCWFJobWJmbTB1VWo0eVB1TWxnX2Nocm9Qcng0a1JUWmhua1E5UnlFcnFUTTBaSlFFZ1lobUxRLTZwclRKVjhWMWdkUQ?oc=5",
+   "source": "Свободный взгляд",
+   "published": "2026-10-15T15:16:54+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "97a4ca23580a3c66",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
    "title": "От мониторинга движения до автодиспетчера. Какие цифровые технологии внедряют в транспортную отрасль Беларуси",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNemRrU29jejVZUW4tZ1JXd3pKOGp3NUZxLVJVOUtKN0t4ay1NWmt0aXlILWtLTVJXRjJDZG9rbml2TElpWUxLR0RNM2NFS3dzMzNUMnBTc2lfQ3pjbkd2R0xtbHBkbkhtc1BCbVAyMlVKRnlqdFpUNTNVQ1lCa2JuLWtSd1RHWXdXdms2SU9SajVjaFMxMjFYa1VQZTN2WDhZa0g1WWc5TXVDQTRoc1dhMHQydEZ2NDFJZGNCNjg3WXFvWEpzLTR2ZnBCZ2ZYVW5ubjVVeXhBQ3pWR1E?oc=5",
    "source": "Новости Беларуси | БелТА",
@@ -516,6 +534,26 @@
    ],
    "regions": [
     "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Беларусь представила опыт создания единой цифровой системы в транспортной отрасли на бизнес-форуме в Астане",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzBjcnRIR2VHck4wZ3FiNF92U1ZuTjU0SzNqU2xQLU42WGdVc201UUNlNGNGVjl5UVJJck1ZNWdPeVdFY2puZUVDUmhYUDB6N2V4djQxU3VDMTVtVVBucWdRVDF3MExHa1JIdTVnRXBRUXhuZjJJOTl4X3kySk1fVWNJOHJjdWpaZVRRMHNDdG1WS2RkS214S1BaR0J5aVQ0QUZ2ZDZNS283ZmRrSlh1OW9JZ3J4S3dyMHo4WTFCMNIBvwFBVV95cUxQYzBjcnRIR2VHck4wZ3FiNF92U1ZuTjU0SzNqU2xQLU42WGdVc201UUNlNGNGVjl5UVJJck1ZNWdPeVdFY2puZUVDUmhYUDB6N2V4djQxU3VDMTVtVVBucWdRVDF3MExHa1JIdTVnRXBRUXhuZjJJOTl4X3kySk1fVWNJOHJjdWpaZVRRMHNDdG1WS2RkS214S1BaR0J5aVQ0QUZ2ZDZNS283ZmRrSlh1OW9JZ3J4S3dyMHo4WTFCMA?oc=5",
+   "source": "СБ. Беларусь сегодня",
+   "published": "2026-10-15T14:58:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "990ebff110a64288",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан",
+    "Беларусь"
    ]
   },
   {
@@ -43195,15 +43233,15 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 34,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -43211,7 +43249,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -43219,15 +43257,15 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 37,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -43235,7 +43273,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -43243,7 +43281,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -43257,17 +43295,17 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 12,
+   "count": 10,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 37,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -43275,7 +43313,7 @@
    "ok": true,
    "count": 22,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -43283,7 +43321,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -43291,7 +43329,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -43299,7 +43337,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -43307,7 +43345,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -43315,7 +43353,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -43323,15 +43361,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 48,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -43339,7 +43377,7 @@
    "ok": true,
    "count": 56,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -43347,23 +43385,23 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 60,
+   "count": 61,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 45,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -43378,8 +43416,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fc6cc664d70>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7ff0cb40d460>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -43387,7 +43425,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -43395,7 +43433,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.4
+   "seconds": 1.6
   },
   {
    "name": "Kursiv",
@@ -43403,7 +43441,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.2
+   "seconds": 2.6
   }
  ]
 }
