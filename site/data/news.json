@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T23:47:31+00:00",
- "new_this_run": 65,
+ "generated_at": "2026-10-15T01:04:50+00:00",
+ "new_this_run": 63,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -151,6 +151,23 @@
     "Каспий и Закавказье"
    ],
    "also": []
+  },
+  {
+   "title": "Между Петербургом и Выборгом открыли скоростной коридор",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEtacGZieXl1Ukw2Z0Fyc2UyaDlCS1JUTWs5SDJIT0JrZVJkb08xdzNQWmxZT1ROMHdVR09HeEtFaU1jSVFJRWg4aVo0Rk84V2lxOV9wYkxPTTZ2NzZmQkQ3ZmtJQll2S1YwZ1hTVGZSOUtoNTZnMm90TGpsU1UycjhDZzUxYTZwNnc0SEFfZ2pNb2MzWHhyYU9LSXF6Zw?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-14T19:04:29+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "91925458a07e2756",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "Инновации меняют характер грузоперевозок",
@@ -3038,7 +3055,8 @@
    ],
    "regions": [
     "Каспий и Закавказье"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Это база: казахстанский бюджет ждет нефть по 70 долларов за баррель",
@@ -5846,6 +5864,23 @@
     "Инфраструктура и стройка"
    ],
    "id": "ea3523b121074cb7",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "В Беловодское доставили первую партию угля с Кара-Кече по железной дороге",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2dCTGFVNkNCc2lVd2F4Y1d0OVE3WU9Ya0hVQ203Qm1zZnVnU2ZzeGd3WmpidnNUSkcxUklEZzQyY0wxSmNJNVltczlGeU1od2paVWxMWVhjTmJSQl9YLXk2dzRudDY5SHd3UFRIcnBNXzhxMS1qWGtWR2xYRm1yMm94UVcycEdsQUFjdy1wN2FXV3JKM1F1MHkyQTlhc2hULTFMX0dvTUhhZlNnMGVaUnpR?oc=5",
+   "source": "Кактус Медиа",
+   "published": "2026-10-13T05:29:36+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "1ae4852bae07c897",
    "categories": [
     "Инфраструктура и стройка"
    ],
@@ -10376,6 +10411,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Ghana - Resources, Power, Economy",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XYWtfMmFLVVRZNVFWc2NFUXJ0eHFGRlQ0YTdrTWZSYTY1b0lfaWVHdjlOMnFNZVZoa0wzX2l2ZzdnWWtmNFdpRXEweS15TGhqdmdubUZsYVFScE1wTDJoRElIV2J6T3Jld1E?oc=5",
+   "source": "Britannica",
+   "published": "2026-10-12T05:00:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "869b7e677d3fd632",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
   },
   {
    "title": "Kazakhstan risks losing EU grain market due to Russian transit restrictions",
@@ -39028,7 +39080,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
    "seconds": 0.6
   },
@@ -39038,7 +39090,7 @@
    "ok": true,
    "count": 47,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -39046,7 +39098,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -39054,7 +39106,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -39070,7 +39122,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -39078,7 +39130,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -39086,7 +39138,7 @@
    "ok": true,
    "count": 21,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -39094,15 +39146,15 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 40,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -39110,7 +39162,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -39134,7 +39186,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -39150,7 +39202,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -39164,7 +39216,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 45,
    "error": "",
    "seconds": 0.6
   },
@@ -39172,9 +39224,9 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 54,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -39182,7 +39234,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -39198,7 +39250,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.7
   },
   {
    "name": "RailFreight.com",
@@ -39206,15 +39258,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.0
+   "seconds": 2.3
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f024b3d5c10>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fc8c0d21a30>, 'Con",
+   "seconds": 300.8
   },
   {
    "name": "РЖД-Партнёр",
@@ -39222,7 +39274,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.6
+   "seconds": 1.2
   },
   {
    "name": "PortNews",
@@ -39230,7 +39282,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.3
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
@@ -39238,7 +39290,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.5
+   "seconds": 2.2
   }
  ]
 }
