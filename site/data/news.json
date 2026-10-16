@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T19:01:35+00:00",
- "new_this_run": 74,
+ "generated_at": "2026-10-16T19:50:35+00:00",
+ "new_this_run": 65,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "В Омске задержали водителя из Казахстана с 37 тысячами пачек сигарет",
+   "url": "https://kz.kursiv.media/2026-10-17/tsse-v-omske-zaderzhali-voditelya-iz-kazahstana-s-37-tysyachami-pachek-sigaret/?utm_source=rss&utm_medium=rss&utm_campaign=tsse-v-omske-zaderzhali-voditelya-iz-kazahstana-s-37-tysyachami-pachek-sigaret",
+   "source": "Kursiv",
+   "published": "2026-10-16T19:13:06+00:00",
+   "summary": "В Омске задержали 60-летнего водителя из Казахстана, которого подозревают в перевозке крупной партии немаркированных сигарет. Из незаконного оборота изъяли 37 210 пачек стоимостью более 5,5 млн рублей (около 30 млн теңге), сообщает «Омск-информ» со ссылкой на следственное управление городского УМВД. По версии…",
+   "lang": "ru",
+   "via": "Kursiv",
+   "q_topics": [],
+   "id": "9944d87ed3ccb132",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Кто оплатит европейскую мечту? Rail Baltica требует всё больше миллиардов",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnViclNlcHZkeXpHc0FYN3pTOV9ndnRyYVV6dHNNSXNwdmREU1lTMTlYQ2tBdVJiWWRtM21yNnc5N3RWOXpOSV9jdHhMMkJNN1RSVlFFYjhIcGh1VHR5dEM5QU42SlRYejYtM2tMcGJFN2owVlVGMHVNVjhERU9RUlkxcVNkOXQ3QmFtQlk4X3lTUHZSbTlBRU5yV05tR25rek1SdUd1SDJzN3hrUTN2d0JrUjlJd9IBtgFBVV95cUxOWnViclNlcHZkeXpHc0FYN3pTOV9ndnRyYVV6dHNNSXNwdmREU1lTMTlYQ2tBdVJiWWRtM21yNnc5N3RWOXpOSV9jdHhMMkJNN1RSVlFFYjhIcGh1VHR5dEM5QU42SlRYejYtM2tMcGJFN2owVlVGMHVNVjhERU9RUlkxcVNkOXQ3QmFtQlk4X3lTUHZSbTlBRU5yV05tR25rek1SdUd1SDJzN3hrUTN2d0JrUjlJdw?oc=5",
@@ -886,6 +903,27 @@
    ],
    "also": [
     "24.kz"
+   ]
+  },
+  {
+   "title": "Kazakhstan Expands Digital Transport Permits With Azerbaijan, Türkiye and Kyrgyzstan",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmp1UjZlbzljM1RNTVFmblRQQ3BBUDRHVUJjajE4d3VONHFnTm11NF92YWIwckN0SFVKdE8wNDAwSG9xTU9RX0tFNVpzVlZ2RG00eWdWcWdBYkdtdks5bndUaURZSW5aTkF4ZkoxODI1NG5Pa1RHeElPLVBXZEx4czhCSE44Z2h5NVFpcWlRejdEcnhCNEZVZVdzaWk4VENFWDNxZWpFdi1ENzRTMldYb2sxRzJ1dHhsc3c?oc=5",
+   "source": "Caspian Post",
+   "published": "2026-10-16T10:52:25+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "3ea7d83c6f110252",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан",
+    "Центральная Азия",
+    "Каспий и Закавказье"
    ]
   },
   {
@@ -46233,7 +46271,7 @@
    "ok": true,
    "count": 22,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -46241,7 +46279,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -46255,7 +46293,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 32,
    "error": "",
    "seconds": 0.4
   },
@@ -46265,7 +46303,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -46273,15 +46311,15 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -46289,13 +46327,13 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 50,
    "error": "",
    "seconds": 0.4
   },
@@ -46305,15 +46343,15 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -46321,7 +46359,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -46329,15 +46367,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -46345,7 +46383,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -46353,15 +46391,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -46369,7 +46407,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "seconds": 0.9
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -46377,7 +46415,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -46385,13 +46423,13 @@
    "ok": true,
    "count": 59,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 47,
    "error": "",
    "seconds": 0.5
   },
@@ -46408,8 +46446,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f3336f2d9a0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f6ef8b3ee70>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -46417,7 +46455,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.5
   },
   {
    "name": "PortNews",
@@ -46433,7 +46471,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.9
   }
  ]
 }
