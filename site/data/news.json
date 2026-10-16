@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T19:50:35+00:00",
- "new_this_run": 65,
+ "generated_at": "2026-10-16T20:55:00+00:00",
+ "new_this_run": 70,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,26 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Kazakhstan Gets a Caspian Data Route, but No Price or Traffic Figure",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUNKdnFPQ3V0NXJQbUdiSGF2MlBoVFU3eTdTY2VyQkFLUGtzVURlTGxiTjVuOEdOMzFQTWJyaVB2SVU2emhzYS1RNkt2WGhCSTZvM0xoZU9pclMyR08yN2ZVLU1DdHJuRFp4MXo4OFVQSHhiTGlBMFFJbVNUUVFETHlGMFotVmhQM0hVV2ZB?oc=5",
+   "source": "The Eastern Herald",
+   "published": "2026-10-16T19:59:31+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "bd3dff2201fd8746",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Казахстан",
+    "Каспий и Закавказье"
+   ]
+  },
   {
    "title": "В Омске задержали водителя из Казахстана с 37 тысячами пачек сигарет",
    "url": "https://kz.kursiv.media/2026-10-17/tsse-v-omske-zaderzhali-voditelya-iz-kazahstana-s-37-tysyachami-pachek-sigaret/?utm_source=rss&utm_medium=rss&utm_campaign=tsse-v-omske-zaderzhali-voditelya-iz-kazahstana-s-37-tysyachami-pachek-sigaret",
@@ -57,25 +77,6 @@
    ],
    "regions": [
     "Европа"
-   ]
-  },
-  {
-   "title": "Атыраускую и Западно-Казахстанскую области соединит новая железная дорога",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52NUg0ZnNrMDdqZGJPMVVfbVRYNmlrdl9CVVQxYnExem9uTWtvLXVVLVpsSF9JenBOdXktSG1CZVFkc0pnbFNxcDF3?oc=5",
-   "source": "Ак Жайык",
-   "published": "2026-10-16T16:25:25+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "9d4f6d18688aad18",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [
-    "Казахстан"
    ]
   },
   {
@@ -206,6 +207,26 @@
    ],
    "regions": [
     "Казахстан"
+   ]
+  },
+  {
+   "title": "Kazakhstan, Georgia Launch Trial Exchange of Digital Transport Permits",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGlpbENjM0IyVnk2UTFhMVh1TkUxdkFRSG0zQzA2MmRRa0ltTEc0V2VtaWdVYlhhMm9HN1BwUHlZblZwVjJoQ3JwclZrR3FXUlhCVUZHcjhzVzJDNXFtOTNRTDUtaFl1Zms2cEFwM09Zd21VcUtwLTBfRGQxT1NWNVpRMnRvR0xwVlFpNkk4em9qNV9CLVZBRE5pNHc0c005YnduUnNsUQ?oc=5",
+   "source": "Caspian Post",
+   "published": "2026-10-16T14:28:07+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "ee503fef53813cc1",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан",
+    "Каспий и Закавказье"
    ]
   },
   {
@@ -750,7 +771,8 @@
    "categories": [
     "Логистика и терминалы"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "Belgian royal visit strengthens tourism, cultural and transport ties with Kazakhstan",
@@ -2529,6 +2551,25 @@
    "id": "8f0b74b669be6fd5",
    "categories": [
     "Вагонный парк и подвижной состав"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Атыраускую и Западно-Казахстанскую области соединит новая железная дорога",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52NUg0ZnNrMDdqZGJPMVVfbVRYNmlrdl9CVVQxYnExem9uTWtvLXVVLVpsSF9JenBOdXktSG1CZVFkc0pnbFNxcDF3?oc=5",
+   "source": "Ак Жайык",
+   "published": "2026-10-15T19:58:17+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "9d4f6d18688aad18",
+   "categories": [
+    "Инфраструктура и стройка"
    ],
    "regions": [
     "Казахстан"
@@ -46261,9 +46302,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 46,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -46271,7 +46312,7 @@
    "ok": true,
    "count": 22,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -46279,7 +46320,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -46287,7 +46328,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -46303,7 +46344,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -46311,15 +46352,15 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -46327,13 +46368,13 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "error": "",
    "seconds": 0.4
   },
@@ -46343,7 +46384,7 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -46375,7 +46416,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -46383,7 +46424,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -46397,7 +46438,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 42,
    "error": "",
    "seconds": 0.4
   },
@@ -46405,7 +46446,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "error": "",
    "seconds": 0.5
   },
@@ -46423,15 +46464,15 @@
    "ok": true,
    "count": 59,
    "error": "",
-   "seconds": 0.6
+   "seconds": 1.0
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 46,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "RailFreight.com",
@@ -46439,15 +46480,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f6ef8b3ee70>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f388f53e570>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
@@ -46455,7 +46496,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.6
   },
   {
    "name": "PortNews",
@@ -46463,7 +46504,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.9
+   "seconds": 2.4
   },
   {
    "name": "Kursiv",
@@ -46471,7 +46512,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.9
+   "seconds": 2.8
   }
  ]
 }
