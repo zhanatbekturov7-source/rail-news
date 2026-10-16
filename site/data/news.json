@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T16:56:57+00:00",
- "new_this_run": 75,
+ "generated_at": "2026-10-16T17:53:04+00:00",
+ "new_this_run": 76,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Кто оплатит европейскую мечту? Rail Baltica требует всё больше миллиардов",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnViclNlcHZkeXpHc0FYN3pTOV9ndnRyYVV6dHNNSXNwdmREU1lTMTlYQ2tBdVJiWWRtM21yNnc5N3RWOXpOSV9jdHhMMkJNN1RSVlFFYjhIcGh1VHR5dEM5QU42SlRYejYtM2tMcGJFN2owVlVGMHVNVjhERU9RUlkxcVNkOXQ3QmFtQlk4X3lTUHZSbTlBRU5yV05tR25rek1SdUd1SDJzN3hrUTN2d0JrUjlJd9IBtgFBVV95cUxOWnViclNlcHZkeXpHc0FYN3pTOV9ndnRyYVV6dHNNSXNwdmREU1lTMTlYQ2tBdVJiWWRtM21yNnc5N3RWOXpOSV9jdHhMMkJNN1RSVlFFYjhIcGh1VHR5dEM5QU42SlRYejYtM2tMcGJFN2owVlVGMHVNVjhERU9RUlkxcVNkOXQ3QmFtQlk4X3lTUHZSbTlBRU5yV05tR25rek1SdUd1SDJzN3hrUTN2d0JrUjlJdw?oc=5",
+   "source": "BB.LV",
+   "published": "2026-10-16T16:52:51+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "bba01488ce8fee00",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Европа"
+   ]
+  },
   {
    "title": "Атыраускую и Западно-Казахстанскую области соединит новая железная дорога",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52NUg0ZnNrMDdqZGJPMVVfbVRYNmlrdl9CVVQxYnExem9uTWtvLXVVLVpsSF9JenBOdXktSG1CZVFkc0pnbFNxcDF3?oc=5",
@@ -78,25 +97,6 @@
    "regions": [
     "Казахстан",
     "Каспий и Закавказье"
-   ]
-  },
-  {
-   "title": "Инфляция в России в сентябре 2026 года: цены выросли на 0,35%",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb3Rfa3kxeUFQYkhFNEFDUWtKZkxaN3Qzbi01TzVCOVJ3UXhIZUJwcE1kdzh5N3hTY19ZSEtoLTc2UWVyN1BSNEtTTTJzRTVDbWlyeXN6V2t6VVpMSm5LUTJLT0I2OGJEU28zTGpPQndNd3BnYUI4SlRNMlRBbEk2a3diVmhtUXNVOXc?oc=5",
-   "source": "Zaim.com",
-   "published": "2026-10-16T15:31:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "2b3025b7e1283e74",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": [
-    "Россия"
    ]
   },
   {
@@ -175,6 +175,28 @@
    ]
   },
   {
+   "title": "Цены в России выросли на 0,35% в сентябре 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfV1MzREExMVJ1ZTVOY1FzVk1PMmJITUNTS3pEdXh2aU5zSVh6MEloaDBUNjZ2UG5ZMVc1dS16WnhBdldHNW5NS3Z1TmY5Zw?oc=5",
+   "source": "Клерк.ру",
+   "published": "2026-10-16T13:50:02+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "also": [
+    "Zaim.com"
+   ],
+   "id": "c6ff4bf4292bd77f",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
    "title": "Kazakhstan commissions 18 machine-building facilities in 2026",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRaFFiWlJ0NkNHM3RWQkZMRlNhNFcxb0pPWUtYRGdUdE9fclZ4Z1ktWmI1OUM4QUdXOGp2ZkNFMWtieEJ4TjFMYnJqNWpKc0ZvWmY5MzV2M2g4OXpKVjBv?oc=5",
    "source": "Trend News Agency",
@@ -192,6 +214,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Билеты, возвраты и спецместа: что изменилось в правилах железнодорожных перевозок",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3daaGl0UzNJdWMxMVV6VDdxMC1UcXh6U3g5b2c5Sk1rNHgzZ2dIYTYtSHQwb0UxNHhaMy03YWV1OEIxZEJPdkQ2aGRDdFMtZGtxNDZ6Tm5UNld3VzRvTEV1dER3UW4ySzM3Q2hPRk1jM1BManhXQ1k2bTZWOWI3NjJFRnQwbEJibVROelU4QzQ3UUZ3UEtCVEUycGpIOVNNdExiRlpJOVNYQ2gydHk3WUltdmhRckNXOHB5NHRKRQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-16T13:34:50+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "23f3b4e8012c1424",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "Приостановка транзита российского зерна обойдется Латвии в 290 млн евро",
@@ -569,6 +608,23 @@
    "also": [
     "Новое Телевидение"
    ]
+  },
+  {
+   "title": "KazTransOil cuts energy consumption by 2.5% in nine months",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jdGp0U3ViMlZDRlVqTEVKTEhpbDJaX3lTZXZqRG9RM3ZrUnNvZ1preEd0Qm5GOFFlR1p1dWVpM3NmTkJuZWlfLXFxbnNCRm4yemp1enlGRG14bVlQNU1r?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-16T11:45:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "023df7e9d269ad4a",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "В Казахстане введено больше 13 млн квадратных метров жилья",
@@ -2016,7 +2072,8 @@
    ],
    "regions": [
     "Центральная Азия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Необоснованно завышенные тарифы ЖКХ надо отменять — Володин",
@@ -3301,6 +3358,25 @@
    ]
   },
   {
+   "title": "МИД: Россия готова участвовать в строительстве трансафриканской железной дороги",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2VTUGQzeU5xUnlpVFdjRmdvY09fM1hhbTYzcnZyQVo1cGRNZ09GbzZXeG9BS0llM2xqSUJSOC1pQW1sSVBNcklwZ0JHQk14b2JnbEFoLUxpaGowX0ZTNVF0RnVzNU1fV084ZHRMV0tIMGgwUkllbDJBeHhNRnZmU18tUWpjOFRoR3F5a3dveFBUMXBuMHNIQlZhUW1rVHhvREgyag?oc=5",
+   "source": "RTVI",
+   "published": "2026-10-15T13:25:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "c27a3b081ac810db",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
    "title": "Armenia establishes working group to address railway management issues",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UUElBbnloWl9aXzlOZU40Z0VDYjVCWTNzSEJWeGFKX0JzVUlPTGNjNFJfUHhCcHFTeTd5THh1OEhtREVsRDVqOFpPNkNRcGJHenfSAVdBVV95cUxQOHVPU1NvSE00WHByLU1EcG9aYVM4SHFUTlo1cVpXTUJjTWJ5MGNJc0lLWkh2aUEwdVVZY3dWcS1rV2RtOG5IRkZuaV8zLVVVek12TFFMWlU?oc=5",
    "source": "Armenpress",
@@ -4306,6 +4382,23 @@
    "regions": [
     "Россия"
    ]
+  },
+  {
+   "title": "Hungary has completed the electrification of the Szeged–Röszke line, on the border with Serbia",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1BFb0x5SjNhNzZVbGJ6X2lOSXNjdzVkR3ZDcV9JUUFENUdVY3ZQbXhKZEhBaENaVHFYbXlKYU5zVFE5eXV1aUxSei1SZXBickt6SlRlLVNXR2VWcjhSZ3lEYzlVclV4NHhRT3JseUpiaUR1SHB0UWpHOEd2ckpqWDliZWVJS25wSUt5dUZwMWk1ZVJjTXZ4Zm43bEpYNzg?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-15T09:55:01+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "480f93724c4213d6",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
   },
   {
    "title": "Грузоперевозки Узбекистан - Украина: маршруты, сроки и таможенное оформление",
@@ -9233,6 +9326,23 @@
    "id": "70601b7b7210c258",
    "categories": [
     "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
+   "title": "CAF строит новый испытательный центр во Франции",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXJFTXBNWFJOY01wcnZSdUtOZ2E3OVZUaG5KVGJfRXdrNElTZHVNV1FOaUxGY1dIWEpDTTlpNGRWcXdhYjFSa2ZqSklWNEJIb2pNVldadTZkZE9DSzd1NW9nNlZ3T2s3bEtoV2tDUkxzRE5BaTZULVBhVHFKWjRxNndMWEFCdEFOdnRud1FHa3BZUnd4Smc?oc=5",
+   "source": "ROLLINGSTOCK",
+   "published": "2026-10-14T07:10:11+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "bff63be6d704ea73",
+   "categories": [
+    "Вагонный парк и подвижной состав"
    ],
    "regions": []
   },
@@ -46022,13 +46132,13 @@
    "ok": true,
    "count": 47,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "seconds": 0.3
   },
@@ -46044,7 +46154,7 @@
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
    "seconds": 0.3
   },
@@ -46062,7 +46172,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -46070,13 +46180,13 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
    "seconds": 0.4
   },
@@ -46092,7 +46202,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "error": "",
    "seconds": 0.4
   },
@@ -46116,9 +46226,9 @@
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 1.0
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -46134,13 +46244,13 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
    "seconds": 0.3
   },
@@ -46156,7 +46266,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 45,
    "error": "",
    "seconds": 0.5
   },
@@ -46164,9 +46274,9 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -46174,23 +46284,23 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 59,
+   "count": 60,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -46205,8 +46315,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f99d1cfed50>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7febf7069820>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -46214,7 +46324,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -46230,7 +46340,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.7
+   "seconds": 2.5
   }
  ]
 }
