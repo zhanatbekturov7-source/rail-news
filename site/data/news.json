@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T01:06:00+00:00",
- "new_this_run": 68,
+ "generated_at": "2026-10-17T01:51:34+00:00",
+ "new_this_run": 64,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Масштабная стройка в степях: пути обеспечили прямой выход казахстанской продукции на мировые рынки",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDJtWXlPX25EWkVGQVlSaEx2WFo4aVFZeHhWX1BSdk9vV2lxblNuNmpwcnNGNUpVZ1RmbkhEMzg3LVZGUV80N3R6R3Via1JFcF9nSkhEanhSWHVJTWdQUmxpcm1xNjRxWjFtLW4yYUM0V2NIelR5OGM2Nkl2bjc4SEJpTlZKcUg3QzNVVkcxTVF1QQ?oc=5",
+   "source": "Правда.Ру",
+   "published": "2026-10-17T01:24:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "7caea0e0d7e52d33",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Для Украины ограничили Starlink: Трамп отрицает причастность, Маск указывает на США",
    "url": "https://kz.kursiv.media/2026-10-17/tsse-dlya-ukrainy-ogranichili-starlink-tramp-otriczaet-prichastnost-mask-ukazyvaet-na-ssha/?utm_source=rss&utm_medium=rss&utm_campaign=tsse-dlya-ukrainy-ogranichili-starlink-tramp-otriczaet-prichastnost-mask-ukazyvaet-na-ssha",
@@ -46587,7 +46606,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -46595,7 +46614,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -46611,7 +46630,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -46625,7 +46644,7 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "seconds": 0.3
   },
@@ -46633,7 +46652,7 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
    "seconds": 0.2
   },
@@ -46651,15 +46670,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -46683,13 +46702,13 @@
    "ok": true,
    "count": 42,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": "",
    "seconds": 0.4
   },
@@ -46697,9 +46716,9 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -46707,7 +46726,7 @@
    "ok": true,
    "count": 59,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -46730,7 +46749,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f583168ccb0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fec6ef9f500>, 'Con",
    "seconds": 300.5
   },
   {
@@ -46739,7 +46758,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "seconds": 1.5
   },
   {
    "name": "PortNews",
@@ -46747,7 +46766,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.7
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
