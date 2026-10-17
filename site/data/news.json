@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T15:49:52+00:00",
- "new_this_run": 60,
+ "generated_at": "2026-10-17T16:51:23+00:00",
+ "new_this_run": 67,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,141 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Tehran seeks rail link to Afghanistan via Uzbekistan as Iran-Kazakhstan freight grows",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTlZXYXpzbnZLcTBOSXlJNjJZSDB4ZWVodXR4M2k4akFySXhDU2ZpT29tRVhhQTVKbnpOcG9vUUVLY0xyak9WYWZ4NGw3bkUyTU5WazBIZ29EUnU5dkExQUtQeWR0Yk85Z3EtSGVXLTdHcEQ2OXBxaDMyeDlrcEVGUW5QYXppXzlWRXFYY3VlZVhmeXBiYXRCc3VSNFBHcDNpNG9Wc1JnSmpZWll6UEdmQg?oc=5",
+   "source": "Tehran Times",
+   "published": "2026-10-17T16:40:51+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "2e70e5da1a868bfe",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Казахстан",
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Tehran, Astana eye expanded Caspian, rail cooperation",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkIwYTB3U3YwNUVhMWpGTDhLWm5vQlM5LUlrdWZXVHNCODlhUUx6NTRvS2YwU0RGTkZ1V2dZM1FKOV91aFVZYVB6U19SV1ZuRGE0QjdCZzJkSzgtMjFPdEVtbERxZWRrN3NjWEg2NDMzS3V4U2hXd0xCX0w3cDQ2UjZhQUFOMkJkYjRxZ0NDc0JVdjJicEE?oc=5",
+   "source": "Tehran Times",
+   "published": "2026-10-17T16:36:33+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "1c79b8b44f401573",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Президент Узбекистана встретился с Премьером Государственного совета Китая",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHdTTVlXZ1A5Mk42VVhQNE9aZlVnZUctM3pEUF8wODlUMWc4OW15U2JqZ24tNS1WSHpNek9Nd01ubEFIT0syUGdrMlRTMVI5UnRoeVBXU180eXV0NnI1RFlaZ0hGdFY2VGtQdUZPaERlYmdFTXNJSS1EdDFYbmZZdmRjbU5SSGl4Tk1GYnVGUnZ3Q2FYbUFXbUhlT0pkVlk3MnlqSmVBTVc5UQ?oc=5",
+   "source": "UZA.uz",
+   "published": "2026-10-17T16:07:16+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "409426ece180240e",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "ЕАЭС и СНГ договорились координировать развитие транспортных коридоров",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM05qakc5S2FIQmxIckF1UUpMaDBjMUxLaDRtTm1mMTdKdnlseElpSW9jR2hXSE1XMlJsSENNaFgtN1JIY0lBWTNXMVpSaVczUktVeklrdTMxYkpvV1llVHRMYjI1T1prYm9ER2lBX0llWFRHZDNTZkNhNUlIem1Uc3NjeWJ6VDl0WWRrbjJSLUJacTZ0WF8wbUVYeU1EckxlZG4yZXBoQ1J2Ulpyd1RXV2ZscmVWdw?oc=5",
+   "source": "TKS.RU",
+   "published": "2026-10-17T16:07:02+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "a65551055d16ac84",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Состоялась встреча между Премьер-министром Узбекистана и Премьером Государственного совета КНР",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjI3Q25acl9CVXIwZkE2dFBhdEdvOFZyY291ZUxaeHVBMmdIZGZvTThVUFlqaHFqaWcwM0d5QkFKUkt6bDRxVXM5U0NxbXBYWGNfaFdra2JteWhQd3dtTHdUNkZMSmRBUjRkY1NtaXpYOU1zMzh4RGVsREZWM290Mk1RWWg3QU1vUmxsVjdDVDE5MldRbXdKS0Q1UEhFQWJxbm5LYjBRV2twV2o4a0U1OUlaWUE3d252anJDSGxUV2JXQTA?oc=5",
+   "source": "UZA.uz",
+   "published": "2026-10-17T15:57:16+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "1c17baed614826b0",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Президент Узбекистана встретился с премьером Госсовета Китая",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94WXFWNXVzX0NYWjloQjZQY3pXck9yZmJsOTVIMXp3M2hDc0pLcm12aGp5b24za05ROEhvNEZhRmV1aW44MjRROC1CRGZvWnRZY09JWTJrUUp0LUN6Tk9rQQ?oc=5",
+   "source": "Repost.uz",
+   "published": "2026-10-17T15:56:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "1491bc3032965863",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Шавкат Мирзиёев встретился с Премьером Государственного совета Китая Ли Цяном",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkJiNmtiTlA1dEtJMnY0ZXRzX3ZMaVRjZGp3clUxYlpoc2EtSEJUU3pCV1lUWl96WlN6REQtYTc2QTdaWXRzQ3oxVjgtTkp5Z0ZBU1hXTndFaEhzRG00clRtTUp0bDJQcm1YeDRjQmtPMUhFWHpsVDEwczBKZXl1NExWOE9iaURWWEIwY2VSOEpaS1NHcGdQeGVrRXdYRDhlbXJ3ZHhzVm1qY1MwUUE?oc=5",
+   "source": "Nuz.uz",
+   "published": "2026-10-17T15:51:11+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "99731eb88c85fc64",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай"
+   ]
+  },
   {
    "title": "На западе Казахстана начали строить 285 км железной дороги",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUVRQjV6bzhuamUtcXFITndRX3I3N2Y5bWdkdFdMWkVqVTZySEZNVXotdnRhOHYxVUdnX0U5QnBkMnFQdFFzOE9oLTdoLUdsUUFjM2Nua1VBUmlyVG1ycHh5NHhDR2ptNF9aS2MzNDVfbmt5aDRYbUZtNUNJamZfRVphV3NzOTdReFE?oc=5",
@@ -56,6 +191,25 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
+  },
+  {
+   "title": "Afghanistan discusses regional railway projects at ECO summit in Kazakhstan",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQndPbXhTZHlQT21YV3FqNS1VWHM3MmVoU1J2Z2d6ZmNvUHF5aUpyR0ZnaWhmZG5iMzRMQkU5YnFOZ3d6VzdmWGNhT0VBd1hBd2E5Zk5NMWhnVlFQSHJoZVdGejJxXzlEYnpwR29CYW1nZkFXdjBqdW85SEFWOFluNTQtdDVVNXRkaHNsVkY3ekVpc1NLa05ScVJfZ2pfTFJMckFiRGg5UU5maWlkQ0VXUFE3d18?oc=5",
+   "source": "İlke Haber Ajansı",
+   "published": "2026-10-17T14:36:34+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "fc5540b98ed8ff34",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Iran, Kazakhstan Push to Turn Transport Corridors Into Operational Trade Routes",
@@ -282,6 +436,64 @@
    ],
    "regions": [
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Kazakhstan, Cambodia sign six cooperation agreements",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMVk1EOTF1ZnYwTWVyWmxnZDJSSS1uVjVqVHdoNkJBMU4xSXU5OFlBOGxtd2MxaUVQWVFSMDFmTlBTeVNGRWIwYUNSNjhBZ0NfSE1OeU9zMHBlLXA4SV9N?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-17T09:56:38+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "57fc15014a4c8a6a",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Китай и Россия создают новый арктический коридор: как это изменит глобальную логистику",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3U3c2w2cUgwVTVHajJwWk50U1U3UjVjX3R3eWNGS0FjNjVPbEVJSnNQTnlpazdwejlvd05MLVhXTUpaQ3hOSXRwckc4dlhNVDBFVXN2WGw5WTJGNkxxLUd5cjNXWFZwQzYtVU5ZcXNrT04yN0lsNU83RUxlMVdTaC1aUWJoVzM1V0hhcW9maHgwZmx0ekNyeWk0OUVXR3BuZGxCaXR1ZHp1SzNPd2FnQXk3a3FmdmVQ0gG-AUFVX3lxTE5uWWZ5bk1yeUpaSVhjeVRjN2IwblVCbWNVVUxQZU96YVRMRXBxckhWRG4xdm10YXNXSGFUVWFoRElVZmkyS0FhX0FSUVFnbGpEWFV0Vl82cVNZQ0JSVEE5ZXZ6VjYzOUlUQnNKLThHaFRXcmpPUE9DZlpFR3d0YVo5VzZ1Y2NRLWROZW1MMjR0WW5sM2pjQWk2RzhOSjYzQk1fLW92SURYMUlhMjgta24zcW1iM3JqRlB0U3U2RFE?oc=5",
+   "source": "Дзеркало тижня",
+   "published": "2026-10-17T09:54:48+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "4f33be4377a9e0e9",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Китай",
+    "Россия"
+   ]
+  },
+  {
+   "title": "Kazakhstan, Cambodia discuss expanding bilateral cooperation",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54UC1xSVBLeXExWHZSVXJvT25QckpXcllFQ2RscDRvLWVUNk96STQ1c1dVY2xoMFV6b0k1alhoUWhlb3VMWDMzcnp1X0VqYzlzRzRjSHo0TzVwV1d3OGtr?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-17T09:49:45+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "bd41b803fd78831f",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
    ]
   },
   {
@@ -1519,6 +1731,23 @@
    "regions": []
   },
   {
+   "title": "Iran's trade turnover via Astara border crossing reaches $395M - governor (Exclusive)",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1SWRKemhxTEFkVnRBUUs3Y25uYVpGTDdNRFBNQVBCVWIycWtUSUtwbDdHUmdGR1lMWVNiMTNvNm82N1IzNjNvS082RjJNYTg?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-16T13:18:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "cdaa52623a378115",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
    "title": "Станет ли логистика новым источником нефти для Узбекистана?",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenFSSU5NU09tTXhGckVFNG9neVpoYWVKNE1IMTExRnVBcm1GakVvWnJqVXNVVzdxQ2dGWXdjbGVsZjFLQjJjQ0VPSnJnRUtGbHJtYXptMll1R0h0RWlrdG41akR4eWF2N0MxR0pFMzl0ajMwRFF4ajBkc1h5OXBITXZNbXM4ZzVlTWJPSHJKdW1VVTlVQXc?oc=5",
    "source": "UZA.uz",
@@ -2519,6 +2748,23 @@
    "regions": []
   },
   {
+   "title": "Подростковая преступность в Удмуртии выросла почти на 20%",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEp2Y1ZSRFFiR1I4Qk5rTEJsNll0eG44Q3hsM2hfVlZ0UlNTcVFiX1hhMnVFUUpGLUYwejhnQVd6RmpXUWN5UWZ4QldFRjBWekoyMTNIcUl1LU1HZy1wZzZoRnNRNmlRcExrRjdoYUM0aDhzd1ZpNlN4NDhfZUtabUNBVUhadnB3aEJIcThMSW5fQnJmZ1B3S0dDWXpRSVBz?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-16T08:44:49+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "d88d8c2aa6f66154",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
    "title": "Глава АЖД принял участие в бизнес-форуме «Новый Шелковый путь» в Казахстане",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX000d2hjTXBsNjF1OTJVNVFQSXplYnpUZWMxSHppMVVGN1pQNHU4Y2Y2aXQxWFhid3FDaXk0NjFxM0VHQWZvZnd4SXFuaE8zemRLdVNGekVGanlqOWpIcjMwLV9TVkszVVRkZmxoRzR6VDBEVXJDX0R5VXBsZXRNZmIzT1FhbEVyc0J6V3hJZExnZmdTLTBpRDBMb2tSTVJiN0lR?oc=5",
    "source": "Media.az",
@@ -2906,6 +3152,25 @@
     "Логистика и терминалы"
    ],
    "regions": []
+  },
+  {
+   "title": "Belarus presented experience of creating unified digital system in transport industry at Astana business forum",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbFc1R0xMaHBTczlUaU0wZjhwTF9ULS0zVnNIRkVwOHM5N1kxemtHYUZ3QTAzUnVKRVRNVHdMWm1sOUswSkRJcFBiTnZMRm5sSW9mYmVFTFdEbkxCVkZrdVg0WWtmc2lzYU8yNl9rZnd0N0RITHNQV0hqa09LV0RXcHlCZlFaNmtVajRxbEdSX3hjUjc1dllEZDBWdGQxSlpNWXhUQ2xMWFNNeFBEaXp1eDlWSWpqS3hReXZLNlBLRFU0S1Nl?oc=5",
+   "source": "СБ. Беларусь сегодня",
+   "published": "2026-10-16T07:34:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "cb905edf639fa9ce",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Беларусь"
+   ]
   },
   {
    "title": "Azerbaijan, Kazakhstan launch fiber-optic line across Caspian Sea",
@@ -4107,6 +4372,25 @@
     "Транзит Китай — Европа"
    ],
    "regions": []
+  },
+  {
+   "title": "Что означает новая встреча Токаева и Алиева для Казахстана",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzFlY0NKcnlvQXY3b1ZwUlAtblZBazREdExWdU1QYVQyRXdWbVdrUkpLT21iVmZwNndkMHgzb1Z1R0Z5NVZmTF9WaGpZM3NiYjcyRHNsSGlrQmlyV1k1SDF5azhKUC14S2hQalQ4QkRtdUR4dW80NnB6bmIteTRmMFFDRVprbzZPcHJxLU9PWllqbjA?oc=5",
+   "source": "DKNews.kz",
+   "published": "2026-10-15T17:22:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "4f975deee21f60f6",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Узбекистан считает порт Баку ключевым звеном Среднего коридора",
@@ -8949,6 +9233,23 @@
    "id": "8b58bd406eea3dc7",
    "categories": [
     "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Минобороны отчиталось об ударах по логистическому центру и сухогрузу",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBqLWU3M1RkQlBYWEJnOUphZ091UjNneEJRRUVZdmZvR1h3c2NYRVYxUTlxNWNjRGlCbmtGVXB1YV9WTGtj0gFKQVVfeXFMTjI0V2hfWkI2YTBQUGNLMGdPNlJrbzFiVVppZFVCQzN0YWlYNTgyOUR5d2ZPelJLR1Q4V3RXMmtTNTRzY1ZvRkVXaEE?oc=5",
+   "source": "BFM.ru",
+   "published": "2026-10-14T17:15:45+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "d190e0dcfdbdb542",
+   "categories": [
+    "Логистика и терминалы"
    ],
    "regions": []
   },
@@ -48240,9 +48541,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -48250,7 +48551,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -48258,21 +48559,21 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "seconds": 0.4
   },
@@ -48290,21 +48591,21 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": "",
    "seconds": 0.4
   },
@@ -48322,15 +48623,15 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -48338,7 +48639,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -48346,7 +48647,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -48360,9 +48661,9 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -48370,7 +48671,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
@@ -48378,23 +48679,23 @@
    "ok": true,
    "count": 29,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 49,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -48402,7 +48703,7 @@
    "ok": true,
    "count": 58,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -48410,7 +48711,7 @@
    "ok": true,
    "count": 46,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -48425,8 +48726,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f93a01ac920>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f9685bd1ac0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -48434,7 +48735,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -48442,7 +48743,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.4
+   "seconds": 1.2
   },
   {
    "name": "Kursiv",
@@ -48450,7 +48751,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.6
+   "seconds": 2.5
   }
  ]
 }
