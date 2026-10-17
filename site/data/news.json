@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T17:48:09+00:00",
- "new_this_run": 53,
+ "generated_at": "2026-10-17T18:53:27+00:00",
+ "new_this_run": 59,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,23 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "Ценовой пожар разгорелся на газовых заправках: экспорт пропан-бутана могут ограничить по особой схеме",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03WFE0eUs1bUdubUZSVEFDLTUwRVhfTVBZaWlFZUY5WEtqX00yYUtQaWdVNzBNOUhMRG5HZVl1Y0NHZkM4TnNMdE9jWXp1akt4SDd5QXJJWmJBMkJoSTBtN0RiQ2JMdENBSFBBV3NPd1hIT2dDMDM0TXJGNXpYMHc?oc=5",
+   "source": "Правда.Ру",
+   "published": "2026-10-17T17:57:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "9f21c5d318859ee6",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
    "title": "Президент Узбекистана и премьер Госсовета КНР обсудили расширение партнерства",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WUUhxanE3MjJKNzVoa29QQXFadWVsclk2d3I5U21fMWNzRWhEQnBnZkdVMzd0Y0tydFFaNHhEWTdfcjlQTE96aUM2bzV4Z9IBS0FVX3lxTE5LMm5SdWlXeTcwWEo2LVdqUUVMbVR3RkZtWDF0alozX1VSQ3pCWjk3SUxHbU1vVmpsZnNGZkJjRVA0SFJsQ29QR0RYTQ?oc=5",
    "source": "Интерфакс",
@@ -41,7 +58,8 @@
    "regions": [
     "Китай",
     "Центральная Азия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Tehran seeks rail link to Afghanistan via Uzbekistan as Iran-Kazakhstan freight grows",
@@ -403,6 +421,40 @@
    ]
   },
   {
+   "title": "Жители Архангельской области рассказали о расходах на ЖКУ после повышения тарифов",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15RDJqTmx5ZmpUR1l1ajktaWNIVzRucTFIemtzV1diZnBKRkQyM0N0M3pGQnhRd1Y0Q2E5dXJPc0NxS05Fblhlenl0M0tPaHVEd1NOVGRfZTBCZ0FOS21FMWJiT24?oc=5",
+   "source": "Новости Архангельска 29.ру",
+   "published": "2026-10-17T11:27:44+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "0214e29b4e0e7aee",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "NEW SILK WAY Forum Discusses Middle Corridor Development",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEctNWJRWWNxdHBXbjhyQzdJLUtobGtVYzZCRGFSQ1pyOEd1MTZudUNUd1FfYlMtNUhBMjktdU1pMndIVDk0Rk16VTFKMnlJNXNxcnQxcnZ4d1Z2Nm9NOUJhRW9uMjNPclpacTRraUFWaFVsR01rd2dFRmhIdTI1RWd3RF9aZ3RiZG9Z?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-17T11:00:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "8c67f2245cf48711",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
+  },
+  {
    "title": "Kazakhstan, Cambodia discuss Trans-Caspian link to Asian corridor",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3LUJ6NFJJUWtBeVRyaHBvWC10UkNRSk5tdklMTThoQnIta0dIZjh6VmNTbGIzM09Oanh6YkFQdHl5bDdqQldtYnpDOVpaTk5PZTBxRjVmamZMT2dLNkdn?oc=5",
    "source": "Trend News Agency",
@@ -517,6 +569,25 @@
    ],
    "regions": [
     "Казахстан"
+   ]
+  },
+  {
+   "title": "Глава государства и Президент Туркменистана провели переговоры в расширенном составе",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85ek1HT25Cd3F3TGZzUHhjZnhHY1E2WldNcThheXNNQ3Z1elJ5ZzZieDBFeG50VkVCU2RGa3Axa3Bjd1hSdHpkby1zWENjN3BxSVh4SnJqOXh5dXNyVGkwTk5OUQ?oc=5",
+   "source": "GOV.KZ",
+   "published": "2026-10-17T09:31:02+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "2c1e8c5c10edcfef",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
    ]
   },
   {
@@ -1934,6 +2005,25 @@
     "Тарифы и регулирование"
    ],
    "regions": []
+  },
+  {
+   "title": "Казахстан построит два сухогруза на Бакинском судостроительном заводе",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHhSMEY3cEs0bnN4RmVOQnN5LXJBSllteEFhcFVLYTQwMnFrTGgtOTd1QTJESWVsNmptTmotLWd5MzNlX2RnNl9IX3l1MGl1UDJRaW9BamJvdFBzQjBTLU1mNnlBYlE2LXpxYmp2a2I2Q3hGdzVJX29KNWNicHgzTTcweGIxUXhwTi03eHdXekpOLThiVnh5Q2k0THMxZw?oc=5",
+   "source": "CBC TV Azerbaijan",
+   "published": "2026-10-16T12:32:41+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "20b0257542593afe",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "7,8 трлн тенге превысил за январь-сентябрь объем строительных работ в Казахстане",
@@ -3693,6 +3783,25 @@
    ],
    "regions": [
     "Казахстан"
+   ]
+  },
+  {
+   "title": "Между Мангистауской областью и Азербайджаном расширяется сотрудничество",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWVVbmRSaC1iSFFxVjdLZUVSN3FXeUJZUmtoU3dQd2t0V3V4Uk54UWh4SDEzY2dYTWJDMFc3VDl5c0ZkQ2dNT2dSeWJ5NERab2F4Zzd2OGVqV0FqY2dmZm83QkZWZUkweWZEZVRxWkhVTlRobnAyYTZWc05PZHBKVXZDQmR5UmVwNHpUUENEekF2MDcxclhRaUdNSHdNTEU?oc=5",
+   "source": "Каспийский вестник",
+   "published": "2026-10-16T05:07:04+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "38ec892a954f5047",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
    ]
   },
   {
@@ -7535,6 +7644,23 @@
     "Казахстан"
    ],
    "also": []
+  },
+  {
+   "title": "ВС РФ поразили порт Измаил и два сухогруза с военными поставками для ВСУ",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDl3cUE1azBkZnlCS1JXSkRWMjA3YkxBU016MFNLZG8tN2xVNzNfeGZacno3XzFqZXhKOEdpbG15UzlmenpvQ2dSNnpJNWdnX2FiTVBmVmw3VTM3NE94WnBsdU9PQkJCUV9jMGhzVzc1d3JnaHl5ZlJjdWhMbEJESWRlUzR1OF8yS3pSSkM5X2tMcEd6RUtMNzJQWTc0RVJXOUZTSUFwYmU?oc=5",
+   "source": "Мировое обозрение",
+   "published": "2026-10-15T06:30:02+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "64f42a12bd53015a",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": []
   },
   {
    "title": "Кыргызстан предложил Чехии упростить транзитные автоперевозки",
@@ -48624,7 +48750,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -48632,7 +48758,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -48656,7 +48782,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -48680,15 +48806,15 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -48704,13 +48830,13 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
    "seconds": 0.3
   },
@@ -48720,7 +48846,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -48736,7 +48862,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -48758,7 +48884,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "seconds": 0.4
   },
@@ -48766,9 +48892,9 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 48,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -48776,13 +48902,13 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 53,
+   "count": 54,
    "error": "",
    "seconds": 0.5
   },
@@ -48790,9 +48916,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 48,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -48807,8 +48933,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f424f940c50>, 'Con",
-   "seconds": 300.7
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f1e904bb950>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -48816,7 +48942,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.2
   },
   {
    "name": "PortNews",
@@ -48824,7 +48950,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.9
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -48832,7 +48958,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.8
+   "seconds": 2.6
   }
  ]
 }
