@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T07:51:18+00:00",
- "new_this_run": 63,
+ "generated_at": "2026-10-17T08:52:40+00:00",
+ "new_this_run": 54,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -815,6 +815,26 @@
    ]
   },
   {
+   "title": "Kazakhstan seeks Antwerp-Bruges partnership for Caspian ports",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05c3hKVVg4RmJvVzV3WWlvZm5CUlREblJHaGVkSGhybHQ5OGt0bXM0RndYUjBtakJIdzFnd0VjN2g4d3BNVWZkQkdLOUppSWFuUlhzbnNrZW9HaHZaUHFF?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-16T13:18:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "a5455031fe9eef80",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Казахстан",
+    "Каспий и Закавказье"
+   ]
+  },
+  {
    "title": "Станет ли логистика новым источником нефти для Узбекистана?",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenFSSU5NU09tTXhGckVFNG9neVpoYWVKNE1IMTExRnVBcm1GakVvWnJqVXNVVzdxQ2dGWXdjbGVsZjFLQjJjQ0VPSnJnRUtGbHJtYXptMll1R0h0RWlrdG41akR4eWF2N0MxR0pFMzl0ajMwRFF4ajBkc1h5OXBITXZNbXM4ZzVlTWJPSHJKdW1VVTlVQXc?oc=5",
    "source": "UZA.uz",
@@ -1303,7 +1323,8 @@
    ],
    "regions": [
     "Россия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "В Актюбинской области двое работников КТЖ получили ожоги - Новости - «Седьмой канал»",
@@ -47122,7 +47143,7 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 18,
    "error": "",
    "seconds": 0.3
   },
@@ -47138,7 +47159,7 @@
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
    "seconds": 0.3
   },
@@ -47148,7 +47169,7 @@
    "ok": true,
    "count": 32,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -47170,7 +47191,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
    "seconds": 0.4
   },
@@ -47178,9 +47199,9 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 16,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -47202,9 +47223,9 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -47220,7 +47241,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -47250,7 +47271,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 38,
    "error": "",
    "seconds": 0.4
   },
@@ -47260,7 +47281,7 @@
    "ok": true,
    "count": 49,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -47276,7 +47297,7 @@
    "ok": true,
    "count": 58,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -47299,8 +47320,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f23d00fa660>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f72500e6ed0>, 'Con",
+   "seconds": 300.4
   },
   {
    "name": "РЖД-Партнёр",
@@ -47308,7 +47329,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -47316,7 +47337,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.6
+   "seconds": 1.8
   },
   {
    "name": "Kursiv",
@@ -47324,7 +47345,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.5
+   "seconds": 2.3
   }
  ]
 }
