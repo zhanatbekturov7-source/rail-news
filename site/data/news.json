@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T18:53:27+00:00",
- "new_this_run": 59,
+ "generated_at": "2026-10-17T19:46:19+00:00",
+ "new_this_run": 51,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -415,6 +415,25 @@
    "id": "d9149441a2b78f27",
    "categories": [
     "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Казахстан намерен увеличить объем транзитных перевозок до 100 млн тонн в год",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IdTJCMEJ0c1lES19yZFRBd1VoZF9JOXRsUC1DZDNpTU9XU0gxb0U1c2JGTTNPLWtPdWJlQTN3U0RGaUJVVnVYVS0ySG55dHo1eUZZTWE5N0h1Zw?oc=5",
+   "source": "Новости Караганды",
+   "published": "2026-10-17T11:37:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "243bae98e1eba4ff",
+   "categories": [
+    "Транзит Китай — Европа"
    ],
    "regions": [
     "Казахстан"
@@ -943,6 +962,25 @@
    "regions": []
   },
   {
+   "title": "В Жетісу нашли способ сократить очереди на границе с Китаем",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNW9mTl9GRVVUdzk4MmM5eC1Ja2xlcXRxWEE2Qm9oOEMtN1dFX3JWaVVmUHFNY0podHh5b3hTalVpaDhPMUdPSGRMZ0tlbV82UlV5VFJ1bWR1ZnJ3Qi1oSzZGTmtXZENUVldhalZEUFhPVU0zNmtGaXBOdjhQS2U3OTZEVGhCZ3AwOERTa0RYTy1jNERUb2FqblRZRTJMQ3R0Mk1HdEUtdUE?oc=5",
+   "source": "Вестник Жетісу",
+   "published": "2026-10-17T04:00:05+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "ad24c869faa97e2b",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Китай"
+   ]
+  },
+  {
    "title": "Kyrgyzstan’s economy continues to grow - what opportunities does the IMF identify?",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NNUxDOUpFdW93UVEzUTRFNmVUSk81bkFpdWVYNWhxanNaaDFyc1pzbzIyMElDaG9ZV3gyY2lZdHJ2TzE4bU1mTWwtUW5iWUNvVzJjemNvckZkQVlvemdz?oc=5",
    "source": "Trend News Agency",
@@ -1047,6 +1085,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Кому таможня дает «добро»?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZXlkVllRZFNFd1NFdGpmalpPX0JoWFBhZWZKblRGWWdpLVdJUXdQNTQxQWxLSFVyaGUyRHZYV3pIX0RUVTcxQ3NwbERsSVMxSHNfWnRpYXl4Y3dPZkE?oc=5",
+   "source": "Казахстанская правда",
+   "published": "2026-10-17T01:21:36+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "c31310fbf287cb9a",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
   },
   {
    "title": "Для Украины ограничили Starlink: Трамп отрицает причастность, Маск указывает на США",
@@ -48748,9 +48803,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 45,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -48766,7 +48821,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -48806,7 +48861,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -48814,13 +48869,13 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 54,
+   "count": 55,
    "error": "",
    "seconds": 0.4
   },
@@ -48830,7 +48885,7 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -48846,7 +48901,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -48854,7 +48909,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -48878,7 +48933,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
@@ -48886,7 +48941,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -48894,7 +48949,7 @@
    "ok": true,
    "count": 48,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -48902,13 +48957,13 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 54,
+   "count": 52,
    "error": "",
    "seconds": 0.5
   },
@@ -48933,8 +48988,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f1e904bb950>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7ff70340a900>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -48942,7 +48997,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.3
   },
   {
    "name": "PortNews",
@@ -48950,7 +49005,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.4
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
