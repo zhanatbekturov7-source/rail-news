@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T03:55:16+00:00",
- "new_this_run": 45,
+ "generated_at": "2026-10-18T04:55:00+00:00",
+ "new_this_run": 49,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,87 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Курс на Транскаспийский маршрут: Казахстан и Евросоюз обсудили крупные инвестиции в логистику",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRl9LNUpXWUNFbW9xOHYtWTZnVDllQmpEMjhlTE83RV9aT1NtVmdpOEgzRnVRLWdkSDctQ1h1dnByRWNMRmxvX2xDQlRPTElCUDlzZV94YTJ0d2pVWldOV0lQMkhMSXdwNW00VWd6WlpDU0szWG0wRmtmSHFReGc5TEhxNlFfZnVDLTF6N25WM3d5VFV0aWlBaHVtY0RmMkwwNVRORXAydU9PMU5ueHNyeTNaekF6dHpDU1NMTERhSlo3LTg3QXNFak1B?oc=5",
+   "source": "Вечерний Алматы",
+   "published": "2026-10-18T04:31:13+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "a8fe68ab5e9109a1",
+   "categories": [
+    "Средний коридор и ТМТМ",
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан",
+    "Европа"
+   ]
+  },
+  {
+   "title": "Китай и Узбекистан согласуют стратегии развития и расширят связи",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdklJYUsyeVgyZ1cwSmhlVGpjMWJ3V2pnZWR0U1JZaEc4M2xSTk9aYU5sc3VFcUE1VFlBQnhSVy1tdkFqczY0eXB5bGc1akJYcjVGWkhRWlVFRWRUTWd6aXFNVExzY3ltOTFBcTRzRXI4Nmo1ZlNtd3k5QWVNaFo3WlRON1V3NUFYSXIxckUwZWtpZUFDUUtmTWVVSWM?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-18T04:30:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "688d5de2c7c8099e",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Китай обеспечит качественную реализацию железной дороги в Узбекистан",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV043RnZpeDlwRmNZMVZ0UDB2RlVOMWFaUTVwek9WX3pLNVZuSmoxS2NSRk9XemVGbkZRU2Nnejk4eGtCenM2UFdCTTM4NEkyeWRScVR0Z1YyLXpIOWVvTVRKTFhvMDFQa3JURGFXV1pfWWluUG9uYlF0UG14UFpfMUVVRVMwVno2di1Uc2VDWHBKbHdjejNmZzBKb3M0dHJmbEp3?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-18T04:20:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "f513b101b10d1392",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Казахстан и Камбоджа укрепляют экономические связи и сотрудничество",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1h4THF6YjZDc1d4b05sN2M1TU90REQyWHYxbTVNMEFORVVMWmU3YVk0Vzl3VDJJckZuZ0JJRkNhRjNHWXBSTFBaODNXVG9nV3J0aUwyZy0wRVF3MFh5aG85clBuOGNtUV9POTRDRVVqSXBTaGlXY1dhNS1UQU8xYVVSTkZiOVRvVzlfVV9OSTJrVGFuOXUwVDFZWFFGMlBrZUVJ?oc=5",
+   "source": "KZ24.NEWS",
+   "published": "2026-10-18T04:04:14+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "5bf1dcae6de9ccf7",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Кузбасс расширяет логистическую сеть: новые узлы появятся у Новокузнецка и Юрги",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMklKUHZtMGt5aC0yVGJubEtkel9YcFc5ejFoNUI4TktkSld1RFRGVUk2enhWMXh3bVJyU1k5ZVJEeDFSSkZXSnlHQlRmNnVRTjZnOGNNU3B6Q1VJSW9Ma0hyLUtIaFZZVjlBcHlaamVXQnd0aGRZWHczSzNIUXJvbHVOaHd4SE1zYUFMc2poNWh5VUtVNkFjdWhCWVJ4cVB1Z2Yta0pxWG1sTTlyc0VfMW13?oc=5",
@@ -186,6 +267,26 @@
    ],
    "regions": [
     "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Мирзиёев и Ли Цян обсудили расширение сотрудничества Узбекистана и Китая",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXZxdG9QeE81anhZdllHUDl3clhhTmxrNjNHQ2V5OEJYR1BLdlQ1QXZ1VjBpbGdEeVhKRkt3NkF2OVhyNm93WjE0X2tpRFJTZDJuVU5qQjVpLWVWOHQ5cU5RTi1nbzB3SGp0N3dUZW9KdUtfV0NHMG51eFpyZVA3QXFNaTNkVG41LXpjNW51RWNBZlF3TExHTlgwMUVodk5EbU5sOVRteHU?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-17T16:32:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "901ca0ef19932063",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
    ]
   },
   {
@@ -676,6 +777,24 @@
    "regions": [
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "Обсужден проект Концепции создания партнерской сети крупных стратегических портов и логистических центров",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsZGsyMGw0VTNzNDdoN2FaSFlvQlFXcmdYMjFaMjlHUmNpendrYnVvYTBSLS1lZWkyOTdKODNCb1FGMFdVVFJTZzNERTB5YmFPR2Z0cVRTTGtkOFl6MS12RUJBTDF5Z0xiMlE?oc=5",
+   "source": "GOV.KZ",
+   "published": "2026-10-17T10:03:07+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "4b801fb2320faaf0",
+   "categories": [
+    "Порты и Каспий",
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "Kazakhstan, Cambodia sign six cooperation agreements",
@@ -8789,6 +8908,9 @@
    ],
    "regions": [
     "Центральная Азия"
+   ],
+   "also": [
+    "CBC TV Azerbaijan"
    ]
   },
   {
@@ -49175,7 +49297,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "error": "",
    "seconds": 0.5
   },
@@ -49183,7 +49305,7 @@
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
    "seconds": 0.3
   },
@@ -49193,7 +49315,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -49207,7 +49329,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "seconds": 0.4
   },
@@ -49215,17 +49337,17 @@
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -49233,21 +49355,21 @@
    "ok": true,
    "count": 23,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 55,
+   "count": 54,
    "error": "",
    "seconds": 0.4
   },
@@ -49255,9 +49377,9 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 16,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -49265,7 +49387,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -49273,7 +49395,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -49281,7 +49403,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -49289,7 +49411,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -49297,7 +49419,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -49311,17 +49433,17 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 23,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 46,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -49329,15 +49451,15 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 48,
+   "count": 45,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -49360,8 +49482,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fafa91d5e20>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa4d51e96a0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -49369,7 +49491,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.0
+   "seconds": 1.4
   },
   {
    "name": "PortNews",
@@ -49377,7 +49499,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
@@ -49385,7 +49507,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.8
+   "seconds": 2.7
   }
  ]
 }
