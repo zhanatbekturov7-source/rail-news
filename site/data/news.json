@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T22:48:13+00:00",
- "new_this_run": 34,
+ "generated_at": "2026-10-18T23:45:02+00:00",
+ "new_this_run": 35,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -41,6 +41,23 @@
    "regions": []
   },
   {
+   "title": "Страны СНГ согласуют развитие транспортных коридоров и цифровых перевозок",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYlF0UklJMlltS2kxN0xBRjVoU0ZiTmcwRm5aNFZPOWZhbUktODJVVmVSbzRNOTg1djBpaG8zQjQyM1ZXaG83SGlxSHBteTc1YzZ0R0RQUjY5Y21TLVVSZGhJLWg5ZjZXOVNOMjJwbE9aZjFuWWxmV0w2TXpSMXlIaEFBTHoyd0VYTFVYS0tVQ3h2eXEwdmZNNkJPaGtrVnI0ZFYxQVJCVDIwLXlmY2JGUWhJbDVYaFhEcU83cHJDejRWcnBGN0kwME45b3gzVXY0Q1VoSXR4d3lsQzBkc2pxUG1PVmZDeEl1ZGc?oc=5",
+   "source": "TKS.RU",
+   "published": "2026-10-18T21:18:59+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "7e532722f7e6f01c",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
    "title": "Кыргызстан для бизнеса из Турции и России: возможности и ограничения",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnQ3NDljUmZxSEotVUFLc1BIT280Q1NwUV9KR1NRVjl0X1d0TC12LU5pQnlQSEZWZVVVNDFWZ2ZxU25NbkZ5RVRpRU9vTDU5bDdPX085ZkxVVjYtYXFYbS1iMUdCS1JXUXFzazhseUFTUGE5YjFDdmRMS1RtQmRkejhvZjgwaHM3M1VUWFgzLXVCci1MYmNBYTdB?oc=5",
    "source": "RusTurkey.com",
@@ -59,6 +76,26 @@
     "Центральная Азия",
     "Каспий и Закавказье",
     "Россия"
+   ]
+  },
+  {
+   "title": "Kazakhstan's money transfers to Kyrgyzstan fall 74.77% in August",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNUFkdS01cV9tZXc5WlA3M1ZHNHhjV1l3Y3BpZ0FKNVFpYW5IdjZjdHI2blhUeDdlbVREdjZWdTJMQXNublpnN0NxZGRCX3JMTUtYdUR6RTNsQWhBQWY0?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-18T17:14:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "bb89d651ae2fd497",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан",
+    "Центральная Азия"
    ]
   },
   {
@@ -51177,7 +51214,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -51193,7 +51230,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -51201,7 +51238,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -51231,23 +51268,23 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 55,
+   "count": 52,
    "error": "",
    "seconds": 0.4
   },
@@ -51257,15 +51294,15 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -51273,7 +51310,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -51289,7 +51326,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -51297,7 +51334,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -51305,13 +51342,13 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": "",
    "seconds": 0.4
   },
@@ -51321,7 +51358,7 @@
    "ok": true,
    "count": 41,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -51329,23 +51366,23 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 48,
+   "count": 47,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -51360,8 +51397,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f87cf0a26f0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f5a1e8b87d0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -51369,7 +51406,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 0.9
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -51377,7 +51414,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.3
+   "seconds": 2.1
   },
   {
    "name": "Kursiv",
@@ -51385,7 +51422,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.4
   }
  ]
 }
