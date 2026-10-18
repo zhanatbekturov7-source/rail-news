@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T16:52:19+00:00",
- "new_this_run": 39,
+ "generated_at": "2026-10-18T17:47:50+00:00",
+ "new_this_run": 32,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Казахстанский дипломат вошел в руководство ОИС",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVBrLWR4VTE5elJvazVKbnlnMUNwbWN3dGRLNkxhUGRTaEdUd2xlR0w4Qk5VUFJYS2FwN3JISUUtS3AwaGx4b1ZCY0JJQl95RDBiS1FBeFVSUDg1eWtQR1JWNXFDMEtwTGtaNlZ4TUlrS3dDV0JlanRITkk2R0pRTDZ5dFJoQnNHdjk5ag?oc=5",
+   "source": "DKNews.kz",
+   "published": "2026-10-18T16:50:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "994178edfa194c2c",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Казахстанский дипломат избран заместителем генсека ОИС",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc25HS0JrbDYzanh4cVNVRDc3UzNxRDFZbEhDR0tvQ0RpWnFzVURUT0M4Y0lPWDI4TXJGMHFRNmloRFZBRXJFQmFQX053NHlIcnViS1VVUElCM0Ryb0FhM3BrOHVkT1lNRTBPWkhBSl9rc0RuSHlVSS0wSWFram9KVFAtNDZMcm5o?oc=5",
@@ -129,6 +148,25 @@
     "Логистика и терминалы"
    ],
    "id": "d41259ab7cb07dbd",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "«Реализация конкретных проектов покажет, перерастёт ли интерес Вашингтона в долгосрочное присутствие в Центральной Азии» — Жавлон Вахабов",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zc21oSHVKWnFxYWNVVWdmeERjQmItOWxoR1AxckUxdGZ1Z0FsMnZNbU5kUkpqZEpONjE1ckVEQnF4WEktaHhoOFg5ZE4wZHp0anU5c29n?oc=5",
+   "source": "Газета.uz",
+   "published": "2026-10-18T14:26:09+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "b224c8ce49af002e",
    "categories": [
     "Логистика и терминалы"
    ],
@@ -50765,7 +50803,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 29,
    "error": "",
    "seconds": 0.4
   },
@@ -50783,7 +50821,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -50791,7 +50829,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -50821,7 +50859,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
    "seconds": 0.4
   },
@@ -50847,7 +50885,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -50855,7 +50893,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -50863,7 +50901,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -50879,7 +50917,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -50895,13 +50933,13 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
    "seconds": 0.4
   },
@@ -50909,9 +50947,9 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 43,
    "error": "",
-   "seconds": 0.9
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -50919,15 +50957,15 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
-   "seconds": 0.9
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -50935,7 +50973,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "seconds": 0.9
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -50950,7 +50988,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f1eb6eb7a40>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f6acc73ee10>, 'Con",
    "seconds": 300.6
   },
   {
@@ -50959,7 +50997,7 @@
    "ok": false,
    "count": 0,
    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.4
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -50967,7 +51005,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.2
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
