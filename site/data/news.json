@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T23:43:22+00:00",
- "new_this_run": 49,
+ "generated_at": "2026-10-18T01:06:27+00:00",
+ "new_this_run": 52,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Вьетнам движется к тому, чтобы стать международным транзитным узлом.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeExYYm4xVEl0ck53THNSbkV3THZMM3JJZVU3RWlNM3d0a1dsblRxWVlQbi15R3BzUGNIdlppTkVqUHRIUkRuTTlMNFhVQVE1ajlUb2NweWFYUENOVTNuMnpUT2xjZjlsQm1vR0p2OG90Q21QZVdOMWUtaTRNZEk?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-18T00:42:59+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "5b8beb6cf56e9aa1",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
   {
    "title": "Пассажиры пригородных поездов за 2 месяца на Юго-Восточной железной дороге оформили более 700 билетов через чат-бот в мессенджере «Макс»",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeS1tT0tMcVRpVWhMeXFTUm45RWJMZ0hsNkRlb3NRSnJ2U24tLWdpNHlsazkwOUlfeV94MFYteWREWld4MUM1ODAyTHZUX0ZPNEJOSnZFT0pzSFR4aTlTREpNQzUtUUhpcXVrOGRnQXNidXBGQ0hQOTJjR0tnMlBweExZczRMU0NYTk5Xb0xZeVpJUmVhcS14eGQ5T2I4N2ViajFlMjRNYlRKaGdZeHpZNTB0ZjdVdHJsWmtyTEFqLXZCQWt0QzZPS0ZiZ2tGM19pRFRyUmJxdS1tUQ?oc=5",
@@ -226,7 +243,8 @@
    "regions": [
     "Китай",
     "Центральная Азия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Президент Узбекистана встретился с премьером Госсовета Китая",
@@ -279,7 +297,8 @@
     "Инфраструктура и стройка"
    ],
    "also": [
-    "UZA.uz"
+    "UZA.uz",
+    "president.uz"
    ],
    "id": "409426ece180240e",
    "categories": [
@@ -509,6 +528,25 @@
    "regions": [
     "Казахстан",
     "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Kazakhstan’s exports grow four times faster than imports",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OR1VvaXVUeW9nbFo2bDQ3aUhxOV94V0hsN0szeFZZbGx6R1NRS2MteWt3OC13M1hDcWdjZnRkYkVvLWhYa3NJLU9aRGxDQTEzai0tdVFSOVZkc01QVkhV?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-17T12:06:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "c3104d5415b4b6be",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
    ]
   },
   {
@@ -5833,6 +5871,26 @@
    ],
    "regions": [
     "Казахстан"
+   ]
+  },
+  {
+   "title": "Об участии Президента Российской Федерации В.В.Путина и Президента Республики Казахстан К.-Ж.К.Токаева в пленарном заседании XXII Форума межрегионального сотрудничества России и Казахстана",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNVdUa19HelN6aFJJaktEc1ZzQjdWcm1DT1dUZ0dEUjBHQnVwc2VxeW9xWDhfeG5sT0thYlBsbzl2VEZGVGZKRG41SG1CcTZ2RjRRWHpOVkRoNHdMUXcwRHhNUW1uc1V5T29kc0J6LTd0LWIyUGxDX0NPUV9aMndoNm5LWDZ3R3VHU0VrbFBjbjEyUzFaTWh6aEdjODJidnZodHgzR3Fycmw5UWtLTUtxMXdOWGFWdDV5SGg3RHlDWXA4WXR1eXFrVUxCaTlXQ251aU1vWlctSktja083cm03Y0VR?oc=5",
+   "source": "Посольство Российской Федерации в Республике Казахстан",
+   "published": "2026-10-15T12:48:13+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "5ba405d6e01465b5",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан",
+    "Россия"
    ]
   },
   {
@@ -49023,9 +49081,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 45,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -49041,7 +49099,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -49055,7 +49113,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "seconds": 0.4
   },
@@ -49071,7 +49129,7 @@
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
    "seconds": 0.3
   },
@@ -49081,7 +49139,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -49113,7 +49171,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -49143,7 +49201,7 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
    "seconds": 0.3
   },
@@ -49153,13 +49211,13 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 25,
    "error": "",
    "seconds": 0.4
   },
@@ -49167,7 +49225,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 46,
    "error": "",
    "seconds": 0.5
   },
@@ -49191,9 +49249,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 46,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -49208,16 +49266,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fc1ed158260>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fe5768e1400>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.2
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -49225,7 +49283,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -49233,7 +49291,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.2
+   "seconds": 2.5
   }
  ]
 }
