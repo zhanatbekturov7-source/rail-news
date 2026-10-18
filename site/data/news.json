@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T21:49:58+00:00",
- "new_this_run": 38,
+ "generated_at": "2026-10-18T22:48:13+00:00",
+ "new_this_run": 34,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -3128,6 +3128,23 @@
    "regions": [
     "Россия"
    ]
+  },
+  {
+   "title": "Зерно не доезжает: аграрные перевозки по железной дороге дают сбои",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMEMtOGpKYTMzLXV0aDlxdV83cGlyXzh2SGprbmFRM2lWbnlGMEtpX2xfdHpCVldGSmJHaGdkUndvQnZmU3MteEI2eXlnLVJsZFRXTEJteWZrcGhfa3BKQ1RMaWl6MS1FRzBKTG9MSmE2NnY2QVlCblFrZG9NU281U1Ayc3FDemxBakxKam93VTZCRTI3azZiS0kxVTF1UVE0ak00eA?oc=5",
+   "source": "Алтапресс — новости Барнаула и Алтайского края",
+   "published": "2026-10-16T13:30:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "2d7c4ce51bc3d4fc",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "News Digest: Foreign Media on Kazakhstan’s Regional Ties, AI Rules and Middle Corridor Plans",
@@ -51158,9 +51175,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 25,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -51168,7 +51185,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -51176,7 +51193,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -51190,7 +51207,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "seconds": 0.3
   },
@@ -51214,9 +51231,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -51224,7 +51241,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -51264,7 +51281,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -51280,7 +51297,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -51294,7 +51311,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 18,
+   "count": 16,
    "error": "",
    "seconds": 0.4
   },
@@ -51312,7 +51329,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -51343,7 +51360,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f5dd5f1d610>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f87cf0a26f0>, 'Con",
    "seconds": 300.5
   },
   {
@@ -51352,7 +51369,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.0
+   "seconds": 0.9
   },
   {
    "name": "PortNews",
@@ -51360,7 +51377,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 1.3
   },
   {
    "name": "Kursiv",
@@ -51368,7 +51385,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.0
   }
  ]
 }
