@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T13:50:19+00:00",
- "new_this_run": 44,
+ "generated_at": "2026-10-18T14:50:20+00:00",
+ "new_this_run": 41,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,26 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Премьер Госсовета КНР Ли Цян встретился с премьер-министром и президентом Узбекистана",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVXBmRW84ME5CUWNSZk5RRkF4eGNUcG5tZjZPeUtIQmJsZkZldFp1MWdWV1I1T1hJUHY5cFlsQ1p3UzZtOEdpUlBha05sM2hOejNnOWhVZU0tTGRmbmphbDVWeG5YckE?oc=5",
+   "source": "CGTN",
+   "published": "2026-10-18T14:34:46+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "1130798145a1c98a",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
+  },
   {
    "title": "Зачем госсекретарь США привез на саммит в Самарканд бизнесменов",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0lfN0NURUl2dFV0NExkR08wekk0STVld3dQMTJsVDU1d2NmNWZ6ZXlmR2dEMnlJMTVGdVVoZ3hnUzZrY2g2bFlRTXZwTGtlTjNMMVhNVENIeDFJQVBwU25pQWlheHRpQ0V0bnp6a1FIZzNET2NLMzNubkQxQjVhWThyQ2dRQzA?oc=5",
@@ -564,6 +584,26 @@
    "regions": []
   },
   {
+   "title": "Казахстан строит транспортный терминал в порту Шахид-Раджаи",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUl3UTJkRkFVX0phbXRjUE1wUXNOS1RTUTV1OXhRN2Y4UTM4ZE1nRmRvUWlkODZ2UnRpZG1fNWw2Wm1YWC1uTlg4b1E2ZF9KWVZNSlZhMVdKS3dHRW5OZ1VKTHZVNWROTWZjTnZxdUFLSl9nZVFGbXZhY214NHgzSnc3bkZocUdxNEhFaU9kQmRTRzBEdGlMQzlUbUw2dzBhRjl4Z1JqZWJ0UTF5ZGdBdA?oc=5",
+   "source": "Dairynews.today",
+   "published": "2026-10-18T03:47:59+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "968830193e8f2965",
+   "categories": [
+    "Порты и Каспий",
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
    "title": "Кузбасс расширяет логистическую сеть: новые узлы появятся у Новокузнецка и Юрги",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMklKUHZtMGt5aC0yVGJubEtkel9YcFc5ejFoNUI4TktkSld1RFRGVUk2enhWMXh3bVJyU1k5ZVJEeDFSSkZXSnlHQlRmNnVRTjZnOGNNU3B6Q1VJSW9Ma0hyLUtIaFZZVjlBcHlaamVXQnd0aGRZWHczSzNIUXJvbHVOaHd4SE1zYUFMc2poNWh5VUtVNkFjdWhCWVJ4cVB1Z2Yta0pxWG1sTTlyc0VfMW13?oc=5",
    "source": "kem-live.ru",
@@ -914,7 +954,8 @@
    ],
    "also": [
     "UZA.uz",
-    "president.uz"
+    "president.uz",
+    "Dunyo"
    ],
    "id": "409426ece180240e",
    "categories": [
@@ -6686,15 +6727,18 @@
    "lang": "en",
    "via": "Google News",
    "q_topics": [
-    "Средний коридор и ТМТМ"
+    "Средний коридор и ТМТМ",
+    "Грузовые перевозки"
    ],
    "id": "081efe227810f3bd",
    "categories": [
-    "Средний коридор и ТМТМ"
+    "Средний коридор и ТМТМ",
+    "Грузовые перевозки"
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Kazakhstan, Azerbaijan Launch 380-Kilometer Trans-Caspian Fiber-Optic Cable",
@@ -50440,15 +50484,15 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 38,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
    "seconds": 0.3
   },
@@ -50458,7 +50502,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -50474,7 +50518,7 @@
    "ok": true,
    "count": 23,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -50488,7 +50532,7 @@
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
    "seconds": 0.3
   },
@@ -50498,23 +50542,23 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 55,
+   "count": 56,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -50538,7 +50582,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -50578,7 +50622,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -50594,13 +50638,13 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 30,
    "error": "",
    "seconds": 0.4
   },
@@ -50608,7 +50652,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 48,
+   "count": 47,
    "error": "",
    "seconds": 0.4
   },
@@ -50625,16 +50669,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f291a1d3c50>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f89609619d0>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.4
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.2
   },
   {
    "name": "PortNews",
@@ -50642,7 +50686,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -50650,7 +50694,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.7
+   "seconds": 2.4
   }
  ]
 }
