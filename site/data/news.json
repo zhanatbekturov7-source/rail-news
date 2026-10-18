@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T01:06:27+00:00",
- "new_this_run": 52,
+ "generated_at": "2026-10-18T01:51:24+00:00",
+ "new_this_run": 50,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -511,26 +511,6 @@
    ]
   },
   {
-   "title": "АЗЕРБАЙДЖАН. Казахстан будет строить свои сухогрузы в Баку",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjVsRUF0VF9sUHFyaWQ4d21vQVRBVnpuQ1JzYlVlOXFRdkxjbWNjZU5qX0RHOU50eFVmRUowSGtXWEN5RWMtVFN5MWd6WThHX055OGsxMEd1NmlfeUN3X19tS1BLZ1RyMTdnU3E0T0JpZnY2N0dMZEpSUkNQUEpGZE5zN29BRWpNLW1ncWZsc0dUMUlxVDJ3?oc=5",
-   "source": "ИА Чеченинфо",
-   "published": "2026-10-17T13:18:18+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "90b6f965b389d30e",
-   "categories": [
-    "Порты и Каспий"
-   ],
-   "regions": [
-    "Казахстан",
-    "Каспий и Закавказье"
-   ]
-  },
-  {
    "title": "Kazakhstan’s exports grow four times faster than imports",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OR1VvaXVUeW9nbFo2bDQ3aUhxOV94V0hsN0szeFZZbGx6R1NRS2MteWt3OC13M1hDcWdjZnRkYkVvLWhYa3NJLU9aRGxDQTEzai0tdVFSOVZkc01QVkhV?oc=5",
    "source": "Trend News Agency",
@@ -869,6 +849,29 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
+  },
+  {
+   "title": "Казахстан будет строить свои сухогрузы в Баку",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVktmS21QLURCaGVjaWVLTFRrRTRxT0o4R0NYSkJuSUJpNHV6NTk0a0lmdENNanFsVVVqcHQyaVNybDc0TUZnc3RSbHhEWWFDZ05oZ0VjWGVRN2luYlhxM3lZNU9naUIyazNIZmNTRFd1SFN1ODlHaF9ZYnNjS19rTGJ1XzDSAUpBVV95cUxNazZUb0c2NXBFZEFSM1pldnlyV1A1T0lqZXI2SENjbU4wMklfQVVGS09tSUpYaVJZeWExZ1Z1Y3g2a21UNWFrdmE3QQ?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-17T07:54:08+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "also": [
+    "ИА Чеченинфо"
+   ],
+   "id": "9c4a5823e1221f18",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Казахстан",
+    "Каспий и Закавказье"
+   ]
   },
   {
    "title": "Компания «Қазақстан темір жолы» присоединилась к общенациональной экологической инициативе «Таза Қазақстан» в Астане",
@@ -49083,7 +49086,7 @@
    "ok": true,
    "count": 45,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -49099,7 +49102,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -49123,7 +49126,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -49137,9 +49140,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -49147,7 +49150,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -49163,15 +49166,15 @@
    "ok": true,
    "count": 17,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -49187,7 +49190,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -49211,13 +49214,13 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "seconds": 0.4
   },
@@ -49241,17 +49244,17 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 48,
+   "count": 45,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -49266,8 +49269,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fe5768e1400>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7ff088961640>, 'Con",
+   "seconds": 300.8
   },
   {
    "name": "РЖД-Партнёр",
@@ -49275,7 +49278,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.0
+   "seconds": 1.3
   },
   {
    "name": "PortNews",
@@ -49283,7 +49286,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.4
+   "seconds": 2.2
   },
   {
    "name": "Kursiv",
@@ -49291,7 +49294,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.5
+   "seconds": 2.9
   }
  ]
 }
