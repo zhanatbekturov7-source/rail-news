@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T01:07:57+00:00",
- "new_this_run": 39,
+ "generated_at": "2026-10-19T01:54:29+00:00",
+ "new_this_run": 36,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,45 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Китайская сторона готова обеспечить высококачественную реализацию проекта железной дороги Китай-Кыргызстан-Узбекистан -- премьер Госсовета КНР",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaEM0eTU1MmRSaDY2MkRab0Z5U1ZfWlFFWk54UlhkUUdnLXUwcjZSZE9lR3Z6QVBLX3JWczFwTWl4R3NHaFU2U1otUEZDdk5xbFZBUWFwWnZRZ3l2SmhNR0p5OWJ6YjFkSkRFWnljQQ?oc=5",
+   "source": "Жэньминь жибао",
+   "published": "2026-10-19T01:18:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "11fd3a7dc20bc234",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Казахстан получил статус наблюдателя в азиатском альянсе по охране культурного наследия",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV1hWZU5VV3dmRk9fYzZ4N1FjUTA5NGsybzRuY1V0eWZvVGlkN3Q5cExYYzZxSy1nX2ZyWjFxTHVFYzIyZDFvb25VOFU0LTZJeVlSOC1xX1FhX3BSOXFCX0drbjJvU0lRREp1SnNqVU1rY0FsV0xxbmw5S0J4eFdnaUtWMUxzaHVORTZTR0NaamhtOThlY2xMX1VIdV90OFh0TGtZVHBxcjRVNUR5WEFZ?oc=5",
+   "source": "Ratel.kz",
+   "published": "2026-10-19T01:05:18+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "5640028f6f90fd73",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "В Санкт-Петербурге ВСУ атаковали логистический центр Ozon и нефтяной терминал",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVlFtRXFCQWsxNUlReENOWVAxUGIwUHhOY3dGM3o1U2hfUzRyUTdyYlBieWV2N2lkMjE2WC1wcGhUeUg5elB2NHNEa2FGbk03R1M3OVN2NjdTck1QcWZWWXl1RUhBOWJESDBrM2o4V2xLSS0xbkdLR3FvVE9EbDU4WldMaVVtVC1Da095amR1ZjRmUFFJSzdQQVZTcWtFdVpRV1dhOWJzQnpWcGtUWGxGX3M4TFJtalBQeGdSVlJB?oc=5",
@@ -1175,6 +1214,9 @@
    "regions": [
     "Китай",
     "Центральная Азия"
+   ],
+   "also": [
+    "Жэньминь жибао"
    ]
   },
   {
@@ -3601,6 +3643,25 @@
     "Грузовые перевозки"
    ],
    "id": "dc314821419ae6ca",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "EFSD raises Kazakhstan’s 2027 GDP growth forecast to 5%",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UmRaclAxUmR4SnJ4dlpMV1dpeFJhdFBxNWZJWkV3REZaLVh4UWNBODRsTnVUMDNTeU5TUHUzakowbHVkMUNyZTZ0VWZoZ0JKa3BiUWd6c1BoTElWNURB?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-16T13:18:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "d098345adb8f97ca",
    "categories": [
     "Грузовые перевозки"
    ],
@@ -51299,7 +51360,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -51323,7 +51384,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -51355,7 +51416,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -51369,9 +51430,9 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -51395,7 +51456,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -51403,7 +51464,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -51411,7 +51472,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -51433,15 +51494,15 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 41,
    "error": "",
    "seconds": 0.5
   },
@@ -51449,9 +51510,9 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -51459,7 +51520,7 @@
    "ok": true,
    "count": 29,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -51467,7 +51528,7 @@
    "ok": true,
    "count": 49,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -51482,7 +51543,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f81d4e47b00>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fab8ea5f1a0>, 'Con",
    "seconds": 300.6
   },
   {
@@ -51491,7 +51552,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "seconds": 1.2
   },
   {
    "name": "PortNews",
@@ -51499,7 +51560,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.3
+   "seconds": 1.6
   },
   {
    "name": "Kursiv",
@@ -51507,7 +51568,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.5
+   "seconds": 2.6
   }
  ]
 }
