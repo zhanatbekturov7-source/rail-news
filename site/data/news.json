@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T01:54:29+00:00",
- "new_this_run": 36,
+ "generated_at": "2026-10-19T02:56:06+00:00",
+ "new_this_run": 38,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Jakarta-Bandung High-Speed Railway handles over 18 mln passenger trips in 3 years_InKunming",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZU0l3VENvbTRxNVpvaVZfMGx1dnZ3YUNvYUVrbldveDBlSTU5UHRDYmx4MzlwMjNMSVFrb29sNjVOd0x3WlJ2SjNDeUtsbktWMWtvX0Q3aUh1S19ESFM0X0xjOA?oc=5",
+   "source": "昆明信息港",
+   "published": "2026-10-19T02:38:03+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "81d8accf7fc8ced8",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
   {
    "title": "Китайская сторона готова обеспечить высококачественную реализацию проекта железной дороги Китай-Кыргызстан-Узбекистан -- премьер Госсовета КНР",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaEM0eTU1MmRSaDY2MkRab0Z5U1ZfWlFFWk54UlhkUUdnLXUwcjZSZE9lR3Z6QVBLX3JWczFwTWl4R3NHaFU2U1otUEZDdk5xbFZBUWFwWnZRZ3l2SmhNR0p5OWJ6YjFkSkRFWnljQQ?oc=5",
@@ -115,15 +132,16 @@
   },
   {
    "title": "Страны СНГ согласуют развитие транспортных коридоров и цифровых перевозок",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYlF0UklJMlltS2kxN0xBRjVoU0ZiTmcwRm5aNFZPOWZhbUktODJVVmVSbzRNOTg1djBpaG8zQjQyM1ZXaG83SGlxSHBteTc1YzZ0R0RQUjY5Y21TLVVSZGhJLWg5ZjZXOVNOMjJwbE9aZjFuWWxmV0w2TXpSMXlIaEFBTHoyd0VYTFVYS0tVQ3h2eXEwdmZNNkJPaGtrVnI0ZFYxQVJCVDIwLXlmY2JGUWhJbDVYaFhEcU83cHJDejRWcnBGN0kwME45b3gzVXY0Q1VoSXR4d3lsQzBkc2pxUG1PVmZDeEl1ZGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzNUQWZ6N1MxTjlmd3VVZW5HX2UxVlZQd2djVndQVVN3ZTZ1WkhMaHRBUkhkb2htZkhyTkZEM2tqQUVWeUtxdTVGZ3p4YnUxVGg3QmV0WHJGcWpacXZ1U1VTaTcxa3lnNjdlYktqTXVBcUZsZUdXZjBndUY5amNOTHl3bm5oWXAxQVFSSUUtaU05cTB0OHdqbTBUS1JZSDA5QXNiaDA0SXp1ZVFUekNhVnhrc3dRbVBUT0FVT3o3ZVpRSlhFU01hd29n?oc=5",
    "source": "TKS.RU",
-   "published": "2026-10-18T21:18:59+00:00",
+   "published": "2026-10-18T21:14:51+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
     "Грузовые перевозки"
    ],
+   "also": [],
    "id": "7e532722f7e6f01c",
    "categories": [
     "Грузовые перевозки"
@@ -535,7 +553,10 @@
    "categories": [
     "Логистика и терминалы"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "НК-ТВ"
+   ]
   },
   {
    "title": "Be Woman Asia 2026 в Алматы: как прошел главный деловой форум Центральной Азии",
@@ -4715,6 +4736,23 @@
     "Центральная Азия",
     "Каспий и Закавказье"
    ]
+  },
+  {
+   "title": "Минэнерго назвало долю убыточных предприятий в угольной отрасли по итогам года // Минэнерго: доля убыточных угольных предприятий по итогам 2026 года составит 70%",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcFFVZmdCekgwbnlaT0NOLTF2VzJkOVdBYzFvZFp3VFBFbXBaMWwxR1JhS29IVkRxRGFwYWk2aGU1NVRlZWI2RXUyUXpjUWdCYVgwY1hyUDBUM0JRSzlpU292X0o1UEZmZzYzX0NoQ2l3djREU0FjQkVyZ3VWTjlBalZ6N2R6bU9MZ1dyWmZBWFljWnBYcG0zMk5zakNpaGhibGhncnpMSU1VdG0zdHhUci13R0dJYzVFMmlzSElIamY0RUVKcGkwRVotNzFaeWp5dzRuM1lCYmliZw?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-16T09:24:49+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "42d2d362e113aa46",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "Ставки на пищевые цистерны Укрзализныци превысили 40 тыс. грн в сутки",
@@ -51360,7 +51398,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -51384,7 +51422,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -51392,7 +51430,7 @@
    "ok": true,
    "count": 21,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -51400,7 +51438,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -51408,21 +51446,21 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
    "seconds": 0.4
   },
@@ -51430,9 +51468,9 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 53,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -51446,9 +51484,9 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -51456,7 +51494,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -51464,7 +51502,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.4
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -51478,7 +51516,7 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
    "seconds": 0.4
   },
@@ -51494,25 +51532,25 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 42,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.8
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 13,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -51526,7 +51564,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 50,
    "error": "",
    "seconds": 0.5
   },
@@ -51543,8 +51581,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fab8ea5f1a0>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f3505a4b650>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -51552,7 +51590,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 2.2
   },
   {
    "name": "PortNews",
@@ -51560,7 +51598,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.6
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -51568,7 +51606,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.6
+   "seconds": 2.8
   }
  ]
 }
