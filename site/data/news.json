@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T20:57:18+00:00",
- "new_this_run": 62,
+ "generated_at": "2026-10-20T21:55:25+00:00",
+ "new_this_run": 60,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,23 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "Vehicle Congestion at Port of Montevideo Prompts Use of Former Rail Yard",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVQ4MDFWc095WHljdHVWWUltM3ZZS2g3WV9RbWxQcGQxTk5hUVppV3VRV2RkZkxCZkpQTmpUb1ptcTVJRHNmaE9fdUxXRGJ6VTRqSXBMVWZIYjUxdEVpaXRrejFrWm85cVh6Tk1lY1liRVJYbEZoUmx5dWtFbjlaWU5vbzlGSU5ncHhPMjRYQ2FyNkhoeTkycVg1YUYyLTZvWUhfcTFZemI0dw?oc=5",
+   "source": "DatamarNews",
+   "published": "2026-10-20T20:59:55+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "ed8356ca1e16b38b",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": []
+  },
+  {
    "title": "EU-Backed Infrastructure Strengthens Azerbaijan–Central Asia Connectivity",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVhwRDgtekR3ZXJUTk5YM0FKYlVZUl81cVJpaXF5STUzN1ZxUlRud0VCTmR0ZnBSbkhHUjdrU0tQdVN2UnZuNEU4czRoR01xdW41ZjA2aGpmclVpSTJGRzZ2R3pSUEJzWXI3cGI5T0FJTkc4WFRpZTNFWThOc3FFZGdDbG5PU0NTN0lTLWdJclNuZHJXZVJpWUpjeXM?oc=5",
    "source": "The Jamestown Foundation",
@@ -32,7 +49,9 @@
    "lang": "en",
    "via": "Google News",
    "q_topics": [
-    "Грузовые перевозки"
+    "Грузовые перевозки",
+    "Средний коридор и ТМТМ",
+    "Транзит Китай — Европа"
    ],
    "id": "bd420d1a97d454c3",
    "categories": [
@@ -41,6 +60,9 @@
    "regions": [
     "Центральная Азия",
     "Каспий и Закавказье"
+   ],
+   "also": [
+    "Substack"
    ]
   },
   {
@@ -74,6 +96,25 @@
    "id": "7c0aba44ea1296e4",
    "categories": [
     "Порты и Каспий"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Казахстан и Бельгия обсудили сотрудничество в сфере критических минералов и развитие Транскаспийского маршрута",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbFJXUFNOOG1oVndwYzdoUWdUVjFiLUZjbEo5bVExUU1UTEhaZk9DS1BlR1NpblotTFc3MTJBOXc0T1ZwUjhzcnAyeC1sOUF5TVI1LW9BV1g4cUNlWTI5RHZCWVFRUEEyUEEwWmxUTXFtMFZnRU5NYlZlb1JZSkVxSkJDR2ZiUGt6dGctaFQyb0hEckJhX3owS2Ntc0pYTVJDZnR6M1YxczQtWHZNVkswaWJEWG9DNnBmbG1rSFQ0bHdIMURCZ00xUkp4TEVZRDVTSUV3RVRieWVwbnRKdzhGSVc4Y0t4YTlGMGhoazZDZmoyUlBXb05ES1VIZGxzQQ?oc=5",
+   "source": "br.az",
+   "published": "2026-10-20T19:40:38+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "813db41b55080af0",
+   "categories": [
+    "Средний коридор и ТМТМ"
    ],
    "regions": [
     "Казахстан"
@@ -1349,6 +1390,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Бектенов выступил на заседании Совета глав правительств стран ШОС",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXByMWJjN1JtQlNBSTZyZXVTVGpaUmZQX1Z2Tzc2a3dYUHJ0bXpCdzRaaHFqVW10QnNZSHZfWGtJeWxQbm1GZDVYOGxUcGE3dnUxTXQyX3Y0TzlpTlV5ZF9rcGVra21POThCZkNqcC01Y3puNjhUb09WaGdtY3NSdFhJTVp4empZd1g0UlNaWWprS1k?oc=5",
+   "source": "Казахстанская правда",
+   "published": "2026-10-20T09:37:54+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "8d984045f95954c5",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "Министерство: Цифровизация процессов на Среднем коридоре позволит ещё больше повысить эффективность перевозок",
@@ -55968,50 +56026,6 @@
     "Европа"
    ],
    "id": "6b11ab341034ec51"
-  },
-  {
-   "title": "Iran prepares new economic plan amid rising pressure",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXdZSEtMNnlaSmV4NUtfV01uRTU3ODhUV19feGhQWnc2SWUyYWNuZW95TWZUeHRGN254RF8tdU56LXlDX3Zvam5kQjFnZi1JWFJSY19PSy1yaVdxNEVuT3Njc1ZnQ1FhUEZnSTlDOUNCMDFmN2pxbWs5X0w1NTkxazg1YWxieGZVTVhMOdIBjAFBVV95cUxQSXdZSEtMNnlaSmV4NUtfV01uRTU3ODhUV19feGhQWnc2SWUyYWNuZW95TWZUeHRGN254RF8tdU56LXlDX3Zvam5kQjFnZi1JWFJSY19PSy1yaVdxNEVuT3Njc1ZnQ1FhUEZnSTlDOUNCMDFmN2pxbWs5X0w1NTkxazg1YWxieGZVTVhMOQ?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-03T19:58:40+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [],
-   "id": "d740ee6b892cdb2f"
-  },
-  {
-   "title": "Georgia says it has fulfilled 90% of EU association, DCFTA commitments",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVBkUkxRalVMX0hLajFPVXdaNjlUanE5RWdQV2hMY1YyZnlCcTFlRkNacHdGY19veWVXaU05ZFZpOEx3dExPdTlHbE1DZ1pVSmNPaFdPaGF1WFlxSmlmdTFzajU2djRnUTVUbVVjNURzei00WGhScy1kNDMyb1dsRldfbGJBNTBkTV8wSjJhSmhrRDR1OHdfUXZLdE1iRF9rRmfSAaIBQVVfeXFMT01QZFJMUWpVTF9IS2oxT1V3WjY5VGpxOUVnUFdoTGNWMmZ5QnExZUZDWnB3RmNfb3llV2lNOWRWaThMd3RMT3U5R2xNQ2daVUpjT2hXT2hhdVhZcUppZnUxc2o1NnY0Z1E1VG1VYzVEc3otNFhoUnMtZDQzMm9XbEZXX2xiQTUwZE1fMEoyYUpoa0Q0dTh3X1F2S3RNYkRfa0Zn?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-03T19:34:14+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Каспий и Закавказье"
-   ],
-   "id": "b13581bc8793d0ba"
-  },
-  {
-   "title": "Ararat Mirzoyan to visit Tehran for talks with Iranian officials",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlcxMENoQVNFRmxUek5oQ0tTNWV5UjlUdXAzYXpzYmJlY2xWc29BcVozT25uSUlmZ0Y0RGRHb01kbTZ0QXN3MTlIOU5QcVJubU1RZnFtdEdqZU8zN2lUTXpWRWNQMlZPUEZ1Y211ZE1SVldnczRUWGhNMDB0VDdRU1VLQjNFd0xubl9PZV9FXzRLeWdSS29fMkpnMlfSAZwBQVVfeXFMT2ZXMTBDaEFTRUZsVHpOaENLUzVleVI5VHVwM2F6c2JiZWNsVnNvQXFaM09ubklJZmdGNERkR29NZG02dEFzdzE5SDlOUHFSbm1NUWZxbXRHamVPMzdpVE16VkVjUDJWT1BGdWNtdWRNUlZXZ3M0VFhoTTAwdFQ3UVNVS0IzRXdMbm5fT2VfRV80S3lnUktvXzJKZzJX?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-03T19:15:58+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [],
-   "id": "90fe1162bf41d5d1"
   }
  ],
  "sources": [
@@ -56019,9 +56033,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 38,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56029,7 +56043,7 @@
    "ok": true,
    "count": 21,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56037,7 +56051,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -56051,9 +56065,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 27,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56069,7 +56083,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56077,7 +56091,7 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56093,15 +56107,15 @@
    "ok": true,
    "count": 36,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56117,7 +56131,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56125,7 +56139,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -56133,7 +56147,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56147,7 +56161,7 @@
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
    "kind": "google",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
    "seconds": 0.3
   },
@@ -56157,7 +56171,7 @@
    "ok": true,
    "count": 35,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56165,7 +56179,7 @@
    "ok": true,
    "count": 57,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56173,7 +56187,7 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -56181,7 +56195,7 @@
    "ok": true,
    "count": 48,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56189,7 +56203,7 @@
    "ok": true,
    "count": 42,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -56204,8 +56218,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x714f6cfe5430>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x761c9c1c9e50>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
@@ -56213,7 +56227,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -56221,7 +56235,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.0
+   "seconds": 2.1
   },
   {
    "name": "Kursiv",
@@ -56229,7 +56243,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.5
   }
  ]
 }
