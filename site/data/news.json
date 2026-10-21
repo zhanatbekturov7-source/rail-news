@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T16:58:13+00:00",
- "new_this_run": 66,
+ "generated_at": "2026-10-21T17:54:34+00:00",
+ "new_this_run": 68,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Kazakhstan and Egypt outline new areas for strengthening cooperation",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWl4ZVBEQ09GNk56RTUwOTRVNkFOeTlZeWY4cFBjV2ZfWmJZaEl3WVZkbXlQa2FyRXpQVDh1RVoyN2RCOWJjc3ZtMHpxWW1hRkQtV2VxOGx1X0tVU3NXendDZEpuVzNNSzZrQldWckhGbFgxaUMzcTA1RWpBZ0hrTERMUnI1T3ZHdTNlUnBrcms3amhjczFmRmNtQUVDN25vdEJoR9IBpAFBVV95cUxPOWl4ZVBEQ09GNk56RTUwOTRVNkFOeTlZeWY4cFBjV2ZfWmJZaEl3WVZkbXlQa2FyRXpQVDh1RVoyN2RCOWJjc3ZtMHpxWW1hRkQtV2VxOGx1X0tVU3NXendDZEpuVzNNSzZrQldWckhGbFgxaUMzcTA1RWpBZ0hrTERMUnI1T3ZHdTNlUnBrcms3amhjczFmRmNtQUVDN25vdEJoRw?oc=5",
+   "source": "Qazinform",
+   "published": "2026-10-21T16:41:15+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "8e683c39e0a06a23",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
   {
    "title": "Вечерний дайджест: основные события 21 октября в Кыргызстане",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaE94RHRSM1dKdENaUC0zbmdJNjJ2V0J2LWNxZERNOU1oTjlpTXVtd05tRERGNGxLU21kZVpLY3pJeHl4aTZ1XzE1Tnhlc2I0Y1BzWmdIdU9JR3g5VV92ejVDZ3VRVGU3bWZJRDVUUDVSbUo5Z3lPTmp2dU1wQmU4ai1OTlc4SExiMmpNUlZzTQ?oc=5",
@@ -186,6 +205,27 @@
    "regions": [
     "Казахстан",
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Рассматривается маршрут доставки контейнеров из Китая в Азербайджан через Туркменистан (Эксклюзив)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zY0hRR3VLNy1wQzJzcUhEUFZnQ2RRbXNEQVpZSkg5eGdLQ2stT08xU0hDWEN3Mkl5eTJTanZiNUYwTWNaYzF0b29WZC1EUkdXTVV6cEd3?oc=5",
+   "source": "Trend - Новости Азербайджана. Турция, Иран, Центральна Азия",
+   "published": "2026-10-21T14:03:32+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Порты и Каспий"
+   ],
+   "id": "26a5c0edcacbb350",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия",
+    "Каспий и Закавказье"
    ]
   },
   {
@@ -627,6 +667,25 @@
    "regions": []
   },
   {
+   "title": "С челябинского терминала ГТЛК организован круговой сервис в Китай",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnRMZlBFYk5nSG9Ld1VnaHBOU2xzeEhsY19xdDVnTFRMbjNWNEVicUJzSnZ5WHl0NEJGUjJveHFaWktzelBxNTB4ZnpyMGViMGhMMldoSFRscHdhSXNTVFJsNkpQbmZwUU5RVTk2b0VuSmZjVnc2aEZfaTQ4ejI0YjNaNDBzR0tiV0QwcGhUUmNjd1hTenU3Sk14U01Xdlhud1ZzQWZzM0N1MVk?oc=5",
+   "source": "Infranews.ru",
+   "published": "2026-10-21T11:15:20+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "5035045a17333acb",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Китай"
+   ]
+  },
+  {
    "title": "Kazakhstan, EU discuss trade, investment and Middle Corridor",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ydjZiT3QzSEZkT3ppVlptT2EwSE5oMlpRTVFWNFNOem92QXhmdWhMLTlReV9JTXdwamV5cGNLZ0FDdi1Qa2xVZ2Iwajdyc3NBN3FYVUVKaTRlaUVSVmxF?oc=5",
    "source": "Trend News Agency",
@@ -696,6 +755,25 @@
     "Вагонный парк и подвижной состав"
    ],
    "regions": []
+  },
+  {
+   "title": "Казахстанские поезда подключат к Starlink: Транстелеком презентовал новую цифровую инфраструктуру",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcFg1UEN0aU1Mb2RQbWlaMnlOOWYtQWJuSm10Z0E5czVDbXpDQS1UYlhMVnZmWDI5OExYcmlEQ1Bhd3hKdkl1VGZLbmhrYXVIWFVUWmRtdURnSXFqa0FVUTAwcWxzV0tFMDJGdjUwOElwV2tjUHktOU00WUVhTWJTaFB3V3JOUDRfQ21qMVdkbmlRT2dVVGRzeERRYVBjQ0FUd204T21wMkRnRlBBRmpQdGY5all4Mk15czV0d0JsN0RMU2QxTzQ3cFNwNmJWUlhM?oc=5",
+   "source": "Shyndyk.kz",
+   "published": "2026-10-21T10:39:09+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "19e54f1141347f9a",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Interest in Middle Corridor’s future use remains significant – EU",
@@ -2339,7 +2417,8 @@
    "via": "Google News",
    "q_topics": [
     "Средний коридор и ТМТМ",
-    "Инфраструктура и стройка"
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
    ],
    "id": "fe33edcf9f535749",
    "categories": [
@@ -5495,6 +5574,25 @@
     "Логистика и терминалы"
    ],
    "regions": []
+  },
+  {
+   "title": "Зеленая энергетика выставит казахстанцам новый счет",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDMzQVZfdlczVElGcTNLcm14ekpHSUp1bk5uSmI2SGVXUHBlLUJHR1B0a2ltaWh4bUdFRF9UVHFncno3RTV0dlR0UkhSdDNjMGNmdzFvMFhBNElzZ2pBWnF4d1ljMExtRlNCemk3cUZfZ2hfRmVmdWlnZXJMRUd4bkVEMWxGX0pYdlQw?oc=5",
+   "source": "Inbusiness.kz",
+   "published": "2026-10-20T05:12:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "7047161c577f1bf8",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Российские дроны разнесли логистический центр ВСУ в Волынской области",
@@ -56069,93 +56167,6 @@
     "Порты и Каспий"
    ],
    "regions": []
-  },
-  {
-   "title": "Китай отправил первый контейнерный поезд в Москву через мост «Нижнеленинское-Тунцзян»",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX08tbUh2bTFaMkVaX0t3ZDZ3Z1FNWV9FeVB2aTVLM0lEX3dPNUxiRmE3YkY3MWhLNi0zUGI0bzlsbnUzdW4xTXNfdXhvN3pxb3lLb2NoRk5MVWRpNEw3el9fQ2hDVm9kME1lWGU2ZG1QX1NrRTVYNjg4MXgtVHhFQ29QYUhQU0hnSHZhUE5BWmRESFFzbUZhRHVqRVBpbU8yS1hTYllUcm1SeG5YVUE?oc=5",
-   "source": "trans.ru",
-   "published": "2026-10-05T09:56:04+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "b92da60a94d0b999",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Китай",
-    "Россия"
-   ]
-  },
-  {
-   "title": "Металлы на ЖД: смена тренда или временная стабилизация?",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWTRNWkpVLUxadGJfUjFaYktIbUFjeHdieWtuQ25WLXZOR3ZwVVN4Smw3TEx5UFY5SWJNN3F1TFc1OS1UOHloRFJrSk8xMm41T216QXkzcWRrMks0RXZ5ZU5QZmgtTWNnRnB1QWdnODdKM25Qbm4xUG5yYVdoUnRkZTNENmJnNUxjY3kzM0I1cDRHMWN2YkMzOThJLXB4UQ?oc=5",
-   "source": "Infranews.ru",
-   "published": "2026-10-05T09:47:15+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "75f20747cd5730c9",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": []
-  },
-  {
-   "title": "RWS KZ in final stage of certifying railway wheels for Europe",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0F6TEhkbjFNZy02Um5seVRoVW9iNVVtemp0WEZRZ3A3YzZScmZuNUR4TmRoVE51U1NmNzd5T0xRSU9NNnZvYXN3dWFxZkFCLTBHdzB4VVlyM2JkVnlyeW5sYXprTW5mS2UtbjJVZUNob0JoXzhHeGRWQ0YyM3d6S1o0S1E0WWl3Z29YMURudURTVThGNmZESlo2UHY3RC1EaHJNN253?oc=5",
-   "source": "rollingstockworld.com",
-   "published": "2026-10-05T09:45:13+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Европа"
-   ],
-   "id": "db49007d3258d197"
-  },
-  {
-   "title": "Садыр Жапаров: Железная дорога Китай - Кыргызстан - Узбекистан станет для страны вторым «Кумтором»",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT1lBakk0Zkt4dUhkX0cxYXhGSzRxdENyd19kSG9JLXJ5dnFnaFNMMG82eFppOGFfYXZQTW5COVl4c0tzZjdUYmdpZ0M4ODZmS0VEdUdaMEJiM245eDFnSmoyS2V5cXVrWHlReFYtbDhjdk9Scml3Q3JwVlFTNERQSHdCeXlmREFiRWNzQ185eDFPbWlFRWNlZjhrYkJ5X2p0YUNkM3FLTG92WnJ2U0xzdk5ySnNkM2xLeTZYQUtPdm1WWlJxZXk2dFZsV05nS1gza0dsV21zSWtERWx4TktFbnl3aXVZTFA3RllMWDA4YUI5d2c?oc=5",
-   "source": "br.az",
-   "published": "2026-10-05T09:45:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "9ab5648f81ab312a",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [
-    "Китай",
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "Срок доставки по ТМТМ сократился до 13–17 суток",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODFIdEJCdGloUkMtU0xKRGM0OWl0SjhGR2wzTXN0cmV3NmVNN0J0b3lvRnBqN0pQQXVNSWhVajFDX3pJbHlpTFpkc2x2RWppYTF5ek80bW5tNW5GTFMwZ1cxZ3lURnJPcVFJTk9JNTA2Rk40SWVXN2t0UVp3X1FYU1NPUnZhX3o2Ti1pWG9qcV9jV0J3Nnp0NmZldzM4MWdlQ1dpRHZHemhfZ3V4a3FKX0s4TEcwSjIxVkxBeHNzYnZOWGd0T21WUHBjR0FnSjVyVlE?oc=5",
-   "source": "KZ24.NEWS",
-   "published": "2026-10-05T09:44:12+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "categories": [
-    "Средний коридор и ТМТМ"
-   ],
-   "regions": [],
-   "id": "2150eb80f6675c08"
   }
  ],
  "sources": [
@@ -56163,41 +56174,41 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 63,
+   "count": 62,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 36,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 32,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56205,13 +56216,13 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
    "seconds": 0.3
   },
@@ -56227,23 +56238,23 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
    "seconds": 0.4
   },
@@ -56253,7 +56264,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56261,7 +56272,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56269,7 +56280,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -56277,15 +56288,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56301,7 +56312,7 @@
    "ok": true,
    "count": 36,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56309,7 +56320,7 @@
    "ok": true,
    "count": 61,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56317,7 +56328,7 @@
    "ok": true,
    "count": 22,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -56325,15 +56336,15 @@
    "ok": true,
    "count": 55,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 43,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "RailFreight.com",
@@ -56348,7 +56359,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x714f641c05f0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x72560931c5c0>, 'Con",
    "seconds": 300.6
   },
   {
@@ -56356,8 +56367,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.3
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -56365,7 +56376,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.7
+   "seconds": 2.3
   },
   {
    "name": "Kursiv",
@@ -56373,7 +56384,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 6.7
+   "seconds": 2.2
   }
  ]
 }
