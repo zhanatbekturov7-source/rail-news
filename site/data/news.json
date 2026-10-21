@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T15:59:54+00:00",
- "new_this_run": 75,
+ "generated_at": "2026-10-21T16:58:13+00:00",
+ "new_this_run": 66,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Вечерний дайджест: основные события 21 октября в Кыргызстане",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaE94RHRSM1dKdENaUC0zbmdJNjJ2V0J2LWNxZERNOU1oTjlpTXVtd05tRERGNGxLU21kZVpLY3pJeHl4aTZ1XzE1Tnhlc2I0Y1BzWmdIdU9JR3g5VV92ejVDZ3VRVGU3bWZJRDVUUDVSbUo5Z3lPTmp2dU1wQmU4ai1OTlc4SExiMmpNUlZzTQ?oc=5",
+   "source": "24.KG",
+   "published": "2026-10-21T16:00:47+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "dd8b3ba4fe2424d5",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
   {
    "title": "Iran ups trade engagement with Central Asian states",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VUUQ2a0p4VXNqRHJEMGNqeEFhUC0wcE1ubzgxNXBnYmlzQUJqa1R3N1VwY2tVQnFXbHh1TlRRa0p3M2VpWjBheGh5T1NvdC1Tdjc1OXBKZTAxOVZuS1FnRktEdWt4RDZYNU4zM041cGlDRHlkaGpmTTdjc21DUzA?oc=5",
@@ -153,7 +172,7 @@
    "title": "Товарооборот Казахстана со странами Центральной Азии вырос на 25%",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzZjalZ5cVBQZlphVTJzNUt1UkZCMnVja1FmTnlBWlk1WGtPMHo3VnlTSzdJZFFNNjZNbmZlRVU2aVFLUjBoMlZfU2JKTnpuOEpYRU51cVRScnB3MnVmUUhzNjdsdzV0c1BBUUdCSUJlbndSRHdnN2FabGwzOTlvSXQtMzZSUkU1bjlEYVA4dFNJTVp5SmM2SU9oSXZ5Y0xiSzdfZXhkUFlzWjhnZVdF?oc=5",
    "source": "Khabar.kz",
-   "published": "2026-10-21T14:09:37+00:00",
+   "published": "2026-10-21T14:09:17+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
@@ -224,6 +243,25 @@
     "Китай",
     "Казахстан",
     "Европа"
+   ]
+  },
+  {
+   "title": "FESCO Launches Rail Freight Service from Urumqi to Uzbekistan",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjl0MG9XUHFmaXdmR1gzU1ZDb1c5b0dTd0wxN1FjZGNwS3ZMSWI4bmVDaVUzNnpKVG1QVl9vRkw3QWgyc0xXd0dPYnBSUWdITmUyanVwbzhRRGxhQ0tLdnVCZkZpTTh0dk9LSnc5UHdPek1wR194bnduWEtXRUx3eVNxREdUYUJyMU9vYVBRaFQ0UQ?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-21T13:25:12+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "fe5e6da6e29f89ad",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Центральная Азия"
    ]
   },
   {
@@ -695,6 +733,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Генсек TRACECA: Цифровизация и точность сроков — ключевые факторы надежности Среднего коридора",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGNBLTlPMldjOU9vR05VVFduWDhWZGRpN0M4MGkyZkpodE5CMTJjS29rTkc5NkFtZHM4Q3B2R05tSi1Kdk9JQ3lPM3ZQYWp3aFVFWldodGpnX1QtSkpnZHd4cDRvWG45MXdPYlRpODdIdy1wV0UtM3FNWE05eHlnM2E4NkxWakZkRnlzc0JnYk51YUltdWlhLWo5V0RTT0NNdkpSYTdyVVd4bGJhNXdPMklENHYxcXpueE41LVo1TQ?oc=5",
+   "source": "Fineko/abc.az",
+   "published": "2026-10-21T10:32:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "0e18f602960faa90",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
   },
   {
    "title": "Кыргызстан за восемь месяцев экспортировал 193 грузовых вагона на $2.15 млн",
@@ -2080,6 +2135,23 @@
     "Казахстан",
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "Red Sea container traffic set for full return in Q1 – October 20, 2026 Update",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXVBQWMwUW5xVVpfNFo1cE9hOGprUngyMHg4aS0xTWViLVI4TmF3aFdoWXVVLUJWQTFVQTdOd3U5dWlHWThZamxwbzFDNVFraWlxb2ZjaGVLbjJEZzZmVzkwZ0ZKSFV4TW5sVXlQczN5aFV2dFJYLXJLZnM0VEY5THFjSThIZzk4YjhzT0tjYUdhVlVzOWVfUmFwNk83cGtGUFBKOEh2VUM1N1k3M2VQZExKRkdqVUlWVk44?oc=5",
+   "source": "Freightos",
+   "published": "2026-10-21T06:01:49+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "236377ae27db3e1c",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
   },
   {
    "title": "Иск на $500 млн: чем обоснованы претензии Азамата Капенова к Казахстану",
@@ -6238,6 +6310,25 @@
    "regions": [
     "Центральная Азия",
     "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Rubio focuses on trade routes and critical minerals in Central Asia",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUMyZF9WN0p1OFc5T20xZHlsRmNQcFhKR1FVN2RubzJkODNlRklXeWszdDZVdXRqVGtqTV91U2NjT24wNlFybHdFakdITWVNRXo0QVdwU1RSMVlibURzU2RXYTJaNFh1NDl5eGpXem5odFJObjVnTC1pa1Axa296Tmd5SEVmNUlGX0NXX3dxcFVubHVmU05ZODBLT1UydUlKQkpMbDQ5U0RyNTExVGdJdFYxT09WY29XbzBGZQ?oc=5",
+   "source": "Euronews.com",
+   "published": "2026-10-19T19:53:16+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "74b140d18ca86c79",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Центральная Азия"
    ]
   },
   {
@@ -56065,96 +56156,6 @@
    ],
    "regions": [],
    "id": "2150eb80f6675c08"
-  },
-  {
-   "title": "Uzbekistan, Kazakhstan and UAE plan rail route to Pakistan through Afghanistan",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFRwSkRSUnlPM2pfSjdtSERIVzVTZmFuT3drUGxUakVHc25yWFNfSngxcFp2Z0plQjlKZXBZVVdOWU9QLWlqQW9lNnMzSGxDbnZRYm9yMFU4MTVuODhuaEV5OUE5WjVNanF4N1pWSnduT2VjdElYTVhBX2NqbGVPdDRRQkk5SkFQWTgxNHNXSmVFa0JJNHBTZkw2MDlaMkk5eExXeGZZV1Y5cERvSHg1RA?oc=5",
-   "source": "Kun.uz",
-   "published": "2026-10-05T09:40:14+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "70d542d1efbf062b",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Казахстан",
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "От Среднего коридора до глобального диалога: как растет влияние Азербайджана",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnFackdJVkFoQXRaSXk0Tnhza25nUER1STd3VWQ5NGtPbVEyNTFYM0NzeWxfYmRiTTFFR1dmSXI5NmlzYUxHVV9wOEVldTZ1NU1UODlJZm5Za0JrS1BlVFpMTF9Mc1JKdlBLT1ZCV1FwSjd2N2tEUHIyRFVFTTJtcnd6SUlTd2h5R2hBbGVXV1UydGQ4NHBvc1FmdjZvREUwNnc?oc=5",
-   "source": "Caliber.Az",
-   "published": "2026-10-05T09:23:23+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "categories": [
-    "Средний коридор и ТМТМ"
-   ],
-   "regions": [
-    "Каспий и Закавказье"
-   ],
-   "id": "6645cb1a1c6055b9"
-  },
-  {
-   "title": "Iran’s Zagros Railway terminal records 84,800 tons in cargo handling",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkdFNsNkF3aE5mbFNGRUFuYzZDYU9qS2FaUmJmdDlEeXRpakVDeDZ4R2pUQ3QzcGNjelN0TUNhUkxzck5BRnFvT1Y2cmlwNHc?oc=5",
-   "source": "trend.az",
-   "published": "2026-10-05T09:10:21+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "categories": [
-    "Грузовые перевозки",
-    "Логистика и терминалы"
-   ],
-   "regions": [],
-   "id": "98710ea2c86072f4"
-  },
-  {
-   "title": "Kazakhstan, Uzbekistan, UAE back railway linking Central Asia to Pakistan’s seaports",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUTNkWUlWcTRXcWs4MVFUMV9nTGx4MFpWM3NTY1hKZUFNUmJSdnB2dmgzN1pMTHlIcUJzc3pqMVFxekFKUmVSR1lhcWFlMnJlbFJJY193bGFoY3Y3YWRpNm5WcFlJYmwwVk0tUw?oc=5",
-   "source": "The Jerusalem Post",
-   "published": "2026-10-05T09:09:22+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "54f9ba9a34bf1286",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Казахстан",
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "Дороги становятся быстрее: как Казахстан меняет транспортную систему к 2029 году",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSld5V2hnVEdBNXoxS0dGeHV1b09VeGtUbEJDbndtRDFCaG5rZW1DSHVMdXdsV3JlU1Ytd0hFNnpsejN0LW16c25NM1VMZWN6NWRCektsRzV2Nl9SN0k1R0lGZF94VUxqX2EyblRnanJ1QW5fRkNFcnBiV290OEg2VzEwUkVVcVZRaVBkNEJtWTViNXNrNjVULXA1clB3a1dRMDFlQXNqQjZ3OXhPRFJXdlFhbw?oc=5",
-   "source": "Inbusiness.kz",
-   "published": "2026-10-05T09:05:25+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "c7eb89deab32a031",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
   }
  ],
  "sources": [
@@ -56162,17 +56163,17 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 62,
+   "count": 63,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 35,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56194,9 +56195,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 27,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56204,15 +56205,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56220,7 +56221,7 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56228,15 +56229,15 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 44,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -56260,7 +56261,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56268,7 +56269,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -56276,7 +56277,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56300,15 +56301,15 @@
    "ok": true,
    "count": 36,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 62,
+   "count": 61,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56322,9 +56323,9 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 57,
+   "count": 55,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56332,7 +56333,7 @@
    "ok": true,
    "count": 45,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -56347,16 +56348,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7e8f70b51640>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x714f641c05f0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -56372,7 +56373,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.2
+   "seconds": 6.7
   }
  ]
 }
