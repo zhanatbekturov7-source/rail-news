@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T03:58:40+00:00",
- "new_this_run": 59,
+ "generated_at": "2026-10-21T04:56:41+00:00",
+ "new_this_run": 58,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,44 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "За какую поездку в Казахстане лишают прав пожизненно",
+   "url": "https://kz.kursiv.media/2026-10-21/ezif-za-kakuyu-poezdku-v-kazahstane-lishayut-prav-pozhiznenno/?utm_source=rss&utm_medium=rss&utm_campaign=ezif-za-kakuyu-poezdku-v-kazahstane-lishayut-prav-pozhiznenno",
+   "source": "Kursiv",
+   "published": "2026-10-21T04:43:44+00:00",
+   "summary": "В Астане женщину приговорили к году лишения свободы и пожизненно запретили ей водить транспорт. Она села за руль в состоянии наркотического опьянения, хотя ранее уже была лишена водительских прав. Об этом рассказала прокурор отдела прокуратуры района Сарайшык Молдир Жолдасова. Когда можно остаться без прав навсегда «К…",
+   "lang": "ru",
+   "via": "Kursiv",
+   "q_topics": [],
+   "id": "31d7efbb735381fb",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Миллионер Сарсенов построил вокзал за полмиллиарда в Кульсары",
+   "url": "https://kz.kursiv.media/2026-10-21/fvfv-millioner-sarsenov-postroil-vokzal-za-polmilliarda-v-kulsary/?utm_source=rss&utm_medium=rss&utm_campaign=fvfv-millioner-sarsenov-postroil-vokzal-za-polmilliarda-v-kulsary",
+   "source": "Kursiv",
+   "published": "2026-10-21T04:38:20+00:00",
+   "summary": "В Кульсары Атырауской области открылся новый железнодорожный вокзал стоимостью более 500 млн теңге. Строительство полностью профинансировала транспортно-логистическая компания «Исткомтранс», которую контролирует миллионер Марат Сарсенов. Об открытии вокзала сообщило Министерство транспорта РК. Новый вокзал заменил…",
+   "lang": "ru",
+   "via": "Kursiv",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "also": [
+    "Kursiv Media"
+   ],
+   "id": "ebacdf7e8f56b9f5",
+   "categories": [
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
   {
    "title": "КТЖ и BTS Digital представили в Астане модернизацию «Экспресс»",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rQldaYW9QZUlkSWNUbEEtY2xVWjV4U1FmbDlleENYd28yTlNIRzJjWDZKVjdJSm5vazJBNTdabEpMUTZZLS02cWZDZEUwajY4MjlMU3FadDdFVUc0UDdCdkx4WDVJRFpuSDR1cEZaOEpveVdWLXc?oc=5",
@@ -58,25 +96,6 @@
     "Грузовые перевозки"
    ],
    "regions": []
-  },
-  {
-   "title": "КТЖ представило цифровую экосистему пассажирского поезда",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlA1cWhEaVhRWHo2UENHUzdYMzZsREszNDlVTnJGSDZxSktuWncyekI1OEtCbzZYWWQ3Z052SE4zOEx1WHRZc2ZLSGQyczJhaFFxS1hjVUJIQThINVFKQzkyaEdtc2FnNXZCVXl0dkZWd09HeUx2Q0NMQ2I5VW9tblg2TV9TMlRsWTVrUXE5NFNrNDZvaGVTLVdnbXhidVBaVEQxS2ZsRVdzckl3aTYtNjVrYkgyaU1B?oc=5",
-   "source": "Қазақстан теміржолшысы",
-   "published": "2026-10-21T03:00:51+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "56667ff793fbc690",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
   },
   {
    "title": "Deeper China-Central Asia cooperation offers new opportunities for SCO development, says Tajik expert",
@@ -154,6 +173,28 @@
     "Логистика и терминалы"
    ],
    "regions": []
+  },
+  {
+   "title": "КТЖ представило цифровую экосистему пассажирского поезда (ФОТО)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84OGNSeWluYWdJNzc3OGUwTkZKbC1VOHdzZHlnLXJ6dE53QkVLWkljcU40Qkg1TjBJckxJOWROekREZzdVYk1XX0tvYTR3cUZ3cUcwTGFROE1vWi1ld1E?oc=5",
+   "source": "Trend - Новости Азербайджана. Турция, Иран, Центральна Азия",
+   "published": "2026-10-21T01:20:34+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "also": [
+    "Қазақстан теміржолшысы"
+   ],
+   "id": "a358f637e9d1d7e6",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
   },
   {
    "title": "Грузоперевозки между Казахстаном и Китаем выросли за девять месяцев этого года",
@@ -991,6 +1032,23 @@
     "Инфраструктура и стройка"
    ],
    "id": "064cf1cd3ec00110",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Садыр Жапаров пообещал торговцам рынка \"Мадина\" льготные условия на новом месте",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBfTk5MdmNDTVBxTDhkbDRvbkhfUTk0TzlkWkhNc29UTVRKeGJVU2Qya1EyMHRrcXRYQVpv?oc=5",
+   "source": "Howl.link",
+   "published": "2026-10-20T12:52:09+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "ea58cea5fce2abeb",
    "categories": [
     "Инфраструктура и стройка"
    ],
@@ -8648,7 +8706,10 @@
    "categories": [
     "Вагонный парк и подвижной состав"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "Trending Now Infrastructure"
+   ]
   },
   {
    "title": "Казахстан строит транспортный терминал в порту Шахид-Раджаи",
@@ -56007,60 +56068,6 @@
    "regions": [
     "Казахстан"
    ]
-  },
-  {
-   "title": "Железные дороги Китая установили рекорд по пассажиропотоку",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGFSYXNNM0VlR1dPeno4eVVPVjRGWUNKc01LZXlrY2REMTdXcUNwWkVyb0pHWmNhbUdzd3V0anVibVZlUll6akR2aDFYRDFxd1NLd0IzcHJ6Tk8waloyUlVLN0xZSlZzTUFKQUlHVXd3c3VsXy0wRGVYNUQ2SlF0T1ZmaHhndw?oc=5",
-   "source": "DKNews.kz",
-   "published": "2026-10-04T09:20:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Китай"
-   ],
-   "id": "28511f3218f7bcd4"
-  },
-  {
-   "title": "В Азербайджане с 2027 года могут изменить порядок повышения зарплат и пенсий",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDRsQ0g4dGI3Q25EWGh1dFpWdzYtSFdIcEtTOF9ZR0liTFdJaUlXbG0tVTlsV042WG1PYjBOMzdzS1hxLUF3c1hvYVhzMEk4bUg1VHIxcjNOaDVQOEUtSURKZTlJZExMNXNJTmxCdmtTRXdfVko0UGg5M2IxemhXYUpsSEd3cDB5NUI4NkRsNlE1NkVvZ2lJQmFiVDVNTmJtRWFSVC1zUzlTUQ?oc=5",
-   "source": "Operativ Məlumat Mərkəzi",
-   "published": "2026-10-04T09:05:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "02c19cabddff958c",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": [
-    "Каспий и Закавказье"
-   ]
-  },
-  {
-   "title": "ВС России «Геранями» поразили «Новую почту» в Черноморске и дата-центр в Одессе",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjZ3WVFiTkRtLWlmMDRrdFlxNUlLM1RNSVBfeXFVWUJJV19JRVF2aFlaZC1vbEtnU1lwanNGNFBFT1k4SjhjaVpqbkVoUTZfZmxaVW5nbjlGOEs4cXBNM0ROZktGUDFPTmZPajhlMEFjeGE0aUs5Vm1wU1hVOTE4VlFRY0ZFNy1wdFhaOVNMMkI0eUZDVlVfZjJLQm0tN1F5VXB5NzVNdG1PZWVGTUVIVjZyeE4wM0FnYmhTeTdn?oc=5",
-   "source": "prospect.com.ru",
-   "published": "2026-10-04T08:14:15+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "43553502b36cf830",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Россия"
-   ]
   }
  ],
  "sources": [
@@ -56068,9 +56075,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 37,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56086,7 +56093,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -56100,9 +56107,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 26,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56110,7 +56117,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -56124,7 +56131,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 17,
    "error": "",
    "seconds": 0.5
   },
@@ -56134,7 +56141,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -56142,7 +56149,7 @@
    "ok": true,
    "count": 37,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -56156,9 +56163,9 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56198,13 +56205,13 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 35,
    "error": "",
    "seconds": 0.6
   },
@@ -56212,7 +56219,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 58,
    "error": "",
    "seconds": 0.6
   },
@@ -56228,7 +56235,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "error": "",
    "seconds": 0.6
   },
@@ -56236,9 +56243,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 40,
+   "count": 39,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "RailFreight.com",
@@ -56253,8 +56260,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7b8847fcc530>, 'Con",
-   "seconds": 300.4
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7035d0028c50>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -56270,7 +56277,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.2
+   "seconds": 1.8
   },
   {
    "name": "Kursiv",
@@ -56278,7 +56285,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.2
   }
  ]
 }
