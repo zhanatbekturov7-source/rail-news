@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T01:09:17+00:00",
- "new_this_run": 57,
+ "generated_at": "2026-10-21T01:57:06+00:00",
+ "new_this_run": 58,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,43 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Amazon потратит миллиарды на ИИ, спутниковую связь и логистику в Германии",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORk1ITmVoTVBvYUdfbVN0TTBMLVZDanZuYUZuclIxVFhremozYnpBdi0zX3MtdE1VOTZvSW0yeS1ZVGpYclRhV2VSZFQ4VEwxdEZ0TXNTRzdSNEJ4SU1Kb0NlWkJudWdwRWFwM2Vyd054TXVSWmxKWDhwWm83SWp1Y29Vbm8xSGZBTXBrZk1leFRvM2N2QTU0MGdPREFCcEZSM1VPbzhCLXFUR2VmTzAxelI2LTdfQQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-21T01:42:40+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "322a4684ab21bd07",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Европа"
+   ]
+  },
+  {
+   "title": "Thailand Unveils Integrated Infrastructure Master Plan to Become Regional Logistics Hub",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aenAwdWJ0LWlMZ2FQYWdISndQTmEwUm9KSDMyVDk1LURlUlY4Ry1rQWg3MU9USGNsd0s1OFlncTJaZ2pxT1hVeWlCMWRnZlJCZ0FnV2Jnbktxc3dkc085Uw?oc=5",
+   "source": "Nation Thailand",
+   "published": "2026-10-21T01:25:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "44e6584430e624da",
+   "categories": [
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
   {
    "title": "Судья посуточно // У бывшей судьи арбитража Ивановской области конфисковали недвижимость",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjUwY2lvUDZpT3ctOXZsQ3o4bTVHRzVXbUlSdVl3c3lFR1dLUDVLOGFQSXBFc3pXUjNRRWlRYzhqcUdweGo1bDZ6NEpDLXFNODFZNW0zc1NqdzFmWjU5eU9XdDRDRkxITDc5ckdQazV0bUNYZC03M3NhVzdBaHJPVTl5NWFUVzExN0E3OHB6clhvUEJhOE5veVkyaWpwWVlBLUYyN3hveFhfZ24zUU9RcDI3alVCdll0ejRyS2g5bDVJVXgtZ0E?oc=5",
@@ -1432,7 +1469,8 @@
    ],
    "regions": [
     "Россия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "В ЗКО начали обновление железнодорожной линии и строительство новых путей к месторождению Сатимола",
@@ -56007,38 +56045,6 @@
    "regions": [
     "Китай"
    ]
-  },
-  {
-   "title": "В России ограничили вывоз наличных рублей из России. Сколько теперь можно взять с собой",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1NwNTBoVWFGaUZlWmN6enlLWXQ0NlBIYnNaNmpXS2NoLW1LVzQ4eHJvMHN1VVBJcFhZdFR2by1jWVhFS2Fvb0pkV1FtYjV3LUtGNm82SE8yRXdrWUpReVZNQXBKakpLNEJyR2hZSk1VeTVqb19Bel91UU9SVlVnWExSMmU3cGEydWhOblozRWJKTEZnZUZhQWVPTEx1eDZLdDlZeDVmc2luTzZsX194QlBHejM4d0ZpZld4WFhUTW10TEl6WkxB?oc=5",
-   "source": "prospect.com.ru",
-   "published": "2026-10-04T05:24:12+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Россия"
-   ],
-   "id": "00b49a29ec91e752"
-  },
-  {
-   "title": "РЖД предлагают сливать воду — не придётся ли сушить вёсла? Списать нельзя оставить: инсайдер Vgudok о том,...",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUxBUE1sWHRsdlRzMkpDdW9xclFFc3U4bWJyaHNyS3NOWXB1LXdDeEhIVk5lVDFhSTV2X3hKYllKb1NjWWtUT2t3LVQ2OHY4ZmpPckZDR0VWYVlJeDRFQXZjMEpRY2Vzd1ZDS1Q0b0JRSHQ5cUdQT2VHRDVvSDRTN1hkR2w2WFRzUGtBdkVoMFdrZHZETkRVX3ZRdVFoT3VzeFVwb0pfRWR1TzFjY2NfdjY5QWcxV1Jq0gG-AUFVX3lxTE95dk1FczlyMlFEUW55VWtKeE5hNHZTa0J3TjhGQTlGT3JCOWJCOXBoUnRjd3hhay1mdlo3Wjg2Z21sMnU1QmFGWjVVNTJodFkxbzFNdTJScktkbDU1ajBsdUU1cG5Kb0RHd3EzRXZTLTJMY0c2Y0FyRUFHdHNWQUxOb3BVcG1MRW1uaUhDZGp2c2lpVkJMWE0yQmVqUHUyZS1fampCbFVMcE5NYXpGMnJ1S096elZLVEdqS2ZETEE?oc=5",
-   "source": "Vgudok",
-   "published": "2026-10-04T05:17:11+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Россия"
-   ],
-   "id": "815c2d690921e543"
   }
  ],
  "sources": [
@@ -56056,7 +56062,7 @@
    "ok": true,
    "count": 22,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56064,7 +56070,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -56072,13 +56078,13 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "seconds": 0.4
   },
@@ -56096,7 +56102,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56104,7 +56110,7 @@
    "ok": true,
    "count": 32,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56118,9 +56124,9 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 26,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -56136,7 +56142,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56144,7 +56150,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56182,7 +56188,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 34,
    "error": "",
    "seconds": 0.5
   },
@@ -56198,15 +56204,15 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 16,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 49,
    "error": "",
    "seconds": 0.5
   },
@@ -56216,7 +56222,7 @@
    "ok": true,
    "count": 41,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -56224,14 +56230,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x70955fab1670>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x79ff21f34fe0>, 'Con",
    "seconds": 300.5
   },
   {
@@ -56239,8 +56245,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
-   "seconds": 25.3
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
+   "seconds": 1.2
   },
   {
    "name": "PortNews",
@@ -56248,7 +56254,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.4
+   "seconds": 2.0
   },
   {
    "name": "Kursiv",
@@ -56256,7 +56262,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.0
   }
  ]
 }
