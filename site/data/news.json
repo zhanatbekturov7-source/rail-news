@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T23:49:42+00:00",
- "new_this_run": 59,
+ "generated_at": "2026-10-21T01:09:17+00:00",
+ "new_this_run": 57,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -940,6 +940,23 @@
    ]
   },
   {
+   "title": "Депутат Госдумы от СР Василий Швецов спросил министра финансов, как защитят пенсии от роста цен",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanh3cEU2U18ybXZGajIxT0hmb21KNUNKOU01VGt0SHRYVjFXdmpHYVdMZHZsY3JWZEhGaHprY0pDaXR1dlBXd2NwREpWOFNYTTh1NjU5TVVKbjhuMlVlbEFNSjZSWlhLSEZheW8wekttcElpaVFxUU9JejI4SlE3MmhaOEhHRHBXckdkTnZDUGxUZnRDeUsxOHBFVkwzc2FuWnRlandzOW9iVmR4TDNONExsb3ZBQQ?oc=5",
+   "source": "Урал-пресс-информ",
+   "published": "2026-10-20T11:58:48+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "9caa9e1bea530d44",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
    "title": "Iran, Kazakhstan pursue North–South corridor, Chabahar rail links",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdDNBaVZNNDJWQmwtel9sWHdtcXNpMndfUGFRekdZNzZCRU9WeHpsMFdZNEZYcFhfZkZyOVF0Y1lnVzNqVktfYnNCTmx2dzlpOEhoUGJrMzdrOUhkV0h6U295UkhHTTdia2xJVVo0V2ZvOGJVTDRmTHNrZ0hWRk9FLUFnMTIydVZ0eUpZSDJtRU5FQmFsZjJjSWkzdF9VZVptN2hHZE9R?oc=5",
    "source": "Tehran Times",
@@ -1479,25 +1496,6 @@
    ]
   },
   {
-   "title": "China's railways handle 3.05 bln tons of cargo in Q1-Q3",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTV1SkE1RWItSjVSWUFqRlV1NGR5MHdERFdGX2dVaUE1a2pMZk1QVXNwRFBUTUF2c2VweWxxaXhiLU5iakNsaGxzeU5RNGE5M29EQ2hIeW9zT2xwaUxQLXlZaklqMUFvLWhTVldGa2tldnFkdVYwYTZDWXJvZVJER0tuQnY2NndsM1lSY3UtV3NWaEtGaTZrbGVlaVR2T1I0RExMQUZxOTRrZw?oc=5",
-   "source": "巴士的報",
-   "published": "2026-10-20T09:49:03+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "32aa928fe6eeeed5",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Китай"
-   ]
-  },
-  {
    "title": "Казахстан предложил ШОС совместно модернизировать порты",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwWVRKb05WbXVpZUk1SDBWMlcwNWUxbFpVbXFudmtONXpENmR3SUw5cE4tWl90T0tBbFlqX3p5cENsSm5XTkJlTUxsWVZkSFBLZmpoWQ?oc=5",
    "source": "Альта-Софт",
@@ -1752,6 +1750,25 @@
    ],
    "regions": [
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "China's railways handle 3.05 bln tons of cargo in Q1-Q3",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTV1SkE1RWItSjVSWUFqRlV1NGR5MHdERFdGX2dVaUE1a2pMZk1QVXNwRFBUTUF2c2VweWxxaXhiLU5iakNsaGxzeU5RNGE5M29EQ2hIeW9zT2xwaUxQLXlZaklqMUFvLWhTVldGa2tldnFkdVYwYTZDWXJvZVJER0tuQnY2NndsM1lSY3UtV3NWaEtGaTZrbGVlaVR2T1I0RExMQUZxOTRrZw?oc=5",
+   "source": "巴士的報",
+   "published": "2026-10-20T08:18:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "32aa928fe6eeeed5",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Китай"
    ]
   },
   {
@@ -3218,6 +3235,25 @@
     "Грузовые перевозки"
    ],
    "regions": []
+  },
+  {
+   "title": "Нефти России устроили вторую мегапереброску в обход ЕС",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGt1MVNBU1ozX3RLSGVRb2t2VGo2WW95NEJobmtFRy1FZk96TlNzeU9lUVBNMlBTVTl0UHBTTnBjenZEajFoZXZWYlBGbU13aWpSb3ZsT1hsR1lTZGZtRVJxZ2xYb3AyRnkzY2xSSW5NaFF3Rm5vc09sM2wyUEdmU0prRFJyLVpVcEd4RklZaTg2RndwZ1J4WjZSVE10QQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-19T21:01:40+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "424aefee73816b64",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Россия"
+   ]
   },
   {
    "title": "US and Central Asian countries support development of Middle Corridor — Euronews",
@@ -56003,39 +56039,6 @@
     "Россия"
    ],
    "id": "815c2d690921e543"
-  },
-  {
-   "title": "Султан Омана посетит Казахстан: чего ждут от переговоров",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDMtYkh6QlVOY0NxSkQxM21YWHhMTldJVzM3SkxfSktaUFp2RmV2QjIzamFWRVU5VTB2WWxwOEVrcDctVnAtMERqdEVOYnJWblVoUXZIUWF0c0ZDSmZTbzVoT2tZM3E4RGdxN1VLWVc5akZjOGlKRldMcDlNdlN2YXRlMFBTWnhQYWc?oc=5",
-   "source": "DKNews.kz",
-   "published": "2026-10-04T05:14:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Казахстан"
-   ],
-   "id": "6454327ac9bc2a09"
-  },
-  {
-   "title": "Потерять бизнес и дома могут бишкекчане из-за строительства дороги",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQUjZkTEJwVFJJMV9tQlp2UHhZVEtaRGcyOUpKbXlDRm1fTW56Tnd5V2RlRm9BVlB5OWtfT3FJa0s5Zw?oc=5",
-   "source": "24.KG",
-   "published": "2026-10-04T04:14:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "82eb1d350493547c",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -56045,13 +56048,13 @@
    "ok": true,
    "count": 38,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
    "seconds": 0.3
   },
@@ -56075,7 +56078,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 26,
    "error": "",
    "seconds": 0.4
   },
@@ -56093,7 +56096,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56115,7 +56118,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 38,
    "error": "",
    "seconds": 0.4
   },
@@ -56125,7 +56128,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56141,7 +56144,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56179,9 +56182,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 35,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56203,7 +56206,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 47,
    "error": "",
    "seconds": 0.5
   },
@@ -56211,9 +56214,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 41,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -56228,7 +56231,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x739eb3d1ae10>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x70955fab1670>, 'Con",
    "seconds": 300.5
   },
   {
@@ -56236,8 +56239,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.0
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
