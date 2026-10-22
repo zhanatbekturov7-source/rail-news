@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T20:56:27+00:00",
- "new_this_run": 55,
+ "generated_at": "2026-10-22T21:55:23+00:00",
+ "new_this_run": 0,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -56016,177 +56016,177 @@
   {
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
-   "ok": true,
-   "count": 52,
-   "error": "",
-   "seconds": 0.5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%2522%25D0%25A1%25D1%2580%25D0%25B5%25D0%25B4%25D0%25BD%25D",
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
-   "ok": true,
-   "count": 35,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%2522Middle%2BCorridor%2522%2Brail%2BOR%2B%2522Trans-Caspia",
+   "seconds": 0.5
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
-   "ok": true,
-   "count": 5,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BA%25D0%25BE%25D0%25BD%25D1%2582%25D0%25B5%25D0%25B",
+   "seconds": 0.5
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
-   "ok": true,
-   "count": 5,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%2594%25D0%25BE%25D1%2581%25D1%2582%25D1%258B%25D0%25B",
+   "seconds": 0.6
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
-   "ok": true,
-   "count": 44,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3DChina%2BEurope%2Brail%2Bfreight%2Bwhen%253A3d%26hl%3Den-US%",
    "seconds": 0.5
   },
   {
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
-   "ok": true,
-   "count": 5,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3DEurasian%2Brail%2Bcontainer%2Btransit%2Bwhen%253A3d%26hl%3D",
+   "seconds": 0.5
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%259A%25D0%25A2%25D0%2596%2B%25D0%25B3%25D1%2580%25D1%",
+   "seconds": 0.6
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
-   "ok": true,
-   "count": 12,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25A0%25D0%2596%25D0%2594%2B%25D0%25BF%25D0%25BE%25D0%",
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
-   "ok": true,
-   "count": 7,
-   "error": "",
-   "seconds": 0.5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25B6%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25B7%25D0%25B",
+   "seconds": 0.6
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
-   "ok": true,
-   "count": 47,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3DKazakhstan%2Brailway%2Bfreight%2Bwhen%253A3d%26hl%3Den-US%2",
    "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
-   "ok": true,
-   "count": 32,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%259A%25D0%25B0%25D0%25B7%25D1%2582%25D0%25B5%25D0%25B",
+   "seconds": 0.5
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BF%25D0%25BE%25D0%25BB%25D1%2583%25D0%25B2%25D0%25B",
+   "seconds": 0.5
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
-   "ok": true,
-   "count": 4,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BE%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B0%25D1%258",
    "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
    "kind": "google",
-   "ok": true,
-   "count": 4,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3Drolling%2Bstock%2Bwagons%2BKazakhstan%2BOR%2BUzbekistan%2BO",
+   "seconds": 0.5
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
-   "ok": true,
-   "count": 4,
-   "error": "",
-   "seconds": 0.4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BF%25D0%25BE%25D1%2580%25D1%2582%2B%25D0%2590%25D0%",
+   "seconds": 0.5
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
-   "ok": true,
-   "count": 12,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%259A%25D0%25B0%25D1%2581%25D0%25BF%25D0%25B8%25D0%25B",
+   "seconds": 0.5
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
    "kind": "google",
-   "ok": true,
-   "count": 2,
-   "error": "",
-   "seconds": 0.3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25B6%252F%25D0%25B4%2B%25D1%2582%25D0%25B0%25D1%2580%",
+   "seconds": 0.6
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
-   "ok": true,
-   "count": 39,
-   "error": "",
-   "seconds": 0.6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25B6%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25B7%25D0%25B",
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
-   "ok": true,
-   "count": 56,
-   "error": "",
-   "seconds": 0.6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D1%2581%25D1%2582%25D1%2580%25D0%25BE%25D0%25B8%25D1%258",
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
-   "ok": true,
-   "count": 17,
-   "error": "",
-   "seconds": 0.5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25B2%25D1%2582%25D0%25BE%25D1%2580%25D1%258B%25D0%25B",
+   "seconds": 0.6
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
-   "ok": true,
-   "count": 52,
-   "error": "",
-   "seconds": 0.5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B8%25D1%2581%25D1%258",
+   "seconds": 0.3
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
-   "ok": true,
-   "count": 47,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25B",
    "seconds": 0.6
   },
   {
@@ -56195,14 +56195,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x79e75b394e00>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x72cf7c7b6750>, 'Con",
    "seconds": 300.5
   },
   {
@@ -56211,7 +56211,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 2.3
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -56219,7 +56219,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.6
+   "seconds": 1.7
   },
   {
    "name": "Kursiv",
@@ -56227,7 +56227,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.2
+   "seconds": 2.4
   }
  ]
 }
