@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T03:59:14+00:00",
- "new_this_run": 60,
+ "generated_at": "2026-10-22T04:57:10+00:00",
+ "new_this_run": 67,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,80 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "Манас станет городом с особым статусом второго экономического центра Кыргызстана",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0c1Skw5dXdOUWhJdXFHTmdnM21VQzhxakU5dDhOSEJXdElrSkZRUXNPeDlULTZ0Y2JTNXpBLWZvS0k2NW1UeVd3VVlvb0kwVWNxR0VaM2hPbzBPZjZteGdTWkExNlRpbF92eF9JM2JZa2xXSXM5N1BxZUxnckp6MTBnOVZ5NW9NZU96MXljYm9QOE5BRWN3SjE5QVFnRjc1SDlKcW9nZw?oc=5",
+   "source": "Exclusive.kz",
+   "published": "2026-10-22T04:40:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "e91e1a3db550b6ab",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Цены на серебро 22 октября: мировые цены на серебро незначительно снизились, внутренние цены на серебро демонстрируют смешанную тенденцию.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFRZLU84WWVQRzZiZDh0dFNCMDlXT0c5d0gzcTJBbkNuM1I3Y2dMd3A1a0U4TERUVzJ5NDlJTlEwMDVScFFiQ1FJMlI4Z1RLNHQ0YTZrRnI0ZTA2bnNPSThUMlJfelkteFVLcUFMNG5zSDZXUGUwazVyd29KU0NSX2ptRThRTFJWS1UzY09LWEozN3FMRWNlU3FQYlJrTDFDc3JnZg?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-22T04:25:13+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "291c90ecfb9397dc",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Тысячи тонн золота пытались тайно вывезти под видом меди из Казахстана",
+   "url": "https://kz.kursiv.media/2026-10-22/shlc-tysyachi-tonn-zolota-pytalis-tayno-vyvezt-pod-vidom-medi-iz-kazakhstana/?utm_source=rss&utm_medium=rss&utm_campaign=shlc-tysyachi-tonn-zolota-pytalis-tayno-vyvezt-pod-vidom-medi-iz-kazakhstana",
+   "source": "Kursiv",
+   "published": "2026-10-22T04:22:28+00:00",
+   "summary": "В Жетысу сотрудники АФМ накрыли канал незаконного экспорта золотосодержащей руды на 1,5 млрд теңге под видом дешевой меди. Во время обысков силовики нашли тайные склады и контейнеры с золотом. Как золото выдавали за медь Для перевозки сырья использовались таможенные документы, в которых товар указывался как «руда и…",
+   "lang": "ru",
+   "via": "Kursiv",
+   "q_topics": [],
+   "id": "7280b7cdc394f891",
+   "categories": [
+    "Транзит Китай — Европа",
+    "Грузовые перевозки",
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Купить билет на поезд КТЖ можно будет во сне",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd21EYmxha2xiMk5ZbGpXRjFWUkoxanI0OUdlQlc2T3BfLUJ4T3p3cWlscUVtMFI1NF92NTJqVVpkYkd0WFl6emF3ZlV1ZjB3OEduVFNab1lBSmJVcU9mX0VlLTQzYTN5SWZYRm9HQTdjN3lmdTljaUI3ZmlHTHZIWWp3bw?oc=5",
+   "source": "Hronika.kz",
+   "published": "2026-10-22T04:01:32+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "ab7a6f85ccc7be81",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
    "title": "22 октября. Календарь Казинформа «Дни рождения»",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWJZWnFxY3BrdV9aaEt0TG9nUzlUN3hnaXZYZVFJYjlJU3pHQnNySkNkRHB1bVIxV1JzbVBWMU54VS1uQm03OE9mYnlwRy1wRnFXTkdqTmIxYmE1ai13SkpaU0xRNnlwMzhKTF9MVVZHb1ZpRnNGUWNibG9xRlRZQ2UydzBkYVMz0gGKAUFVX3lxTE9jdHIwRnpPMmpOeU0xRDJISUczN243Q3J0dktGLVNjTTd2QUozeUlYOTAzakdqZkV2SGN4SnlBV2RNVWNZQjg4RnZpOEJKUkNjVjExdF9mNUwzNndCZ0hiU3NYSTFUOUpkRjQzb09uQWVVZlVxT0VzeXRUNU1aYnNYclNXb1ZWMEhEZw?oc=5",
    "source": "Inform.kz",
@@ -37,6 +111,23 @@
    "id": "01f020edc720d335",
    "categories": [
     "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Итоги работы по безопасности движения подвели в Костанайском отделении магистральной сети",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTNTREYybEJUOXpmYU9qY1ZJMHAxXzV0dHpLSXFKd2JRb1IzeFFFdHRubWRTUXQ3aG1iTmJjdENPZzJuRkNOYkFxWHZMdGJoaXlfM2p1N0l6Qmk3TXpBbnREaWhKQjFPMk12OEg3LTZiRnVKNnVwZDFCM1c3dW5UU1Y2eUdDMzQ2cXhIQ3AyOW1YSXZzaHFoZDBhMjc5Tl9sTkVZQ0dNRjFYSTNTUzBZbDdsODAtZnlvOFIwNGIxdHF4d2M4dExpY0N5d1c?oc=5",
+   "source": "Қазақстан теміржолшысы",
+   "published": "2026-10-22T03:00:30+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "5725d5153b55cc0c",
+   "categories": [
+    "Вагонный парк и подвижной состав"
    ],
    "regions": []
   },
@@ -90,6 +181,25 @@
     "Транзит Китай — Европа"
    ],
    "regions": []
+  },
+  {
+   "title": "Центральная Азия: как новая политика превращает регион в сырьевого вассала США",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVZGRWRxYjhEWktBeTI2UWwtYjBLMnJkbEVBX2JGM09xUkFVMngwOWVieGdIc3RwY3lNdVc3SnZVRE9uY1c3VGd6SlozWFhVN1BIVnFrbUowLTJXZGhqRzAyeHVuZXVnN3U5R3J2OXJKZ0lmM3BhUzBCNWEyYmVWZXd1OVc5bDNtRlk4M0hmdnNveVJKWWJpdHJGSEF0d0lYTnlmNVBkVFpTNGF3a0xKODFPSWV2VVk?oc=5",
+   "source": "ВТамбове",
+   "published": "2026-10-22T01:20:58+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "92748d4ead0ef1cd",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
   },
   {
    "title": "Разработка проекта международного финансового центра площадью 300 гектаров в городе Дананг, Вьетнам.",
@@ -163,6 +273,25 @@
    ],
    "regions": [
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Президент Казахстана выступил на заседании Совета глав государств – участников СНГ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOanVMUGNVOXBSVjVoVnNENXpIT29NMU5BNzFzcVIzT1NuR1VLaGhidnl2d0x0M3RfOTdPOTliN2M5XzRNMFQ0SmR3aDMwNFlMams3akpfeld2YjdVaGNLVmhKRUhiSGtuRnB6T3hNNTlQY3V2REFRTUVZbkp0NDYzQQ?oc=5",
+   "source": "GOV.KZ",
+   "published": "2026-10-21T21:32:07+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "01919b8cbab0f594",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
    ]
   },
   {
@@ -56018,137 +56147,6 @@
     "Логистика и терминалы"
    ],
    "regions": []
-  },
-  {
-   "title": "Казахстан и Азербайджан планируют построить паромы для перевозки двух ж/д составов",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjBtTmRXeUF4RXEzc1BkZUVzbjBUTmoxNzdWVG0zWnVLQ1o2bW53X2pzZkxiRzQyYlpPb05RczBxdnNOVWdyeVVGTmIxRGxqc3BUTDhDTkVkeW9Rakg0MEdQVFd4RFNRRlhkS1NhdFpsRWlWSURpSUhBQ1ZmaWZ1ZzVtVHVJTU1ITTNpa3ZIa3dzMDlCbGdiQU43dmxpa2lFUF8tamhSbkN3TGxZMTdNLWp5R3A1VHNjSVRhYlhMNHdKSXc?oc=5",
-   "source": "Infranews.ru",
-   "published": "2026-10-05T12:09:25+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Порты и Каспий"
-   ],
-   "id": "08875d175531a5ad",
-   "categories": [
-    "Грузовые перевозки",
-    "Порты и Каспий"
-   ],
-   "regions": [
-    "Казахстан",
-    "Каспий и Закавказье"
-   ]
-  },
-  {
-   "title": "Электричество будет дорожать быстрее всего: власти объявили о новом грандиозном повышении тарифов на ЖКУ в Волгодонске",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHRPb1g5YTFrUldPb0Zqc0V3aV9wMllHNjMyblkwQWU2V2RDNUV3b192ekpDS19wcjNGbEFHbXhpNHY3ZzFhS2ZlRnFpWl91ZThPWXpRSDdQdVN0WUdtekdwVkNkbGFaQ05sZW5FYnpfRXBNOVVfaVcwY1Y2WjZvQ1RJS1FJUlFjRGRtbWZR?oc=5",
-   "source": "bloknot-volgodonsk.ru",
-   "published": "2026-10-05T12:02:44+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "c76c6883a0c80498",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Infrastructure Managers’ forum established to improve capacity management",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDhjM0t1Tk45WWc4UjY0MkVtR01wRWtzQzB0bV9EQTVtbm5UUmFtSTh3aGdqdkVWd2RuU1RSQUM5YTRCMU1JQzNKU1JZdXphY0h5VE5YdlJncDUyUlJyTXVZMHFaZUt0STM1bmpGcmszVlVTcTRLa1F4TmVoWm96Vm9CZU5EMFcxQ044MGg4eXlfei1FM2RRdkpsSldTZEt6WEd0TnFJaXNmeUJGWW9qOXBqQnllY3VMMW9EM2V0SkxsLWM?oc=5",
-   "source": "Railway Gazette International",
-   "published": "2026-10-05T12:00:24+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "c0bb3bd353d64496",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Азербайджан как диспетчер: новая зависимость или новая свобода для Центральной Азии - ИГОРЬ ПАНКРАТЕНКО",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZHBMR1Y1VGdJYXhBbnNaTDB3VzIyMFNMWlQ0Sjgxdkl0NDV6OTdSaHZLNlhkOGhkaGU1R0pYV3ppeDhEckJ6eFFGcFp3blUwa1pDWDlaU05MejlMQkIzcC05N3duRklRNFVhMjBfZEY0dm9MOTBPSGZGVU1NeHJmcGVzWGJZb3FRQ1A0RjlQNk5lc3lMQlVDSk1HbkxuRF83UzM1cmZQUlVUbElUQ0RSMTBZTmZhQXRfSGNFYjBhVVd0Uzl6QzdYNmNET3NGUQ?oc=5",
-   "source": "Vesti.az",
-   "published": "2026-10-05T12:00:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "364789a0b94b9e66",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Центральная Азия",
-    "Каспий и Закавказье"
-   ]
-  },
-  {
-   "title": "TRIPP меняет транспортную карту Южного Кавказа — и ставит Грузию перед выбором -",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGlvWFlQalVhZFNXak15WW9XMnc4YWIwSUpfMnBTWEZqM0Vpam5ZTHlzTUs4QXhraUY5TzUxaDBldm1SbnRtenVQZ2U0WmFacmFvdVdHSmRQWkpTOW1uOUhVWllrc0ZsYTJOTS1OMHc5NUtwRFA0YVpINkZ4aFZrdTNGejVtQlBJak1ydDh0ZHk5UGxGaGVCUzNKVGtxQlhMamln?oc=5",
-   "source": "ZERKALO.AZ",
-   "published": "2026-10-05T11:58:57+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "b370fbcafe560d63",
-   "categories": [
-    "Средний коридор и ТМТМ"
-   ],
-   "regions": []
-  },
-  {
-   "title": "В Саткинском округе повышают стоимость проезда на общественном транспорте",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQU9fZnZtXzhiaDNSSzh4dHVhSmM2dmJRQXJqcFlFX2xXd1pSaTk3X3A3T2QzSGM2S0FGYUdmcW53eGdOcTVYWXlVVWk1eUpMSk9IcVpsWkphWU94NFBMMDBfNUl1bEdtcHplWHd1V0lBVm96dWRnSGthTFZHa1RzMFozYWlFb3p0T0owOGtabDd3ZWJDX2dJa1F3NjVPM3lTVkxhUFozWEpucXd4Q1E?oc=5",
-   "source": "govoritsatka.ru",
-   "published": "2026-10-05T11:53:54+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "72f51227133e413e",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": []
-  },
-  {
-   "title": "A new rail corridor is taking shape in Europe",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNk1PX3ZSRC1zRzdGMnhkQ1psWUFtc2JxbGxoM3lPZXlfZ3JLWVBZVDRVdW1iV1ZGUWZXX1pUeUtJcHpoZkVhYnJTVktzellEc2sxSzBsRmdaR3FBTHBmTHVZUXU0RjB0b3VIYTRFb2dXVXJoUTFhUW0yTzRZbFQzbTlR?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-05T11:48:57+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "05146dc6c80aeeb5",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Европа"
-   ],
-   "also": [
-    "https://megaproject.com/"
-   ]
   }
  ],
  "sources": [
@@ -56156,7 +56154,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 55,
+   "count": 64,
    "error": "",
    "seconds": 0.5
   },
@@ -56166,7 +56164,7 @@
    "ok": true,
    "count": 36,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56188,9 +56186,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 31,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56204,23 +56202,23 @@
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": "",
    "seconds": 0.4
   },
@@ -56230,15 +56228,15 @@
    "ok": true,
    "count": 39,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 35,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.8
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56262,7 +56260,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -56278,7 +56276,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56286,15 +56284,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 27,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56302,7 +56300,7 @@
    "ok": true,
    "count": 62,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56310,7 +56308,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -56318,7 +56316,7 @@
    "ok": true,
    "count": 54,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56341,8 +56339,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x76c4471a7a70>, 'Con",
-   "seconds": 300.7
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7ea72f3b24b0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -56350,7 +56348,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.7
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -56358,7 +56356,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -56366,7 +56364,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.1
   }
  ]
 }
