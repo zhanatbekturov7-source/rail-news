@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T04:57:10+00:00",
+ "generated_at": "2026-10-22T05:55:07+00:00",
  "new_this_run": 67,
  "title": "КТТ Rail-News",
  "topics": [
@@ -24,6 +24,60 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "Azerbaijan must move beyond transit to become a regional manufacturing and logistics hub",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzhEU2p5RlhLYnVEbXY1ODJBeVpBcGlUUEVrbmtrbDZ4SlZKWThVa3pfS3daSjBmZXlYd2NZd19aNGJyQzI2UkFzVzIwdlUtbFBqT2h2WklzNlRIZ25vSmRpSXJBVUM2blhveUp5N2JVbFdpck94OWZBNDZIZndrNFRxTEhRbXZPTEI5ODZDaVNTdXliS2JRWmstMkpvU09MdlExRUFQaEREazExZnc?oc=5",
+   "source": "Latest news from Azerbaijan",
+   "published": "2026-10-22T05:30:44+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "3fcfff0fd9a95049",
+   "categories": [
+    "Транзит Китай — Европа",
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Карагандинские железнодорожники представили видеорепортажи о профсоюзной работе",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjFEeUE2d200RWtSczRDa2s1UXFnNDdnQUFoTUdDX3k1OEw2V0pEUHZ0aTF2Szc0amVSeDdoRl9nMWliV2Jlb0g0Z3RfeXZOdFBPdUxDUUlBejJfS0lBQmk3R0EyOEJDelVBTEYyUHVOQUxWUDVSbjltUkQtVDNGVzF3U3NJc29LeDRsSC1iR1lscWtuUWJQQ2JTZzlWRU8tY0ZLeHAtVHFNYUk5WWJQREZuOW1mMklzVFFMNDJDZ0o?oc=5",
+   "source": "Қазақстан теміржолшысы",
+   "published": "2026-10-22T05:29:57+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "6b075acc51f1b295",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Айгуль Жапарова: Финансирование детской онкологии увеличилось в 200 раз",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazdudG9ZODkyaFFnWmdrNkdteXhxWHgyX1VaSGIxb0xmU0JTYTZQNHdCNlFvZElQdXpzVlFkLVdRa3dsSHpTenF5S1lfb2c3SE0wX0hUUWV0ZHNsbEt4SkJFZEhJdVJwZEszOTljTUxETnoybjF3dV8tNHJ4bHFNdGQxSzVXOGduSk1GQkhoTXVGdzJPTEFiNkRIQVVpaW5oV1RvbkYzUEEwM0hnc0lWdk1GQk43Z05RX0E?oc=5",
+   "source": "open.kg",
+   "published": "2026-10-22T04:51:14+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "c6a246f4ee82b9dc",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
    "title": "Манас станет городом с особым статусом второго экономического центра Кыргызстана",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0c1Skw5dXdOUWhJdXFHTmdnM21VQzhxakU5dDhOSEJXdElrSkZRUXNPeDlULTZ0Y2JTNXpBLWZvS0k2NW1UeVd3VVlvb0kwVWNxR0VaM2hPbzBPZjZteGdTWkExNlRpbF92eF9JM2JZa2xXSXM5N1BxZUxnckp6MTBnOVZ5NW9NZU96MXljYm9QOE5BRWN3SjE5QVFnRjc1SDlKcW9nZw?oc=5",
    "source": "Exclusive.kz",
@@ -41,6 +95,23 @@
    "regions": [
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "С 2027 года новосибирцы столкнутся с увеличением платы за возврат железнодорожных билетов",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTl90TlBOejloNnE5VFEwVVVLMG9odGlWdXdJTE1tTURVRktmLUdIWWpqTEp6LWtyWjl6Ymgyem1uX1hpcHJmVno2V0FmRUc2YUF3cHhZZDNjWDRUanNBaS15RF9adXVZbzdOZzhZcjRWRk51b1BFcHRUa3lpMFE0TkdfdnNYVTBsX051cW5zNDBKMkhtREtyVjBJV01YODdrRlplQ3U3WDV0cjBQbXgwbEEzdng5d9IBvgFBVV95cUxOcGY4RXVXN1lNQXp1WWNWQWd4bDR3TERrRHM1TjhCcjZTdm41ODc1VWNZYmI4eE5FelI3Ml9PTU40bkJhbGZhbzN1Tk1reFNPQ2JneTR4YWdhVzhJNmtXV0tLR2Z5N2xxOC1ZWTZTeEV3NDl5TGh3MF9DZXlHQmxYT0loM25zMlFJUGdZdURicXp1ZDExTmMzMXMtWHJKazR2M0JINVc2QW9jZk5HbVV3Zm9VZXlCUmgxQktUcThn?oc=5",
+   "source": "Прецедент TV",
+   "published": "2026-10-22T04:35:45+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "84eaeecfea9c1ef7",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
   },
   {
    "title": "Цены на серебро 22 октября: мировые цены на серебро незначительно снизились, внутренние цены на серебро демонстрируют смешанную тенденцию.",
@@ -95,6 +166,62 @@
    ],
    "regions": [
     "Казахстан"
+   ]
+  },
+  {
+   "title": "Rail industry data exchange standardisation initiative aims learn from aerospace",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0hIVHM5djFqYUxkeS1Ob2FwQXhqZ0JLR0Q2cGM0ZmRObEprVldxalFEcDY3SDFpQlVtanZfNkZKMk5fWDkxUWNGWldEQjBTbDFQSTZTbTAwZ0FJTUZVNmh5YVVlVmFtME8zNkEzYlFELUJndEdpU2M3Tl9FM3ZSb3RHTHZQSW5jLUs3SVR2UDROaUotaTVmN2dIeG1aZDhneXY5bm9LaUdsSzBfajVSd2s0NUdKZWhmTTRjVEdzcTRDcUdSX3VRUkV6UHh1NFE?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-22T04:00:41+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "b41be02c952907f3",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
+   "title": "China-Europe freight train journeys surpass 140,000, transporting over $560 billion in goods",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XdHgybnlXOG1MSmphakdDZDZzTzJQZTBhdllEdXBieDdVZW1EaUk3Z0ZyVWQxV24tbWU1TXRTdkt4c0dvc1lQLVZVY01iNVlQeWlOQkRVY2VrNVYzbGdBam9VbWg1TC1JSS1Pcm1VRXhIcnZkQU85QTB1U2x6Zw?oc=5",
+   "source": "China Daily",
+   "published": "2026-10-22T03:34:06+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "6ef6d3ed0ab33dd4",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай",
+    "Европа"
+   ]
+  },
+  {
+   "title": "О чем США и Центральная Азия договорились в Самарканде",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmw1TE5jbURmVzdDUUpYMEdoTjBQUnltTmRiWk92aFU2V3oxeWVJLU92dXcxT0VfOXNva0ZVY3dFbnlrc1lJNGZDX1FVbWpDNnJCbHQ2YlVhd1FkZlRVVzRvX1ZLSWFaMmVpWEpIaUc3MmZGVXFHSktESlplSmxuTXBUZF9xNmFwOG9xVmdyX3FGVWs3ZnRtcFF1czNSNV9kQ1h6TVVTaw?oc=5",
+   "source": "open.kg",
+   "published": "2026-10-22T03:12:34+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "41d80e107f1183e2",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Центральная Азия"
    ]
   },
   {
@@ -255,6 +382,23 @@
    "regions": [
     "Центральная Азия"
    ]
+  },
+  {
+   "title": "Строительство 2-этажного вокзала детской железной дороги в Свободном почти закончилось",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTHpfRXVDNWZtU2ZFME44X0QwMjM1dlRlV01vOERjQS04bjA4Sl9xYTVid0VjNW9vTk4tRHJHVk9TQTB5bm9MZWJocV9uZWhpd2dIQTV5NkZEYy1mZ1VkVy01dHJDWVNUa2o4NlhVdC16NVhTeVdlQVRJRVBNLTl2cTN2MnJid2Vvb2dzZmVLcXQzc2lnbm8xRk5hZkw3Sk5iazRQZGhybWlGNkZKUVBwRFoyTzg5MFN1Y0xrWEx0VUhDR09i?oc=5",
+   "source": "Amur.life",
+   "published": "2026-10-21T23:33:12+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "20ac978d02cdc8dd",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "Иллюзия многовекторности: Центральная Азия добровольно меняет суверенитет на американский сырьевой вассалитет",
@@ -56000,153 +56144,6 @@
     "Китай",
     "Россия"
    ]
-  },
-  {
-   "title": "Gothenburg strengthens its direct connection to Asia through upgraded Gemini service",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3NMMFhoNWs4clR3emx5cEdYcUxQdEg4M1M1ZFZaSExNOUotVktVZ2tSU1QtOUpoNHliT2M4akhBcE52elVwSGxJb3JIXzFlb2RtX3RXS3hsOE92c2dEVTlZTDdWeEJjdGJPZmRoTnRGcmlURGZBcnBZbF9kUGhhaE5lb0o0TkFpRVNrRllKMHh1MXNpTXFldTNJRWY4Vlg0ZzJj?oc=5",
-   "source": "APM Terminals",
-   "published": "2026-10-05T12:54:08+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "5193feeac5b14bc7",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Конец эпохи споров: как уточнение границ изменило Центральную Азию",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2cxaU1KTWFkdFVuRGZIVEk5V01WOF8xY0E0aUJ2TGFFcnlJX0twNkVXZ21lcnlwVEVLb1Nubjh3YjdVYWQtWnZzb0JTZXRiRVFaQXhOSGhWZlMzQzdMUFB6YzRTeFlNMlNXamxpa2Q0a0duQVZ2VXpYSzhpRGJQS0pQM1pLd3YtRWh1cWxGc1g4aHBRbE02bEs5TlBHeGJOTXhfNDBmOU1aTjNIMi1OOA?oc=5",
-   "source": "open.kg",
-   "published": "2026-10-05T12:53:13+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "946ce815a29da262",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [],
-   "also": [
-    "Asiais.ru"
-   ]
-  },
-  {
-   "title": "Новые пункты обслуживания железных дорог строят в районах Кызылординской области",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelA4c1JwYUkxM0ltb2RiRlNfc3RyR3ZLb05MalBETVRBb3FOR1BybmJ5eExVMnFfQ0FwRjlYbTJoTFV1NnRvSC1aNUI5VG1neWlYWFZ1VnNqLTNDUGUzVXlYQkFLWkczR2t0bEItTTdONDRIMGlfT3h2QmJYMlV6bDFRcmF2Uk8tRkZ2VHhOTVpZdTdpWXNOS3RvMzh6c3dJalM3Y1g3TXhZM3AxcF9ySUhkSHZ2NlpfaDUzZTRzLXZPc1BndjgySUR4RXlzbzA?oc=5",
-   "source": "Kyzylorda News",
-   "published": "2026-10-05T12:34:27+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "62929ba6461cc9cf",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Зерно в приоритете: РЖД повышают категорию грузов для ускорения экспорта через Балтику",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGJ6Ujl1d3FQcUFfZkxscVZmSV9sVTkyNVVNS1RJQi1iLUpIUDJzcGNLWVpBRThzUTNEbE10U1Bzc01EVlJZMmJtRUYtbk9UN2RTT1lvNTktSG54MTJQMWZlNERpazNNSmpQTlhHdzFjeHBpR053bWw2dkdLSS0zRVk5c3JqbUN3N0pmbUFLaTNGWHhnRUlFbjZMQ2hMLWlVNXF4YmEzNE1tSzVuN3p3UkhHX3FxVUQwTzc2SDlIT1nSAcABQVVfeXFMT3RielI5dXdxUHFBX2ZMbHFWZklfbFU5MjVVTUtUSUItYi1KSFAyc3BjS1laQUU4c1EzRGxNdFNQc3NNRFZSWTJibUVGLW5PVDdkU09ZbzU5LUhueDEyUDFmZTREaWszTUpqUE5YR3cxY3hwaUdOd21sNnZHS0ktM0VZOXNyam1DdzdKZm1BS2kzRlh4Z0VJRW42TENoTC1pVTVxeGJhMzRNbUs1bjd6d1JIR19xcVVEME83Nkg5SE9Z?oc=5",
-   "source": "Vgudok",
-   "published": "2026-10-05T12:34:21+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "b48640ad1a5cdc70",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Россия"
-   ],
-   "also": [
-    "vgudok.com"
-   ]
-  },
-  {
-   "title": "Предвыборные обещания партии «Республика — Ата Журт». Чего мы так и не дождались",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE85NHQybVFxZmJYNkg0U3BLb0VLVmxsYmU0Q0NnWXRGNmhCSm54V25MRDZOODZ2SUtQeDBSQXBjWFotQQ?oc=5",
-   "source": "24.KG",
-   "published": "2026-10-05T12:33:51+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "b2e6db47746ded1e",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Погрузка угля на Дальнем Востоке в январе–сентябре выросла на 4,5%",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcTluOGJBVks2TkZNUE5LUkFzRVJQMF9CMk12Wm1KRXlUX2VCMm90OGVSRVQ1dVpjeGN0X3RiR052UlRDeEpodTROVkV6WTV6bXBKUjZveTdLX0tPT3F3bmF5bWNOWWtybzl5RXAwN1J2aHJVWk43NTdQT3FoQ3IyaEswWDhxbFA4ZmtzTzV6eHJIT1EwNUthR1FYUHg3Q0VsU1dtbGpNLWNfaWRDb2tHZ3BGaDVyODhQc1U1d0JhWQ?oc=5",
-   "source": "Neftegaz.RU",
-   "published": "2026-10-05T12:30:15+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "bb4c36b8d7da3673",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Казахстан планирует достроить железную дорогу в Узбекистан до конца года",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3NqYVpKTUd1aXJUaFVweHJaY3FyRmFxV1RDZDJYTzFxc3pQQ3QxOGhPaWtaYkotU0NYanZWTU03cVNSY0pDcHNPNERrcG5YNlVhUWNJX0hvQm1TWXNlNk13dzBHc1M2N1o2dnc3QzlwQzE4SW4tTlZPVDBwZlZhdGZiNjJDWHVGVENfQlhwbmJRZTdvcXV5S2ZPYzQya2Rsc0dFeWp5R3d0TGlKYk5BNXgwUWdWbzNKU25lR2F6TlQ2Zw?oc=5",
-   "source": "Ритм Евразии",
-   "published": "2026-10-05T12:29:39+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "34920f1a5d53995c",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [
-    "Казахстан",
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "В Бангладеш активизировались протесты против передачи терминалов иностранным операторам",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0lqRVowc1dXUXB3QUtwbzV2dTlVdXMyNXlLUVJfdHhPdUI1R1JHOXM2OEpsZ0tsYm1ldmVjeTFfNW1ZV0lFLVFmbzZFREN5YVRNWUJ3ZDQxOFpIcVJiZVRycmNHbjJEalo4Z0pYM2FEamVoeVp4TVRxSW1uc3pSNE9VLXRUUmxXeVpXckgxbTMyYWxCUGpmWWc3UTdKckdLN0hVQzRXTlZtUFFmUnZqbHJFM1RSYkJfbmJpdW1qOFNQcnFnaG0w?oc=5",
-   "source": "Infranews.ru",
-   "published": "2026-10-05T12:23:36+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "56567f53399e907c",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -56156,7 +56153,7 @@
    "ok": true,
    "count": 64,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.9
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56186,7 +56183,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 33,
    "error": "",
    "seconds": 0.4
   },
@@ -56202,7 +56199,7 @@
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
    "seconds": 0.3
   },
@@ -56218,25 +56215,25 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 42,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 36,
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56268,7 +56265,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56292,7 +56289,7 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56300,7 +56297,7 @@
    "ok": true,
    "count": 62,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56314,7 +56311,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 54,
+   "count": 53,
    "error": "",
    "seconds": 0.5
   },
@@ -56324,7 +56321,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.8
   },
   {
    "name": "RailFreight.com",
@@ -56339,7 +56336,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7ea72f3b24b0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x71b829ecefc0>, 'Con",
    "seconds": 300.5
   },
   {
@@ -56348,7 +56345,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.0
+   "seconds": 2.7
   },
   {
    "name": "PortNews",
@@ -56356,7 +56353,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.4
+   "seconds": 2.3
   },
   {
    "name": "Kursiv",
@@ -56364,7 +56361,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.6
   }
  ]
 }
