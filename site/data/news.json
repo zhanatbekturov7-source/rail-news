@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T21:55:23+00:00",
- "new_this_run": 0,
+ "generated_at": "2026-10-22T22:53:57+00:00",
+ "new_this_run": 56,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,25 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "Правительство готовит новое повышение цен на бензин для россиян, чтобы оплатить закупки топлива за рубежом",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPenR6Rm1YVjc3LXFMZ1p2aTFjSUNpWHhMcVltbnAxOHZ1d3pPZ1lHLWJJdE9fWnREVS1KbmxCRjZ4bkZ4NFJ3VUF1TS1ZRlFjLUtNc1VmM1lWZGRrclQycExLTm9Ba1NrdEVsU2VEd1hLaXVtMnZ3S0QxcWlJelBabnVTb3hiaGVkbmtCX0JRaW1Jb3lhcUtvMlhwNXJBNnVVeFh6Smxiel9jcENnSU1BMUZWY0xSUFJPNUFSTEltTUY0ZURyN0hnb2FfNlh4bHlSZVAzWXlsbF8tU2xiTW43eXdVaDBNcVhHTWpqRg?oc=5",
+   "source": "Русская служба The Moscow Times",
+   "published": "2026-10-22T21:00:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "13b4e471547e6694",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
    "title": "Middle Corridor Grows in Volume but Not in Cohesion",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JaHYwbjgwMTVRM0ZHakwzbTVxODMtUXBqU2h5UHR2MUNBMmlHRzVXS0djd0tINnp5RllDOEpORlhPUkM2OEZpRy1Hc19LQV94Z09jVDlsLWpOemlfV0FoekFzYThmU0Y1ZF9jaDRHVllwWUp1SmlwbVJhWVhQX0E?oc=5",
    "source": "The Jamestown Foundation",
@@ -32,13 +51,17 @@
    "lang": "en",
    "via": "Google News",
    "q_topics": [
-    "Средний коридор и ТМТМ"
+    "Средний коридор и ТМТМ",
+    "Грузовые перевозки"
    ],
    "id": "5b5bca7ca8e81d33",
    "categories": [
     "Средний коридор и ТМТМ"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "Substack"
+   ]
   },
   {
    "title": "Отклонено обращение \"Aztelekom\" о повышении тарифа",
@@ -110,6 +133,26 @@
    ],
    "regions": [
     "Россия"
+   ]
+  },
+  {
+   "title": "Узбекистан и Грузия углубляют сотрудничество",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVhBc0MxdW5QeFh4WlVmUzloRDZRRFlvZEFoUGFUbndncjNGLW03LWxaQ21JZ29icklqbnVGUzZsenNJWk03aU5qbTlsSGM5SzZQb0p1NnVncEowamVkU2IweTREeUF0dDdpeUZfU19nTldWell3WXNfVDlvdnZhdHA3LVVyNmJ6ZlRXUDNKMDZPUTI2bjlJVUF3?oc=5",
+   "source": "egementimes.kz",
+   "published": "2026-10-22T18:44:23+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "20bc4457654bd8cc",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
    ]
   },
   {
@@ -343,6 +386,27 @@
    ],
    "regions": [
     "Казахстан"
+   ],
+   "also": []
+  },
+  {
+   "title": "Центральной Азии нужны до 11 млн кв. м складов, инвестиций пока недостаточно",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1FyUVVwbDc3RHk1MVFwWkxHX1B5STFfTDBtTXpmTmE5ejViWloxRm56d3ZxMzJheHNXRWJEQW5ybHh0ZXR4Vko5WVVKdllfSmpFQ3dvR3ZXLWp5M0hhSTJ0UEVJdkQtY3lRSkpRWV95VGJaemJxZlQ1akJYN29SZ0N0VVljbFBOay1QNGpaaE9jbHdldXhHYjRSZHdQa2tCMVFsWlRod0JwZ1podkFVajh6WG9qZGJ1cllB?oc=5",
+   "source": "Logistics.ru",
+   "published": "2026-10-22T16:09:31+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "b2e12b70d285050e",
+   "categories": [
+    "Инфраструктура и стройка",
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
    ]
   },
   {
@@ -381,26 +445,6 @@
     "The Macau Post Daily"
    ],
    "id": "30e75309b67d4d81",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Китай",
-    "Европа"
-   ]
-  },
-  {
-   "title": "China-Europe freight train service marks milestone",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lZ2lNaEhjQ3YyTS1HM2s0ZW5NR2R2TzhTaG4yMXJvVTRuQUM4WUctMUh4S2hDZU5LSi0tS3RWNUhFNC1ZSGlBXzlWUy1RbVZYVUNHTjJXSXRsa3czNTJXMzljWk9CcmxaNzktMGI0Sl9IQVpLTkhlSzExOHE1Zw?oc=5",
-   "source": "China Daily",
-   "published": "2026-10-22T14:51:10+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "fc04941b7eee69ec",
    "categories": [
     "Транзит Китай — Европа"
    ],
@@ -2056,7 +2100,8 @@
    "categories": [
     "Инфраструктура и стройка"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "Садыр Жапаров пообещал выделить средства на развитие Манаса и Сузакского района",
@@ -5371,6 +5416,29 @@
    ]
   },
   {
+   "title": "China-Europe freight train service marks milestone",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFZSaDRUazRTQVQ5VG5fQXg4YlZzOXZ0UXNoVTk3UjVYdkJONXdkQTZIU0h1c1dnU3N0Q04tMllIQ3g1NUx4Ti1pdTBGWl81aTRQMDFaM2RURVJ2MDN2ZWJURHc3WW9yVzVXcGxSNEdNazdKZHlNMnJ6WDlScGdFQ0Nn?oc=5",
+   "source": "China Daily Global Edition",
+   "published": "2026-10-21T07:00:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "also": [
+    "China Daily"
+   ],
+   "id": "fc04941b7eee69ec",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай",
+    "Европа"
+   ]
+  },
+  {
    "title": "В Кульсары открыли железнодорожный вокзал стоимостью более 500 млн тенге",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0FRUW1SdWoxTk5xY1NZajlYR05YVHQyVGNPUGxnSE9XMEFXVU9JellFNklULWdxUUx5ZWoyQmR6RUt0Qi1SNXNLY1hKUFY0aE9KOHVjcFl3Z2VENlg3RGxlRlFRMXZLdmVhcnlPVU15b2xSbGlrMi1VcV9TbzZfUE90Vk80MEZhOWlrMjdBYldFS2s3ZWt6VlZTbFlaRzRobVlyS0FxNUsyWjhtVi1lWg?oc=5",
    "source": "Forbes.kz",
@@ -6043,6 +6111,23 @@
    "id": "6c91a8e1b34bd579",
    "categories": [
     "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Начальник МЖД встретился с крупными грузоотправителями зерна в Орле",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmJpMmZCdFVFY0RJZGtTa0Y1UHFNcENPdTR4OVdTNUFaaUJWcTV4VGhrTTd1aDZfOUdwemp5dFpZdlNUNEF1VlJ0Uk40MUJ5MTNjeHVPVktUTVBfUDBuQjVLbklNR0FfTDItcmpVWUd2REl1SUxsTXdyRVQ0YllIcGtOcmUwQ2RVMkZhTE9BekJLR0NqMENUbUNtOXFUNDFpVTgwQzA1NmdRTF8wbTFqOQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-21T03:02:03+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "d182f704c87d610a",
+   "categories": [
+    "Грузовые перевозки"
    ],
    "regions": []
   },
@@ -10149,7 +10234,9 @@
    "regions": [
     "Центральная Азия"
    ],
-   "also": []
+   "also": [
+    "Caspian Post"
+   ]
   },
   {
    "title": "В Самарской области по железной дороге в сентябре перевезли на 10,3% больше грузов",
@@ -55929,265 +56016,184 @@
    "regions": [
     "Казахстан"
    ]
-  },
-  {
-   "title": "Парвиз Шахбазов: Азербайджан является одним из ключевых транспортно-логистических узлов между Европой и Азией в Среднем коридоре",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRHJRZ3lYaWtqZTRiRnZxN3haRE5iWHhkd2N2UTBRUFBwMmttd01sc0dnb2lJaFpfYTFNQlhGV2JIalcxdDVOalhFMnl4UGFhNjlTdFlsekE0d3ExWWx5TkZBX01NZzVVNTdqaVQ5Zm1fMFVrT0tRQXdlOFBoeVlzUlgwSkNORWdGTzhmUmt0V3ZrTGhtN1kzWVZwN3JJY01EaTRyaUJIYXNlYlBoUjAwSFBldEdLaVcxNmVyVU9CNFc3bktwYlBhRTVqOGVVdFlBWi1SSXFxLXViSGpOQWxCRVY2WGpzNFdoWVhrUkRvSjZ4cGdpdnAtTg?oc=5",
-   "source": "Apa.az",
-   "published": "2026-10-06T10:41:36+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "5f586cb67f6b31e1",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Каспий и Закавказье",
-    "Европа"
-   ]
-  },
-  {
-   "title": "Бывших сотрудников РЖД осудили за взятки на 88 миллионов рублей",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2tkT1MxdHNPbUxOWUI0SUVvZHI1amwwbE9lcGEwSEo5MVdYSGl0c0UyNXFnV19YVlZsMkxTeWpWMGE4cTh6dVEyTDNzUXcxaEhBc0x2eVpTbm96VGlOeTk0UGhqUmFEcGhkUE5RMXhzcUpRVFV3dlV4LXhPRG8wWGF3VkRCODRGbll1Smxub3RNSzJod0Y2ZGJSZ9IBoAFBVV95cUxOWjhXMmJ3cGZzQjIxaDhlUktpcFgxcE9lbHpJRDVJYkZfNmdnM21NQXVsdnE1Um1rOUF0QXUwcjFPV1Z3Y0NyVHI5ZFVUdFJva3VaeFhOaVFIcTZvNXVMLTdfaG40SmRRV3kzeDE5TnoybkFEck5NVEJTQlFDWU1MekhPLW1zLWJWZGhpanRhajFkYlFSVFVLSHNScEg5X1Bl?oc=5",
-   "source": "НТС Иркутск",
-   "published": "2026-10-06T10:36:15+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "also": [],
-   "id": "e112c2b106c4acd2",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Россия"
-   ]
-  },
-  {
-   "title": "Генрих Керстгенс: Средний коридор станет главным драйвером роста грузоперевозок",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0dJeTVkejFSMDhyTlJsanVMaHV3MDYzd1BTODlpX0N0NExwQ3QxV19JYzZ3Y1JDSmRqSm5iRU41ejFOckNfZDlSYWY1S05HS1NsdTVMUWZNQkFZTDRESndxNFlfYWFMbmR4amRlVHFqVzhLQjN0ZDBmeTQ0cndNYk90bDBlZGx5SU5VUllOa3Z6OEp3YlI1TFI4aHhPUkNTcnNJdjJnbEVDaWduMGFKb2JIYml1MDFmQUHSAboBQVVfeXFMUGdHSXk1ZHoxUjA4ck5SbGp1TGh1dzA2M3dQUzg5aV9DdDRMcEN0MVdfSWM2d2NSQ0pkakpuYkVONXoxTnJDX2Q5UmFmNUtOR0tTbHU1TFFmTUJBWUw0REp3cTRZX2FhTG5keGpkZVRxalc4S0IzdGQwZnk0NHJ3TWJPdGwwZWRseUlOVVJZTmt2ejhKd2JSNUxSOGh4T1JDU3JzSXYyZ2xFQ2lnbjBhSm9iSGJpdTAxZkFB?oc=5",
-   "source": "report.az",
-   "published": "2026-10-06T10:35:38+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "e5b9245f6c795905",
-   "categories": [
-    "Средний коридор и ТМТМ",
-    "Грузовые перевозки"
-   ],
-   "regions": [],
-   "also": [
-    "Report.az"
-   ]
-  },
-  {
-   "title": "Rhenus построит 14 терминалов от Узбекистана до Турции",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVpwUFFKWG82VHJsVmZ6UjRlNS01QUJlcW1lVFVleGVsUldKTkpkek1IN2ZXZ1BNWFNGR3BJbmJZWEtxZ0hCWVI4TWs0OVdCSElsajQ3TTJvTDNGYndUb21KRUFZc0xmZTVha052ZGpLR3RDY2xoOUlYNHNuU0J2TTlIbWV1MzJJdnNsa1hmVVNyaW9mS1VLUDFhSUZVRVpvbnpTejZTTQ?oc=5",
-   "source": "Kursiv Media",
-   "published": "2026-10-06T10:32:30+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "18888a7f07b679bf",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Центральная Азия",
-    "Каспий и Закавказье"
-   ]
   }
  ],
  "sources": [
   {
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%2522%25D0%25A1%25D1%2580%25D0%25B5%25D0%25B4%25D0%25BD%25D",
+   "ok": true,
+   "count": 52,
+   "error": "",
    "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%2522Middle%2BCorridor%2522%2Brail%2BOR%2B%2522Trans-Caspia",
-   "seconds": 0.5
+   "ok": true,
+   "count": 34,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BA%25D0%25BE%25D0%25BD%25D1%2582%25D0%25B5%25D0%25B",
-   "seconds": 0.5
+   "ok": true,
+   "count": 4,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%2594%25D0%25BE%25D1%2581%25D1%2582%25D1%258B%25D0%25B",
-   "seconds": 0.6
+   "ok": true,
+   "count": 5,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3DChina%2BEurope%2Brail%2Bfreight%2Bwhen%253A3d%26hl%3Den-US%",
-   "seconds": 0.5
+   "ok": true,
+   "count": 42,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3DEurasian%2Brail%2Bcontainer%2Btransit%2Bwhen%253A3d%26hl%3D",
-   "seconds": 0.5
+   "ok": true,
+   "count": 5,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%259A%25D0%25A2%25D0%2596%2B%25D0%25B3%25D1%2580%25D1%",
-   "seconds": 0.6
+   "ok": true,
+   "count": 10,
+   "error": "",
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25A0%25D0%2596%25D0%2594%2B%25D0%25BF%25D0%25BE%25D0%",
-   "seconds": 0.4
+   "ok": true,
+   "count": 31,
+   "error": "",
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25B6%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25B7%25D0%25B",
-   "seconds": 0.6
+   "ok": true,
+   "count": 7,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3DKazakhstan%2Brailway%2Bfreight%2Bwhen%253A3d%26hl%3Den-US%2",
-   "seconds": 0.4
+   "ok": true,
+   "count": 49,
+   "error": "",
+   "seconds": 0.5
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%259A%25D0%25B0%25D0%25B7%25D1%2582%25D0%25B5%25D0%25B",
+   "ok": true,
+   "count": 32,
+   "error": "",
    "seconds": 0.5
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BF%25D0%25BE%25D0%25BB%25D1%2583%25D0%25B2%25D0%25B",
-   "seconds": 0.5
+   "ok": true,
+   "count": 10,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BE%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B0%25D1%258",
+   "ok": true,
+   "count": 4,
+   "error": "",
    "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3Drolling%2Bstock%2Bwagons%2BKazakhstan%2BOR%2BUzbekistan%2BO",
-   "seconds": 0.5
+   "ok": true,
+   "count": 4,
+   "error": "",
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BF%25D0%25BE%25D1%2580%25D1%2582%2B%25D0%2590%25D0%",
-   "seconds": 0.5
+   "ok": true,
+   "count": 4,
+   "error": "",
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%259A%25D0%25B0%25D1%2581%25D0%25BF%25D0%25B8%25D0%25B",
-   "seconds": 0.5
+   "ok": true,
+   "count": 12,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25B6%252F%25D0%25B4%2B%25D1%2582%25D0%25B0%25D1%2580%",
-   "seconds": 0.6
+   "ok": true,
+   "count": 1,
+   "error": "",
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25B6%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25B7%25D0%25B",
-   "seconds": 0.4
+   "ok": true,
+   "count": 38,
+   "error": "",
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D1%2581%25D1%2582%25D1%2580%25D0%25BE%25D0%25B8%25D1%258",
-   "seconds": 0.4
+   "ok": true,
+   "count": 54,
+   "error": "",
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25B2%25D1%2582%25D0%25BE%25D1%2580%25D1%258B%25D0%25B",
-   "seconds": 0.6
+   "ok": true,
+   "count": 17,
+   "error": "",
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B8%25D1%2581%25D1%258",
-   "seconds": 0.3
+   "ok": true,
+   "count": 55,
+   "error": "",
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3D%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D0%25B",
-   "seconds": 0.6
+   "ok": true,
+   "count": 48,
+   "error": "",
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -56202,8 +56208,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x72cf7c7b6750>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x705adfe69cd0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -56227,7 +56233,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.3
   }
  ]
 }
