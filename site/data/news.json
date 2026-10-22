@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T23:52:24+00:00",
+ "generated_at": "2026-10-22T01:07:27+00:00",
  "new_this_run": 64,
  "title": "КТТ Rail-News",
  "topics": [
@@ -23,6 +23,44 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Центральная Азия на пороге перемен: как новая политика меняет баланс сил в регионе и укрепляет влияние США",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWXZKcjJYbGpSWTVZNmFpRlZwWmF4U2tYWjNMdHEtczNzSlJSOXUyUXJOSjQ0OU8tOTdDSzAxd2NxNkNKQUVLc1F0bW5CQ0hXS20wNE11TXlkMndMZkRfaFJocF9XU1F2RDE0clV4OHJrUFhWTk9qMEpXVE9xbmVGUXpMWjBaRmRJNTFrM202VHdqblRKZkRmX012QThHaGxDVHZZckN0cndUdnlNV09tZGN3U2RaNFpUYl9uMllxYm5xMXZyT29HeXdndUZfQTVvbXRSZGtXVTRrMW9uSTR0aFlWZw?oc=5",
+   "source": "Эхо Москвы",
+   "published": "2026-10-22T00:18:19+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "ec407363468c045a",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Иллюзия многовекторности: Центральная Азия добровольно меняет суверенитет на американский сырьевой вассалитет",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9GMGpnSEhLLXZZUzNsVXJXckdITHJIbFAwQmJCU2VFY1lGd2VTWFYyc2Z4WWp2cjNkeWxUdmgySmI4N0xx0gFMQVVfeXFMT2ZmY3pkaFF3cXlzdnhzY0xVNjhiVGJqQTR0SUNfQVJPWWJYOHZxNGpyR1gwdm81Nng5aFg1SHFQLXY1akR0cF95SkVENg?oc=5",
+   "source": "Сибкрай",
+   "published": "2026-10-21T22:09:56+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "b9d95ca2f62aa1b3",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
   {
    "title": "Роль перевалочной базы Ляньюньган в «портфеле» транспортных коридоров Казахстана",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2E5QjlBTEkwTXYtVFVJdVdfdXJpMTFFblR3bGVCS3V1Q3ZsdUtrQ2t4d3JFWGRpQXRUenEtLXhGNy1ObDBEYm4zN2F3UVZFTk1VUmgxdWZVaWlfaVk0NDZzbm9HamNMaldmVEhTVUZKZDJXSFR6ajV0bHhUbnh3OWVmRmdjNXZXeTJXYTNSbnNXb1J3QjhXaUpWYW1ZcnRhcWpiaGRxNlpCY1hNMU1FbVRadkx1ekdSOHhDS2hhdVMzcjVfSlI1Qw?oc=5",
@@ -10658,7 +10696,10 @@
    "categories": [
     "Грузовые перевозки"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "Smart-Lab"
+   ]
   },
   {
    "title": "Пульс угля — 19 октября 2026: угольная промышленность в моменте",
@@ -56120,40 +56161,6 @@
    "also": [
     "tns.world"
    ]
-  },
-  {
-   "title": "Пожар вспыхнул на сухогрузе в Черном море",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nS1ZtRnljYk5WZk1IOHVqeHZGQVk3b1JLeVFhQkoxUVkyRzZRbG4wWm1VYWxFU1RrVmxmeVl4MGgzSWxsQzk2UXNhMUNNTlI4WnZQV1Q5MEJGRDZ3SmtwTlg1TlNvUzJ2T1lkZl9YRS1yQ3PSAXhBVV95cUxPdlh4YXlERzE0dGV3RllhYzUwcTBEdUw0RUVmdTI4bm9oWXJOd21PMW5wa0xGVTRxRko1NnhxMHBlMHVnWlM1T1NBSEhacHNaRk1FWW5pV0VNejd0cHdtSUcxYS1RTWNDRXd2eW1QS25yWTJYd2ZSbFo?oc=5",
-   "source": "NEWS.ru",
-   "published": "2026-10-05T11:00:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Порты и Каспий"
-   ],
-   "id": "f9792fe86163cca1",
-   "categories": [
-    "Порты и Каспий"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Долгая дорога к залежам",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01N3pGVFAyYndMdWtxNjlkbzl5NE9wSTYyOVctVWNMdmN5UDJ5d1Z5TWFneXViZmRCZU8taXhJR0sxV1czNXdHeUxINW9tWHJKZHBLOEZEM2x6Y2xRX3pIMFdLdi1HSHVZd3dVeE1oYkFzbU9nM1FN?oc=5",
-   "source": "Время — общественно-политическая газета",
-   "published": "2026-10-05T10:58:44+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "22c25641fc0cf247",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -56161,9 +56168,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 63,
+   "count": 64,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56171,7 +56178,7 @@
    "ok": true,
    "count": 36,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56185,17 +56192,17 @@
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 28,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56209,7 +56216,7 @@
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 7,
    "error": "",
    "seconds": 0.3
   },
@@ -56217,9 +56224,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56233,7 +56240,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 42,
+   "count": 41,
    "error": "",
    "seconds": 0.4
   },
@@ -56241,7 +56248,7 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 33,
    "error": "",
    "seconds": 0.4
   },
@@ -56259,7 +56266,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56273,7 +56280,7 @@
    "name": "Google News: порт Актау OR Курык контейнеры",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": "",
    "seconds": 0.3
   },
@@ -56281,7 +56288,7 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
    "seconds": 0.3
   },
@@ -56299,7 +56306,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56307,7 +56314,7 @@
    "ok": true,
    "count": 61,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56321,9 +56328,9 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 52,
+   "count": 54,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56331,7 +56338,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -56346,8 +56353,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x77a5b2971eb0>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x70ee2ce5da30>, 'Con",
+   "seconds": 300.7
   },
   {
    "name": "РЖД-Партнёр",
@@ -56355,7 +56362,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "seconds": 0.9
   },
   {
    "name": "PortNews",
@@ -56363,7 +56370,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.9
+   "seconds": 1.5
   },
   {
    "name": "Kursiv",
@@ -56371,7 +56378,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.7
+   "seconds": 2.1
   }
  ]
 }
