@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T01:58:54+00:00",
- "new_this_run": 48,
+ "generated_at": "2026-10-23T02:57:36+00:00",
+ "new_this_run": 54,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,23 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "Xinhua photos of the day",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSQ0JzakJnZzJOWjN6enozZHJtZk81Tl8ta2tSMEtaMF9La3lOUWdjZTk3Vjg5YlE3dDUtdUdxTkQtQThSaEdsZGdhb1VuTzB2V09zRVpiZ1dhSmZQb2w3SHlMbnhES1BST19yVlBaOHNwc2pMOE1FYThGNA?oc=5",
+   "source": "Xinhua",
+   "published": "2026-10-23T02:19:05+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "1214b11e43c90fd2",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
    "title": "Freight train to Europe marks new milestone",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01Q3BPNjRueTdHM3JDQllOcUtLbkZMZkZLaHN6TVFNYjkycEVRMTZjeGJ4Y3kzNUo3UGlnZTZzU0M1ZXB4YXFFQ2Z5RllkWFNyTHY2UjRuRHhibHNjS05qTENUMHV4RTFjVndPWWFqWks2V2d1bWtyQVZ4dF9tUQ?oc=5",
    "source": "China Daily",
@@ -32,14 +49,19 @@
    "lang": "en",
    "via": "Google News",
    "q_topics": [
-    "Транзит Китай — Европа"
+    "Транзит Китай — Европа",
+    "Грузовые перевозки"
    ],
    "id": "3d0f3c6e01a040a4",
    "categories": [
-    "Транзит Китай — Европа"
+    "Транзит Китай — Европа",
+    "Грузовые перевозки"
    ],
    "regions": [
     "Европа"
+   ],
+   "also": [
+    "China Daily Global Edition"
    ]
   },
   {
@@ -349,7 +371,8 @@
    ],
    "regions": [
     "Центральная Азия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "В Берне состоялось 12-е заседание Казахстанско-Швейцарской межправительственной комиссии по торгово-экономическому сотрудничеству",
@@ -480,7 +503,8 @@
     "Big News Network.com",
     "India's News.Net",
     "The Macau Post Daily",
-    "People's Daily Online"
+    "People's Daily Online",
+    "China.org.cn"
    ],
    "id": "30e75309b67d4d81",
    "categories": [
@@ -1963,10 +1987,12 @@
    "lang": "en",
    "via": "Google News",
    "q_topics": [
-    "Транзит Китай — Европа"
+    "Транзит Китай — Европа",
+    "Грузовые перевозки"
    ],
    "also": [
-    "Belt and Road Portal"
+    "Belt and Road Portal",
+    "昆明信息港"
    ],
    "id": "954f6a7746fb228b",
    "categories": [
@@ -7665,6 +7691,23 @@
    ]
   },
   {
+   "title": "На страницах мировой прессы",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CSzVJdTFFaEh5VFRqejZJYXRlRnRhUVJMak5NcGRrakNDSEVHOFRhYzg1SDk3TVA1TVdGS1NtWkNVUFhQcktxMjNqdExsVmFQbzFmOGJnU2x1Uy1EMlR0YmJpUGFSZmVTSFE?oc=5",
+   "source": "UZA.uz",
+   "published": "2026-10-20T12:26:22+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "ad9b8060d3d0e0d3",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
    "title": "«Увезу в багажнике»: в InDrive отреагировали на инцидент с «мафией из 90-х» в Астане",
    "url": "https://kz.kursiv.media/2026-10-20/ezif-uvezu-v-bagazhnike-v-indrive-otreagirovali-na-incident-s-mafiey-iz-90-h-v-astane/?utm_source=rss&utm_medium=rss&utm_campaign=ezif-uvezu-v-bagazhnike-v-indrive-otreagirovali-na-incident-s-mafiey-iz-90-h-v-astane",
    "source": "Kursiv",
@@ -9511,6 +9554,23 @@
    "categories": [
     "Порты и Каспий",
     "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Парк «Вагон-Транс» вырос на 50 единиц: полувагоны ОВК модели 12-6744 отправились к заказчику.",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zSXIxWXpnUllycThJUENXa01qbzJlZF9HbVJjSU1YWTNMNThwbllGMWpJV1hrVjVtaFdRd2JuOHZlT0dGQ3hiSA?oc=5",
+   "source": "ВКонтакте",
+   "published": "2026-10-20T05:57:45+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "0eb79252eba9903f",
+   "categories": [
+    "Вагонный парк и подвижной состав"
    ],
    "regions": []
   },
@@ -55967,63 +56027,6 @@
    "regions": [
     "Казахстан"
    ]
-  },
-  {
-   "title": "News LX Pantos moves in, eyeing Poland's growing role in European logistics",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1BNN0d6bURiczFCZGdVa1hTelhnZHE2bkcwOXVSeUtnQnBrbHZQdVpDUmVmdk9iUDBPT21Ya3YyWG5GUDZLYVR0dExPa09TSjdlZDg5aHRnT1dtMlE5cjFsVDh6Y2pVaGhDWUVtVUhYN0RaYUNHSGFvZGlOVkJmYTJLc0RYRXAxOV9PMDlFeFNramcyLTFDQg?oc=5",
-   "source": "The Loadstar",
-   "published": "2026-10-06T11:01:09+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "1dfa3491422216a3",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Европа"
-   ]
-  },
-  {
-   "title": "Фариз Алиев: Средний коридор должен стать полноценным международным логистическим маршрутом в ближайшие 5 лет",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQlo1aC1EWUNDaUdFcFM0SWFGOHdnRVdFX296cTZTLTBoVzJBMVRNTFpCYlVMaTVMbXc4bDlRSkNIbzRya0VIQWlTOGpUdDYwaWFCS0wxUVNtNEQ2VXlTTU9RbV9DZTJSMFdyZXJ0dy03M0NfbENGMk5EXzFfcVpPOVFHNEFlUlgzelhGbHZ6VHJ3UXhrV1dPbkhXV3piVXRZcExWZzBqVndsVUF1NkQ2QUxHakY0UXNlMDhsRWNINHFXMlN4cENSOGh6MkpReFNLQ21odFpHQkNidm9XemdpTHRuV25oOHJh0gHoAUFVX3lxTE9CWjVoLURZQ0NpR0VwUzRJYUY4d2dFV0Vfb3pxNlMtMGhXMkExVE1MWkJiVUxpNUxtdzhsOVFKQ0hvNHJrRUhBaVM4alR0NjBpYUJLTDFRU200RDZVeVNNT1FtX0NlMlIwV3JlcnR3LTczQ19sQ0YyTkRfMV9xWk85UUc0QWVSWDN6WEZsdnpUcndReGtXV09uSFdXemJVdFlwTFZnMGpWd2xVQXU2RDZBTEdqRjRRc2UwOGxFY0g0cVcyU3hwQ1I4aHoySlF4U0tDbWh0WkdCQ2J2b1d6Z2lMdG5Xbmg4cmE?oc=5",
-   "source": "report.az",
-   "published": "2026-10-06T11:00:17+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "17922f9bd7c6b936",
-   "categories": [
-    "Средний коридор и ТМТМ",
-    "Логистика и терминалы"
-   ],
-   "regions": [],
-   "also": [
-    "Report.az"
-   ]
-  },
-  {
-   "title": "Пенсионерам объяснили порядок поэтапного повышения пенсий в 2027 году",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVFmWHRHZUhQUTR2c0YyWXUzWnQ5NGdIVzVtUUhxajBRckNQaVNqVEZTRmlrMmpueE1mNDFHaHhUR1NwNUxVMFp6cEw1aDE2UGgycWdWbTlidjBSemRISFg0SUttYTNDeVZvY0Jya0l1OWtNdmRMRFJPN2hzTWtOZy1iV2sxREVwVUtQU1gyNWpWUVdUUHBDUU1rM2o3V005WS00YmU4T3pwczQtTGhmNms0aW5TM0J40gG-AUFVX3lxTFBWd3RJeXlUODVLaTBxazQwSUhmV3d6X29NaW9ZaXFPOTVlUWZCLTBfbl9SUGFyeFFvcm9sRjFkZEo1SVVCYnFwNGVmRWNHam5uWWk3Y3k3aGxJSWUyWURIa281dnI1U1lmQi1VYXVJdUNlX2dzOTN1bm14bExQV3hFMUtjaElWUW83NWFHSzBIdG1JM19ya0hSTWlTalMzdmYwWW9PaTh6QVVJTkNDYWJJOVZEbzhQZkZtZkMzMlE?oc=5",
-   "source": "Вечерняя Казань",
-   "published": "2026-10-06T10:56:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "d9a3b3fc2fefcc61",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -56033,7 +56036,7 @@
    "ok": true,
    "count": 51,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56041,7 +56044,7 @@
    "ok": true,
    "count": 34,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56063,7 +56066,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 40,
+   "count": 38,
    "error": "",
    "seconds": 0.4
   },
@@ -56081,7 +56084,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56089,7 +56092,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56103,7 +56106,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 49,
+   "count": 37,
    "error": "",
    "seconds": 0.4
   },
@@ -56111,9 +56114,9 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 12,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56121,7 +56124,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56129,7 +56132,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56145,7 +56148,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56153,47 +56156,47 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
    "kind": "google",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 37,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 52,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 28,
+   "count": 55,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56201,7 +56204,7 @@
    "ok": true,
    "count": 46,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -56216,8 +56219,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x72e60cec4680>, 'Con",
-   "seconds": 300.7
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7578e19ae2a0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -56225,7 +56228,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -56233,7 +56236,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -56241,7 +56244,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.9
+   "seconds": 2.2
   }
  ]
 }
