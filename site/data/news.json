@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T17:50:02+00:00",
- "new_this_run": 56,
+ "generated_at": "2026-10-24T18:56:47+00:00",
+ "new_this_run": 48,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -1949,6 +1949,25 @@
    "regions": [
     "Казахстан",
     "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Туркменгаз: готовы обеспечить газом Транскаспийский газопровод",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVBVYU9JUk5LWWI2WHktM0pQenVTMFBxUi1LcF9Sc2M4ZUtzR29IUzhoT2U3ZzdpdXZnNTJsTl9ycUV4N0ZlSEZnTFV6S0tIeU9ERGh3SnF2cU9FMzl0d3JoOENibVdWX1k3S0V0eVhmY0VzMzNBbnFsQ1V2SzBlUF9xbGZ2ZmsxOE82VDhXUThhZEtZUXpkb0EwaEtHRmlUekhn?oc=5",
+   "source": "1News.az",
+   "published": "2026-10-23T10:45:20+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "0c28c45281245a35",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Центральная Азия"
    ]
   },
   {
@@ -56010,26 +56029,6 @@
     "Казахстан"
    ],
    "also": []
-  },
-  {
-   "title": "The Arab-Balkans Corridor turns Greece into Egypt's gateway to Eastern Europe",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3pILVBzamZ4N3FURzRmWjlIUjBoTk1yd0ROQlFqOWJocEtJZ0FDT01Wd016WDdIc0liR1lUdmdSNUxYU0NlblJ6MWxrTVlCZzBhSnZ1SkJlUmdDbXpqWXRYdEhVMzlHNXdCVHBXbnpPM1NUa0E1ZkVuVDlYdWY3UjFDUUpKa3hzd0NkaWVsbE5nbk1aUVF3LWxKSEFVQ0JheE9XTllvRmQyVzA1eTdFTVZrUkFKRzRFZXdR?oc=5",
-   "source": "EnterpriseAM",
-   "published": "2026-10-08T05:24:43+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "e71be888855a60d8",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Европа"
-   ],
-   "also": []
   }
  ],
  "sources": [
@@ -56039,7 +56038,7 @@
    "ok": true,
    "count": 38,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.7
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56071,7 +56070,7 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56095,7 +56094,7 @@
    "ok": true,
    "count": 22,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56117,7 +56116,7 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 21,
    "error": "",
    "seconds": 0.4
   },
@@ -56127,7 +56126,7 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56151,7 +56150,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56167,13 +56166,13 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 33,
    "error": "",
    "seconds": 0.6
   },
@@ -56191,13 +56190,13 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 55,
+   "count": 54,
    "error": "",
    "seconds": 0.5
   },
@@ -56205,9 +56204,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 22,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.3
   },
   {
    "name": "RailFreight.com",
@@ -56222,8 +56221,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x784c49607290>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x73731bba3380>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -56231,7 +56230,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "seconds": 2.3
   },
   {
    "name": "PortNews",
@@ -56239,7 +56238,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.9
+   "seconds": 1.8
   },
   {
    "name": "Kursiv",
@@ -56247,7 +56246,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.4
   }
  ]
 }
