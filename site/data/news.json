@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T20:49:57+00:00",
- "new_this_run": 51,
+ "generated_at": "2026-10-24T21:52:12+00:00",
+ "new_this_run": 59,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,42 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Главы МИД стран ЦА и Грузии обсудили развитие ТМТМ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTRRMDdqRVNCamkxNWFpRG9KTFZqRkdELVp4YVExZno3LTVOcXN3RVo4Z0ZiQU4wS3VqVGVBSUw4MUNsVl81SldlcHRpdlZKLTdfSkhJU3Voa21UYnFnZU1Ta09wSk1CQ3plMG42R3V4U2s2SDFxbkVRZThld2c5QWV6ZGhOVzhFeVN3SnMxY0JvcWtSX0xGQmVETWhIYWNUSkZn?oc=5",
+   "source": "Ритм Евразии",
+   "published": "2026-10-24T21:38:26+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "d570b9639d30e0b0",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "МТС обеспечила покрытием сети LTE Каскад Пазских ГЭС в Кольском Заполярье",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOE9OM3JGeXFfem9oMU5fRUxUb09WTm5VZzFEMEpxMlFibUFhQ3M0aWg5TmZpSE5Ka0FJVmx4X2FuMGVNb2lJYXpaX0luVklkaklXLVBCZ2o0ekhac3lodXB6bVdYa2tseGpfNHJBUzFHdERocTR2aWZzX1lBMG5EeS14N283VG1rTDYwREtzRl80c0hEUkVLVUJBS3k5UWpZdWFJbFo2Wlgyb0hyR28yeU9MaW44QQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-24T21:23:08+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "518b02894ebb4ca0",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
   {
    "title": "ВСУ атаковали логистический центр Ozon в Омске",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnozUUZvT0RSUUFlRkxkUnNvVEJDckw4U1pQQWg5dUxLRzlIZ0N4c2pKeENTV1FUYWpSOTFERm9aZXlTVEVOMVFLZ1BaM2JOdjY5QVdCSVVDNUJzZnVhR1JwenFzdElaRG9ET2I2TUJnTlVGc25neFo3OHQ1YWhQVUFBQnhXaVVpcUstYTYzVV9sZWdz?oc=5",
@@ -69,6 +105,25 @@
     "Логистика и терминалы"
    ],
    "id": "9f6825f55773e569",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Центральная Азия и Дальний Восток: новые горизонты сотрудничества",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDRQelAzM21LdFc3SXE0b0ZpOWpSak5xTXVsTk80dHRLaFFzQ29nZEMtWEJvcVBhM0pmaDFWZ25RZVg4YWpXRmtpVklTVDNtdW9xT0t1ekk0NVpfYTFSMHlwd3BPZFhtRzItcWlwbFhvcXlreG8xNGtJeDdPc1RMN1ktQ0otQ0hxdjRObGYtMzBJOVZCY2NESlJ2d1R6cG9LdTUzekNxTVFYZUVSRlViUXhSdzIwNXBrdjd6OXMxUVlEcVRyNmNpSFBXUlNNaWlNQnZB?oc=5",
+   "source": "egementimes.kz",
+   "published": "2026-10-24T14:54:45+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "d571fb0605a5bea6",
    "categories": [
     "Логистика и терминалы"
    ],
@@ -610,26 +665,6 @@
    "also": []
   },
   {
-   "title": "Первая совместная встреча глав МИД стран Центральной Азии и Грузии завершилась в Батуми",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNldqc0dEWEJwemdpTGU3OWt0SDFtZzUyMDBaNTlseG10RHZZT29LcHBlSnNaSVd5dksyNFRlT3ZCQ3d6dGdmSXJlVVNLT2hxSHJKeURrMHplT2dXRndvazhwRk1QYWNwSkJRTndNSDBxWXVpUTZmdzBHRXhCUWNBbnA3bnAyem91YndHeEk2aHlvX0tjYk84a3prU25NNm5jb1VGRTI1c0d4dDhreXJQM2tRdjM1Ny1CN3Vn0gFKQVVfeXFMUFlFQjlaUUNxT0xtUkk0alY3UElJY1VBcFlGRHdwaUdhNDY5Q0ZKMEFNa0RsRElLWUJyNEU2Z2tVSTBLU3ZfZFdGWEE?oc=5",
-   "source": "Вестник Кавказа",
-   "published": "2026-10-24T05:59:16+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "69de12caf922d758",
-   "categories": [
-    "Порты и Каспий"
-   ],
-   "regions": [
-    "Центральная Азия",
-    "Каспий и Закавказье"
-   ]
-  },
-  {
    "title": "Central Asian and Georgian ministers discuss Black Sea links at Batumi meeting",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWIyam9FSFU2RWFENk5iUjdZTXZkQUt3MktpTjJ6R25SNVEzYmkxRjNyZV8xQnZ0aEFZcGpZNzlYQU5VamxkQ0FXdXloN09GSThGNkNZS2ZXRmpJSXlBcGFDTzhUS0NGSU1xbE5GLUNHNTJxejB0Z2NiUDdMNXBaeWM5Mi00eUpydXhydVotSERVUDJfRXk4Q281ZFlsRmVkYlpzVF9pY1UwZzVE?oc=5",
    "source": "London Daily News",
@@ -870,6 +905,26 @@
    "regions": []
   },
   {
+   "title": "Азербайджанский национальный музей искусств представил свой опыт на международной конференции в Беларуси (ФОТО)",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPanJnSVNUcDZCUzFEX2ZBa2Z3Wm4yT3FtTGVaa1BTRGxrVm1RYXVfSWJvS2xMS0YyQ192d1J5NWd6cUxaTkJ3ZlBpeDFOVjFremtiUkNlTkFabXFnU1YyVkRaRWRfQlFSWEdONWVtRVFIU0o5N1RXZWNLNnJ4Q3VPWkRPalVkQURNV3hVWTQ4S18xVnNxQ1E0elU4bklTa3dPcHl6dm1kS0N1MDRkajRLYmJnYXFJa3JjaWo3cW50Y2F3czFiYXFhdGJQbTFGckZSWjh3?oc=5",
+   "source": "cbctv.az",
+   "published": "2026-10-23T21:18:51+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "efce605010a9524c",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Каспий и Закавказье",
+    "Беларусь"
+   ]
+  },
+  {
    "title": "Ташкентская область налаживает новые экономические связи с Польшей",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVBBOXVtTHEzSDdlNEdfYlE3VHVQRUR2eFBGNXJIUHF1ZXVzQmZpVmtBdHhMNlpOWmRGcmJNUDFDRy1MbmpHb3BPZEJpWTY4a1hKVzJoSE1wYTdtQUdJWXRjT0p6aDR3eWhKZEpRWmZ4T0M2ZDE3ekxadHI0Y216Y3pTQTM2NHVNREZZ?oc=5",
    "source": "egementimes.kz",
@@ -945,6 +1000,29 @@
     "Грузовые перевозки"
    ],
    "regions": []
+  },
+  {
+   "title": "Первая совместная встреча глав МИД стран Центральной Азии и Грузии завершилась в Батуми",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNldqc0dEWEJwemdpTGU3OWt0SDFtZzUyMDBaNTlseG10RHZZT29LcHBlSnNaSVd5dksyNFRlT3ZCQ3d6dGdmSXJlVVNLT2hxSHJKeURrMHplT2dXRndvazhwRk1QYWNwSkJRTndNSDBxWXVpUTZmdzBHRXhCUWNBbnA3bnAyem91YndHeEk2aHlvX0tjYk84a3prU25NNm5jb1VGRTI1c0d4dDhreXJQM2tRdjM1Ny1CN3Vn0gFKQVVfeXFMUFlFQjlaUUNxT0xtUkk0alY3UElJY1VBcFlGRHdwaUdhNDY5Q0ZKMEFNa0RsRElLWUJyNEU2Z2tVSTBLU3ZfZFdGWEE?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-23T17:35:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "also": [
+    "Armiya.az"
+   ],
+   "id": "69de12caf922d758",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
   },
   {
    "title": "Belarusian Railways keen to boost ties with Chinese partners",
@@ -3765,6 +3843,23 @@
    ]
   },
   {
+   "title": "Как Mars меняет бизнес-модель",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51dGhEVXZIbWZabnBxTDhtQzdXN1p0NHoxWE1mQV9lcVRaTE1RaDFyTldIRmMwazB5a1ZYaFR5VlBsNFdoS0xXU0EyRGtnUFAtY2VvV21LeThGcHd4Y205NnRwa0I4RzNFVU16ZS0wTU9FckJoUXc?oc=5",
+   "source": "Forbes.kz",
+   "published": "2026-10-23T05:13:04+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "cceaef74a2407f49",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
+  },
+  {
    "title": "Казахстан зовет швейцарский бизнес в крупные проекты",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEhVUFZtZEt5cnNfcjFTeUJ3Wm1QS0M4T1FjTmdxeF9HeldLeXJTb1BNS1lzbGVCSWFTYk1SSXpkZlE0ZVNkS0tyRkc4OVNZVFpXSk5mdy1UUjlpNzhuT1BIUTJNdmhOZUloaVQ0eThYeGU2a1l4dldWRC1wY3E1QW5ncVRpU2pXQ25V?oc=5",
    "source": "Inbusiness.kz",
@@ -4829,6 +4924,9 @@
    ],
    "regions": [
     "Казахстан"
+   ],
+   "also": [
+    "Регистр ТВ Казахстан"
    ]
   },
   {
@@ -5924,6 +6022,44 @@
    "id": "29f867afeaf158b6",
    "categories": [
     "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Для реализации проекта \"зеленого\" энергокоридора из Азербайджана потребуются миллиарды долларов",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ1JZSjVrQ18yUms3cE9CSWpsRWZzM3NjUE5KSENkZUNlRnkzODd1ZkU3cHBMMXU2ekxOX1JzVVpKQTE0ZXlRZW13YnNSMllKR3U5eGh5ME5FM2JJTmlmWW5JdkgzVmF1ZEo5aDZEQVpsUi1SRlBHd2FGekJqb182QU1jLTZJWE5BRW5PQ2U3d1VuLXlLX2xYcUZRNGlEMDlaVWpLMW94NkVSLTZtRUd1YWpyMDc0NUZOUlVQUmdoSTZGMWs?oc=5",
+   "source": "CBC TV Azerbaijan",
+   "published": "2026-10-22T10:53:39+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "cdf7593e14d90268",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "В Баку снова наступило лето: Соприкоснись с природой, изобрази её великолепие!",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjNTRFdib1Q3MGd5bTVCNzZMa3c0cUxiYW9YLUh0RFp3NXhhaGxmWlRWMG1rdnIzR3B4SE9aR2VqX1FqemxpbzRNNmxST2JYRG13V0hBbFVwM1ItVmc3YzVtM2tTdjR4VkQ2Nk10a2xYQUJxNWlOaS1Cb3k2OE40UldyT0U3YWk1akgyV2JqYmdVX2JmRVozdEJ4ZlJXcDBhUGZwRXhMbw?oc=5",
+   "source": "CBC TV Azerbaijan",
+   "published": "2026-10-22T10:53:39+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "98da05e80e1f43a6",
+   "categories": [
+    "Порты и Каспий"
    ],
    "regions": [
     "Каспий и Закавказье"
@@ -55883,141 +56019,6 @@
     "Транзит Китай — Европа"
    ],
    "regions": []
-  },
-  {
-   "title": "Авазинский контур: как Узбекистан переводит региональную интеграцию в плоскость реальной экономики",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV1Z5eUdmU0pLS2lMQjNOR0Yyelk2emlUYXhIT0hmSkpUUFVnc2Fna0xkQk5mSWtXR2RjYm9WUFhOY0dselFjZUZKQzhCamlELV93QXRNY0VMbWhIZExIcHYzMXd0U0tZaG1VR1EzelE2ZEFNaFZVUTJEQjB3OVMteXBSZGVFUWNCTlg2ei1SR0EwVU56VGJMV1BWQkJPdmVyclZVbFJDMUVjdkRoU00zSzhSa2FtLS1TNG1qM0pDMV9FZG02Zmc?oc=5",
-   "source": "UZA.uz",
-   "published": "2026-10-08T06:05:56+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки",
-    "Порты и Каспий",
-    "Логистика и терминалы"
-   ],
-   "also": [],
-   "id": "c01ccf9fd4452b87",
-   "categories": [
-    "Грузовые перевозки",
-    "Порты и Каспий",
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "За осмотром смотрят",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01TjFhaVNGdVRGUHl3RXRESmh1SkNWcTR5QTZnQVdSbVA0eG5PSmFoSklhQ25TMUlUaS1pcXEwN2Z2SmtuX2h4Umpoa1Z2cjFoWmpHWF9LemJyYmpXX0lB?oc=5",
-   "source": "Костанайские Новости",
-   "published": "2026-10-08T06:03:34+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "448262ceb40f98e9",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": []
-  },
-  {
-   "title": "В России после выборов количество обсуждений новых сборов и тарифов выросло почти в восемь раз",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSUJlaGJwLW8xb1NDemtoZlkzWkVxZWZMYmxLc2hKYVpKbnd6clpkZ3pFbjFhWG0tSEI3TGZZbDVCZHJpS3pKYTFoQ2YwdE0yQUZHbkdoWkdYaHI5NWtlZ0ZVWDMyczQzd0Y4TFR0SWwxeHRkRlpRdEZsRzdPcS00aHpSUGNPMk1ETTdNLW5EeC1lMTFicldBNkNkbWZfWEd4RHpHNE1fdEpic0VpT2VfNEE3Z2x6dlJ5LXZtVTFZN1pESGJ40gHKAUFVX3lxTFByMmNlOHR6dWhJQlpZOUxydjNyNV9sZUd5Z2xGUGZwMU5Lb2o5S0dyWTUyaE9pemNCNEFhUFpfMDIzd0VYWTN5Y3hxMnRXMXVBQ2FYWVJRSG1yMHZYdWZ6cWZnYnlKSEl4Y2VhSG5CU1JueG83R1pJNzRRMjJycjZIYXVUbDVCQmktdGtUdVFMRjdiVXNZTktFSjFPaV83VGZkdzRqWTNtZXVFSkNFMUNYd2NDNVpHcU9pZXBsMmE1T2NxeW5XQUdhS3c?oc=5",
-   "source": "Дзеркало тижня",
-   "published": "2026-10-08T05:59:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "7788cb8545091e40",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": [
-    "Россия"
-   ]
-  },
-  {
-   "title": "В Казахстане хотят увеличить штрафы за выпас скота у железных дорог",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmh6dUkyaDhWY09vWTRaSFVxNzJFNFhfa3pxYk9FeGh4bEFmN0lCUTVJakhYRk9pWXZEUV84akZHN3FsX0Zqb0MyWlVFdGFVY3pwZFF1ZzNCR29ma09NSWFIVVZ3S25jNDAyRHJvYndJc2tkcmdtcTI3bW9YRXFnNEVhYUszcUxLOU1hNDF5UWtrSzdxTWZoVUdR?oc=5",
-   "source": "Qumash.kz",
-   "published": "2026-10-08T05:54:57+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "9eb1316a47b1736a",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
-  },
-  {
-   "title": "Плюс 16%: контейнерооборот ВМРП за 9 месяцев достиг 286,7 тыс. TEU",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EcC1wUWJoTllIdXdhTlU5R2NNQWk0UEQxRWVjN1BnTFZBOW05eUNLSFpGOUNTZHNmMTFDbUhDTHhvdVlOVTNR?oc=5",
-   "source": "Портньюс",
-   "published": "2026-10-08T05:48:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "f42c0aa333c20a90",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [],
-   "also": []
-  },
-  {
-   "title": "Turkmenistan publishes draft agenda for Avaza regional summit",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTFtY1FHMWpCam9iUFplRHgtbkNpUWwyZHlWQ25wVVVJSzN0TFZiWHRGNmVTZGN2UjZsTVI5NkNlRGRnaTRlSzhZa0lkLWJXU29tM1p1V0pJb3dJZ3FSVmNlZkdyd0pDRnJxZ1VRT0Y2amJqUTNKU3RSODFpWG14Q29mTFR5OW9iYXRaclRBMEtsU3lqWUJWS05BdGJ0MmJvX092T290WnV0RzRlcHo0?oc=5",
-   "source": "https://streamlinefeed.co.ke/",
-   "published": "2026-10-08T05:44:19+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "e9e6bc38c25f36a1",
-   "categories": [
-    "Средний коридор и ТМТМ"
-   ],
-   "regions": [
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "Вдвое увеличить штрафы за выпас скота у железных дорог предлагает КТЖ",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTRYTHNJYWI1akk1UWhIbHZkT0dVaVF0MHRuNlByMTVfWmJrNkFwdXdua1lRT0d0VXVPWDFuTFNhYlA2czdqNUJvYmtCb1VIUl82WDZBOHhKSnlNSDNmS1hUMGFIaVc3UnhyNGUtb244N05lQUdlZjF2bm9UeDNvRHE5bHBLdE1raE8zRjluc0MySkQ5WWY3SXVHTmV4cWZIN1d6bVI0aVVVbFJPUGlUY093ZlU3TGRMWEdLU1J2OFk2WG5GM09nTzNYczZ5WEp4dnZ4RU0yX3BpTkk?oc=5",
-   "source": "Total.kz",
-   "published": "2026-10-08T05:40:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "a539be13074284f7",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
   }
  ],
  "sources": [
@@ -56025,9 +56026,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 40,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56035,7 +56036,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56043,7 +56044,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -56081,9 +56082,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 23,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56147,7 +56148,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56161,9 +56162,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 33,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56177,7 +56178,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
    "seconds": 0.4
   },
@@ -56193,7 +56194,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "error": "",
    "seconds": 0.5
   },
@@ -56210,8 +56211,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f2bb2d28e60>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x744e0c16aab0>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -56219,7 +56220,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "seconds": 1.6
   },
   {
    "name": "PortNews",
@@ -56227,7 +56228,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.0
+   "seconds": 2.5
   },
   {
    "name": "Kursiv",
@@ -56235,7 +56236,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.9
+   "seconds": 2.3
   }
  ]
 }
