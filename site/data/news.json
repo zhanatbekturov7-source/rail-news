@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T23:50:55+00:00",
- "new_this_run": 48,
+ "generated_at": "2026-10-24T01:14:42+00:00",
+ "new_this_run": 55,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,59 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Железнодорожники и ГИБДД напомнили тайшетцам о правилах на переезде",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1k2VHF6ZGxqUXlmVGFXakN6MTJmRDZORjFodlRPaUVTQldRVHRJY1U2QkZ2NllmbXBfbFIyUlpEcm5mcy1RcmZUaEM0OWZUUEVzWnljRHVhek9YZVV4MDRlZ184cmpMb3dKZ1k5cTNHNzVpaDVUS2ZQcFN0cEpvelVOSzNONHBEWWdsaGJGQ0tNQWFRZEE?oc=5",
+   "source": "Тайшет24",
+   "published": "2026-10-24T00:20:05+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "af6fa0c9c6d49799",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
+   "title": "\"Автоваз\" допустил снижение продаж в октябре по сравнению с сентябрем",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblliY3RyWjlPbmstVjEwY0Z6UmNyQWRVeThUdUw5VXlxcm5rcldCOW9GMUFFMjNycFN0dlNmcHdtb1BWYVVTRVJ5Q1FiTy1OdFhSOFFwVHQ0STBfdVlmcFIzaHFHVWlubGc3VXhQRW1vU2tkbnNuZU5nZ3I2d2JHcFZHNlQ4bDZETkgzSGQ0NUhYQUVLX0NwRmk4OGFQVHB1QlpmY3NYcXlyZ3J0MDJKNlVR?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-24T00:13:11+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "b8e4c43863db0e3d",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
+  {
+   "title": "РЖД намерены исполнить все поставленные на 2026 год задачи по погрузке",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3V4VlBzY3lvS1ZpMjQ2U0NsMEhnTUxjRU9uY1UzZ3ZIeXJpd2xNbEFLQ2RobDdqV0xoZk16ZHBqb2lMUm00Yk5WaFhSWXJSTmE2UVg0a1pBSUFEYzdvTkRieDlacXIybUw2VmJjRXRkQ3c4dFV3QVJwUHZjR0lFWlpsamJJc1VzN0NXVGRiTm1qZ1UzOFFMUUpYWjFWUzZncmNCWGZjOGdMQ21ZaHFZMEJB?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-24T00:13:08+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "9599b38e8e2ec9a1",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
   {
    "title": "Бублик на пути к финалу: битва с Медведевым",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM04wQ2VUTm5odmZYU1d4eW9HakYwVkdwX2swNDg4RW9INVR4azhoZElDVFhPSTRMWlExSjFLNll5bEExRVdsQmV2dGRCYWFrNHVxTzNfWmY5STVqWldsd0FLeXJnc2JCV25Qc0R0bDd1MVU4U19wcGVQdFJOVzNJU2l4dmpDOUtlRkpqdWVkMnNQdUtvZkZPdzAtS0xVQUU?oc=5",
@@ -666,8 +719,8 @@
   {
    "title": "Банк России сохранил ставку 14%: Эльвира Набиуллина предупредила о рисках инфляции",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Eam9tc212SWlqSkE0NGY5Ymt0c0RQLU9lLVRteVZDTGxIM05TOEpBZkVKR2lmRkVEUXpBU3A5MlpSb29pNVFrRldWTDJYV3pEWWZMNTdBWUI?oc=5",
-   "source": "novostivoronezha.ru",
-   "published": "2026-10-23T12:45:43+00:00",
+   "source": "Новости Воронежа интернет-газета",
+   "published": "2026-10-23T12:44:00+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
@@ -55964,57 +56017,6 @@
     "Средний коридор и ТМТМ"
    ],
    "regions": []
-  },
-  {
-   "title": "Свердловчан ждёт резкий рост тарифов ЖКХ в 2027 году: подробности",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEdwdE1zVDNZTFlOYnNaTi0tZ1V1WV9HcUQzN1diQUFZaHg2Ymx2OGVERl94cGFrQjBZUTBGX2N6aG5QV05RZ2Z2eXlvS1hXRUhQMzAxVEZOOVBwMENCbFotQlhQVi1BME9nMnF6Q1hQb1ByOXRHY2Jxb0F1MmVuWHZHZlhtWnpoUlkzVVRNSmgwU3Ft?oc=5",
-   "source": "КУ66",
-   "published": "2026-10-07T14:32:33+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "138d52b8e845a7f3",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": []
-  },
-  {
-   "title": "На Калининградской железной дороге выросла погрузка",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZklxeTVrQnJrRVA1MHVhb2pFVUpRaEdpd1drZFlyaXFuamdHVG9iRG8yTTA1S0stMU4tTkVWX0JEUXpuVUl6bFUtbVNSMDczbDViS0hzbmJwTVZISXNKNzQxdVM4XzNzMWE5QmN5eXdhWlZ2ZjEzU2RQSUhMZ1dsOGI4QWhqVXFDNzJtTTVJNzFtY0F2cUZhMA?oc=5",
-   "source": "prospect.com.ru",
-   "published": "2026-10-07T14:31:06+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "f8163dccd369efc3",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Прокуратура Ивановской области подала иск о запрете экстремистского объединения",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT3E4X1BpemdhN3hpRFRSNVkyS3djYUlEUG9VcEZqOUF4cVhCaTdnNzk4VFpfME1uTlVQVHRSZ2RpMjBZNEkyMnVGZVJVTUZYV2pvZGFWa2tZMGpmcTZ5Wm5PWlJrMGZqUjROQ3JWRGJzRzdCRGtHaEdrMXhiVmZKemtyZnNSbzB0M0h5bmVPaFpZM2pSTXE5ZzFiRE9NWWJTWmxCeHhBMTl2RkpDa0xvWlJ6ZWFyODc1dXM0bXFR?oc=5",
-   "source": "prospect.com.ru",
-   "published": "2026-10-07T14:31:06+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "f2c08fd7a91a6033",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -56022,9 +56024,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56040,7 +56042,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -56054,7 +56056,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "seconds": 0.4
   },
@@ -56064,7 +56066,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -56072,15 +56074,15 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56094,17 +56096,17 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 35,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 13,
+   "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56112,7 +56114,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56136,7 +56138,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56144,7 +56146,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56152,23 +56154,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 41,
+   "count": 39,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 45,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56176,7 +56178,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -56192,7 +56194,7 @@
    "ok": true,
    "count": 48,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -56200,14 +56202,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x779d4c87f350>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x79c146cb8a10>, 'Con",
    "seconds": 300.5
   },
   {
@@ -56216,7 +56218,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "seconds": 1.0
   },
   {
    "name": "PortNews",
@@ -56224,7 +56226,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 2.0
   },
   {
    "name": "Kursiv",
@@ -56232,7 +56234,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.3
   }
  ]
 }
