@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T03:57:23+00:00",
- "new_this_run": 48,
+ "generated_at": "2026-10-24T04:54:40+00:00",
+ "new_this_run": 55,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,23 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Middle Corridor offers new route for global trade, but can it deliver?",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aMjNhVnpYTmludXNQbEtLbGRtalZmcjRXZDVicGNwQktIRGFVMkxvU3BKMm5JYzh3OWpXMjM3TmtWOTZtd1Q4OHhGbTlmWmVnU3FNcnVpNA?oc=5",
+   "source": "AzerNews",
+   "published": "2026-10-24T04:30:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "286ef9e922ffab89",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
+  },
   {
    "title": "China-Europe Railway Network Surpasses 140,000 Trips and $560 Billion in Cargo Value",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2ZNYk1FMVdtLW5nRFNiS1lqMGpPSlNib3lfTFoyU0pYOHdzSlFjNms1d0hIdFRsNXFJclNPR0ExUHhRY2o2YTNOdW5qdE1YTnM3SW8zTVRZVnNXVE5GT2pONjJtSXFGTVRZeVhlR29MT25ENUxUS3NxX3NNLWNpVUlTRURrdE1FcndOMGxtSTc?oc=5",
@@ -9664,26 +9681,6 @@
    ]
   },
   {
-   "title": "ЕС отметил роль Среднего коридора в укреплении транзитных позиций Азербайджана",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fZEd4RVUybW1BWFBnRXREalZTaDgxeVhMR1ZBS1pWb1MzaldXWE9vUG83S2U5bUJ6cGkyMVdoaVFYRmpEUm8wUExNZUtTTHg1NGc?oc=5",
-   "source": "Day.Az",
-   "published": "2026-10-21T06:32:41+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "3ca562b83dee4989",
-   "categories": [
-    "Средний коридор и ТМТМ",
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Каспий и Закавказье"
-   ]
-  },
-  {
    "title": "КТЖ оснастит Starlink более 1500 вагонов",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeURtSFRXR1Nxajl2SFNLaWpSeGlTZWVtc1dBcGdxX1dnMkNKZWRYbUJqbUJrZlloNzBMNU5HdkhzU0Q1ci1YVEFDTmQzWXBsQmxDRjMyWTNwQ3hoZllYUHRCVHd6Z2RGVzdxQ3hKRHJVX1A5M182cHNPdG9xWFRLWTBEbHlWR0xTaVhPQnYzMWF5UdIBmgFBVV95cUxQRWE5dmdaUTc3MEVYRHU4MWZ5Zy1YR0VUMmFmYTl2Wk84Mm9PdWlzTEpnRnc1SkFKaHJMandydmNwX2w2TG1VZnhmSFF2MWU2dWVXZDVmX21ISG5ZTkJ4N1pSTTRTazRDVXY1QTVCUmtLVHJaUFplY1VaR3ExdmZ6UERDUkdJNFVFVy0wdDlMYlhSQTQxWlhvSk9B?oc=5",
    "source": "Жаңғырған Отан",
@@ -9700,6 +9697,26 @@
    ],
    "regions": [
     "Казахстан"
+   ]
+  },
+  {
+   "title": "ЕС отметил роль Среднего коридора в укреплении транзитных позиций Азербайджана",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fZEd4RVUybW1BWFBnRXREalZTaDgxeVhMR1ZBS1pWb1MzaldXWE9vUG83S2U5bUJ6cGkyMVdoaVFYRmpEUm8wUExNZUtTTHg1NGc?oc=5",
+   "source": "Day.Az",
+   "published": "2026-10-21T06:30:21+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "3ca562b83dee4989",
+   "categories": [
+    "Средний коридор и ТМТМ",
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Каспий и Закавказье"
    ]
   },
   {
@@ -56006,23 +56023,6 @@
     "Тарифы и регулирование"
    ],
    "regions": []
-  },
-  {
-   "title": "Система онлайн-бронирования \"Кавказ. РФ\" появится на курорте \"Эльбрус\"",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1cwY190R1g1VHhXZUhiRFBnNHpKWTU0MDVOYVhLOTRaWktjalBzNDAtZXZ2cy1nbDRnS2VRUGY1Y000cXFHb1hvQ1AzbTlwVDJUelFHbVA2cXllMGZ3LWRvejVlanBEU3R6UGZZR2lZTjMwV0NwRHpudjZ6aTBJZF9FTVN3c043R3B0Wk5SOXA4VVBGOEFwSV9ZeG5DWE3SAUpBVV95cUxOdUtNaFg3OXVNNnhDZGJDblNmR2RqOHRCWGZVc2NfaXRBVkNVeXpLdTVGMzZheWJTVTlxUjhackJhV1RDLXhxNVVCUQ?oc=5",
-   "source": "Вестник Кавказа",
-   "published": "2026-10-07T15:15:54+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "6b382204d21bf6da",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -56040,7 +56040,7 @@
    "ok": true,
    "count": 23,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56048,7 +56048,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -56056,15 +56056,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 32,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56080,7 +56080,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56088,7 +56088,7 @@
    "ok": true,
    "count": 29,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56096,7 +56096,7 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -56104,13 +56104,13 @@
    "ok": true,
    "count": 34,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "seconds": 0.4
   },
@@ -56152,7 +56152,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56160,21 +56160,21 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.2
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 40,
+   "count": 39,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "error": "",
    "seconds": 0.5
   },
@@ -56182,9 +56182,9 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -56198,7 +56198,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 48,
    "error": "",
    "seconds": 0.4
   },
@@ -56215,7 +56215,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x76db51a05af0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7d326cb8b590>, 'Con",
    "seconds": 300.6
   },
   {
@@ -56224,7 +56224,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "seconds": 2.1
   },
   {
    "name": "PortNews",
@@ -56232,7 +56232,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.2
+   "seconds": 2.1
   },
   {
    "name": "Kursiv",
