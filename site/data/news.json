@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T16:54:28+00:00",
- "new_this_run": 54,
+ "generated_at": "2026-10-24T17:50:02+00:00",
+ "new_this_run": 56,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,42 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "ВСУ атаковали логистический центр в Омске, персонал оперативно эвакуировали",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzc4TzFUTG1xa0tmTmJlaHJORGtsbjZmMWNudGtydmlfUXI1WVVRc3pQc0ZRQVJKNURQWnp0TFJmSGlTQ0xWcWNHWFNXSktqRkdoanhyRDBtanVQZXFEVkxnYl8xWFZrMkFfbXNYUWlEWk5KUVBBTzNFTm9pWl9EZDJ6TVNsbGY3c3BqMU9GT0Y1SGtmSzVlTFRUY3EtWWpqZHBoNkNwMlBFY1d3WV9ETGloVXdfdnhVeGc?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-24T15:33:13+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "7639de0e48b37b2e",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "ИСМИ: сопряжение Центральной Азии и Дальнего Востока открывает новые перспективы сотрудничества в Азиатско-Тихоокеанском регионе",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLTFCTExHTnFELWk5d1dTS3RqNk5Wek1ROGEzcnZpN2VYdWFsZkxKTmRlNzZzWkRmYk1mQS1SeEVqTHhOTVJfWDhLMF8tUzV5by1EQXVOT1UwMUdVQVpoNEROaHZVQ3dIWFRCUTlQOUNSUWpITDNMMERzU1kyNlRTWDQzbnZ6cF8xc2E2SkxORFFHaXhaQkEwQjJOUjRuaWlVTmVtOC1rSjBzM2twQkxXM0JKc3lMdGduajVnSkZyOXZTenU4cUlRVlBRQzdXdl9jU1l3UC0xdzFDTkFEQ3JNc1dwMnROVU9jbnFhcHB2MFU?oc=5",
+   "source": "UZA.uz",
+   "published": "2026-10-24T15:27:55+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "9f6825f55773e569",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
   {
    "title": "Внедрение механизма trade-in для полувагонов 25 тс запланировано на 2027 год",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQakhpT2NxRFR3X1VYRzNlQVhtbVhmQ3hhY0w5STZGYlJNSmwyTS1tellXc2QtMURFTGpMSzc4dW9FalhORzl6eFhIUExOTW9oYzlMZmlXaGZDYXVJRzhJZ2NMUmRGdFNHdmxkWXQtakdlbFg3THc4dEpSdDRRTmFXckJBUXRGWVYxRlpkRk54YnVpR0Q4V1ppWmhaSHJydzN0MU1FQTBWTDZ2QTAzS1JyRjBfSEpaUDZwWkk4NkF2WXM?oc=5",
@@ -124,6 +160,23 @@
    "id": "173fa7574011eeaf",
    "categories": [
     "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Глава государства наградил работников транспортной отрасли",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tNnFfNHRtRUFRQmZ1UFQ5QTlxVHpWbTQwa3BTeWUxTkZBR3RCdjZlWXp1MkpHb0hvemRYV01lNlhSaXRybWJtcDB0ZFFSTzk5SU9NQ2VJMnpZTDZReGpONmYyOFViX3k1bi1leXhncVlHdw?oc=5",
+   "source": "GOV.KZ",
+   "published": "2026-10-24T12:09:26+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "c6939cd4105c6228",
+   "categories": [
+    "Логистика и терминалы"
    ],
    "regions": []
   },
@@ -55977,75 +56030,6 @@
     "Европа"
    ],
    "also": []
-  },
-  {
-   "title": "В Джалал-Абадской области переносят электрические сети, которые препятствуют строительству железной дороги Китай–Кыргызстан–Узбекистан » Новости Кыргызстана, Бишкека и Оша — последние события на сегодня",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdHdoYUtiOGFodzdoZHdocVpWVk42YjdtZDluQzFJR2IxaGRHVzRQX2dBNnVsYUgyV0E3dDFPRmtpNFJEYVpNWm9TWDktczlXRXpKZXZPeXBKMFgxcXR5WldOaGFaMXBpLUNWVlc4SE5tanJhMWpDVEVxeGItS0FaZ0p0bmxlU3I5RkcwZG9oZ3o0Yks1cklHQlVVZEpmaEN0Tk1wOWdiM3ZmTEJ1SEVNaUlhOWtWdm5EUmRlXzRVMHYxSGZTakxveFpBa3ZNWXIxYmhxdmJfcklUME9hdDZHNElJXzU1dHV6OFJnZXNzR0tMazN5aWlMTTlxWE1UWm1Kam9WaEJLdlRTdw?oc=5",
-   "source": "open.kg",
-   "published": "2026-10-08T05:22:12+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "also": [
-    "knews.kg",
-    "K-News",
-    "КирТАГ"
-   ],
-   "id": "c12062bff86c8e34",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [
-    "Китай",
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "В Казахстане хотят вдвое увеличить штрафы за нарушения на железной дороге: о чем речь",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWNkcFpSM2NQd3V1N0R0b0l0QXFUcVR1SDhjSmI5SnF6SWo3NWpWQm5zSEVvMUdZQ2tFRk4wRVZ3NDlZWERoeTVmRnZyaHQ4QkRHZXZyNmhSUmx3NVgzOXpuZFFZMTAxWTdRbnFPdVJ1bHpaazNUcUV4cV9rRHpmMUFvd1ZfV182eFc1Q2Z3WnNKaTZlM3IxTy1RdVdWdTJrakxpR1MzNEQ0STRpaVlNS2t5aGc4LWQ5WE5sTmhuQUF1TlRZcG42ZmxpZi1RZVFBbjVYUXhOONIB1wFBVV95cUxNdWNkcFpSM2NQd3V1N0R0b0l0QXFUcVR1SDhjSmI5SnF6SWo3NWpWQm5zSEVvMUdZQ2tFRk4wRVZ3NDlZWERoeTVmRnZyaHQ4QkRHZXZyNmhSUmx3NVgzOXpuZFFZMTAxWTdRbnFPdVJ1bHpaazNUcUV4cV9rRHpmMUFvd1ZfV182eFc1Q2Z3WnNKaTZlM3IxTy1RdVdWdTJrakxpR1MzNEQ0STRpaVlNS2t5aGc4LWQ5WE5sTmhuQUF1TlRZcG42ZmxpZi1RZVFBbjVYUXhOOA?oc=5",
-   "source": "Новости Zakon.kz",
-   "published": "2026-10-08T05:22:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки",
-    "Вагонный парк и подвижной состав"
-   ],
-   "also": [
-    "Mail.KZ",
-    "Жайық Пресс"
-   ],
-   "id": "40167d1df7f079df",
-   "categories": [
-    "Грузовые перевозки",
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
-  },
-  {
-   "title": "КТЖ хочет вдвое повысить штрафы за выпас скота у железной дороги",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYjBVRkdaX2luVGNoenhwQTRTVE42SlNzejl4U2pQQ0trczJrd3IyOTM4TmxXZklrYmtoZzdiZUpzb2d0TnQ4NThFUHhYcmxJelNRVGk5SnA2SUFCQjY2UG9yV3ZUdFhsRzR4bzV2djVoU3Y4UVQ3cVZTSmJKbm9ZRjN3X09iMEtxT3lsdmhyeDh2NS1UMllPN2JR?oc=5",
-   "source": "Kaztag.kz",
-   "published": "2026-10-08T05:18:42+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "01353d2d6fe224b5",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
   }
  ],
  "sources": [
@@ -56055,7 +56039,7 @@
    "ok": true,
    "count": 38,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56109,7 +56093,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
    "seconds": 0.3
   },
@@ -56125,7 +56109,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 35,
    "error": "",
    "seconds": 0.4
   },
@@ -56135,7 +56119,7 @@
    "ok": true,
    "count": 23,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56175,7 +56159,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56189,9 +56173,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 34,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56221,9 +56205,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 43,
+   "count": 44,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "RailFreight.com",
@@ -56238,7 +56222,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x73d6a1885c70>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x784c49607290>, 'Con",
    "seconds": 300.5
   },
   {
@@ -56247,7 +56231,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "seconds": 1.3
   },
   {
    "name": "PortNews",
@@ -56255,7 +56239,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -56263,7 +56247,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.6
+   "seconds": 2.0
   }
  ]
 }
