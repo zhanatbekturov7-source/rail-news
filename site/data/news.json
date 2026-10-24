@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T22:50:22+00:00",
- "new_this_run": 52,
+ "generated_at": "2026-10-24T23:46:18+00:00",
+ "new_this_run": 50,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,25 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "DPD в России автоматизировала расчет стоимости междугороднего переезда",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc09QX0xyWm9uWDgtc25GcXhkbldNM1BVc3lRUUNDanRHNTQ5dnNBcml0aWxzT1YwMTVSZWtHMUpZM1NXUDJhY0stb2dpbHZqaHNCd05oOUdDell1SE9XT2tiQWp5ODdReGNPbk9aa1JUVlVJQ1JWWklmd1Y4akI3cHBnbjZZZi13cmtkV2ZkdjdOT3ZaRmxxMnFFNkV6WTBmbHU0TDFqR0Y4WTZBWjg5bGFWVQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-24T23:13:27+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "4a16af3cc637ed89",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
   {
    "title": "Главы МИД стран ЦА и Грузии обсудили развитие ТМТМ",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTRRMDdqRVNCamkxNWFpRG9KTFZqRkdELVp4YVExZno3LTVOcXN3RVo4Z0ZiQU4wS3VqVGVBSUw4MUNsVl81SldlcHRpdlZKLTdfSkhJU3Voa21UYnFnZU1Ta09wSk1CQ3plMG42R3V4U2s2SDFxbkVRZThld2c5QWV6ZGhOVzhFeVN3SnMxY0JvcWtSX0xGQmVETWhIYWNUSkZn?oc=5",
@@ -56006,23 +56025,6 @@
     "Грузовые перевозки"
    ],
    "regions": []
-  },
-  {
-   "title": "Правительство предоставит субсидии на ж/д перевозки зерна для компенсации нарушения судоходства в Азовском и Черном морях",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUNfSHFLaGtRSC1jNjAxVUlvSTNFZC01aVBTNl9QWWhQWklaWjl2QUNjVGtMU2NrclZaTG95S0V3WmFNZDMzMThwemZpMURYN2M1TkY4ZERWN1ZyTWZfWWwySHE4cHEwdloydXl2dzFmU3B0NEVMeExGM1JUSzZWMnZYQzR5QXN3ZnpJbWtSV3Z2b2FYSFE1a1l0ZENtSE83QzVlZXh5eUdwZjFGay1vSUE0eV9fYy1ZNlpYOTJSM0J0Um1pQXpEdXE5cU5NM0x1NTcwV0xzUmhwdw?oc=5",
-   "source": "prospect.com.ru",
-   "published": "2026-10-08T06:11:51+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "2a4a00f71e32e070",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -56030,9 +56032,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 20,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56048,7 +56050,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -56064,7 +56066,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56072,15 +56074,15 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56112,7 +56114,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56120,7 +56122,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56166,9 +56168,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 30,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56176,7 +56178,7 @@
    "ok": true,
    "count": 41,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56184,7 +56186,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -56192,15 +56194,15 @@
    "ok": true,
    "count": 52,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 48,
+   "count": 47,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -56215,8 +56217,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x76d691e3e900>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7e78aa4aed20>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -56224,7 +56226,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "seconds": 0.9
   },
   {
    "name": "PortNews",
@@ -56232,7 +56234,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.2
+   "seconds": 1.5
   },
   {
    "name": "Kursiv",
@@ -56240,7 +56242,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.2
   }
  ]
 }
