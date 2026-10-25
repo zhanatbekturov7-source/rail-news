@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T20:51:03+00:00",
- "new_this_run": 41,
+ "generated_at": "2026-10-25T21:51:49+00:00",
+ "new_this_run": 47,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -40,7 +40,8 @@
    ],
    "regions": [
     "Россия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "TRT на русском - Грузия и Туркестан обсудили Средний коридор",
@@ -59,6 +60,26 @@
    ],
    "regions": [
     "Каспий и Закавказье"
+   ],
+   "also": []
+  },
+  {
+   "title": "Трансалтайская магистраль: новые обсуждения о пути в Китай через Алтай",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmRXbERPd2dWaEU0N1lLOVNmaHBhSTBuWjRFWEdibHZPam1uQmxadnMzUE5qakV3UlJKaWdaajVXQWZLSDNoZnU0QVk4VHYyNGlNb3FDUkJpSkI4QVRoNWtMdlBDQUYxbU5keS1PczZ3YU00RE1IdDRkV2hVczBGaHN1SUtzOXB2aFpWLWw0ZjFBdl84Q3fSAZsBQVVfeXFMT0xKNXZnX29MUllrMWxFUDNTTmpoc1lUSkVIZXFYQmZ4V3R4dFkxVFotaVZOSmdiRVFsRzRSTVcxemo0czY5UlRYQ2NaeWRpT0JvU0tPS2xRZ1FqWFZMS0JZUXRhTzhsRTlWN0lCN2NQdzNReEJ0ZzRkOUN5Q295ZERKc3o4dHVRVzBxcklKX2l0VzlZdG81RlJkUDg?oc=5",
+   "source": "Курск.ком",
+   "published": "2026-10-25T17:29:12+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "d255061d383b9eca",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай"
    ]
   },
   {
@@ -437,7 +458,8 @@
     "Средний коридор и ТМТМ"
    ],
    "also": [
-    "Armiya.az"
+    "Armiya.az",
+    "1News.az"
    ],
    "id": "4d64df56778b71ec",
    "categories": [
@@ -610,7 +632,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Главы МИД стран ЦА и Грузии обсудили развитие ТМТМ",
@@ -1044,6 +1067,27 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
+  },
+  {
+   "title": "Глава МИД Кыргызстана обсудил перспективы грузоперевозок через порт Батуми",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaklUeUQwekozWFhZeTk2eC1PLUJUWnlsbDJER0ZHWEpOcnNDR0Q3Wm1RUG84dlJJbmY2RVh2WDBaLUJTTUwyS0tuT05EcnlCWTRXVldWczNzSG9fVjNlNE9CSEs2XzRmMXB0N1M3WlJsbVQ1cHZJeThRTF9kUTlQU0xIX0EwQUVmQ08zQjQ5VHdORTdDUTNDZjdtVUNJYVNvVjkzWWRwZDZ0SkMza3pOc0xB?oc=5",
+   "source": "Kaktus.media",
+   "published": "2026-10-24T10:30:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "d76bd9005094139c",
+   "categories": [
+    "Грузовые перевозки",
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
   },
   {
    "title": "КТЖ показала вокзал в Таразе после реконструкции",
@@ -55958,42 +56002,6 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
-  },
-  {
-   "title": "Программа продовольственного сотрудничества стран Центральной Азии",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3dpMGIzc1Zld1lDVWM3UGxvNGZEeGFWQi1BZHl1NnpsUExJdVM1bzVNckpwSUcwYUt0cVpWbFdINVBBMWxvYXdUUnl5Z05XTVZSSGhmaHNOU196ZVNXM0ZyYmxaQ0pIRHlPODRfWDVfWnhUbXQ4ZU92U09GaC1nY25Ka3FKbGtvMTlMRkxITlRCWW8?oc=5",
-   "source": "Anhor.uz",
-   "published": "2026-10-08T09:41:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "bf147f9e6f5a111c",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "Алматинцам показали, как строится депо ЛРТ",
-   "url": "https://kz.kursiv.media/2026-10-08/chnv-almatinczam-pokazali-kak-stroitsya-depo-lrt/?utm_source=rss&utm_medium=rss&utm_campaign=chnv-almatinczam-pokazali-kak-stroitsya-depo-lrt",
-   "source": "Kursiv",
-   "published": "2026-10-08T09:40:47+00:00",
-   "summary": "Параллельно с прокладкой первых рельсов легкорельсового транспорта в Алматы строят депо для этих поездов. Kursiv LifeStyle узнал, на какой стадии сейчас находится проект. Депо строится на территории Индустриальной зоны Алатауского района. Для него акимат изъял участок по улице Сокпакбаева, 72. От депо линия ЛРТ…",
-   "lang": "ru",
-   "via": "Kursiv",
-   "q_topics": [],
-   "id": "837b29c029fcbe24",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
   }
  ],
  "sources": [
@@ -56001,17 +56009,17 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 19,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -56033,9 +56041,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 28,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -56051,7 +56059,7 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56067,21 +56075,21 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": "",
    "seconds": 0.4
   },
@@ -56091,7 +56099,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56121,9 +56129,9 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56145,9 +56153,9 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 43,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56155,7 +56163,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
@@ -56186,8 +56194,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7c3390996bd0>, 'Con",
-   "seconds": 300.7
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x715d2d815b80>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -56195,7 +56203,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.1
   },
   {
    "name": "PortNews",
@@ -56203,7 +56211,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.3
+   "seconds": 2.1
   },
   {
    "name": "Kursiv",
@@ -56211,7 +56219,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.6
+   "seconds": 2.8
   }
  ]
 }
