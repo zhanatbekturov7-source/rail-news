@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T17:50:35+00:00",
- "new_this_run": 46,
+ "generated_at": "2026-10-25T18:58:32+00:00",
+ "new_this_run": 44,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,63 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "ВС России поразили в Чёрном море судно, доставлявшее в Одессу грузы для ВСУ",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1lKVEREQnYyTjB6b1RzOVY3NGxVZTZuYVlBUms4NlhCaWFwTHhoTENlQkhMUWpUZ21lVHZNajZBOEN4TzdBMzh3djV2Y0V1N3lYQTh1dHAyZmttNFRldGtuXzNqd2FlcHdqZ1dVbl95aWhPbVhLRC1qRXFIMi1JcXBHQUE3XzhWMUgzZUtYdHBuUlVFYXZKTnUzcUUtZE9CY2pvdE9SdG92aWVZNU5ZdTd1QlhvUWFnTndMdg?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-25T16:23:46+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Порты и Каспий"
+   ],
+   "id": "ab3b1711786cb8bb",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
+   "title": "Товарооборот Казахстана и Словении превысил $200 млн",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnZuWTRyOENBektzajNZc2RzcXV4cWhvMlZVT01UQjFnRWg1eFpYbnBYU2FxRnp4UFRHX0w1bXh3aGhDLVRMZnpOc05SeVowV241ZmwyVzNaODlHNThzTTZVc3pfZlpCQUgwb3JnVUpSR0pnaEhzUC1adUgwZTliZmVtRVowdVByWDlRUGJ6SmlHZnY1ZDFvemRZQdIBmwFBVV95cUxNQnZuWTRyOENBektzajNZc2RzcXV4cWhvMlZVT01UQjFnRWg1eFpYbnBYU2FxRnp4UFRHX0w1bXh3aGhDLVRMZnpOc05SeVowV241ZmwyVzNaODlHNThzTTZVc3pfZlpCQUgwb3JnVUpSR0pnaEhzUC1adUgwZTliZmVtRVowdVByWDlRUGJ6SmlHZnY1ZDFvemRZQQ?oc=5",
+   "source": "24.kz",
+   "published": "2026-10-25T16:00:21+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "be801e4b79b2373c",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Выпрыгнул из кабины и сбежал: поезд Алматы – Петропавловск столкнулся с грузовиком",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2tMZmhHTW5VTXRUTUxsRmtPbWd0VWdZY1hORjUtVktjU1VvNjJDVzNqZ1RwUTBzRElxYm95bm10ajdqUjVXZVlxalFMd0dORTAwb1RkelhzOVpZeFYyTWtTNzN4bVRJZzUtUGc3RTE2aDd1NUNjSi1MdlJKamswY2pTVXdWQW9uOTN1R2g2X3k0ZVR2bzJsd1FJdHBqR1NZSGRSMnI3aUR4LUQwUmlRS3hDdnR3V29uOUpxZWxrZ3BsMVdUUV9JQ2VTNEIwUXlK0gHQAUFVX3lxTE5Ta0xmaEdNblVNdFRNTGxGa09tZ3RVZ1ljWE5GNS1WS2NTVW82MkNXM2pnVHBRMHNESXFib3lubXRqN2pSNVdlWXFqUUx3R05FMDBvVGR6WHM5Wll4VjJNa1M3M3htVElnNS1QZzdFMTZoN3U1Q2NKLUx2UkpqazBjalNVd1ZBb245M3VHaDZfeTRlVHZvMmx3UUl0cGpHU1lIZFIycjdpRHgtRDBSaVFLeEN2dHdXb245SnFlbGtncGwxV1RRX0lDZVM0QjBReUo?oc=5",
+   "source": "Новости Zakon.kz",
+   "published": "2026-10-25T15:51:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "3a0e4415379962f7",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
    "title": "Собянин: Началась проходка тоннеля между Бирюлевской и Замоскворецкой линиями метро",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTWR5N2JQbGtzbHBUbGtwLS13b201VUxZb28tRVNvVHJpa0pGaG0zaGJCdVBBQmFiZzhXLW9CcTNOdjBRemtxM2R4MUZaYTBPcFNaQzJZei1BaWYxZGJ2czdjeXNTRFpMdVRPSDJkaUpFbVNramlvN3RaNnJfN3kzLXowYnpPWGlEZ01YX3EyTE9xcUdJeE9DbkZFQnJYLVlXenRPeDhBQ2Rlb01LWFpUQlZUaVFGMU1SMzFnQ09PaFUxQzkySGdndg?oc=5",
    "source": "prospect.com.ru",
@@ -39,6 +96,27 @@
     "Логистика и терминалы"
    ],
    "regions": []
+  },
+  {
+   "title": "Казахстан за 35 лет независимости стал крупнейшей экономикой Центральной Азии. Почему Астана сделала ставку на союз с Москвой?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVEyZ0xwODRaOW5FN2dBWU0zaGFlTlM3LV83R0ZQRGpweXlxZFJDWl94dWZtU1IxTGlnelo3TEUtOU50T2plNElYQVJPMmZFdzdydElGU1FCY29OMnkxRk9GRWJSREloTlh0R08xem5FQUZmQUh2ZVQ4UVlVMWpEYW1jYzJ2SzJ5Rk5aNFNoVmdjOXc2eHV1TmsxekdWX0lxdHFROGVqWno4UWVnSEVnRzc2NHJMOUZRQVBkVTczTdIBvwFBVV95cUxOQVEyZ0xwODRaOW5FN2dBWU0zaGFlTlM3LV83R0ZQRGpweXlxZFJDWl94dWZtU1IxTGlnelo3TEUtOU50T2plNElYQVJPMmZFdzdydElGU1FCY29OMnkxRk9GRWJSREloTlh0R08xem5FQUZmQUh2ZVQ4UVlVMWpEYW1jYzJ2SzJ5Rk5aNFNoVmdjOXc2eHV1TmsxekdWX0lxdHFROGVqWno4UWVnSEVnRzc2NHJMOUZRQVBkVTczTQ?oc=5",
+   "source": "Lenta News",
+   "published": "2026-10-25T15:01:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "86914d37a8bb655a",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": [
+    "Казахстан",
+    "Центральная Азия",
+    "Россия"
+   ]
   },
   {
    "title": "Программа преобразований Токаева: каким Казахстан встречает День Республики",
@@ -55914,80 +55992,6 @@
     "Тарифы и регулирование"
    ],
    "regions": []
-  },
-  {
-   "title": "Бельский о ценах на проезд: \"Мы и так ездим ниже себестоимости\"",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PcF9LZGxJbm50VzVYVGl3dVl6NDE4S1MxWXRubjBaZklmSy03ZzdKaVF2eUQzOTZGOE5UVVVxYk8wT0d3WTFuSFZsVjM3VXBBaHliT2h0OHAzcGE3MTlMSmZzOGJfNUXSAXJBVV95cUxPNjBwWkd1TjVLNmgxTHZfbVhqaXk0cnVWcjlGbHg5WXFfc1BCZURWdzlEdUVPaEVPNERjclR2TmFfMTZXYjBldGtfRTNSb0dPV1RMUjZHbVhSZXJ6X0V4UTRHLVFEWTJud0Vza3NWR1RyeXc?oc=5",
-   "source": "dp.ru",
-   "published": "2026-10-08T09:17:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "651bffe360f6b48f",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Инфляция 7,17%: что это значит для ключевой ставки и ОФЗ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zWmhXcmJ3a3hiRUwyNGtTTUtsemNvWHJjZnFlWmoxVG9mZ0NIWWVPOEI1eWx3RDhwMjA5cFJwbXpfd0lTaWw3ekZCNWZldw?oc=5",
-   "source": "Smart-Lab",
-   "published": "2026-10-08T09:16:17+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "61a55f0e06c6e9ed",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Грузопоток через Каспий может вырасти в четыре раза — Токаев о развитии Среднего коридора и водных рисках ЦА",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PSWdtQzR3UVdxT0hGN0pfMHBSUGFyVE4tZXN2MUJBNE1MOVFERVRETEdCakJOMFJWbEhvYUstVGFvNWNZb3ZQbk1R?oc=5",
-   "source": "Ак Жайык",
-   "published": "2026-10-08T09:16:01+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "6e7e1d8c3ee8cd7b",
-   "categories": [
-    "Средний коридор и ТМТМ",
-    "Порты и Каспий"
-   ],
-   "regions": [
-    "Каспий и Закавказье"
-   ]
-  },
-  {
-   "title": "Тарифы на коммуналку взлетели всего за неделю: на сколько реально повысилась оплата ЖКУ",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56WHV0dHZnbVlOZFZ3XzNYMVhPU1F4dmppMl90NlVqUzZJWDR2bTFRcVNrN3J1bzdiTHlUQnBMRFJIWEVZNlUyc2EyWG15MUVOeG5nU2ZlVUZQbzJ1REE?oc=5",
-   "source": "Новости Волгограда и Волгоградской области",
-   "published": "2026-10-08T09:15:47+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "f5ffe1c420a5b048",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": [],
-   "also": [
-    "YA62.ru"
-   ]
   }
  ],
  "sources": [
@@ -55995,9 +55999,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56013,7 +56017,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -56021,13 +56025,13 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "seconds": 0.4
   },
@@ -56045,7 +56049,7 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -56059,15 +56063,15 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "seconds": 0.4
   },
@@ -56075,9 +56079,9 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56085,7 +56089,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56093,7 +56097,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56109,15 +56113,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56131,7 +56135,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "seconds": 0.5
   },
@@ -56139,7 +56143,7 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 21,
    "error": "",
    "seconds": 0.5
   },
@@ -56147,15 +56151,15 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.7
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 32,
    "error": "",
    "seconds": 0.5
   },
@@ -56163,7 +56167,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 48,
+   "count": 49,
    "error": "",
    "seconds": 0.5
   },
@@ -56180,8 +56184,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x782bb72b5b80>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x72fb44b4a8d0>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -56189,7 +56193,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.4
   },
   {
    "name": "PortNews",
@@ -56197,7 +56201,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.5
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -56205,7 +56209,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.3
   }
  ]
 }
