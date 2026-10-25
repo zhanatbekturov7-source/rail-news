@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T16:54:43+00:00",
- "new_this_run": 44,
+ "generated_at": "2026-10-25T17:50:35+00:00",
+ "new_this_run": 46,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -90,6 +90,23 @@
    "id": "be755466d4372aa0",
    "categories": [
     "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Минобороны РФ сообщило об ударе по вантовому мосту в Запорожье",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2RpbTlfeEc4ZTdWVl9ja09iMHk0bTBCYm94UUNGdzdXMkV2ajg1blo3NnZSODNyYWsxU1REV1ZGd1VrTFlyZWJ6bHY1LW9qdldETTc5MERLaVhtTWJicFEtVEZIZzBEUmhTU3BDZ19kMTQzWHM2SFpta1NtNzJaZ0ROWHNERFk5eUtIWV84OXpDZUoxRlM1OEVaMGJuWUo0RkxMUjRZeW0?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-25T11:53:06+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "649b3581056f84c9",
+   "categories": [
+    "Логистика и терминалы"
    ],
    "regions": []
   },
@@ -55971,23 +55988,6 @@
    "also": [
     "YA62.ru"
    ]
-  },
-  {
-   "title": "Return to Suez gathers pace",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tT19WRkw2RGFwYUs5RTA5cEFlcTcydnk5c2poTnZaQ25kbU5BVkE1VGlJMGdNS21veFJZbkc4Y2FTTEFlVzdseDZQMVBDN2ZDckE5YS1sbTVFSXB2UHNfLUZRSWZQbVB6Vi1OUE1lZ1YtUdIBggFBVV95cUxPUnB5eVdTZFgtMXljLVZpbjI5V0NwRHJaOXNNS3NBSzRuNGt4a29ZS2NNMlo2LTBtX3l4MlppWXlWT3FiRkVUTVg4bHUxcENpOUZOWExoX205V1ItdTdMSDdrNWw3ZXFvaDVnRk5Sc1ZjT0dPWHpCV0I2Y2lTcXFrZzd3?oc=5",
-   "source": "Upply",
-   "published": "2026-10-08T09:13:50+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "cecc3df757638024",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -56011,7 +56011,7 @@
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
    "seconds": 0.3
   },
@@ -56027,7 +56027,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "seconds": 0.4
   },
@@ -56051,9 +56051,9 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 19,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56061,13 +56061,13 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "seconds": 0.4
   },
@@ -56077,7 +56077,7 @@
    "ok": true,
    "count": 17,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56109,7 +56109,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56125,29 +56125,29 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 44,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
    "seconds": 0.4
   },
@@ -56163,7 +56163,7 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 48,
    "error": "",
    "seconds": 0.5
   },
@@ -56173,15 +56173,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.0
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7434d0730830>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x782bb72b5b80>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
@@ -56189,7 +56189,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.2
+   "seconds": 1.5
   },
   {
    "name": "PortNews",
@@ -56197,7 +56197,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 1.5
   },
   {
    "name": "Kursiv",
@@ -56205,7 +56205,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.8
+   "seconds": 2.1
   }
  ]
 }
