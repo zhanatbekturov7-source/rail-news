@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T02:05:27+00:00",
- "new_this_run": 48,
+ "generated_at": "2026-10-26T02:59:13+00:00",
+ "new_this_run": 46,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,44 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Iran, Turkmenistan prepare to increase cross-border truck traffic",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBteWNiQkxQVkhyQjYxT2JlLVRnR3dwUlc2Y2hGbG1XdEhKOHBJeGQ1N1k3aFB2aDFhRFQyU09BTktQQTA1RGlqVFc3UmFRWGs?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-26T02:22:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "4f79ad791af9c997",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Сертификация или смерть: «Опора России» предупредила о закрытии независимых автосервисов из-за новых правил",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DdGpxb2lHd0hObUZGM2dvTXEtSmRDdzNXMTJpcnhpY3N3ZkRKZDZlTE1kZUtVMEFDSzNXLUkza2gzV3c2VkpIcGxSX1lrNXVfT2lzT011VDlBa1NUMkU1dWd1SG53UzQ?oc=5",
+   "source": "Сибирское информационное агентство",
+   "published": "2026-10-26T02:04:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "6a5d1f24418260f6",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
   {
    "title": "РЖД ждут грузов и бюджетов. Транспортный блок сменил состав. Тяга тянется на северо-запад. Пульс ж/д за не...",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQREZodVZyUS1abFJvSnN0b2VvT2FiWGlScFM0c2hEQzE5dXQwaTYwSkdYRW1BRnNpTFA4RktIMl82ZlJjaVZ3U2JZN1NwODdhWDN0YWZxUHREd20tbE04WWdnUnRSenZBdU5qTlpKVVFDemZOTXNSZW9Nb01CNEVWU2ZVdWU2Y0ZjRTZhZW0yUkl6TjNJTmNLcGlJUzdvNEpzblpjVkpMM29oemstcTdBdG4xaVhOQkZ6UmdaRVZXWlXSAcABQVVfeXFMUERGaHVWclEtWmxSb0pzdG9lb09hYlhpUnBTNHNoREMxOXV0MGk2MEpHWEVtQUZzaUxQOEZLSDJfNmZSY2lWd1NiWTdTcDg3YVgzdGFmcVB0RHdtLWxNOFlnZ1J0Unp2QXVOak5aSlVRQ3pmTk1zUmVvTW9NQjRFVlNmVXVlNmNGY0U2YWVtMlJJek4zSU5jS3BpSVM3bzRKc25aY1ZKTDNvaHprLXE3QXRuMWlYTkJGelJnWkVWV1pV?oc=5",
@@ -337,6 +375,23 @@
    ]
   },
   {
+   "title": "Finland donates 10 VR Dv12 diesels to Ukraine in €2.1 million package",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzg3dTY3eml5ZXhXc3hDRU1GLXVQRDE2VUthY3JlYzBtWldIVGdJWnlQTnBVUVVkdHhzTUIzVDNmbWdCM2FGUU4xUlRzV2h3SFJMcDAybHVERzdpUEZsaHZGQVZCRUsxQ2o2THRLVHpRbDQ1YWt0VnVnVXk5Y3VYUndabVpPeE40RVc0blFYMV96czEtclJpMUJ5RmZwQQ?oc=5",
+   "source": "Railway Supply",
+   "published": "2026-10-25T10:23:46+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "8c0deda1a8604f1d",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
    "title": "Большая евразийская редакционная планёрка",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZUlqRGktVDBaaUtQN0ctcTV4d2lGeFJZMjZHakY4MjMydDhJR0tUWlk1M0pWUEowXzNOaURzamRtUjh5MTluUkV5a3d6UDJCczZ3YTJRZXhxYkwtbXBROGdJMGtudmVvb19UbTRvSEQ1ZnlvYXJWVVUydVMzTXdjelFodHVRMDI5eVZCV2F2WTgzRTkxdTdkTkZabjktcGFTSmxDcEZMZUdfRjJqWlNjLV9QTm83eU9MdkE?oc=5",
    "source": "Евразия сегодня",
@@ -519,6 +574,23 @@
    "regions": []
   },
   {
+   "title": "Comment: A question of control",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkJ0bHFoWlp4dHVfVk9MYTNJQmV0WUxSV2NtaEpaMHh6dFRlbFg3TG00UUllc0dQcE4xVjNIX3dqZXJ4S0NyQjNWR3p6OG9BTWVmR09xNmQ4eVBsTjZRUGQ4VDVJWFE2X1RnU0dfckxfd25hamZBanJIVG5XMXBEX3NPeHg?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-25T06:01:54+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "6e085508fe9b1fc6",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
    "title": "Анастасия Лаврина представила позицию Азербайджана по вопросам глобального управления в Китае",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdXBRdDg4eGtleWVMdGdFQlJiN1pWNEc0YTdnOElBSXByRS1CRTRvVGFoVmdUZGxpVHdYdC0yem96dUZ1aWFaQ1hzWk1fUUEyTVJ0d3VEUHBHX3k4NG96M251a3JFOWoxNWxtd056aFlISXVCWVl4RVdjemF1blFoRTF2YzJsSy1uQUlVM3pLQVJjMEpESWhQVXhEa2U1YUY1SnN6a0g5N2pXM09qOHROdnlLUnVhSk82SjlGNWEyNmptOWo2aTFPMmUtTDUyWTliQnVJ?oc=5",
    "source": "Report.az",
@@ -590,6 +662,23 @@
     "Логистика и терминалы"
    ],
    "id": "3390fd12dbbefb26",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Вражеские дроны атаковали логистический центр в Омске",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMl9lSEZqYnVfcFJETXd3TmtfNllHZDZUT1MzYW5kVVNpMURyUWJKWENvRWswVFVabW5BZmpCRHRrc2daUEJmY0NtekhaQ1JDaFRmWHVKRDFmRG0tb3NobG1uRVZsUG9XSE4tSGdtdWh5VUdHWHpfUGJKajk1d1N2clgwTDJqYVBZU0xjTF9pU2RFWEllWFM0ejFSLTZhZw?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-25T03:32:54+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "7443e52fda9fb346",
    "categories": [
     "Логистика и терминалы"
    ],
@@ -2068,6 +2157,23 @@
    "regions": []
   },
   {
+   "title": "Минобороны отчиталось об ударах по логистическому центру в Чернигове и сухогрузу",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xc1o5YTlWa2stNER5cVFDQWxtX2NIRTZBM1gzT1k5b0l2eFRpVmkxUGl5djlqanNwbHdjYURpcFlmWXda0gFKQVVfeXFMT19OcFh6RXNleEMybm5Mbl9aNEZsNHJ3dWowQnBXMDdzWjkwUDJidWtuWEhleHJTeDJRSzBQMWVqV1ZlLTNhRi1PQ0E?oc=5",
+   "source": "BFM.ru",
+   "published": "2026-10-23T19:45:24+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "d25a7910a38f57f0",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
    "title": "Казахстан и Таиланд формируют новую повестку двустороннего партнерства",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHE3TXo4ZmF6UnZwNDJqTFZxa1FldFhLWkVRQld0WGtXckRlTDA0ZFBVcG5zVFFXLXFabTBWRVhJMlBOTnAyYWJtUk15TlB1RlF1elpZam1JOTRXU0g1YlRFQi1CM2w4aHpib0ZFUlYydVBQcDFKU1VhV2lLWjVuOTQ4UDlKNlVsUXBDTEJMZ2xzWGd3a2pLN2FueDdLSnZod3kwRFMxQ1ZqZlU?oc=5",
    "source": "Регистр ТВ Казахстан",
@@ -2633,6 +2739,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "Siemens Mobility selected for California High Speed Rail train contact",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORVhmMmM4ZnhLTm9iVFNaYV9oelhDanlwVWxOWmlGSTAxYXM4eUV0RXdMeV9TM3ZYZnlXRkxCRlAwT0FZb1pVV0llNkpnNHJEOHBXblE3bDcySWhMRFBJc1gzR1BXUzBGcjNDQkdCSHk2NGR2U2pPVnQwS3kyYzEweGtzY18zbGJjR3EyMEZCM1FFTHpxWnlqeVBwdkQ3dUI5a3o0VU53aF9UVTgycnl2Zk1KLVlnWGNTazJTd09uY1dHUQ?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-23T13:42:58+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "e7f167590bcc42c6",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
   },
   {
    "title": "Токаев поздравил казахстанцев с Днем Республики и подвел итоги масштабных реформ",
@@ -55863,139 +55986,6 @@
    "regions": [
     "Россия"
    ]
-  },
-  {
-   "title": "How can China-EU economic and trade relations strike a new balance?",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVhJcTdxWmIweW1kWHFJNG5FWDJVQTlLTF9fTVhyQTE1cmN5dUhXaFZKU0lJXzgxMXBXazhPUVluQXBxazEwenhNZ1V4TDllNXIwSTFiQXl2blNBcUxNNzh4X2F0dkNFcjlYd25RLUU5Zktmc2lvcUN5Vm1weDlMd0lpUU8xOGJuV0dLUVFhZDZ4bVZKdWw3Y2VFUy1qQjhxVlJ4QTc2VnVPOGUxTk13VVZaaDZmcFBvdU9aS2sta3NYUQ?oc=5",
-   "source": "CGTN",
-   "published": "2026-10-08T10:23:23+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "9d5a6babde3543f8",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Китай"
-   ],
-   "also": []
-  },
-  {
-   "title": "Latest procurements of passenger rolling stock: Hyundai Rotem, Skoda Group, BEML, Newag, FPS",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNWZIY3QwZEJUTVlhVDVEckQ3WWJYZzZiaUoyQm5uRDhreG40UUJsM0Y1M3hHTjE3ZXRiV3Y1RHRTSW1lV0pCazI2Ym5ua0ZvVDMya2xLaTFGUEQxMDliOVYzVW5FR1NaalFWbXJBeFdoVE9OSXZ3Ny05bEpaMnA4Njg0eTItWTRFaUtjNzNwd3hQLVR0VTF0RkxkRTBuM0lUMkpoZExjR3N4YmRoNUlwaE5zYUd2eDlGazM0TF90RkprZHI3WWxSLTNyTE9idw?oc=5",
-   "source": "rollingstock",
-   "published": "2026-10-08T10:21:39+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "b940f3fbcb2a3876",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Maersk warns of adjustments in maritime transport between Asia and Europe and of railway incidents in Valencia",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ1RQMmxLNjFwWF9LNHNJdkNVVUVQTGpXNTR3ZHVNQ0szU0N0NXNsMk1xSTlaUUsxQm4xWVJEOGdpbFNRZndPSWhjZUlfY01UNEt1N3lFVWpSaXVpbXJCNTNlQmVTWnEwXzRpWmJQRm9IcEF2WExPOWJyNlRmay14X3puMFFiQnhKMmNRd0xXOVlTbURaRUxPLURhTjk1cFB5Mi1LOC1WQ1ZZWjlWMGc3RHM2cWR5WUllMnRsR2diRm1ESG5RRURwd1BFMnZLLUpHQWZFNEhpc3VfcVcyMFJ2enFyRHJ1UEh6LWxNUGRsUQ?oc=5",
-   "source": "El Estrecho Digital",
-   "published": "2026-10-08T10:20:00+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "144f6cf392fd39b1",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Европа"
-   ]
-  },
-  {
-   "title": "Germany blocks Cosco’s planned Zippel takeover",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHNldjF2LWdHN1VoOE1teDdkT3Z4MHBwOGh5UjJTaTBMb1YtR0NIUnNWQlRMQ0p3aGxOanFLYU9lN1FzbUVWaFZSd0huZDZEblpjdi15MUY3RnJYcjlvaThxNzdqR1hoTUV0UXNCVUQ5czF0Tmp6LWZ3dmh1WVhwTVJmWXJMcGJlTktvTnhyY3EtLV8xeF9nWkNrUzh1QlZiMW9uTDZZeUw2eDd6bWc?oc=5",
-   "source": "Trans.INFO",
-   "published": "2026-10-08T10:18:13+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "e5d0e6c5b3eb678c",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Европа"
-   ],
-   "also": []
-  },
-  {
-   "title": "Эксперты Промсорт приняли участие в Дне клиента Свердловской железной дороги",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZ0dPUDdjZVgySGFxOG9KSTNUU0FZYTBYZE5MMTVZYVQtdy1hNF9XUTlycjVxVXh1OWNRZTJwUVJjYTFTLXdOMElPVjJKNkFPMENUZVdfaXVBZ3ZhTE9V?oc=5",
-   "source": "Областная газета | Свердловская область",
-   "published": "2026-10-08T10:12:20+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "a4703335be0efdcb",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Aktau Airport seeks bigger role in China-Europe cargo transit",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzRxQkhmMlhVLVp5MUtIQ2Q4d1NWWlUxVHBoMzBjRFRfTmtKU2NteHdXYmg4MnEwN2tRNjRGeEUwNGdOTXI2Yl9FZnVscGRrb2dvYnk5d2R5ZVYtY2t5Rng2dzJUdUhqRmtSTk9Jei1YUFpkYm9IQkViRFVTZzdzMmZTc2JsOWJvVEJBWVI5Q0dpWExoUEEyeFRramcxUzRvS2x1SGozUk5EQzl0bEpj?oc=5",
-   "source": "Kursiv Media",
-   "published": "2026-10-08T10:11:55+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "1b45bf4a795de6dc",
-   "categories": [
-    "Транзит Китай — Европа",
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Китай",
-    "Европа"
-   ]
-  },
-  {
-   "title": "В Авазе обсуждают рост региональной торговли Центральной Азии",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdi0wdXQwVU56LVczdkFTVjZ5bXJHT0VEQUU0dzRCZEE5NlVXYzVjUHU2R0JERXpURno1bXhuZHpqWlVxa0FlX2s4TzRZR3ZHMG1OYUJxOUFfX1pLQi1LNFhjbHNFemZFVnVYXzY0Q2RXbGlXaUd5UzB4N2c4c0JwUzZ1amc5MUE?oc=5",
-   "source": "Arzuw news",
-   "published": "2026-10-08T10:09:53+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "8d06c57f923d38bd",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Центральная Азия"
-   ]
   }
  ],
  "sources": [
@@ -56003,9 +55993,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 28,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -56035,7 +56025,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 32,
    "error": "",
    "seconds": 0.4
   },
@@ -56053,15 +56043,15 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 20,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56083,15 +56073,15 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 14,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
    "seconds": 0.3
   },
@@ -56099,9 +56089,9 @@
    "name": "Google News: операторы подвижного состава ставки",
    "kind": "google",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56139,9 +56129,9 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56165,15 +56155,15 @@
    "ok": true,
    "count": 34,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 48,
+   "count": 23,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -56181,15 +56171,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.1
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7c4272d257c0>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7f701769d370>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -56205,7 +56195,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.3
+   "seconds": 1.5
   },
   {
    "name": "Kursiv",
@@ -56213,7 +56203,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.2
   }
  ]
 }
