@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:58:21+00:00",
+ "generated_at": "2026-10-27T21:57:24+00:00",
  "new_this_run": 37,
  "title": "КТТ Rail-News",
  "topics": [
@@ -23,6 +23,63 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Российские НПЗ увеличили переработку нефти во второй половине октября",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQanJwSXVzcnB1Tm8tc3M1dVhjT1JmdUgwVjNJOHR0MnBmbkhEaU15eHR3NUFsQVFiSVVWMWM5ZER6M3FqUmt3cC1GYUN6ZktBMGplM1p5MGFTZGRFU3RNSkZpSHY5QVFiSy00aE9HT1JWcHdydEswTHpxV2swY2hNMFpHT3k4UThWb3IwTDg0OGJZR014RU5ER2l3WkJmTEVfZk42U1VyNzV0dHJVQkRfbmdmY0o?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-27T21:32:41+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "0603573e4916dd13",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
+   "title": "Сближение России и Ирана может ускорить распад СНГ – украинская разведка",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZEVuSFBxcGxQNVFtYWtIXzl3VENLMmtORVFOdzdQSldLSGZjQTFfQjRJSGJOZkdSQnJsa05EU1FwM3dSMFVOc1E2WlBIaEh5X1dESURRdDRNb095ZWM1Z2N1T3VXazU4SVJZazZoQThZM2dsMDVZZ0JnYVQtdXlLd3J1bG_SAYoBQVVfeXFMTTdBSkpzaGdxX3I4NFhacHpIcEJUTmluSkVheER0eDI2QWZVazZRY2FTYTVYWVpHQ2V0dllxU2J2RUJRTHZtVS1ncWtKM08yOHpmQmVhWG56RU5jczVRYVJqNTBBSldmTWJOcVZNOGpzNmIzTGIzTlU1cERrd3Y2MVEzRWxGMEpSR3Rn?oc=5",
+   "source": "LIGA.net",
+   "published": "2026-10-27T20:52:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "9d2643ad4659087d",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
+  {
+   "title": "ВС России поразили в Чёрном море сухогруз с имуществом для ВСУ",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXFVTlI5UW1EeExUenpscjRwQVViSzNfMFhqV1JoVGZBVXhlVG9wSVcxUFhKbWJjR3hJdWMtdnh6bXZhdWJxYUlUSzU0cFN4QlJtUEtCWUtkbmlfZUhVTWJ2NUNraWkxQldyZkRrVU9Vc0pGelFQUjBqTHIwTzJ6YUdFSkNHQ3ZBazZYaElBQ2pBV2VUME5lTUo0aTdVV0FkczBYN3pZWjZuZEhQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-27T20:02:01+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Порты и Каспий"
+   ],
+   "id": "c3fd4b0a12b248e0",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Россия"
+   ]
+  },
   {
    "title": "Thames port disruption as derailment cuts rail freight services",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVhSR0M2R2d6Z2ZkZFBQSm9wUHBxaWt6Qm5CbXNMRGdFcm9PRm1YSzBxRWF5RzBrbkdyUTRjLTJ0NmRxN1JhUjdDbUdNamxfaW16aTlSWFl4d0wxSUxGR1g4Ymo4UTNPSFcyYlhuQW9aS3VBUTdkT3A2U2VmaFRtZFdkUEJ4X0tETS1LWjdxY3d6OHBWcHI3V01lY2hiMFJUS0E?oc=5",
@@ -55,7 +112,8 @@
    "categories": [
     "Тарифы и регулирование"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "Магистраль экономического роста",
@@ -55813,61 +55871,6 @@
     "Центральная Азия"
    ],
    "also": []
-  },
-  {
-   "title": "Минцифры: тарифы на связь не должны расти быстрее стоимости услуг ЖКХ",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxR1VsVGpoWV9KNFFjTi1PMm5ocWp2ZVlvdkNxV0xnTVlQUHdVd2ZZUUFuSXZJN2RPeG1jMnV5OFhsUmZGaVlEcXBJamsxLWpwT1ZXMHRfdGU?oc=5",
-   "source": "Новости Воронежа интернет-газета",
-   "published": "2026-10-09T13:07:37+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "f7cee785f0554d68",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": []
-  },
-  {
-   "title": "«Уралвагонзавод» перечислил рекорды к 90-летию деятельности: от 35 тысяч вагонов до танков для 77 стран",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXp2b01WMTRYUzJGSi0xaDVTT1V4WW5WeVJrQnBiOGY3OFlsNUtMN3hIQ01WRUhhcFZZbUQ2VmlFM2xaSHI2Zk9keFFBdTFFVHBtdGVtTHhSU19BNnN0eG13MWRMaTBoWHI3SExQV3prMEE2c3JiNHJDazZSWXRVeEFaMm1qYks2T1FSMFBVczFGVTZUX3RSM2Mybnl0eFhxbjEzUVBTTG44X09fVk8zZnE5Yldja0Y3eHZDXzF6Zi1YZ1QzRlJv?oc=5",
-   "source": "RTVI",
-   "published": "2026-10-09T13:07:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "fb383b042c92df1b",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Не только нефть: экономист рассказал, на чем Казахстан может зарабатывать между Китаем и Европой",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMm5Qbm5kTkpWcTZfRWhxbjhBNE5Sem04RnY1Rk10eVR3c1V5Sl8xODRwU19qcjVfdWNEWXpIeFM2QVRKMzFSNW1XVDNRR3RQcS16ZVl0WE9mWDhyWWR3U1BMQU91bVJZNXFSOFRiZ0JUN1ZfOFc0dVd5Nm9Hc0lvb2trajNnRF83ZF9UeG5TZzg0Z1o2dnFsUkpxWWRBN0tvODdiRDh6emJTV2FnMVI3VHBXR0Fhd3lxZ3ZyRk1LTDdBRzZYZDRsYlRIcEtwd9IBzgFBVV95cUxPMm5Qbm5kTkpWcTZfRWhxbjhBNE5Sem04RnY1Rk10eVR3c1V5Sl8xODRwU19qcjVfdWNEWXpIeFM2QVRKMzFSNW1XVDNRR3RQcS16ZVl0WE9mWDhyWWR3U1BMQU91bVJZNXFSOFRiZ0JUN1ZfOFc0dVd5Nm9Hc0lvb2trajNnRF83ZF9UeG5TZzg0Z1o2dnFsUkpxWWRBN0tvODdiRDh6emJTV2FnMVI3VHBXR0Fhd3lxZ3ZyRk1LTDdBRzZYZDRsYlRIcEtwdw?oc=5",
-   "source": "BAQ.KZ",
-   "published": "2026-10-09T13:06:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "41f9519dc4e09dc3",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [
-    "Китай",
-    "Казахстан",
-    "Европа"
-   ]
   }
  ],
  "sources": [
@@ -55875,9 +55878,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 20,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -55909,7 +55912,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -55939,7 +55942,7 @@
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": "",
    "seconds": 0.3
   },
@@ -55949,7 +55952,7 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -55957,7 +55960,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -55995,7 +55998,7 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
    "seconds": 0.3
   },
@@ -56011,7 +56014,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
    "seconds": 0.4
   },
@@ -56019,25 +56022,25 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 43,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 27,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56060,16 +56063,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7a50af8f9d90>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x73619c510c50>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -56077,7 +56080,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.0
+   "seconds": 1.7
   },
   {
    "name": "Kursiv",
@@ -56085,7 +56088,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.1
+   "seconds": 2.0
   }
  ]
 }
