@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T19:07:09+00:00",
- "new_this_run": 37,
+ "generated_at": "2026-10-27T19:59:55+00:00",
+ "new_this_run": 39,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,40 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Федерация металлургов призвала вернуть тарифы УЗ к уровню начала года и отказаться от нового повышения",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaGNrWWVFUkJwa0ZaZFU1RDJ0cHkzMXlrWkNFVXNwNGlGa2FycTJDSjJOS3d6VDVNTDljSllZTXdCVVd5cUxvc3lxNGRWQ0I0OUFLUGswUUpwdW5pZUlucmV4ZW1FdzdVc1VxX29LQWZrOGxPazR6WkhGTUdRM1BreTJ0ZEZYeWtMRGxnekMxVGtqZ3dCRzdra1hSS2Jfb1VKOHB5bjh4ZE9INVFxaUdYOWFYSTU3WjFpWHNLOHR1cHB5VVdabjN6VFNLZ1h4eFA2Ym5NVEZtbmtJdk5mdkZ5Z25QVnBLNnRrYkRPbWU4azJvYXQ0dXd3RGwxTW1qUk9RXzRV0gGHAkFVX3lxTE5Vbm5saXR6RFNPZlA0dk1jdkYtTGtCazFySGZPVEpOSkZHcjlKcTJmMXhiZGxtOEhlVFRoRE9xT1ltWmtmMV90aDVpb01fbDdrQm1JaWFQOEFHcmlkN3g1SnhKVFpHRTBFSnpCZmhwNUt2MHFTV1NJREM1NEV0RXhSY1R1bklaay1jVXB3Q1ZsVlV2RXJxMkJOZEdzc1dPV2o5QjFmTzUwUE1KS0lpTUhXZ05KRnkxdU1yMWxDakRteDUxdDV0dzJUS1ZuZ1lsZ2Njd0poUzFBN1RheHkzbnh6ck9CTWZWOXFVQzNVM0phanpYX3NhMi03RFdFVzFiVTRoWE9ZWWVJ?oc=5",
+   "source": "Гордон",
+   "published": "2026-10-27T19:35:59+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "226257b872e1e6f5",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Магистраль экономического роста",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tLXhCWmdPemZUajgxaDR1V09CY1RPSlhJUkVFaW5rM0VCMjZKTVQyWFhoendHZWNJZEhYREZVNnJ2RENnclB3cVJ4OFVCYUlZQXRDWGlMT3p0NFRjZmwwVHk2b1NEZw?oc=5",
+   "source": "Казахстанская правда",
+   "published": "2026-10-27T19:35:33+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "a1d2c7f359f8f75f",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
   {
    "title": "Липецкая вечЁрка: премия рекрутерам на СВО, повышение коммунального тарифа и поезд Деда Мороза",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2R1pKVUo3UFg5VFZ3OVVqVzZWTDNYQ3IwZkpSdS1JaVdlLUsyUjZ3Z3NSakJaQVNsdFF0UjV1Qk9TdEVNU21n?oc=5",
@@ -93,7 +127,10 @@
    "categories": [
     "Тарифы и регулирование"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "ЧИТА.ру"
+   ]
   },
   {
    "title": "Knorr-Bremse expands Chinese supplier base and plans higher procurement volume to boost localisation",
@@ -422,25 +459,6 @@
    "regions": []
   },
   {
-   "title": "Xinjiang's foreign trade up 11.3 percent in first three quarters of 2026",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hQ3BJWTc2ZGlwcU1MLW84VWgwVHdKNVNON1dJdmJTZVM0eElmSkpBRHhLMVN0YW5fU3ZGMWRDOGRKZEZmUENyemdHZTRVdnc0SXQ3RTVYT2VFay10cVZrV3g2RkwzU2M1N1ltZW5QMVRaaFh6ZlpkREJSY2hkdw?oc=5",
-   "source": "China Daily",
-   "published": "2026-10-27T13:31:16+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "57b67a752339efd4",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Китай"
-   ]
-  },
-  {
    "title": "Центральная Азия и Европа: от регионального сотрудничества к межрегиональному партнёрству",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVlfVk9qSVIzRG1hVjRqWFNsc1hVT0NER011MnhNWmlyQkJqM2ZNcld4YlB3VHFyZnNqS0ZsTFdSdGxDUmtCU1JkejJHVmtyT280QTlCNjBBUEtwSGo2SC1jUmpCX0JpbDZhc2xzNGEtMnlkanNWay03RW8wYnY5WTlpYlVtWnczV2RJY255aVVqeDR1dHhTQzZkUVhBRDlkMWVYTmVaUE1UQXJRVmZKSGFqT3l4UFBaSUE?oc=5",
    "source": "UzDaily.uz",
@@ -761,6 +779,26 @@
    ],
    "regions": [
     "Казахстан"
+   ]
+  },
+  {
+   "title": "Европейский банк реконструкции и развития планирует новые проекты в Таджикистане",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNE5DT2Q4TUZMd3FnZHFDbTk5WGpBU0F1Sy1iMWdkRjhUeDRKeklGck5CZHk4U2RyZlFJam1hYXNnYzhpWl9CT196ZlFKUEx1YmZjX1FBbHdEd2I2QXlBdWl3czhiOFVTVGJRMU9XSVNOMGtXRGZwMXdqcFdMQ3M0blg3eHRQYUJRSzRrNjNhSlNqZ0pLel90YXVzOXhLa2lKUkUwbzR3dzR5dHZ5M0RHN19MeXdnMHNpekc2cEJlUXRNLVowOFdFTkdtNldEZHgyYnZGUHZxdXdLRkZCc3RYT09SbXVlZGRnNzNPck5HZ2xtOUFvSFBR?oc=5",
+   "source": "egementimes.kz",
+   "published": "2026-10-27T11:05:25+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "e1483c40de343e01",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Европа"
    ]
   },
   {
@@ -2103,6 +2141,23 @@
    "regions": [
     "Россия"
    ]
+  },
+  {
+   "title": "Заболеваемость ОРВИ и гриппом перешагнула эпидпорог в Карачаево-Черкесии",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemR5UmRlM2x1TDlaZjYwZ3Job0hzUXlXaVk0Vjc2OXpCV2JQZV9PNEZ5cGQ2ZF9zQUhfcmFrV0JieHZ4R19IYjNhMHk3UnhLeTdSaHRnZ2Nuc3U4ODRQTjJwSjNmODZOcFhuUjRHQzZCX2dwNUFGSjAwLVFhQWpnaDN6OElHalVWZHQ2U1NQSnJVTU1tUVIwbTJCWDdMR3dwclQ1T0pwTDPSAUpBVV95cUxPTkpJNVRibHZPTG80LTdRblp2MlFSVGMzbEpqd3piRm1DUXlwVGpycTFTWmZVODRjUTYwUDRocjhHRnNFNGhWZ3N5dw?oc=5",
+   "source": "Вестник Кавказа",
+   "published": "2026-10-27T02:24:47+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "d6edd51565de74a8",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
   },
   {
    "title": "Из-за снегопада в Забайкалье ввели реверсивное движение на федеральной трассе",
@@ -3620,6 +3675,28 @@
    ],
    "regions": [
     "Центральная Азия"
+   ]
+  },
+  {
+   "title": "Xinjiang's foreign trade up 11.3 percent in first three quarters of 2026",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczBsVXQ3WVZCVlZsMXFHRndWd2xhT0VfdGdJTWtHLTd1cUNzdmlMclVHaExoOTlRNWktNFVnb2ItMmRDcUNFbGl3a1NULTgwUzBtaHNXblJJQlZheWl1RDFESHZRenF2WWQtUllrSklsSGloYXpfQWhFTDliNlRVcFJn?oc=5",
+   "source": "China Daily Global Edition",
+   "published": "2026-10-26T07:00:00+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "also": [
+    "China Daily"
+   ],
+   "id": "57b67a752339efd4",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай"
    ]
   },
   {
@@ -55789,79 +55866,6 @@
     "Китай",
     "Россия"
    ]
-  },
-  {
-   "title": "Российское зерно может пойти транзитом через Китай",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kcmw4Szk1a2EzdXd3aC05OWxRY3daU3FwZ3pkZlBISU5jaXB2SUczTHpvcHFuOG5rX3d5azJfMEVNaEZ1Z1lBQ0UteFRDdUN1cTVBRQ?oc=5",
-   "source": "Альта-Софт",
-   "published": "2026-10-09T12:52:36+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "19563a6e135ead9b",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Китай",
-    "Россия"
-   ]
-  },
-  {
-   "title": "Глава Минпромторга приехал в Нижний Тагил на 90-летие УВЗ",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV0ZQOWh1R2txdU1KbXlFVEJzeG1WWUdCaWxEN1VyVUc5R3MxRjFUN3F1dzlTY0pEeXdEU0YxZWktQm92TEoxTTg0c3NaajJLRHFlU25TNHZlWFpwU241TFZvZkJwanV2TC1wTndlN0c2YlR0Q3RnQWdVeEZWYlhJUHJnNnltVFBzazd0dmo5MVNGR1JYT2JnUm9iQXdFQ29seklfeE53cXBIUQ?oc=5",
-   "source": "Все новости | Всe нoвoсти Нижнегo Тaгилa",
-   "published": "2026-10-09T12:46:52+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "34bcdc3efedae455",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Рост грузовых тарифов Укрзализныци может ударить по экономике Украины — GMK Center",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFE5OWwxbnZHNlpqQ1hDTW56U0VzbkRKTTc3YmZ4RU13UDZSN0VVUUZxd2Vxck1aSDZZVnF3RWQwRFJlWWo2R3p0U3V6R3hfem11d2dTRVRwVHBfSXVZQ05JT2kwNFcwMHRVVWtmV2V4aXRzdlJLMjREc3NBM0JGMkNmY1dsNTdfOERJNUdRWGtKQ1h3NGRJX0RmNUdKSVlGejBqbWlld3pWSkNwRDJkNmdtODhFTmlZUERNWmZ3?oc=5",
-   "source": "Апостроф",
-   "published": "2026-10-09T12:36:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Тарифы и регулирование"
-   ],
-   "id": "8fa12b070672dab3",
-   "categories": [
-    "Тарифы и регулирование"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Türkiye extends high-speed rail network to EU border",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWZubUxvT2pEWFl6UmZxMDV5SW9OYnF6a1FJTFE5akpIdFdicFZMZkNIcFdMS1hwSUxaYU5udkFwTVFfMTBORG5Gdk9OYS05RjFxRDRpTDN4NG5SRDVHZHQwb3ZjTkE0dzFPZkJWSUVnZllINmluN1pxOHZOMnZPbjA0STJXb1FySVdGSmx5VkZpckpGUzdHNUJVVG0wUnJNSUE?oc=5",
-   "source": "Daily Sabah",
-   "published": "2026-10-09T12:35:00+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "c0b67379a4813a1b",
-   "categories": [
-    "Средний коридор и ТМТМ"
-   ],
-   "regions": [
-    "Каспий и Закавказье"
-   ]
   }
  ],
  "sources": [
@@ -55869,9 +55873,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 31,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -55901,9 +55905,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 40,
+   "count": 26,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -55911,7 +55915,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -55925,7 +55929,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 9,
    "error": "",
    "seconds": 0.5
   },
@@ -55943,7 +55947,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -55975,7 +55979,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -55991,7 +55995,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56005,17 +56009,17 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.6
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56029,9 +56033,9 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56039,7 +56043,7 @@
    "ok": true,
    "count": 9,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -56054,7 +56058,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7904d49288f0>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x70afcf2d6240>, 'Con",
    "seconds": 300.6
   },
   {
@@ -56063,7 +56067,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "seconds": 1.5
   },
   {
    "name": "PortNews",
@@ -56079,7 +56083,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.5
+   "seconds": 2.2
   }
  ]
 }
