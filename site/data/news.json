@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T22:57:53+00:00",
- "new_this_run": 32,
+ "generated_at": "2026-10-27T01:13:44+00:00",
+ "new_this_run": 33,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -24,6 +24,43 @@
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
   {
+   "title": "China-Europe rail tops 140,000 trips since 2011",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlU4LUNPdVpDTXlnX3p6dHd0ZXNUQ2FXM1BnTUhlV1JYbWc4dWo2UWNnZl9qcWR5akdDX3p4MkFkV091ZU10X2M4b1VYSWhoNVFzZ016SFphcHlfXzJnX2lKN2hrYXdiMElHc3pkcngtV1BCMENHczF4MnNGaXhLRnV0R1RIWWZSYTRsV0t1YXQ1TWE3b3o1MzJBbE44LXlkdkxTN3V3T2hwNk0?oc=5",
+   "source": "The Star",
+   "published": "2026-10-27T00:14:03+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "3f93752b16a72c60",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": [
+    "Китай",
+    "Европа"
+   ]
+  },
+  {
+   "title": "Доллар вырастет до 95 рублей к концу 2026 года. Что будет с евро и юанем",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjNsaUlMbzNxZ0MxZkpuWG1zUl9sQ1FBMlRITTVHSVp4SzBvaHFNN18zWWJOVWVNX1lZeHF5UzhEakt4ZF9iY1drb1BuWlFKUkh1Rk8zN0FnRW9xUklRc3lYN3JVRklnbWtPUkFJVnB2Q3I3bENxSk90eE9NdHBTZnp4OEp4ZlFncVBxOTN1eFZrdzVwaXdfWnRuNm5BbG9GdkRCVl80OEpRV1lRVk9CT0NhN00xRmc?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-26T23:23:55+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "ae5bdec32f0898a9",
+   "categories": [
+    "Тарифы и регулирование"
+   ],
+   "regions": []
+  },
+  {
    "title": "Электричка идет в Комсомольск",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GNm94R1FRa3drQXhKcUQ4bnBoRHdBVzNOS082bU1KcE1YdkVkeEZNb3JSWGhUZVJDRkNsZUZRNlRTelA1WURsVExvUERIbENjSmlVREIydkVKMHBZczZWMl9PaDA2SGFtX0ZKdG02NDZMYW8?oc=5",
    "source": "Eastrussia",
@@ -39,6 +76,26 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
+  },
+  {
+   "title": "Баллы вместо прописки. Китайский след в вагоностроении: Россия закрывает рынок от «отвёрточной» сборки ваг...",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0kzRWh6NEQ2dkg2b2thUFhTYjBqNGtCUW9QNkdSenFqTy1abWo2Qk5vMDczQU44N0FWc284VjlKb1cxMVA1U2VHRkh3UHF2emYzWE1yT2hsdWh4c1lyd2tJWk1XU1BOTF9ZS2JTSGwtMzAycjR4ZXFhMDhDNU5GOTVFNlpJMVdSeXdKQXZUTXQxVU1sTGltZ3JQVG5Yc1VQSGJXY1VLeUFQZEg20gGyAUFVX3lxTE9uWXF5dXIyVjVxOWU1TVFQSmZFQVpWaTgzTExvMmhEWDFsSDAzN2djV2tDLXo2Mjdrdks1YmhvSkhNbnR4ZTdneWViVVFHdkl2R1FOM2FVQ0ctZFg0aWg2bDZtTlpHOTVXZ3dTX2g0bzZIdG5IOF9LdWRjbTJHd1dIR3d1SzhRVzNLV3RkeDZ5bkNTY3hpOENCbmJic3dFVllwODVMV0tIZ1lDaXFyOHFGc2c?oc=5",
+   "source": "Vgudok",
+   "published": "2026-10-26T21:30:02+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "id": "a8d37aaedb0c6c9a",
+   "categories": [
+    "Вагонный парк и подвижной состав"
+   ],
+   "regions": [
+    "Китай",
+    "Россия"
+   ]
   },
   {
    "title": "Индига – Карачи. Стратегический маршрут через Азию избавит российские грузы от риска проливов",
@@ -526,6 +583,26 @@
     "Вагонный парк и подвижной состав"
    ],
    "regions": []
+  },
+  {
+   "title": "Между портами Туркменбаши и Алят могут наладить фидерное сообщение",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWtKakJ6RHY5bnpjb1FhaGludmRBZDlSMWJpTVc3VEVxSnFkMHhzSmtSOEt1alpCc1k2aS00dlUxMndCTEYzVVUyQVJPRlVtRTRmcUM5X3JqMHllaFFHLWx4MXQ4TTdhR3pYZUFfLWNsSGk4RjR4VGJzMDhBQ3FrMklDUnJmUDBsOTRhZS1yWE9zdFJMbE1leW00ekNLTUpienppSTZVU2VtMFdmT0E?oc=5",
+   "source": "«Бизнес Туркменистан» интернет-издание",
+   "published": "2026-10-26T12:26:27+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "f4cf763eca4ad0b6",
+   "categories": [
+    "Порты и Каспий"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
   },
   {
    "title": "Cаммит глав МИД стран Центральной Азии и Грузии в Батуми — в фокусе Средний коридор",
@@ -1317,7 +1394,8 @@
    "regions": [
     "Китай",
     "Европа"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Экспорт не греет // Россия выпала из тройки крупнейших мировых поставщиков некоксующегося угля",
@@ -1981,6 +2059,23 @@
    "id": "e5eccf9cea269e4f",
    "categories": [
     "Средний коридор и ТМТМ"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Олжас Бектенов обсудил с предпринимателями проблемы и перспективы развития транспортно-логистической отрасли",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KaVJwX29FckxTdXNMRXRuNWVQYTJpcnlhODdUNHUzUmV2T1FkS01MUkJqVGYwTjRvVThtbThFaHc4MVFWcFJpUkJqazl3WXhTcEdGMnhIakRTQldXeTh6WHR3VklIZjlkTU5fQUJJREZZVDZ0?oc=5",
+   "source": "GOV.KZ",
+   "published": "2026-10-25T23:17:59+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "ec68c045ceaf68de",
+   "categories": [
+    "Логистика и терминалы"
    ],
    "regions": []
   },
@@ -55803,102 +55898,6 @@
    "regions": [
     "Каспий и Закавказье"
    ]
-  },
-  {
-   "title": "Visitors from China spend more in Kazakhstan than those from Russia",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVFhME1JWng3ZTJJaTZMOFJJbUgzNnI3ZVltWl9ROEREU1BwYzRvblc1cGxIVjVYdWRjdWZiNkJMRmx6dUhIcGtLalVxWTNBU0JfTHdpQ2lVRFhsWE00S3ZUbFE2Wm9iNzJnSFJENE9ER1JtcmxaVWFYdFBiZ1B3UUxVaDZXMHZsaUFZMjczUXRmRXAtRnVJYVJYSHg2R09RbGNJbnZ0VkVjWllNX3FhekhjNXZ6RUk?oc=5",
-   "source": "Kursiv Media",
-   "published": "2026-10-09T06:14:15+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "6e9715f0129a822d",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Китай",
-    "Казахстан",
-    "Россия"
-   ]
-  },
-  {
-   "title": "Глава КТЖ потерял должность в одной из нацкомпаний",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmV0ZEMwVmlkRUl4aFFfTkU4Vkk4dUZvekVieG1oUEZrWVZxVExTV1g5Umg4ZDU1RWZIZkt1aVRPR19CSzNFZUtXVGtwQ05mMmM5SFFUZ3ZRWndmUWVVZzJkVVdUVExyeTlrSEcxNmVUdE1EOFowNWt3OXA2bHBTNmQzT1BtODQ?oc=5",
-   "source": "Forbes.kz",
-   "published": "2026-10-09T06:08:22+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "also": [],
-   "id": "4553f3f8416a1482",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
-  },
-  {
-   "title": "Смоленская область вошла в тройку лидеров по росту железнодорожных грузоперевозок",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3V5VERady03VFRJTndXcWNIQXMzRVBBYlZlXzhxNEN2bC1INl9qb2lMNXIwU1JOM294Rk82ajcwV1EwV280LThFYld5aFR2aW8ybUhqOEM2TUkzRG5QOWg5OEMzV0hiUnRkaF9nTWlwOXYxZ1BRS25Xd1YtZXZuSzdKNy1Sb1gtdXhVazBrZ1lTNkNmMFRRNTN5QWZLVVBrcmFrbHhseEo?oc=5",
-   "source": "Печь.Инфо",
-   "published": "2026-10-09T06:04:31+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "11a28ddf86e89358",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [],
-   "also": []
-  },
-  {
-   "title": "Глава КТЖ – Грузовые перевозки оценил работу Trip Optimizer в пути",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT1Q5a05kcEF1MXZhZkR1UXMyWTRWUm90d0VWNzRUSEF1VFJITnJVLUllZE82MWkwbUs3SGxRV3AybTNMdEgzdFpyTC1rOUJxMlZST2Y5MHo5NllDZUh6cnVVNWRGYWtuWnVJWUh5WGJwZjc3NHlPWXZrTDk4dFRUSnlzMzhMcVlfSGFCNFgzWjBjWTNhTmVwQ2pCaHgwMklzQ1VMQjlvZw?oc=5",
-   "source": "Қазақстан теміржолшысы",
-   "published": "2026-10-09T06:03:57+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "f6ec4de3f0b124c7",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
-  },
-  {
-   "title": "Медиа - Новости - Уралвагонзаводу — 90!",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwaHhrT0hBZXpiSWVhT2tiLThtdTMwZU5zb3ZYZ3FhRkxwWEtEQ3NSaTZ5ejgwU1d2MEFqTkI2QmQtamxRcHRZRWQ5VWFyOFVLMjZFRzZiS1FHd1Fn?oc=5",
-   "source": "Ростех",
-   "published": "2026-10-09T06:02:10+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "f250e2435c68e4f7",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": [],
-   "also": []
   }
  ],
  "sources": [
@@ -55906,7 +55905,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
    "seconds": 0.5
   },
@@ -55938,7 +55937,7 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "seconds": 0.4
   },
@@ -55954,15 +55953,15 @@
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 16,
+   "count": 7,
    "error": "",
    "seconds": 0.3
   },
@@ -55972,13 +55971,13 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
    "seconds": 0.4
   },
@@ -55986,7 +55985,7 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
    "seconds": 0.4
   },
@@ -55996,7 +55995,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56012,7 +56011,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -56020,7 +56019,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56028,7 +56027,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56036,23 +56035,23 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 18,
+   "count": 20,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 45,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56060,13 +56059,13 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "seconds": 0.5
   },
@@ -56076,7 +56075,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -56084,15 +56083,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x743b0c564740>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x79fc9575b350>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -56108,7 +56107,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.8
+   "seconds": 2.6
   },
   {
    "name": "Kursiv",
