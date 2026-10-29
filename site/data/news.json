@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T16:15:59+00:00",
- "new_this_run": 59,
+ "generated_at": "2026-10-29T17:15:34+00:00",
+ "new_this_run": 55,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,42 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "«Народная стройка» охватит все регионы Казахстана: поручения Бектенова",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ1NndFdOSmdPZ2dlSUdhVE1GNWxfX2pzaUtJMmp6SHk1djFBd1E4d3JMeGJkaVhMb2x3UVZUMzhMNXhMbTZXMXVnOER4MmdjSnFxdW5xZ0lfNTR1RDZRZWkyYndwVlRxdFVlOWQ0alN3MjBWUXdQSkt6M3VDeEZNVzZsY3FQVThGd2FNeURsdw?oc=5",
+   "source": "DKNews.kz",
+   "published": "2026-10-29T16:58:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "a63741888fb9e69c",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "В Испании после трагедии на железной дороге машинисты объявили о своей забастовке",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGd5a1kxc05IRzdzcXVHOGlwMHVLTzNzZWhidXp0WDB1V3J4dXpNd3dPR2F3X3d0Qnp3TnpkbHlVTGxsTE5pZ19oVXNycFZPS04zY0RkeXVkM1FxUGd1SnAyZ2NkTC1IV25Jd01NakM0czFXU2hKdG5rdlhaZDBXSld0RGh0LUIwT1lDUDlHdENrTWZPTXJlcXk5VlFfQWtRa1ZtQVpwbXBwcExUQ05hWmFKSEVGTExzd2R6VkFIQUhWUQ?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-29T16:15:34+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "4fc917d0efab7bbe",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
+  },
   {
    "title": "В Казахстане из поезда Китай - Польша украли более тысячи ноутбуков",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LUldDSmEzb3hQdlBVSEVKNWJVc2treEZxNXNPLWFxVjg2alNodmlBWVVlNHBTYUphTnVONzhFVTVGcjljbDlLdENB?oc=5",
@@ -61,7 +97,8 @@
    ],
    "regions": [
     "Центральная Азия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Объем переводов по СБП по итогам года вырастет на 18%",
@@ -117,7 +154,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Kazakhstan's President Tokayev outlines major construction programme and economic reforms in State of the Nation address",
@@ -446,6 +484,26 @@
     "Логистика и терминалы"
    ],
    "regions": []
+  },
+  {
+   "title": "Строительство железной дороги Китай — Кыргызстан — Узбекистан: как продвигаются работы",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEdwZzZ0SWpCeFc3bE54ZWRmb0tPSjhJUUp5dngwNldlSXEwVThjZkY0Y0RUNFprbVgzV2ZsdTFmc0FpZHZGVWx4V1ZqaDAyWG9rMmVJR2RqMDJuaWNuUTV2S1ZvdTZjd1RKUDBXcmpORnB4bE9HWjc5LWFlaHBIbTNFOWpBeVNfSzMzOWZuZjFtaVZ4Qjd2dk9aQTNDT2NBWmtLeFFIalhRajB5am5SazdLU0c1S3NjMmhvdjlsRDFiQdIBygFBVV95cUxOQnZNSkNxcF9jVHpadDhSRjg0ZDFRb2NjMmo1Ml9JejczYUM2VHNjcGlaMWYyNHJFQ3pvOHdiUm5Va3BqVGxraTZkQklLOTZUQkM1b2piRUtmNndORUlBQ3hsaFFzSXJ2Y0ZjVndKSDQ1eW9ZeGxGSmxxa2dZajJ4OXV3NEJ5WkR5N3FrczJNaVZDdVF6VUdjeEFHN2ttMVdCcUM4OGx5QjBlSzVaRnlLckRJbmpoampRbWQzUVpXOE1iQXI3a2phdEdn?oc=5",
+   "source": "Weproject.media",
+   "published": "2026-10-29T12:16:31+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "4ba523aef9b6d010",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай",
+    "Центральная Азия"
+   ]
   },
   {
    "title": "Грузовые поезда из Китая в Европу обокрали на 633 млн теңге в Казахстане",
@@ -55875,64 +55933,6 @@
     "Каспий и Закавказье",
     "Россия"
    ]
-  },
-  {
-   "title": "Исламабад и Ашхабад рассматривают запуск прямых авиарейсов",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFhMM3I5bG0xYjBjRmVzekk2MDcta2FfMUdWWVRvSm5FVGt2aW4xZXhUY1FiOG5KV0pNNl9fWi00c2JTX2ZsVndMampydEwxdWROME9Xa3ZSOUlaN25vcmVEVzlUSEZULXRwM0U2WUpjamRnVHk2SUVNTDBZZjlXX0o3Wmt2WnBLYjVwOTdwdmtGekF5OFBxVA?oc=5",
-   "source": "Asmannews",
-   "published": "2026-10-12T09:58:43+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "3448c1002b7b4d97",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Глава государства провел переговоры с Королем Филиппом и Королевой Матильдой в расширенном составе",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lTzlXbFh0YS1PX2h3SklWcEF1OXFSdWdCb0tKZXRnS1BBOXRURzFrZFlIcENvTW41alBSQ01rc3JGVU04NWRGTFBCQllfYVNw0gFQQVVfeXFMT2VPOVdsWHRhLU9faHdKSVZwQXU5cVJ1Z0JvS0pldGdLUEE5dFRHMWtkWUhwQ29NbjVqUFJDTWtzckZVTTg1ZEZMUEJCWV9hU3A?oc=5",
-   "source": "«Астана» телеарнасы",
-   "published": "2026-10-12T09:58:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "7e37228a35923024",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Более 400 локомотивов КТЖ оснастили интеллектуальной системой Trip Optimizer",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVlNUndMazQwa1J0MWk5bnA4Y1dSRFdSMEE0emJybFpSU2NtTWFvcmNsYVJQcTZqSHFqQUE2T2RrMUxoa1F4R2VDNk1BMkk3Z2l4c3ozVjBJRXdQbE9GVEhRUlFzQ25kSVdobGRLRUJfR2RMUHAzb2ZjR0dfSTh6VmVkMzhpNEwtVE90dlIxbmxtcWt0eURRTFBmbG4tUmRqTkcxMVR0NzAyNmpkTXg5cjlJWHc0Zw?oc=5",
-   "source": "Қазақстан теміржолшысы",
-   "published": "2026-10-12T09:55:47+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки",
-    "Вагонный парк и подвижной состав"
-   ],
-   "id": "76346bbfd9682154",
-   "categories": [
-    "Вагонный парк и подвижной состав"
-   ],
-   "regions": [
-    "Казахстан"
-   ],
-   "also": [
-    "Profit.kz",
-    "Регистр ТВ Казахстан"
-   ]
   }
  ],
  "sources": [
@@ -55940,9 +55940,9 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -55950,7 +55950,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: контейнерные поезда Китай Европа",
@@ -55982,7 +55982,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -55990,15 +55990,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 14,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -56012,9 +56012,9 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -56022,7 +56022,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 1.4
+   "seconds": 0.4
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56030,7 +56030,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 1.0
+   "seconds": 0.4
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56038,7 +56038,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 1.0
+   "seconds": 0.4
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56054,7 +56054,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 1.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
@@ -56062,7 +56062,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56078,15 +56078,15 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "seconds": 1.4
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "error": "",
-   "seconds": 1.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56100,7 +56100,7 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 36,
+   "count": 35,
    "error": "",
    "seconds": 0.5
   },
@@ -56108,9 +56108,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 38,
    "error": "",
-   "seconds": 1.1
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -56118,15 +56118,15 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x77def6e0ef00>, 'Con",
-   "seconds": 300.7
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x753606ed1850>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -56142,7 +56142,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.5
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -56150,7 +56150,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 25.9
+   "seconds": 2.3
   }
  ]
 }
