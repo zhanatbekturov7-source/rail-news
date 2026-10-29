@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T20:06:50+00:00",
- "new_this_run": 58,
+ "generated_at": "2026-10-29T21:05:33+00:00",
+ "new_this_run": 48,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -79,6 +79,9 @@
    ],
    "regions": [
     "Казахстан"
+   ],
+   "also": [
+    "AOL.com"
    ]
   },
   {
@@ -136,6 +139,25 @@
     "Тарифы и регулирование"
    ],
    "regions": []
+  },
+  {
+   "title": "Iran launches first export freight train from Qom to China amid US naval blockade",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUR4SU1ERlEwNkFJT1BIMXBDQnFUVzVTUEJ1Zmw2X1FVZTZiZTNKQ0t6LU9ESWI3Zm5aMk9YclNBZU1NU1F6dV9DQkIwbEUzaURBUGFCd29XbHdXYWlMZG5ZYnAzOGJ5Xy10T0FkcEhFOHB0ekxFNmhkV0tZQktpbE9RSzhuRXFieC1RUlRjZEpMOUlFMG45aXFLakxnbmNXNTVEZ2ZHQ3VqelA1N1V5UQ?oc=5",
+   "source": "thecradle.co",
+   "published": "2026-10-29T16:36:22+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "7e745467d84fd8e8",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Китай"
+   ]
   },
   {
    "title": "В Испании после трагедии на железной дороге машинисты объявили о своей забастовке",
@@ -260,23 +282,6 @@
     "Средний коридор и ТМТМ"
    ],
    "id": "e8fe87ac9dd37ce6",
-   "categories": [
-    "Средний коридор и ТМТМ"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Токаев прибыл на саммит тюркских государств в Анкаре",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1TXFlVm1VXzhaYXA4THZKSkYzUjQyaVg4Zi1FTDg1NmFKRmQ4RFhKVkNtYjZlMXQxcHc4QS1hbWw0UUNhRVJ6Zzdn?oc=5",
-   "source": "Ак Жайык",
-   "published": "2026-10-29T15:58:30+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "d052ab6c68526600",
    "categories": [
     "Средний коридор и ТМТМ"
    ],
@@ -410,6 +415,23 @@
    "regions": [
     "Каспий и Закавказье"
    ]
+  },
+  {
+   "title": "Лидеры тюркских стран прибывают в Анкару на 13-й саммит ОТГ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlJxNW1FdEY4YW5PTjVuNnpnYnJqVnJ2Ukw2Q0lqM29IZVpwLW85M1ZTRkdRYlFyX3RUMU9YYzVVc1Z3MUJ0RmZpU29XWFZGSDZublpLVENMQ3BURDdNR2tSYzFVMEpVcHhCcGs4azYwcWllLTNoSnpIU2NPaUZtd0xqRmdQQ0hiR200endoTlowVHdDdGIta0ZOMWFxY1JJbjJEVEdCMkd6amRIYnc?oc=5",
+   "source": "open.kg",
+   "published": "2026-10-29T13:59:56+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "f3fb4d7fa1ae7409",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
   },
   {
    "title": "Ожидание нового повышения цен перед повышением акциза на топливо: сначала бензин, затем дизельное топливо",
@@ -1889,7 +1911,8 @@
    ],
    "regions": [
     "Казахстан"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "Суд дал «Брянсккоммунэнерго» 2 года на разработку плана снижения выбросов",
@@ -2711,6 +2734,23 @@
     "Китай",
     "Европа"
    ]
+  },
+  {
+   "title": "Токаев прибыл на саммит тюркских государств в Анкаре",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1TXFlVm1VXzhaYXA4THZKSkYzUjQyaVg4Zi1FTDg1NmFKRmQ4RFhKVkNtYjZlMXQxcHc4QS1hbWw0UUNhRVJ6Zzdn?oc=5",
+   "source": "Ак Жайык",
+   "published": "2026-10-28T20:08:18+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "d052ab6c68526600",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": []
   },
   {
    "title": "Регоператор: участники не заявились на торги по вывозу мусора из-за низких тарифов",
@@ -55886,45 +55926,6 @@
    "also": [
     "Qazinform"
    ]
-  },
-  {
-   "title": "Садыр Жапаров призвал мигрантов вернуться в Кыргызстан, заверив, что работа есть",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaktjYVJKbEhNY3l0MTFob0JJMmJtSEp2YU42RWlNSC0yMDB6Tl9sTHBUT1JjQVdWckdIcWgyc0Vja0ZYSV96OUNmUmlCeXdlTHBNOEtRTXQtTmJadFoxU1VUZGxQbkk1UnJDWXExalJtWElpYVplOGd0ZWhyNHBPVXBFU0xjMVVDOVdGSDhoVm4?oc=5",
-   "source": "Азия-Плюс",
-   "published": "2026-10-12T12:12:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "6b80ffbb0f21557e",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "China’s top diplomat to visit Azerbaijan and Balkan countries to boost ties",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkNPMUlrUEZUdFpGRVhqZEJ4N0hCUHd3YkFCZEk1LTRuWE5ORjNrNkJWX2FDVzN3OS05Y1pMeS1qM09Kakh1ZTJfRjY0LVVMTENCa0RWZjFCUVdXMUpaTUYxeDJ1VVpETm94ZjI1b0tXbXk4WVlpRk42engtdDVtTUFCMEgxeGpQemJjaE1XY3BXRUxrWU9HOXFvVVlla1F4UFQ2Wi1MZGpkdXpqNXVncXN0cmZ3UkVvZmtqU2NRZTVjMW9rN2l2aElkOUt3aHdsY3dz0gHTAUFVX3lxTFAyQ08xSWtQRlR0WkZFWGpkQng3SEJQd3diQUJkSTUtNG5YTk5GM2s2QlZfYUNXM3c5LTljWkx5LWozT0pqSHVlMl9GNjQtVUxMQ0JrRFZmMUJRV1cxSlpNRjF4MnVVWkROb3hmMjVvS1dteThZWWlGTjZ6eC10NW1NQUIwSDF4alB6YmNoTVdjcFdFTGtZT0c5cW9VWWVrUXhQVDZaLUxkamR1emo1dWdxc3RyZndSRW9ma2pTY1FlNWMxb2s3aXZoSWQ5S3dod2xjd3M?oc=5",
-   "source": "South China Morning Post",
-   "published": "2026-10-12T12:11:19+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "1eac71575a1b0c62",
-   "categories": [
-    "Средний коридор и ТМТМ"
-   ],
-   "regions": [
-    "Китай",
-    "Каспий и Закавказье"
-   ]
   }
  ],
  "sources": [
@@ -55934,13 +55935,13 @@
    "ok": true,
    "count": 45,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
    "seconds": 0.3
   },
@@ -55966,7 +55967,7 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -55982,15 +55983,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
@@ -55998,15 +55999,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 32,
+   "count": 25,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -56022,7 +56023,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56030,7 +56031,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56052,7 +56053,7 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
    "seconds": 0.4
   },
@@ -56068,39 +56069,39 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 47,
+   "count": 20,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 18,
+   "count": 16,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "seconds": 0.4
   },
@@ -56117,7 +56118,7 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x73df726cf050>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7d91fc504cb0>, 'Con",
    "seconds": 300.5
   },
   {
@@ -56125,8 +56126,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.3
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.2
   },
   {
    "name": "PortNews",
@@ -56134,7 +56135,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.1
+   "seconds": 1.4
   },
   {
    "name": "Kursiv",
@@ -56142,7 +56143,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.7
+   "seconds": 2.1
   }
  ]
 }
