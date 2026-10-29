@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T04:08:44+00:00",
- "new_this_run": 50,
+ "generated_at": "2026-10-29T05:08:09+00:00",
+ "new_this_run": 45,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,40 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "PTC Holding расширяет сотрудничество с китайскими партнерами в сфере железнодорожных перевозок",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXRSWHg0QUk2c3oyRV8xeTYxVTZ4ZldiNVRzRFliZW10VFRlb0RRbTdOMTNUZzU5bk83Qm55RndiNFJZMi1JRHRhUHZhNXFPVTdKdnZyenA1VVdOUmxSSlM5Nlh5dWpEUDR1VDI0YjlWQnB2ME9CVDNxamMyMFREdmR5VmRUT29tQUpfREtHOVUxeHowYXdTaUZ1b05QZU5aUUZUUngtU2dqY3BPeVdjVlRza2pKam90RE1ONDVIRGRHckZ2cTVwdw?oc=5",
+   "source": "Inbusiness.kz",
+   "published": "2026-10-29T04:35:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "5a76641b875e46d2",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Китай"
+   ]
+  },
+  {
+   "title": "Почему замена масла каждые 15 тыс. км может быть опасна для мотора",
+   "url": "https://kz.kursiv.media/2026-10-29/cntr-pochemu-zamena-masla-cherez-15-tys-km-opasna-dlya-dvigatelya/?utm_source=rss&utm_medium=rss&utm_campaign=cntr-pochemu-zamena-masla-cherez-15-tys-km-opasna-dlya-dvigatelya",
+   "source": "Kursiv",
+   "published": "2026-10-29T04:25:43+00:00",
+   "summary": "Замена моторного масла через каждые 15 тыс. км, как это делают многие водители, подходит не всем автомобилям. При частых поездках по пробкам, коротких маршрутах и регулярных холодных запусках оно быстрее теряет свойства, сообщают «Автоновости дня» со ссылкой на автоэксперта Андрея Бабушкина. Чем опасно старое масло По…",
+   "lang": "ru",
+   "via": "Kursiv",
+   "q_topics": [],
+   "id": "9e376796af19cca1",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
+  },
   {
    "title": "РЖД решили не менять правила перевозки животных в пездах",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanV6R1hDZlJkWFUwVmhSNFgwRkF6dEtqXzNZdGRrdVdmNzMyOE5FTk9NV1pkSUV5Z3VQMjV0Y2o0VExTLVljQUF1amZ6M3YzN0I1eFNiaTRCLWpSVmVLejJhTE4yX3oyQVlhY2IzR084MUNZTjY2ckMyT1RURkNnS1FIUW5VUEl2N0lMMEVnWFVqSGhPVVJydU1lMDVNUjBm?oc=5",
@@ -219,7 +253,10 @@
    "categories": [
     "Грузовые перевозки"
    ],
-   "regions": []
+   "regions": [],
+   "also": [
+    "Substack"
+   ]
   },
   {
    "title": "The road from China to Europe is shortened by 3 days ᐉ News from Fakti.bg - Business",
@@ -55828,44 +55865,6 @@
     "Россия"
    ],
    "also": []
-  },
-  {
-   "title": "Токаев предложил соединить Средний коридор и проект TRIPP через Азербайджан и Турцию",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa2lFczZTZTlmN2lKOVVJLU5ZSjhld0FtaWFNYm9nZmpILUVvMlhBV1cyckFuLXNkaUFvUkpIX2psQk9KV0tVNGZTLTB2NnRDQ0EwQU9aU1BvSnAtWUl3MXdMc28zd243WGNneFJKTVRwR2ZHeHpsM2lOVWp4aFdtSDlKUzBMTHBuVFZJMg?oc=5",
-   "source": "Правда.Ру",
-   "published": "2026-10-11T19:29:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Средний коридор и ТМТМ"
-   ],
-   "id": "cfe48f093c89e01f",
-   "categories": [
-    "Средний коридор и ТМТМ"
-   ],
-   "regions": [
-    "Каспий и Закавказье"
-   ]
-  },
-  {
-   "title": "Использовать общую географию как преимущество: что обсуждали главы государств Центральной Азии на встрече в Авазе",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13OFpYWEhHeWNZZ1VuUHNQLU51b3E0SVJKTnNHTUhkTGkxTkNvWVV4MTBYV09nT2dubEt5aVpYN1ZjTk5SUFVRaldEMWdiaEtLc0F2bDlvNkh6STUxbjlISzVJcWh4MXhVdnZpVw?oc=5",
-   "source": "Газета.uz",
-   "published": "2026-10-11T19:15:02+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "49bddc0f306c7f95",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Центральная Азия"
-   ]
   }
  ],
  "sources": [
@@ -55875,7 +55874,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
@@ -55899,7 +55898,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
@@ -55923,21 +55922,21 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
    "seconds": 0.4
   },
@@ -55945,15 +55944,15 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 10,
    "error": "",
    "seconds": 0.4
   },
@@ -55961,9 +55960,9 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -55971,7 +55970,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -55987,13 +55986,13 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": "",
    "seconds": 0.4
   },
@@ -56003,15 +56002,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 45,
+   "count": 24,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
@@ -56019,7 +56018,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
@@ -56027,15 +56026,15 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 31,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56058,8 +56057,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x78b356185a30>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x73ea64995340>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
@@ -56067,7 +56066,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.4
+   "seconds": 1.3
   },
   {
    "name": "PortNews",
@@ -56075,7 +56074,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.5
+   "seconds": 1.9
   },
   {
    "name": "Kursiv",
@@ -56083,7 +56082,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.6
+   "seconds": 2.4
   }
  ]
 }
