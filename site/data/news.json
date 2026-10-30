@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T23:58:13+00:00",
- "new_this_run": 55,
+ "generated_at": "2026-10-30T01:27:12+00:00",
+ "new_this_run": 59,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,42 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Хоценко обсудил с главой ЗСЖД модернизацию железной дороги в Омской области",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX21qWGNvZ1VEWWtoYlBQQlgtWFdOalhBVDNxREFFZVZKaGdlUXFkQXJTRzlRaHdLNFNDalFfQlNsQzJ0OVVVWV82bjRwWlBuUjU4MDJuaDZCOWRraEVoUXJudzMybFJ1WTNaV1lEby1vR2lHR2wyMFRNVHNkQ3JHSm5qelY4U1ZsNVdTSW1FcUg0V0FhNTFqcFFjMUZHZ1JDNmk1NXBEbUxyMlB1YVlFdUdSY3FLRFlLQmctNw?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-10-30T00:41:15+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "79bbc281dd8ae39e",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Константин Корнеев: «Центральная Азия заберет все». О том, как поймать инвестиционную жар-птицу",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORFpaYzdGUFJYSExKOXl6M1lTXzZlNDRIQzVMa1RzM2dZNmNoZERPLWFwWHdBTnR6T1U4VWFyRFdjTXRRbWZGY2lkV0d0bXBJeU9sdm1scXhvX01FV29ldms3ZUlNMVYzZ0Z2eUZXRDE1bjQwQjI2MHljU09MdWpTT284VEZIcUVsM2RIcXZWWjg1ZURhaFc2bnBMRFh2ZWRvZnFVT21DYW43NWRrMEhSRTFLOFN1eVpNSjJrX3BxdjVCb29zZDJVcDF3c04?oc=5",
+   "source": "Dairynews.today",
+   "published": "2026-10-30T00:12:58+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "1ecbabf0be81a2dc",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Центральная Азия"
+   ]
+  },
   {
    "title": "С начала года 89 подростков погибли на железной дороге",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWpxTXljNGxTeWEwcDM5bWpGdmgxNUxBSVVSUFZRUC1fMndrZnN6S2JWN0I2OUFNYVJhQklhXzlKWUlnd1FxMG1aU0FYOUQ3MWtiWmZTdEx2cWp5VWRLcFNpRTJtUjRuY3Ezd1I5eU9FaTVNZ1dyUnZsZ3hwWlUwOHB0aUJfczRYejJOY2cwelljRk9hNHZBa0owVHpFUQ?oc=5",
@@ -664,6 +700,25 @@
    ],
    "regions": [
     "Россия"
+   ]
+  },
+  {
+   "title": "В Узбекистане автобусам предоставят приоритет на газозаправках",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakV5UEhGZ28xcVlhNExwelJsUmMwblktLXFzWHZFdVhwRnhDcDNLOUI5ckpwb242am1reG5JRWFuVVJsaUtUdlF3VTA2eGZBeUZPdDdwLXhReGZabTlTcnJsTHJ0MXA5RnpsNEpnUWxKRDhGVVlqWVZGXy1Bd254QnIzSlUzUU5hU0JzRDQxR1ZLN3hWN1E?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-29T13:10:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Средний коридор и ТМТМ"
+   ],
+   "id": "9e946f424c513697",
+   "categories": [
+    "Средний коридор и ТМТМ"
+   ],
+   "regions": [
+    "Центральная Азия"
    ]
   },
   {
@@ -55857,67 +55912,6 @@
     "Инфраструктура и стройка"
    ],
    "regions": []
-  },
-  {
-   "title": "Alstom delivered 18 Traxx Universal locomotives to CLIP Intermodal, accelerating Poland’s development as a regional transport hub",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcDMyYmVGYjJ0UC1KX0hNVzg5Z1A1R3NqX0hHOHZDZDR2T2ZTaWtCaDFHa1ozbF9XZS1VQ29EcUlyWVgxa2hHdFZUZ1QzdmFvM0stTk02Z0hkSjJzckxwYjVOdlVIUEpLU3R4SDJ1eTVnWVNuUFhMLXFhWE5uY1Q3cXdrQi01MThYSnVQbkFjaFJLcW5MOEZLbVpEcnQ1cDF5T0loZEhIM2pHeE9qd1M5UjlsNmFNME82NkRvd3VNUXFIb0xPcXFDOVllTGJUaTNHUFRPdXVfRVNQdWk4OVdXQVJ4MmdxVW5uNU0xMEMtYXRCRG1wUVFBT2JOUVNIQkU?oc=5",
-   "source": "Alstom",
-   "published": "2026-10-12T12:29:22+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "51b9e794c65ef353",
-   "categories": [
-    "Вагонный парк и подвижной состав",
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Европа"
-   ]
-  },
-  {
-   "title": "ИИ, энергетика и транспорт: о чём договорились Казахстан и Бельгия",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb3ZPRlVKRWtiMTJVZnJTSEhYYlpMQXVueFc0U1N6Nm1XaHpROURZNlVYNURyRWZDcUpNdmdkN3RHTTZzX1JjdklnTVgxOGtLdjZQeVlMVmZQZVByVFlEZUJPUlFIRkY5ZTRvSTNyMmNrSGJZR2lEU21icjdqUi1tVHdxeXJ2cXI1VzZ0VzFqTnlDNk52R0M1b0tSQnNLYVVpelJkYQ?oc=5",
-   "source": "NewTimes.kz",
-   "published": "2026-10-12T12:27:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "34f6acce53dd0bca",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
-  },
-  {
-   "title": "Flydubai запустила еженедельные грузовые рейсы между Алматы и Дубаем",
-   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1SN245WkVRbUp0MHdfYnRtNEhDZG9lLWR0c0dyTURTRDVhankxZEtmd1R6RVZubE9pZUVkb1lYOTg?oc=5",
-   "source": "• | SOZmedia",
-   "published": "2026-10-12T12:26:40+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "e54b233f995510e2",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": [
-    "Казахстан"
-   ],
-   "also": [
-    "Ratel.kz"
-   ]
   }
  ],
  "sources": [
@@ -55943,7 +55937,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Достык OR Алтынколь OR Хоргос железная дорога",
@@ -55951,21 +55945,21 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 27,
+   "count": 49,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Eurasian rail container transit",
    "kind": "google",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
    "seconds": 0.3
   },
@@ -55975,7 +55969,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -55983,13 +55977,13 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": "",
    "seconds": 0.4
   },
@@ -55997,9 +55991,9 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 33,
+   "count": 23,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
@@ -56007,7 +56001,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -56023,7 +56017,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 2.0
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56047,7 +56041,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56061,7 +56055,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": "",
    "seconds": 0.4
   },
@@ -56069,25 +56063,25 @@
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 18,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 35,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
@@ -56095,7 +56089,7 @@
    "ok": true,
    "count": 37,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "RailFreight.com",
@@ -56110,16 +56104,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x71dc438d49b0>, 'Con",
-   "seconds": 300.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x75f915be3d10>, 'Con",
+   "seconds": 300.5
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 1.1
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -56127,7 +56121,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.5
+   "seconds": 1.7
   },
   {
    "name": "Kursiv",
@@ -56135,7 +56129,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.5
+   "seconds": 1.8
   }
  ]
 }
