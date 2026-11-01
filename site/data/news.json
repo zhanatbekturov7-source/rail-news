@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T13:15:48+00:00",
- "new_this_run": 34,
+ "generated_at": "2026-11-01T14:03:40+00:00",
+ "new_this_run": 46,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -27,7 +27,7 @@
    "title": "Две индексации и один вывод: Как рост тарифов и цен «обнуляет» прибавку к пенсии",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0NvZWx0dkRQQW9mSnFkaVpkUFE3d1NaUmh1NVhoQWpQZXVGSGp2MEtOdkt4WjZCMUJkS1NYU0xfczdrSWRoaUkxYnFLRkdkNnE5TkVkMGNwZy01b2x4a2xyQ2tJeldubHktSkVSNFpLLXJHZ05rS05YTjFIaUo3N2ZINmFfYVFTekUyOXRXcTVsTl9xcTBSdG5Rc2YtVm1QUkNPc0RKcmFBNDRUVlVEaVh6RWNnNnB4M2paY1RUdTRJY3RqVnRFT1R5SQ?oc=5",
    "source": "RuNews24",
-   "published": "2026-11-01T12:33:00+00:00",
+   "published": "2026-11-01T11:27:01+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
@@ -39,6 +39,25 @@
     "Тарифы и регулирование"
    ],
    "regions": []
+  },
+  {
+   "title": "Предприятия привлекают специалистов из Китая из-за нехватки технологов, - экономист",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wWnVqazNia3FSOGQ0VFdLXy13UElKZm1DS0xkSjlSN0ZwTWkxVnlOc2puSDV2YXBmSUMtZ0pUa2p6SFhkRGw2S1k0cUpxN0dj0gFQQVVfeXFMTnBadWprM2JrcVI4ZDRUV0tfLXdQSUpmbUNLTGRKOVI3RnBNaTFWeU5zam5INXZhcGZJQy1nSlRranpIWGREbDZLWTRxSnE3R2M?oc=5",
+   "source": "Tazabek.KG",
+   "published": "2026-11-01T10:49:09+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "13bcb441d11f8029",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": [
+    "Китай"
+   ]
   },
   {
    "title": "Товарооборот ЖДПП Маньчжурия за три квартала 2026 года вырос на 27,8%",
@@ -54,6 +73,40 @@
    "id": "201508ba8df3c1cf",
    "categories": [
     "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
+   "title": "В Шымкенте полностью открыли новый путепровод через железную дорогу на улице Тиленшина",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjVfajVTM0VHRzRjZUZNZ2YzUm50SExSYlpMZjRSWXh2SWRGaGNGV2I4RHQwaXVlemdaLVhUZjBCVC04d2pBWUY5X1hBNnFpMVBYci15TFZLQm8wbkVxT1dqVFg0NFRZNGwyR2ZBREdtXzlBUktORDBWa2cyZTNsX3Z5ajMzM09VYm5pU0RocHZ2QV83dUZCQU8zVHFrZVBwaXFibmhYOHFNZ0F2VE1iYTFGOVJyM0Q3Z085OS1QNNIBywFBVV95cUxQamFHNGtTX3pCeWRHZ3ZxVW1JU0F1eFNFZDZ6WFA4T0ZvVjZDelZRSURDTkdNX3JDdHFNX1JaVlU0MG1jekVuc01tc192ZFhmQ0pVVlp1cUE4bmZ0d2tsamNBNUJyX3NLZG1IemNCQXJZU041UHlLSk5JUS1Mb3dLSjhKZU5lc1dpWUtYTDFqUGdPdXg2NEVLVU8zanhyNTkwSnlCa0l6YVcyVlBvNjJ2ZFlTX2k0VnA3UExVN1F3NVBad1Buem9Tbk5fQQ?oc=5",
+   "source": "BAQ.KZ",
+   "published": "2026-11-01T10:16:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "7dfa481c667c4121",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
+   "title": "В Петербурге выпустили \"Подорожник\" к 175-летию железной дороги между столицами",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlJEWkg0TjJ1QWZQSXJ2bEFCUE5FY2luNzFVUmFHZDZBcEtfWllRNXB0Vlc0RzRka29iNlZUbkxxREhCVkRwOWx1Uml3cHVWVmRCQlVXbVIzREl4dE41Y3FlbUVydHhkajA2QTdHYzZueEFvbVloVVQ4RFZKT0ZRVFc2d3ZOZks1TkFGWG95Z1BSUVJsM2FmWGFnbTIxWENkYXRKdnpBYmhNbEFDTTRTNVdBLWNRN0NsTUNudA?oc=5",
+   "source": "prospect.com.ru",
+   "published": "2026-11-01T10:04:05+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "ade0ff89ef1c0267",
+   "categories": [
+    "Инфраструктура и стройка"
    ],
    "regions": []
   },
@@ -194,15 +247,16 @@
   },
   {
    "title": "Спад в строительстве и его разрушительный мультипликативный эффект",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ORFVqS1VWWWRMTmVkU3ZMVGVXV1kxOWpneGt2QzVlWnN0elFIOWx2Mk1HWUMtM3lkb1hoeDczLTFxS1dfbkZuWEM3c3XSAUxBVV95cUxNTkRVaktVVllkTE5lZFN2TFRlV1dZMTlqZ3hrdkM1ZVpzdHpRSDlsdjJNR1lDLTN5ZG9YaHg3My0xcUtXX25GblhDN3N1?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFByOEhVd3NVaTRVZWl2MWR1Vnc4QUpWNkIwWmVUVU1SVEM3NTFhUE9JS1NCWEpodVVJTmV2cmdBaWoweFpy0gFMQVVfeXFMTU5EVWpLVVZZZExOZWRTdkxUZVdXWTE5amd4a3ZDNWVac3R6UUg5bHYyTUdZQy0zeWRvWGh4NzMtMXFLV19uRm5YQzdzdQ?oc=5",
    "source": "Сибкрай",
-   "published": "2026-11-01T04:54:35+00:00",
+   "published": "2026-11-01T04:53:47+00:00",
    "summary": "",
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
     "Грузовые перевозки"
    ],
+   "also": [],
    "id": "d81cf530245d5f23",
    "categories": [
     "Инфраструктура и стройка"
@@ -4206,6 +4260,23 @@
    "regions": [
     "Каспий и Закавказье"
    ]
+  },
+  {
+   "title": "ГК Softline: технологические изменения ведут к новому разделению труда в сфере ИИ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uRUFVODJzNmhIb2p5bkQtMVhLdzZtelVNeHNWX2dmUldEUGZqcWFadXZVSHBsTC1CUDhvWncybU9LZ29DUVpTOUVydjE4UTY0WElxOGphc3BLV2VHZURXbVctb9IBY0FVX3lxTE9uRUFVODJzNmhIb2p5bkQtMVhLdzZtelVNeHNWX2dmUldEUGZqcWFadXZVSHBsTC1CUDhvWncybU9LZ29DUVpTOUVydjE4UTY0WElxOGphc3BLV2VHZURXbVctbw?oc=5",
+   "source": "Код.ру",
+   "published": "2026-10-30T07:22:49+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "4cdd4bd5a7fa656c",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": []
   },
   {
    "title": "Softline: Казахстан сократил согласование поставок нефти с 7 до 2 дней благодаря цифровизации",
@@ -55837,76 +55908,6 @@
    "regions": [
     "Каспий и Закавказье"
    ]
-  },
-  {
-   "title": "Ильхам Алиев обратился к участникам выставки Rebuild Garabagh",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVEtNWZENUZ5eWdXVXdzcnRaRElNSlhBUEdqUDZVYTlHb2FHWTAyRmtvMnczMzRjMFVVRXZ0dzFjNFZoYWxyb0E3blNndUllTFNKNGJxdHJYV05fc0QxUzFRTlE0VFd3SWF6STh4VE9xYWIyQ2ItM2JjNmRBaWpXZ1BWblR6cGJldGpJd24yaXM2Y2k4cjBSaUFGYmxwbUlRQ1E?oc=5",
-   "source": "moscow-baku.ru",
-   "published": "2026-10-14T07:40:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "779e22f719679598",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Бишкекская ТЭЦ готова к работе в случае резкого похолодания",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVh2T3ZickxsdDFIbldQWWNpVmFrQThlTkZJdUpLaVZibkRHa0Q2b1pMN0poeXhqQlhqZVY4X2JPX0ZmbGRMWTVLNXFDenVPNDF0R2hoM3ZZNEtRbGF2T3RlenctV0hlZEhJSmd5UjZQOXdCUHJmbUdRRjNIaHNyRjh4SUlqdF9VeVlrYTlwOXI4cmc3QUZn?oc=5",
-   "source": "24.KG",
-   "published": "2026-10-14T07:39:43+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "6a920f46baff0275",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
-  },
-  {
-   "title": "В Брянске обновили дороги к медицинским учреждениям",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFp5RVN4aVhXNWh2cUxodm8ybTJfMHVDSUU1M0ItUUdEYTBPamFGeHpHTlN1emFGVWEzRTBqUG5rOW5VSVhfS1dQcnBWdlFOUHFzNE83WF9acjU1clYtb2NzaG9GemczVnpVZ0RxTnhGc1V5OERuZDd2Um9Fby1TazZNd251eUxpdVVYbDJwbktTMzB0WXdUeElBdnowZw?oc=5",
-   "source": "prospect.com.ru",
-   "published": "2026-10-14T07:15:10+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "37feeab90d741864",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Россия за девять месяцев нарастила экспорт угля в восточном направлении на 6%",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0ZpZzBweG92VmpwMm5GSWYtYnNmYlNPV21aWWlycGdZUTJXV21pWml5cThYVDJoaVM5LWpFYk9jQ0Z0YUpoVV8zQmxBY1VUZUlYTS1nb044WFlRNU5fU0ZFZFBXS0NZN2RCR3IyVUtxRENjWHdVWlJLdDhsMEpqd1N0SWtWcWZJMzJVbzZFdjRHWklRX2U0aFIweVkwV1puWlU4QUdPc21ib2Z3ZzZkbkczMW02ZkR6elo3QjBCd2Y?oc=5",
-   "source": "prospect.com.ru",
-   "published": "2026-10-14T07:14:25+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "23781588614447c9",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": [
-    "Россия"
-   ]
   }
  ],
  "sources": [
@@ -55914,15 +55915,15 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 17,
+   "count": 34,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 26,
    "error": "",
    "seconds": 0.3
   },
@@ -55930,7 +55931,7 @@
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
    "seconds": 0.3
   },
@@ -55940,15 +55941,15 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 22,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -55970,7 +55971,7 @@
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": "",
    "seconds": 0.3
   },
@@ -55980,7 +55981,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: Kazakhstan railway freight",
@@ -55994,7 +55995,7 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
    "seconds": 0.3
   },
@@ -56002,9 +56003,9 @@
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
    "kind": "google",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56012,7 +56013,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: rolling stock wagons Kazakhstan OR Uzbekistan OR Russia",
@@ -56020,7 +56021,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "Google News: порт Актау OR Курык контейнеры",
@@ -56052,13 +56053,13 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.3
   },
   {
    "name": "Google News: строительство железной дороги Казахстан OR Узбекистан OR Кыргызстан",
    "kind": "google",
    "ok": true,
-   "count": 25,
+   "count": 49,
    "error": "",
    "seconds": 0.4
   },
@@ -56066,23 +56067,23 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 10,
+   "count": 7,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.5
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 22,
+   "count": 37,
    "error": "",
    "seconds": 0.4
   },
@@ -56099,8 +56100,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7fa12f24e870>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7b30a0f35430>, 'Con",
+   "seconds": 300.4
   },
   {
    "name": "РЖД-Партнёр",
@@ -56108,7 +56109,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 7.8
+   "seconds": 16.0
   },
   {
    "name": "PortNews",
@@ -56116,7 +56117,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.7
+   "seconds": 2.0
   },
   {
    "name": "Kursiv",
@@ -56124,7 +56125,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 1.9
+   "seconds": 2.1
   }
  ]
 }
