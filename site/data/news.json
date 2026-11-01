@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T10:04:17+00:00",
- "new_this_run": 47,
+ "generated_at": "2026-11-01T11:00:00+00:00",
+ "new_this_run": 35,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,43 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Товарооборот ЖДПП Маньчжурия за три квартала 2026 года вырос на 27,8%",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkZLOWFRNW1YcFB5b0k3eGduMXFrMksydDFVLWZjcHQ5VFpIekpobHh4LV9CN2hMYmljYnZ4dVl0SjAwN2ZZRnFwaEVuY0l5WlpRUDBNdlJSekZTX0wxRFFQc1dLSExEOEZIaFNsYWtRanBTNnYyTGNvMGVMTXJBVjJQZXU5ZGpwQ2g4MUJrQ29xZzNOdzlzSnZMWWFxSHFUWkk2OVRhZnVFOG8?oc=5",
+   "source": "Biang.ru",
+   "published": "2026-11-01T10:48:16+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "201508ba8df3c1cf",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Послание Президента, визит в Турцию и новые достижения Казахстана — обзор недели",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONk5KYTctY3RsblNIMW52UkFTU3FpOElVRzEweThaRWplMVVmeFhpdDlkeGRBQmRRcWNpY25jYWYxNTEtTVJXZ0R2a0xxZGk2QkVxUHJhN1BQcVhKVkZBdWJpVXhOeDhkazdGcnVXaW5UeWtQWnJhZDlZNHBMSGdGem0ta0lGcmRULUxrc1k0VTRBMGVycWRPMDNMc1ZtWHRoUmxLSV9BTTdWZEtCcVFUQlk1cw?oc=5",
+   "source": "Казинформ",
+   "published": "2026-11-01T10:00:00+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "bd03a7d1d0940d55",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Казахстан",
+    "Каспий и Закавказье"
+   ]
+  },
   {
    "title": "Транспортный рывок Киргизии: от 2 млрд до 60 млрд сомов на дорожную сеть",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbG5xX2FvNVZaM1VDaUpqN0QtNHRRQUQ5M1Jma1h3dkJ5ZVdnRXZiNzlLNGgza0otQkZwVXpPV2ZkSnIwNHVOMFVVWVp1U0VnV2w5YW0xNy0tY19hMktPYjY0WXN1UTB4TnI4ZEYyMmhQQzZ0cDhETm1FWUhITV9kd1A5cXRxYjds?oc=5",
@@ -5834,15 +5871,18 @@
    "lang": "ru",
    "via": "Google News",
    "q_topics": [
-    "Тарифы и регулирование"
+    "Тарифы и регулирование",
+    "Грузовые перевозки"
    ],
    "id": "9bccc5a1a7956d8e",
    "categories": [
+    "Грузовые перевозки",
     "Тарифы и регулирование"
    ],
    "regions": [
     "Россия"
-   ]
+   ],
+   "also": []
   },
   {
    "title": "В Узбекистане автобусам предоставят приоритет на газозаправках",
@@ -55863,41 +55903,6 @@
     "Вагонный парк и подвижной состав"
    ],
    "regions": []
-  },
-  {
-   "title": "Развитие логистики: модернизация терминала в Андижане ускорится",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvYXZfWW5qejRJUS03UFoxazEwSWhUbnVKWmc1TkU5RnRwNWMzMUt3Z0FubFpKSEZqRUpsT2pfTFlSTERiUFZReG41ajVWcGpMeDdab1pzdUxMTWVJaW9jUUtsVWsxYmY4ckJGcGxpaw?oc=5",
-   "source": "Anhor.uz",
-   "published": "2026-10-14T07:07:46+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "026acb27d51e6791",
-   "categories": [
-    "Инфраструктура и стройка",
-    "Логистика и терминалы"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Утвержден комплексный план развития морской инфраструктуры",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xXzBTbGlGODFxMHlfU3V2NHpYY2xNdXdISUpFa2YxTjVVYjZQSm8zdTFoZ2V3WU1uMUtIelQ5QTJKdmMwYnd1OGtaT3FXQVZjYkltNWs5UHlxU3ZMdHF3WE5sWnlvY2xkbGE3cWQ0cWlPZ2tF?oc=5",
-   "source": "GOV.KZ",
-   "published": "2026-10-14T07:03:16+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Порты и Каспий"
-   ],
-   "id": "ea377c05c06b0500",
-   "categories": [
-    "Порты и Каспий"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -55905,7 +55910,7 @@
    "name": "Google News: \"Средний коридор\" OR ТМТМ OR \"Транскаспийский маршрут\"",
    "kind": "google",
    "ok": true,
-   "count": 38,
+   "count": 17,
    "error": "",
    "seconds": 0.4
   },
@@ -55921,7 +55926,7 @@
    "name": "Google News: контейнерные поезда Китай Европа",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
    "seconds": 0.4
   },
@@ -55937,9 +55942,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -55947,7 +55952,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -55955,21 +55960,21 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
    "kind": "google",
    "ok": true,
-   "count": 8,
+   "count": 17,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные перевозки грузов СНГ",
    "kind": "google",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": "",
    "seconds": 0.4
   },
@@ -55977,7 +55982,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 26,
+   "count": 45,
    "error": "",
    "seconds": 0.4
   },
@@ -55987,7 +55992,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -55995,7 +56000,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -56025,9 +56030,9 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -56041,7 +56046,7 @@
    "name": "Google News: железнодорожные тарифы индексация",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": "",
    "seconds": 0.5
   },
@@ -56057,7 +56062,7 @@
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
    "seconds": 0.3
   },
@@ -56065,15 +56070,15 @@
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 34,
+   "count": 25,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 39,
+   "count": 24,
    "error": "",
    "seconds": 0.4
   },
@@ -56090,16 +56095,16 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x73b011ba0500>, 'Con",
-   "seconds": 300.5
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7bce5428e510>, 'Con",
+   "seconds": 300.6
   },
   {
    "name": "РЖД-Партнёр",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.rzd-partner.ru/rss/",
-   "seconds": 3.8
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Read timed out. (read timeout=25)",
+   "seconds": 25.6
   },
   {
    "name": "PortNews",
@@ -56107,7 +56112,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 2.0
+   "seconds": 1.8
   },
   {
    "name": "Kursiv",
