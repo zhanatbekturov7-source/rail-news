@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T18:10:15+00:00",
- "new_this_run": 51,
+ "generated_at": "2026-11-03T19:19:35+00:00",
+ "new_this_run": 45,
  "title": "КТТ Rail-News",
  "topics": [
   "Средний коридор и ТМТМ",
@@ -23,6 +23,43 @@
  ],
  "repo": "zhanatbekturov7-source/rail-news",
  "items": [
+  {
+   "title": "Кыргызстан предложил Грузии упростить визовые требования",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTk2ZlMzY2JmRFREQVVaOVhSa1JlNW9YWFVSSlpFZExpeWZxb1N2dTRvMFpEdkNYZFpOZVM3Y3lVRU8xejIxRU5tXzBQMFBncnFJZ0o0allZbi13d3JtOWhFbjd0bGhNX2lBVnNaQlJ0YU9kUXdibDM1R2djZEYyR0p4eXd4MmpPWGh2clpfMA?oc=5",
+   "source": "АЗИЯ ТВ",
+   "published": "2026-11-03T19:08:40+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Логистика и терминалы"
+   ],
+   "id": "6fbc1e6998acfb14",
+   "categories": [
+    "Логистика и терминалы"
+   ],
+   "regions": [
+    "Центральная Азия",
+    "Каспий и Закавказье"
+   ]
+  },
+  {
+   "title": "Railway Fastening Bolts Market Forecast: Growth to 2035 on High-Speed Rail Demand - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmw5UjFteXlHMnFVSFlsOXFrUG9kdzZuUTFpdVFhWHNXNnNjWXM3bW5XY01fVFdPb3dJUE1Sa1ZVWmFnb20tMWVIYmdTWkpXcHNKbTVRaEpEekZpdExxdUZacnRFWHUzU1Z3R2JyWkNucGdpUnMtWlJ6UjJQZVFoVFZwc0FVSUdCV3Q4dWpvYWtlbzlzTmtneWduM3pqT0ctUDJUOHBMMEg5VmpNUTl1SF9MVkNTeFV0WWc?oc=5",
+   "source": "IndexBox",
+   "published": "2026-11-03T18:21:03+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Транзит Китай — Европа"
+   ],
+   "id": "55e833125eee3862",
+   "categories": [
+    "Транзит Китай — Европа"
+   ],
+   "regions": []
+  },
   {
    "title": "Пашинян: Мир между Ереваном и Баку...",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Hbi11X20yd3Z5OW1uLWlzRGU1WnhmZEV4SzdWVTA4d3dMZ2VCY3lidmY1VzA3YjJTTDVuRkZwM2xxVWhjcWh0MTUzUkN3MUdCcDVqVk5iRlM?oc=5",
@@ -238,6 +275,25 @@
    "regions": []
   },
   {
+   "title": "Timeline revealed for opening of three new airports in Kazakhstan",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3UzbFZJZWZ1LXh2OTRRdk9Ca0ZIeGhuQ2U0d2tEY3hHYndmZjNnZkk3V2hlbUpzNHRSTVVqNUM1dURLTjg1X0dvVk9WeDZsWGszRlVTczJJcHpKUjNxancwVU15X0hYMk41S0dYQ3AyRnZ1YW9xb1JYT2hMZmFrcktWZUduaTJqNFRBWDJxOExaTm5MRU90enBnUHZVZw?oc=5",
+   "source": "QRNews",
+   "published": "2026-11-03T15:23:14+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "0197bcee6365f4d8",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
    "title": "Стоимость питания повысили в нижегородских школах",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uVGctNm03SWhZdy1sYkVOMkNSLW9xbElpOVI5ZlUzTE5sLXlERDFyejFGMVR2Q1Z3eEo2cjZlMHBaempVbmRWZUJtVXY3Rnc2NExaV1pyd3NTZzBrOEE?oc=5",
    "source": "Новости Нижнего Новгорода",
@@ -369,6 +425,23 @@
    ]
   },
   {
+   "title": "Турецкие инвесторы намерены участвовать в развитии инфраструктуры ВКО",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFQxdWtHeHlzNmpvaURqSVlBWVR1bkZsS1lXakNqcmd6c2FkYmQzUVdLME1FZEpiY3JZU0t6blc3WUhkUnI3YUtRek5tT3FCd0Vlb3ZvYU95X2dweVRMWlhoRGYwMTVRdDVTRW1VVHBkd1U3elZkN09SOENTYWhVZWxxRWJSdFBSazM0OHNkNWhBSnBaUWk2dVRSTlp5eEozWUh4RVJFeVlCVXlHU19qZnlR?oc=5",
+   "source": "ALTAINEWS",
+   "published": "2026-11-03T13:40:14+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Инфраструктура и стройка"
+   ],
+   "id": "4410bba07719d62a",
+   "categories": [
+    "Инфраструктура и стройка"
+   ],
+   "regions": []
+  },
+  {
    "title": "6,5 трлн теңге, льготные кредиты и мораторий: что ждёт Казахстан",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXNmc25UR05MekpqVlJCSkNyU0VFN3YtOWJIRlB3bWp0MFlpLUNPQUFUNG5PNXFmaUt2cXA5SERuNnlXQndkbTV6TU1VOHdMeHRRYVd4SGJ5bnFyNlpIYllrb2xwTG1ld0dwbllaMXgzekdFMWpkbFdKNFJZeUJCUVpCR2lUdEtLRFRZY1paTlpEbkU0dmc?oc=5",
    "source": "DKNews.kz",
@@ -430,7 +503,7 @@
    "title": "Cambridge alumna Asel Zhanassova named Kazakh deputy PM and transport chief",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xRHBrdTRrYlQ4bDBrNEljbGF1Sm56ZXptMjBmT3hXNzFUMVJINGZ0V09ObDFzcERSOVhyMk1PanNmZVljcjJyMFRYUVhSOXJTX1BXSnVoZ1NnSUx0WHc0?oc=5",
    "source": "Trend News Agency",
-   "published": "2026-11-03T13:24:14+00:00",
+   "published": "2026-11-03T13:24:00+00:00",
    "summary": "",
    "lang": "en",
    "via": "Google News",
@@ -438,6 +511,25 @@
     "Грузовые перевозки"
    ],
    "id": "3feb3cd7bc616393",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": [
+    "Казахстан"
+   ]
+  },
+  {
+   "title": "Kazakhstan's Alatau Air Cargo to lease two A340-600s",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkdBOUtsT1NuTDNMWktCc09CUjBobG9kVUxLZE93bTZHS3JDMWhibTVDLUloUThvUjRHazZqZWFfbjBIYnhPT1NjSllhUjRINDlySVJwVEg1Wkd5UTBqSkhQZXFWYzR3MnV1LVFiaTZUWmhQQmswMU9Ncm9NMmVZNW9mUlVsUExXTS1FVDZvVkV2cVZEeEE?oc=5",
+   "source": "ch-aviation",
+   "published": "2026-11-03T13:21:24+00:00",
+   "summary": "",
+   "lang": "en",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "567e9db7821f7f83",
    "categories": [
     "Грузовые перевозки"
    ],
@@ -480,23 +572,6 @@
    "regions": [
     "Казахстан"
    ]
-  },
-  {
-   "title": "Нурлан Сауранбаев освобожден от должности министра транспорта",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aVEswZGNSSDJJMHpjcDVwdlhxNExVR0tfdm5rN0F1T0g0V0FPR3RSSkVEaUQ4SlpoT2d0UlIxRWFHZDVIbTdlMDFR?oc=5",
-   "source": "Ак Жайык",
-   "published": "2026-11-03T13:13:46+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "45b70ccfe8bb0f6e",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": []
   },
   {
    "title": "Корецкий: удары пришлись по локомотивам и предприятиям",
@@ -566,7 +641,8 @@
     "Тарифы и регулирование"
    ],
    "also": [
-    "Новости Беларуси | БелТА"
+    "Новости Беларуси | БелТА",
+    "БелТА"
    ],
    "id": "9bd6eae15ac22522",
    "categories": [
@@ -1366,7 +1442,8 @@
    "categories": [
     "Инфраструктура и стройка"
    ],
-   "regions": []
+   "regions": [],
+   "also": []
   },
   {
    "title": "Новые аэропорты планируют открыть в мае 2027 года в Казахстане.",
@@ -2707,6 +2784,23 @@
    "regions": [
     "Казахстан"
    ]
+  },
+  {
+   "title": "После жесткой критики Токаева: Нурлан Сауранбаев освобожден от должности министра транспорта",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aVEswZGNSSDJJMHpjcDVwdlhxNExVR0tfdm5rN0F1T0g0V0FPR3RSSkVEaUQ4SlpoT2d0UlIxRWFHZDVIbTdlMDFR?oc=5",
+   "source": "Ак Жайык",
+   "published": "2026-11-02T19:13:55+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Грузовые перевозки"
+   ],
+   "id": "e0b79499558aa777",
+   "categories": [
+    "Грузовые перевозки"
+   ],
+   "regions": []
   },
   {
    "title": "$200 млн для Среднего коридора: что предложил Казахстан Китаю",
@@ -4084,6 +4178,23 @@
    "categories": [
     "Порты и Каспий",
     "Логистика и терминалы"
+   ],
+   "regions": []
+  },
+  {
+   "title": "Глава Минфина: на данный момент нет официальной информации о повышении цен на газ для Армении",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81RXFzTy1tZm9DZXdBVDZhcWtIX1BjQmItTkNTRWhlblhBY2R2Q1JQeURVS21yNVpVV3ZIU1JBQ09Tc0U4anJ4cW9kbzRMWHFSWEhRcEsxZXFLX0lL?oc=5",
+   "source": "Finport.am",
+   "published": "2026-11-02T11:51:39+00:00",
+   "summary": "",
+   "lang": "ru",
+   "via": "Google News",
+   "q_topics": [
+    "Тарифы и регулирование"
+   ],
+   "id": "997af8f8092f1ab3",
+   "categories": [
+    "Тарифы и регулирование"
    ],
    "regions": []
   },
@@ -55735,114 +55846,6 @@
     "Тарифы и регулирование"
    ],
    "regions": []
-  },
-  {
-   "title": "How Green Is Europe's Public Transport?",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2aFF1YTZzY0xwRFdBekQybnNDcDFNb0ctZTRXVTJXZmFCWEl5bnVKakdYaHNHaDFrdzY1MmhwdlBnTl8zc2tOc3hlQktLTWd2T1MwQkNPdUZxaDFON3dVelNTd0FVVXc4TEdXRnlWN1dqWnJwUGFrVGdB?oc=5",
-   "source": "Tempo.co English",
-   "published": "2026-10-16T03:27:47+00:00",
-   "summary": "",
-   "lang": "en",
-   "via": "Google News",
-   "q_topics": [
-    "Транзит Китай — Европа"
-   ],
-   "id": "1634b4e54aa97206",
-   "categories": [
-    "Транзит Китай — Европа"
-   ],
-   "regions": [
-    "Европа"
-   ]
-  },
-  {
-   "title": "«Аэрофлот» открыл продажу субсидированных авиабилетов на Дальний Восток на декабрь",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPXzNkbG5URW9PVUVWZENlQ2NBUDlOeHh6OU1hRFR6X3lUeExwMEMtSGh1eW1LRHc0OEhIVHlPak5xdmZzWll4WDhsR1FlV0ZtcFM5NWdxbTAzdkk0Y0Fack82UDBuSXlyNzRoaXdmN2lyd0I2VEZFckRSdDdXUElxUlRkWGhYLS1rdTNrWmJHZi1fdG9mYmxyQUUwMjJsLWUxcFNYWjV2Tml6RGJ4SmpEazZR?oc=5",
-   "source": "Eastrussia",
-   "published": "2026-10-16T03:01:20+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "9b171bae2ac87411",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Внутренний туризм в Казахстане вырос на 84,4%: что изменилось",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlZkS2FZMGVJZUx6SDNyeGxvb0Nqd0JjTFFId3pmTER5Vm81SDNmTzNuX1kzQ2FjTm9GSGw1dE9ETXBERGZXWmt6MVo5X2UyRWJ2YU5kNTNKS0hmSGE3dy05OThod2xFSnBvajMwLWxWcXJhMnU2ZFExb1g2bVJTV01GR0JNMG5NMVh0ZXlkTWdsRXFsS19mX05semlUVnRQV0dpUFBIcDBjZDZaSGVVWUlxVmfSAbYBQVVfeXFMTlY3NWpHS3A2eEpPRk9ZRkUtWXJBWThBVS1KekU5SlU3ZDIzdlhKX3RidXVvanpnaHlIOGNpZkl4UkxpWEowN0h2ZGhWY0NKMTFEaThaSTN1Q0cxN3puLVFpSE1ucUM1MnJTQWtrRUMxdjQtakQ3TjJFa2wtVWJFQ3dyRzVOekJSVnM5RU1FelJNc3czN09FWkZJZXFYVEwwUUI1LUpjQTJlLWZCQkpVcElzN3NsV1E?oc=5",
-   "source": "Казинформ",
-   "published": "2026-10-16T03:00:00+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "f01b9c179cb00233",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [
-    "Казахстан"
-   ]
-  },
-  {
-   "title": "Новосибирская область обогнала Кузбасс по темпам роста погрузки угля",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV0ZITnVnX3pHQ2tVNUEtM0Uta1BTWHU5WTZ4VnltYUEwQXowenF5WnNzSjhzT3owcVE5QWdYdVNqZVN4d2owZHpncUZBb2NkeUZUeDFRSmFOYnZmaVo3U1UzN0hZc3ZBZHRYSS0tRnoxSVR6b2JySW8yNml0R0xLV0ZrZkNZNEhuRWF3SjZPSjJQU25WazRCSmpSaC1BZkZObFl2SUNWRmFlZw?oc=5",
-   "source": "Горсайт",
-   "published": "2026-10-16T02:15:17+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Грузовые перевозки"
-   ],
-   "id": "872a0852383541e8",
-   "categories": [
-    "Грузовые перевозки"
-   ],
-   "regions": []
-  },
-  {
-   "title": "Президент Садыр Жапаров и Президент Узбекистана Шавкат Мирзиёев провели переговоры тет-а-тет и в расширенном составе",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jOVZ6NldjaVJ2WEpYM1NVMFFZRnVBTC1TNXJ6dUllZm5ENm9WVDdSLTBwV2RRVXBuTGVTNlJ1Y3JWTXMzUy1PN3EtU0VpMXNlS0dZMUlUa0dsMXdnNWcxdEljemhSTC00VHZoQg?oc=5",
-   "source": "EGOV.KG",
-   "published": "2026-10-16T02:15:03+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Инфраструктура и стройка"
-   ],
-   "id": "e32a43e26bcb509f",
-   "categories": [
-    "Инфраструктура и стройка"
-   ],
-   "regions": [
-    "Центральная Азия"
-   ]
-  },
-  {
-   "title": "Новые участки федеральных и региональных трасс введены в эксплуатацию",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hTFMzVDNRc29pY1RzWkFMTFFGU3ZuYlJOektlWTdjYVdyOXVjZXp5amZ3T1RPYUVrcTFYb3ptYklFa2w1RGhHYjlsMFo?oc=5",
-   "source": "Сделано у нас",
-   "published": "2026-10-16T02:06:34+00:00",
-   "summary": "",
-   "lang": "ru",
-   "via": "Google News",
-   "q_topics": [
-    "Логистика и терминалы"
-   ],
-   "id": "de4848788ec5aa11",
-   "categories": [
-    "Логистика и терминалы"
-   ],
-   "regions": []
   }
  ],
  "sources": [
@@ -55852,13 +55855,13 @@
    "ok": true,
    "count": 38,
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "Google News: \"Middle Corridor\" rail OR \"Trans-Caspian\"",
    "kind": "google",
    "ok": true,
-   "count": 30,
+   "count": 26,
    "error": "",
    "seconds": 0.4
   },
@@ -55882,9 +55885,9 @@
    "name": "Google News: China Europe rail freight",
    "kind": "google",
    "ok": true,
-   "count": 31,
+   "count": 27,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "name": "Google News: Eurasian rail container transit",
@@ -55892,7 +55895,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.4
   },
   {
    "name": "Google News: КТЖ грузоперевозки OR \"Қазақстан темір жолы\"",
@@ -55900,7 +55903,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "Google News: РЖД погрузка OR грузооборот",
@@ -55922,7 +55925,7 @@
    "name": "Google News: Kazakhstan railway freight",
    "kind": "google",
    "ok": true,
-   "count": 23,
+   "count": 43,
    "error": "",
    "seconds": 0.4
   },
@@ -55930,9 +55933,9 @@
    "name": "Google News: Казтемиртранс OR КТЖ вагоны",
    "kind": "google",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: полувагоны OR \"вагонный парк\" OR вагоностроение",
@@ -55940,7 +55943,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: операторы подвижного состава ставки",
@@ -55970,9 +55973,9 @@
    "name": "Google News: Каспийское море паромы грузы",
    "kind": "google",
    "ok": true,
-   "count": 15,
+   "count": 9,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: ж/д тарифы OR ставки полувагонов",
@@ -55980,7 +55983,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Google News: железнодорожные тарифы индексация",
@@ -55996,21 +55999,21 @@
    "ok": true,
    "count": 48,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.7
   },
   {
    "name": "Google News: вторые пути OR \"новая железная дорога\" Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 14,
+   "count": 10,
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.4
   },
   {
    "name": "Google News: логистика Центральная Азия",
    "kind": "google",
    "ok": true,
-   "count": 35,
+   "count": 36,
    "error": "",
    "seconds": 0.6
   },
@@ -56018,9 +56021,9 @@
    "name": "Google News: транспортно-логистический центр OR терминал Казахстан",
    "kind": "google",
    "ok": true,
-   "count": 21,
+   "count": 35,
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "name": "RailFreight.com",
@@ -56028,14 +56031,14 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.railfreight.com/feed/",
-   "seconds": 0.2
+   "seconds": 0.5
   },
   {
    "name": "Гудок",
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x732609f28800>, 'Con",
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='gudok.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='gudok.ru', port=443) at 0x7d7c9ddad280>, 'Con",
    "seconds": 300.6
   },
   {
@@ -56043,8 +56046,8 @@
    "kind": "rss",
    "ok": false,
    "count": 0,
-   "error": "ReadTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Read timed out. (read timeout=25)",
-   "seconds": 25.6
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.rzd-partner.ru', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.rzd-partner.ru', port=443) at 0",
+   "seconds": 25.3
   },
   {
    "name": "PortNews",
@@ -56052,7 +56055,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://portnews.ru/rss/",
-   "seconds": 1.7
+   "seconds": 1.5
   },
   {
    "name": "Kursiv",
@@ -56060,7 +56063,7 @@
    "ok": true,
    "count": 100,
    "error": "",
-   "seconds": 2.7
+   "seconds": 2.6
   }
  ]
 }
